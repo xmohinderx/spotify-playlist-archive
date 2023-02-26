@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,460 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,532 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 46 | [Sin Perdón](https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:47 |
 | 47 | [Acompañame](https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [El Pueblo Quiere Al Cantante](https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl) | 4:19 |
 | 48 | [Muchacha Encantadora](https://open.spotify.com/track/4V7cORLQkXCwaWyPRuNOCy) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Exitos De](https://open.spotify.com/album/3FEcp8czY7hn9D2YAA9vLt) | 4:19 |
-| 49 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 |
+| 49 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 |
 | 50 | [Te Amo y Te Amo](https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:47 |
 | 51 | [Calidad de Vida](https://open.spotify.com/track/1gUn7fbTiX5QJ6xvmWNpi2) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:20 |
 | 52 | [El Mochuelo](https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 4:56 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 54 | [Mi Muchacho](https://open.spotify.com/track/1A8Fko18JWELjgXtGHaL11) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [El Mundo](https://open.spotify.com/album/0E9KgSm12LLUUZBXN7oEty) | 4:46 |
 | 55 | [Mi Hermano Y Yo](https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ) | [Los Hermanos Zuleta](https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME) | [Coleccion Top 50](https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz) | 4:59 |
 | 56 | [Ay Hombe](https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 5:21 |
-| 57 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 |
+| 57 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 |
 | 58 | [Ceniza Fria](https://open.spotify.com/track/1Nvg0fsSlVzDWX5RxsWakm) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Exitos De](https://open.spotify.com/album/3FEcp8czY7hn9D2YAA9vLt) | 4:09 |
 | 59 | [Donde Estas](https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:25 |
 | 60 | [Nunca Comprendi Tu Amor](https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU) | [Rugido Vallenato](https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j) | [30 Vallenatos Pegaditos](https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5) | 4:44 |
 
-Snapshot ID: `MTY3NTczMzUxNiwwMDAwMDAwMDY1NzY0NGE5YjFjYzViODdlMzVjYmZjOTZjMTgyZDQ0`
+Snapshot ID: `MTY3NTczMzUxNiwwMDAwMDAwMDFmNmZiZDNmYzQ0ZThiZmUyNWI0OGI5MWRkZDBkYTYy`

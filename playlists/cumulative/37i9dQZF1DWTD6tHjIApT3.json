@@ -4479,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322120,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
+    },
+    {
+      "album": {
         "name": "hunch_A",
         "url": "https://open.spotify.com/album/0DpmjX5wqSs3MHthH7ok7T"
       },
@@ -8638,7 +8656,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 238466,
       "name": "rubble pile",
       "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
@@ -10254,6 +10272,24 @@
       "duration_ms": 255274,
       "name": "The birth of the odyssey ~ Monkey Magic",
       "url": "https://open.spotify.com/track/01sMxK887hTEwMEenV61pg"
+    },
+    {
+      "album": {
+        "name": "The Flame of Love",
+        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199117,
+      "name": "The Flame of Love",
+      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
     },
     {
       "album": {
@@ -20144,7 +20180,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 183647,
       "name": "\u7a7a\u3063\u307d",
       "url": "https://open.spotify.com/track/2YB0gHEctXCJ4U7aKEtWj2"

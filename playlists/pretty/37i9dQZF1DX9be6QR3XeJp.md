@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: JayO
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,422 likes - 138 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,414 likes - 138 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

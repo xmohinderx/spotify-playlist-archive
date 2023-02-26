@@ -4,7 +4,7 @@
 
 > Let these Latin hits guide you through your daily commute!
 
-203 songs - 11 hr 30 min
+204 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Si Tú No Estás](https://open.spotify.com/track/35hemoZQuo9lEbFSS05I9h) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [En Letra de Otro](https://open.spotify.com/album/1E3FsITcOH4apvzd9PFVtS) | 3:40 | 2022-02-11 | 2022-10-08 |
 | [Sigo Extrañándote](https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 | 2022-02-11 | 2022-12-03 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 |  |
-| [SIMPLY THE BEST](https://open.spotify.com/track/31rWRFlQyMpmF6hfN4vUFj) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:56 | 2022-12-02 |  |
+| [SIMPLY THE BEST](https://open.spotify.com/track/31rWRFlQyMpmF6hfN4vUFj) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:56 | 2022-12-02 | 2023-02-26 |
 | [Sola](https://open.spotify.com/track/0BOm90PDLRJpTSqqd6z52E) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Sola](https://open.spotify.com/album/76iWhKOtsFNZOFuvV2fc53) | 3:25 | 2022-02-11 | 2022-04-21 |
 | [Sola](https://open.spotify.com/track/0KHhNlHN5lWn7q332PiPys) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:15 | 2022-06-28 | 2022-12-03 |
 | [Sola](https://open.spotify.com/track/2jjpbCZ9QcWGr2TTmkkgUU) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sola](https://open.spotify.com/album/5TSW1GLd1iQB25nDEgb1cH) | 3:15 | 2022-02-11 | 2022-07-29 |
@@ -186,6 +186,7 @@
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2022-02-11 | 2023-02-25 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-02-11 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-02-11 |  |
+| [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 |  |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 |  |
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-02-24 |  |
 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ULALA \(OOH LA LA\)](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 | 2022-12-02 |  |

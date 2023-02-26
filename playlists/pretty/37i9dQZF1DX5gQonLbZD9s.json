@@ -1,12 +1,12 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1300417,
+  "num_followers": 1300626,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDhlMzdlMzkyY2Q2YmMxMjYwY2I2NTZhZGRkNDFlYzBk",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGE0YjRhZDQwZmZmZmEyNmE0MDM1MjY3OTZiOTkxYmJh",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 211786,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+      "duration_ms": 194612,
+      "name": "Anti-Hero - Kungs Remix",
+      "url": "https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY"
     }
   ],
   "unique_name": "Pumped Pop",

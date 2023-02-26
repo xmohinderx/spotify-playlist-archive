@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 44265,
+  "num_followers": 44303,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGRiNzVhOTExNDJmMzVlNTU2YTdlNzI5NzM5ZGFmNDg0",
+  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMDYzZjAxZjA2NTgxOTM0ODA3Y2UwY2YyYmFiNGMwYmEw",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Guembrified",
-        "url": "https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "Guembrified",
-      "url": "https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Ifrikya",
         "url": "https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 277293,
       "name": "Sandiya",
       "url": "https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Guembrified",
+        "url": "https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 234413,
+      "name": "Guembrified",
+      "url": "https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Djaza\u00efr Johara",
-        "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
-      },
-      "artists": [
-        {
-          "name": "Hasna el Becharia",
-          "url": "https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f"
-        }
-      ],
-      "duration_ms": 318333,
-      "name": "Bouri Bouri Manandabo",
-      "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
         "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 569226,
       "name": "Bilaji",
       "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Djaza\u00efr Johara",
+        "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
+      },
+      "artists": [
+        {
+          "name": "Hasna el Becharia",
+          "url": "https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f"
+        }
+      ],
+      "duration_ms": 318333,
+      "name": "Bouri Bouri Manandabo",
+      "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
     },
     {
       "added_at": "2022-03-10 07:10:03",

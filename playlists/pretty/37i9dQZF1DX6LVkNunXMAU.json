@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53535,
+  "num_followers": 53545,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGU1NjI5NzFkMmQyNmRkOGVlZWE5MWYwNGQ4NDQ5MDRh",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDE3MjVlMjVlOGI4OTdkZjViN2ZlOGU3OGFjNmM4YTBm",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Muchachitos Feat. Humbe",
         "url": "https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "en diciembre (me haces falta)",
-        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 237261,
-      "name": "en diciembre (me haces falta)",
-      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 245217,
       "name": "Negro",
       "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "en diciembre (me haces falta)",
+        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 237261,
+      "name": "en diciembre (me haces falta)",
+      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 213159,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -907,22 +923,6 @@
       "duration_ms": 204562,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Sin Compromiso",
+        "url": "https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Sin Compromiso",
+      "url": "https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 223354,
       "name": "Coronita",
       "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Sin Compromiso",
-        "url": "https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Sin Compromiso",
-      "url": "https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "LA ARA\u00d1A",
+        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Sigue Avanzando",
         "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 214010,
       "name": "Sigue Avanzando",
       "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "LA ARA\u00d1A",
-        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "LA ARA\u00d1A",
-      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Hoy Es Hoy",
+        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hoy Es Hoy",
+      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Hoy Es Hoy",
-        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hoy Es Hoy",
-      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 207419,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+      },
+      "artists": [
+        {
+          "name": "Yael Meyer",
+          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+        }
+      ],
+      "duration_ms": 194903,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
     },
     {
       "added_at": "2022-11-11 21:41:34",

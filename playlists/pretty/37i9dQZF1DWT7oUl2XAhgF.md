@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Phillip\-Michael Scales
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,298 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,382 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 68 | [Ready](https://open.spotify.com/track/2FMeFICKFtO9j4qLaPKcst) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/3gNnUZO69AyHhi8fYybcyf) | 3:48 |
 | 69 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
 | 70 | [Not In My Name](https://open.spotify.com/track/4z7lYZSO6VUnqIYJrB8WsT) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Give Me Hope](https://open.spotify.com/album/60tTpmxbyNd7YFYr8zdkGb) | 3:29 |
-| 71 | [On My Line](https://open.spotify.com/track/016wtoMkspoN8Ft4unuyJl) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [On My Line](https://open.spotify.com/album/1WOFvdwWfqCFX09jMwaonn) | 3:11 |
+| 71 | [On My Line](https://open.spotify.com/track/69Zsk4qDZhC0lSTHd6dcaA) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [On My Line](https://open.spotify.com/album/1ojdHKB7tifei9riIPoiLd) | 3:11 |
 | 72 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 |
 | 73 | [How Do We Heal](https://open.spotify.com/track/5Ds0wPs6q6pHAWXVa5EXmY) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Bryce The Third](https://open.spotify.com/artist/2vybgOw7cAjEAInqTAT5Hx) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 5:11 |
 | 74 | [In Too Deep](https://open.spotify.com/track/7bfn8c7BGfEx5boZBrkBW5) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Seasons of Trouble](https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 4:52 |
 | 100 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDhjZjhiNDNiMTVkMTNjYTcxMmQ3ZTJlYmIxOTAxYjFj`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGNmNTA4Mzg1MjlmZGI4OTg3MWMxZTE0NTJjYmViYmIw`

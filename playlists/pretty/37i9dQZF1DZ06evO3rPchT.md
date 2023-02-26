@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,096 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,178 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 39 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0zh4T437EeNPSeWf2LITdM) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/album/72xen7JDla12oGrjCxrtvu) | 3:09 |
 | 40 | [Hometown Boys \(feat\. Matt Stell, Dierks Bentley & HARDY\)](https://open.spotify.com/track/7gbCLXXJrFu31FDHlIIbam) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Hometown Boys \(feat\. Matt Stell, Dierks Bentley & HARDY\)](https://open.spotify.com/album/1bbxGXkTZgxCwF2ApqpuwP) | 3:44 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDAyNjkzOWFjNDdhNTIyMzYxYjRmNjYyN2FmN2VhODkzNQ==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDA5YjlhZTcyN2ZkM2QzZDcxMzk2ODIzNDA3NTIzN2Q3Yw==`

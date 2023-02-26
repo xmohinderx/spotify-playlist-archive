@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,589 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,620 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 28 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 |
 | 29 | [Oou Oou \(feat\. Coi Leray\)](https://open.spotify.com/track/64lcp0LwdQLvxxsgYaGOqd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Murder Made Me](https://open.spotify.com/album/0KNl6GATG5LULCHTCQpSgZ) | 2:22 |
 | 30 | [Heart In A Coffin](https://open.spotify.com/track/3eW97X88caKutrSFklw4ae) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:31 |
-| 31 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
-| 32 | [I Like It \(feat\. Kiana Lede & Sevyn Streeter\)](https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:30 |
+| 31 | [I Like It \(feat\. Kiana Lede & Sevyn Streeter\)](https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:30 |
+| 32 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
 | 33 | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq) | 2:07 |
 | 34 | [Paranoid \(with Polo G\)](https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:27 |
 | 35 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Huddy](https://open.spotify.com/track/5AJfj6wlGtaWlhd71RAxTG) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 4:24 |
 | 50 | [Gimmy Licky](https://open.spotify.com/track/7qKAeMy5AB8qw7S3vKx8Rc) | [Rek Banga](https://open.spotify.com/artist/4xB6xmaqMX7ZAnyZFzdCeu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Gimmy Licky](https://open.spotify.com/album/360E7b1SscAVvvS6O7N7tn) | 2:25 |
 
-Snapshot ID: `Mjc5NTQwNzUsMDAwMDAwMDA5NTliZDcxYzNjZjUwODkwZGUwNjg1NDcyYTUwYTFkMA==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAwOGEwNGQ1NmQ3MmVmYzMzOTY0NDQ3MjljZmEzYTg3ZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,219 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,264 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 59 | [Byłaś serca biciem](https://open.spotify.com/track/78m1YhFSRqykwJWNJrPeeU) | [Andrzej Zaucha](https://open.spotify.com/artist/3jDEqxckloWOCT1l7l1hJT) | [Byłaś serca biciem \(The Best\)](https://open.spotify.com/album/3Dg77CdM9jYrmACNeaezpp) | 4:32 |
 | 60 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
 | 61 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
-| 62 | [Nie zrozumie nas \- z filmu „Johnny”](https://open.spotify.com/track/19vMdeqdiAf5zpHuv3bUW6) | [Dawid Karpiuk](https://open.spotify.com/artist/1Cv3Z6boIdRxDQILYoFImr), [Michał Kush](https://open.spotify.com/artist/7jAW3yANoHGitDfILrJjv8) | [Nie zrozumie nas \- z filmu „Johnny”](https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30) | 4:18 |
-| 63 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
+| 62 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
+| 63 | [Nie zrozumie nas \- z filmu „Johnny”](https://open.spotify.com/track/19vMdeqdiAf5zpHuv3bUW6) | [Dawid Karpiuk](https://open.spotify.com/artist/1Cv3Z6boIdRxDQILYoFImr), [Michał Kush](https://open.spotify.com/artist/7jAW3yANoHGitDfILrJjv8) | [Nie zrozumie nas \- z filmu „Johnny”](https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30) | 4:18 |
 | 64 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
 | 65 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 66 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
 | 67 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 | 68 | [Późne godziny](https://open.spotify.com/track/3LT2xvnrLzjj442HEBBy1w) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pogłos Suplement](https://open.spotify.com/album/1D0Rh9hZnYmeVvqPrkkUyh) | 3:01 |
 | 69 | [O Sobie Samym](https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL) | [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Solo](https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew) | 3:02 |
-| 70 | [Chodz, przytul, przebacz](https://open.spotify.com/track/5eYQ4VtpaITG5fMmLBPYZi) | [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Spis Rzeczy Ulubionych](https://open.spotify.com/album/2h7ug91di7NKRe2gENYET7) | 4:46 |
-| 71 | [Bezdroża \(feat\. Mateusz Ziółko\)](https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS), [Mateusz Ziółko](https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO) | [Tamta dziewczyna](https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN) | 3:42 |
-| 72 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 73 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 |
+| 70 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 |
+| 71 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
+| 72 | [Bezdroża \(feat\. Mateusz Ziółko\)](https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS), [Mateusz Ziółko](https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO) | [Tamta dziewczyna](https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN) | 3:42 |
+| 73 | [Chodz, przytul, przebacz](https://open.spotify.com/track/5eYQ4VtpaITG5fMmLBPYZi) | [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Spis Rzeczy Ulubionych](https://open.spotify.com/album/2h7ug91di7NKRe2gENYET7) | 4:46 |
 | 74 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
 | 75 | [List](https://open.spotify.com/track/427wJVMJuEPYdxjwDhFiBY) | [Kamil Bednarek](https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE) | [Oddycham](https://open.spotify.com/album/754tuVtUml3dvC0YysRpZK) | 4:50 |
 
-Snapshot ID: `MTY3NjI4NDgwOCwwMDAwMDAwMDU0MjY3NTI2ZTVkYzA1NDZjMTE4MWQxZDgwMDg3NDBj`
+Snapshot ID: `MTY3NjI4NDgwOCwwMDAwMDAwMGFiZTkyZjYyYTQwMmExOWNiMDU5NTBhNzI2ZTdjMjY0`

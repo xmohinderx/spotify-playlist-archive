@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,003 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,998 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 43 | [Abrázame](https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s) | [Frank's White Canvas](https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i) | [Abrázame](https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW) | 4:15 |
 | 44 | [Ojos del Amanecer](https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw) | [Libra CL](https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax) | [El Efecto, Vol\. II](https://open.spotify.com/album/0smAA02meynY4fG1ad1uge) | 5:10 |
 | 45 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 |
-| 46 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 |
-| 47 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
+| 46 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
+| 47 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 |
 | 48 | [Río Río](https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n), [María José Levine](https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG) | [Río Río](https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX) | 3:28 |
 | 49 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
 | 50 | [El Vaivén](https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Lo Comido y Lo Bailado](https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh) | 3:09 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 63 | [93](https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [93](https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z) | 2:49 |
 | 64 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 |
 | 65 | [Lo Que Hemos Dejado](https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lo Que Hemos Dejado](https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft) | 3:51 |
-| 66 | [Culpa](https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Por 30 Más](https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh) | 3:04 |
-| 67 | [Gris](https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe) | [Carga4](https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM) | [Gris](https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm) | 3:32 |
+| 66 | [Gris](https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe) | [Carga4](https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM) | [Gris](https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm) | 3:32 |
+| 67 | [Culpa](https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Por 30 Más](https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh) | 3:04 |
 | 68 | [Hasta que el Agua al Río Brote](https://open.spotify.com/track/6YDIIC33vXJ3XtS4vbeLvT) | [Pelusa](https://open.spotify.com/artist/1uFuJCsLGA1nzL70bbPMzl) | [Hasta que el Agua al Río Brote](https://open.spotify.com/album/0WJaE3Sxl4dwLuL7GahTJL) | 2:51 |
 | 69 | [Goces](https://open.spotify.com/track/489fxbPaExjr7hfYNCwH5y) | [Parálisis del Sueño](https://open.spotify.com/artist/56cwA6ldbu5N2mB1MDApQo) | [Goces](https://open.spotify.com/album/1aCs9dSByl1i9SAXmtMOGf) | 2:01 |
 | 70 | [Indirectas](https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Indirectas](https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf) | 3:10 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 73 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 |
 | 74 | [Todo lo que sube](https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Todo lo que sube](https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE) | 5:15 |
 | 75 | [Las Balas](https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q) | [AncestroSiniestro](https://open.spotify.com/artist/1WG7GKQajwekEpWivRO5Fk) | [Las Balas](https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8) | 3:49 |
-| 76 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
-| 77 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
+| 76 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
+| 77 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
 | 78 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 |
 | 79 | [Vamos!](https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Vamos!](https://open.spotify.com/album/3Llg6NgYDQpgiIOSYXh0cs) | 3:39 |
 | 80 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 85 | [León](https://open.spotify.com/track/0zwGBLvZJejp7C1wZbI1je) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [León](https://open.spotify.com/album/0g5yUK56Za7kEZBQ9HcEYs) | 3:01 |
 | 86 | [La Noche de la Iguana](https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1) | [Témpera](https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g) | [La Noche de la Iguana](https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L) | 2:59 |
 | 87 | [Tu mundo al revés](https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI) | 3:44 |
-| 88 | [Diversion](https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:58 |
-| 89 | [Ven](https://open.spotify.com/track/3kMu5NB2J5na3ZOkrQxiqZ) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Ven](https://open.spotify.com/album/6fun9nQwTfUMGaBPIaoTDV) | 3:31 |
+| 88 | [Ven](https://open.spotify.com/track/3kMu5NB2J5na3ZOkrQxiqZ) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Ven](https://open.spotify.com/album/6fun9nQwTfUMGaBPIaoTDV) | 3:31 |
+| 89 | [Diversion](https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:58 |
 | 90 | [El Último Hombre](https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB) | [Jürgensen](https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG) | [El Último Hombre](https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG) | 2:59 |
-| 91 | [Adiós](https://open.spotify.com/track/0PtFopgpNT21GBHTA7QVvp) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Adiós](https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH) | 4:02 |
-| 92 | [Clavelito Antártico](https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw) | [Hijo de Ladrón](https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM) | [Clavelito Antártico](https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj) | 5:21 |
-| 93 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 |
+| 91 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 |
+| 92 | [Adiós](https://open.spotify.com/track/0PtFopgpNT21GBHTA7QVvp) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Adiós](https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH) | 4:02 |
+| 93 | [Clavelito Antártico](https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw) | [Hijo de Ladrón](https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM) | [Clavelito Antártico](https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj) | 5:21 |
 | 94 | [Shina Blues](https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [El Inquieto Alarido del Pinganilla Subversivo](https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL) | 5:28 |
 | 95 | [Camino Hacia el Sol](https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs) | [Club Calaca](https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA) | [Camino Hacia el Sol](https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG) | 3:39 |
 | 96 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Vida](https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s) | [Condor](https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0) | [Vida](https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A) | 5:01 |
 | 100 | [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 |
 
-Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDQ0MjBiZDU5MTQ1ZDc3Mjk1MWMyMzc2M2ZkM2M0NjA4`
+Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDYxNTE2NGZjM2E5MTkwMzY4OWI4ZGRiNjgzYzk0MDEy`

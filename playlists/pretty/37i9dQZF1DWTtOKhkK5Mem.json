@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 703833,
+  "num_followers": 704029,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMGQ3NTJkY2E1N2ZlNzMyYWYxNDQwZmUyZjJlYmVjZjdm",
+  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMDZiZTAzOWRiZDBjMDUwZjJlMjIwNmZhZDEyM2IzOTg5",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 252120,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 219535,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 229240,
       "name": "You're the Inspiration - 2006 Remaster",
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 219535,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Avalon Sunset",
-        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Have I Told You Lately",
-      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
         }
       ],
-      "duration_ms": 211933,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The One Thing",
         "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 304866,
       "name": "Said I Loved You...But I Lied",
       "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 394133,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1603,6 +1587,22 @@
       "duration_ms": 212666,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 394133,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Can You Feel The Love Tonight",
-      "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 258720,
       "name": "She Believes In Me",
       "url": "https://open.spotify.com/track/5ggOAMsJCAYDHnyoqJ0xAD"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Where Do I Begin - Love Theme from \"Love Story\"",
-      "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 235626,
       "name": "How Can We Be Lovers",
       "url": "https://open.spotify.com/track/0ZUjPkZKjzRi6bgIuJovfY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Where Do I Begin - Love Theme from \"Love Story\"",
+      "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
     },
     {
       "added_at": "2022-08-26 12:00:00",

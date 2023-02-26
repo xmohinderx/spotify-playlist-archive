@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 80823,
+  "num_followers": 81071,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDA5OGQ5Y2Y5YjRiMDhiOTg0NjU3NTdhZmQ2MGQ0OTE5",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDUzMmYzNGVlODMwMTFkOGJhMzgxNmZkYzQ2MWIyMWQw",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 216120,
       "name": "Wind Cries Mary",
       "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "The Sexy EP",
+        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 250133,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "The Sexy EP",
-        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 238186,
       "name": "Here, There And Everywhere",
       "url": "https://open.spotify.com/track/1NZx2bnfrpbL0EutycF8el"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 228327,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
         "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
@@ -1303,22 +1323,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+        "name": "Staying in Touch",
+        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         },
         {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
         }
       ],
-      "duration_ms": 228327,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy"
+      "duration_ms": 254066,
+      "name": "The Long and Winding Road",
+      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1343,26 +1363,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Staying in Touch",
-        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "The Long and Winding Road",
-      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 334560,
-      "name": "High And Dry - Live On The South Bank Show / 2014",
-      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 263253,
       "name": "Strong",
       "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 334560,
+      "name": "High And Dry - Live On The South Bank Show / 2014",
+      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Oliver Nelson Plays Michelle",
         "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 162480,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1595,6 +1611,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+      },
+      "artists": [
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        }
+      ],
+      "duration_ms": 358453,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Basie's Beatle Bag",
         "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
       },
@@ -1607,22 +1639,6 @@
       "duration_ms": 262706,
       "name": "A Hard Day's Night",
       "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 358453,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "The End Of A Summer",
         "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
       },
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
+      },
+      "artists": [
+        {
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "She's Always A Woman",
+      "url": "https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Who Used To Dance",
         "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
       },
@@ -1703,6 +1719,22 @@
       "duration_ms": 413240,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1727,38 +1759,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Live at the Village Vanguard",
-        "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
-        }
-      ],
-      "duration_ms": 432915,
-      "name": "Car Wash",
-      "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
       },
@@ -1775,22 +1775,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "The Gallery Concerts II (Jazz Poetry)",
-        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
+        "name": "Live at the Village Vanguard",
+        "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
       },
       "artists": [
         {
-          "name": "Jan Lundgren",
-          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
-        },
-        {
-          "name": "Hans Backenroth",
-          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
         }
       ],
-      "duration_ms": 303186,
-      "name": "She's Leaving Home - Live",
-      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+      "duration_ms": 432915,
+      "name": "Car Wash",
+      "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
     }
   ],
   "unique_name": "Jazz Covers",

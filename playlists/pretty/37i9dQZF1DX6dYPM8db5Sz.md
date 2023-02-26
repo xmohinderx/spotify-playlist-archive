@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE?si=3syqe78ET\_S4gz5VVwa4wQ">Yum Yuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,533 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,534 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

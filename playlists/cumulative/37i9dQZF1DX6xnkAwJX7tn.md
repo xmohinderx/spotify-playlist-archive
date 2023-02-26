@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-307 songs - 21 hr 8 min
+308 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2021-09-08 |  |
 | [Gold \- 2003 Remaster](https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \(Special Edition\)](https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B) | 4:50 | 2021-09-08 |  |
 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 | 2021-09-08 |  |
+| [Got My Mind Set On You \- 2004 Remaster](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 | 2021-01-07 |  |
 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 | 2021-01-07 | 2023-02-19 |
 | [Green Door](https://open.spotify.com/track/4aX2lcnR7KKRvhZbkgB2xc) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Rockin' The Blues](https://open.spotify.com/album/7zlJYcJMvxhPgSGsGDFWce) | 3:11 | 2021-09-08 | 2022-07-29 |
 | [Hand on Your Heart](https://open.spotify.com/track/3AT2gH4qI0zz54Y1wKt650) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Enjoy Yourself](https://open.spotify.com/album/6hkyHkAO27W5dDX9HZ0qJD) | 3:51 | 2021-09-08 | 2022-07-13 |
@@ -278,7 +279,7 @@
 | [Together Forever](https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:25 | 2021-01-07 |  |
 | [Too Many Broken Hearts](https://open.spotify.com/track/2AeelxeYAriGv9fHq1Fjsg) | [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Ten Good Reasons](https://open.spotify.com/album/0a5ZyaMEIpuGcMJM3Qz89p) | 3:17 | 2021-09-08 | 2022-07-29 |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2021-09-08 |  |
-| [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 | 2021-09-08 |  |
+| [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 | 2021-09-08 | 2023-02-26 |
 | [True Faith](https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 5:55 | 2021-09-08 | 2023-02-22 |
 | [Two Hearts](https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:24 | 2021-09-08 |  |
 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:59 | 2021-09-08 | 2022-11-13 |

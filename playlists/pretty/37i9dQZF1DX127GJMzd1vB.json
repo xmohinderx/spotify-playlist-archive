@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 49804,
+  "num_followers": 49848,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMDkwYzVlZjY3MGZmOGM1NDZlODY3MWQ0ZmNjMzAxNTNm",
+  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMGMyOTY3MWU3N2ZmMTQxZjY3ZDAwNTliOWJmNjlkNWVj",
   "tracks": [
     {
       "added_at": "2023-01-04 22:41:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-04 22:41:14",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 212915,
       "name": "Enloquecido",
       "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
     },
     {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
-    },
-    {
       "added_at": "2021-12-29 23:46:57",
       "album": {
         "name": "Por Mujeres Como T\u00fa",
@@ -459,6 +443,22 @@
       "duration_ms": 263133,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -655,22 +655,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Sabor a M\u00ed",
-      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+      "duration_ms": 201168,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -691,18 +687,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 201168,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
+      "duration_ms": 168400,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
         }
       ],
-      "duration_ms": 169761,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
+      "duration_ms": 175253,
+      "name": "Tres Regalos",
+      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
       "artists": [
         {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 175253,
-      "name": "Tres Regalos",
-      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
+      "duration_ms": 169761,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
       "artists": [
         {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 169640,
-      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
-      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
+      "duration_ms": 163173,
+      "name": "Sin Ti - Remasterizado",
+      "url": "https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh"
     }
   ],
   "unique_name": "La Serenata",

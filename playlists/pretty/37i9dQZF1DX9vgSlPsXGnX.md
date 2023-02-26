@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,350 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,413 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 29 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 30 | [Dos Gardenias](https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos](https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs) | 3:03 |
 | 31 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:41 |
-| 32 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
-| 33 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
-| 34 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
+| 32 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
+| 33 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
+| 34 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
 | 35 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
 | 36 | [Toda una vida](https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 2:35 |
 | 37 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 | 75 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 
-Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMGNhMGM4NzA2MWQ5ODYzMWIxYjNlMzI5MTIwOWRhNTcw`
+Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDMzZTgzYTU3NzEwOTZiYmE2OTllYTdiNjQ0NjhiYzYw`

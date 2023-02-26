@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-419 songs - 1 day 9 hr 10 min
+420 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-12 |  |
 | [Blue song for Blues](https://open.spotify.com/track/4TiX00DX7md1QMcnn9DEnQ) | [Oller i Guerra](https://open.spotify.com/artist/0UNIEj4p9Gij0UJfUVDv1V), [Jaume Guerra](https://open.spotify.com/artist/2iEVyYVPjQbqh3GEPxk0vo), [Víctor Oller](https://open.spotify.com/artist/0yPN2LZ81iYVeMlk13c1TE), [Adrià Claramunt](https://open.spotify.com/artist/4McwBXVAOuOP6aF71PQG2l) | [Blue song for Blues](https://open.spotify.com/album/7hSOiFx7VmqIpyxMttX6C1) | 5:52 | 2022-02-18 | 2022-11-22 |
+| [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 | 2023-02-23 |  |
 | [Brigas nunca mais](https://open.spotify.com/track/0BznBDSocQlKKja9oOer64) | [Stefano Bollani Trio](https://open.spotify.com/artist/15V5EYZA64Qd08o4tEZGli) | [Stone In The Water](https://open.spotify.com/album/5iF4YLfNRevhsh7WMFuWrU) | 6:24 | 2022-02-10 | 2022-11-12 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-12 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-11-12 |  |
@@ -160,7 +161,7 @@
 | [Ill Wind](https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:35 | 2022-02-10 | 2022-11-12 |
 | [Impressions Of Summer](https://open.spotify.com/track/2oUVmP58hxGUPRXDEeThzk) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Don Braden](https://open.spotify.com/artist/6qppe86GWNyVd8KeAbvg1o), [Renato Chicco](https://open.spotify.com/artist/0jpB64coHDh0pDsAuT78E5), [Steve Altenberg](https://open.spotify.com/artist/1GQRap9mRLsoeo3Ocf4Sx8) | [Firm Roots](https://open.spotify.com/album/7wfHbk12YGnHw1nr2oLrpJ) | 4:07 | 2022-02-18 | 2022-07-29 |
 | [Impressions Of Summer](https://open.spotify.com/track/369R3C5q22a3XcoYuIJZsK) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Don Braden](https://open.spotify.com/artist/6qppe86GWNyVd8KeAbvg1o), [Renato Chicco](https://open.spotify.com/artist/0jpB64coHDh0pDsAuT78E5), [Steve Altenberg](https://open.spotify.com/artist/1GQRap9mRLsoeo3Ocf4Sx8) | [Firm Roots](https://open.spotify.com/album/6KbGY7IKWPxqYj9gGrPnci) | 4:07 | 2022-07-07 | 2022-11-12 |
-| [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-11-12 |  |
+| [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-11-12 | 2023-02-26 |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-11-12 | 2023-02-17 |
 | [In the Days of Our Love](https://open.spotify.com/track/3UXWECtFUy4QyQzXeuxAK0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Twilight World](https://open.spotify.com/album/1QHM1aC690lBTWkBmsYSgC) | 5:38 | 2022-02-10 | 2022-11-09 |
 | [In the Middle of a Kiss](https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx) | [Red Mitchell](https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk), [Jimmy Rowles](https://open.spotify.com/artist/5uN9BmZWzjh2YGQVni3m8D) | [Red'n Me](https://open.spotify.com/album/36gevqEUEwhKjIxmpNzojF) | 4:43 | 2022-02-10 | 2022-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,433 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,437 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 15 | [Passing Through \- Live](https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live Songs](https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC) | 4:05 |
 | 16 | [Bird On A Wire](https://open.spotify.com/track/0iBSH25UyYu5Wu3WZHOZMx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb) | 4:01 |
 | 17 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 |
-| 18 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
-| 19 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
+| 18 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
+| 19 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
 | 20 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 |
 | 21 | [I'm Your Man \- Live](https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:31 |
 | 22 | [Famous Blue Raincoat](https://open.spotify.com/track/7dU7EHElNeLOCkNnQXQtZs) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 5:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 | 40 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDM1Mzg5NTkwZDYzODUxZTJlMmU1Yjc4ZjI3Y2MzZWNj`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDhkNjQ2MzNkYjU3MTMxMTgxNjFmNDdlMWM2NDM4MDE2`

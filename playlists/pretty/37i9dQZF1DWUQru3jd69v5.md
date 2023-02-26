@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. BIG P e Touché in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,260 likes - 54 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,280 likes - 54 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

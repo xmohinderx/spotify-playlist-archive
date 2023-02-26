@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Anavitória, Lagum
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,321 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,303 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

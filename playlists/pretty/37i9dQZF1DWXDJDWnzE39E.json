@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 589948,
+  "num_followers": 590255,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0Mzg3NSwwMDAwMDAwMDlmODQ5Zjc1YTViNDU5N2U0YmVmYzM2ZWZmNDFiODBi",
+  "snapshot_id": "MTY3NjA0Mzg3NSwwMDAwMDAwMDk5MTNmZWUwN2FmM2E1MDRkMGQ3NWMzZWUwZGU0MTA2",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
-      "added_at": "2023-02-25 09:53:46",
+      "added_at": "2023-02-26 00:33:41",
       "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
-      "added_at": "2023-02-25 09:53:46",
+      "added_at": "2023-02-26 00:33:41",
       "album": {
         "name": "Not My Problem",
         "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 259549,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 259549,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Antagonist",
-      "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+      "duration_ms": 186173,
+      "name": "Antagonist",
+      "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
     },
     {
       "added_at": "2022-11-18 01:31:53",

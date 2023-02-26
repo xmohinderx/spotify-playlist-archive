@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: Hak Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,503 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,534 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,33 +51,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 41 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
 | 42 | [Death of Me](https://open.spotify.com/track/3gKLO2vWVrUkFFCMgajasU) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death of Me](https://open.spotify.com/album/0WWf5T9BGaeNOAnZWTdm74) | 2:40 |
 | 43 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 |
-| 44 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
-| 45 | [Pool Hopping](https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:07 |
-| 46 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 |
+| 44 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 |
+| 45 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
+| 46 | [Pool Hopping](https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:07 |
 | 47 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 48 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
 | 49 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 |
 | 50 | [bored](https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:30 |
 | 51 | [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 |
-| 52 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
-| 53 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
-| 54 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
+| 52 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
+| 53 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
+| 54 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
 | 55 | [Bet My Blood](https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:59 |
-| 56 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
-| 57 | [Voodoo Magic](https://open.spotify.com/track/6y4iXEu64IYdEcNSV0ZH5R) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Voodoo Magic](https://open.spotify.com/album/6yLKy8bef0WCPhEv7UAL0Q) | 2:44 |
+| 56 | [Voodoo Magic](https://open.spotify.com/track/6y4iXEu64IYdEcNSV0ZH5R) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Voodoo Magic](https://open.spotify.com/album/6yLKy8bef0WCPhEv7UAL0Q) | 2:44 |
+| 57 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
 | 58 | [Death Wish](https://open.spotify.com/track/3N3TknnMTUNcbHT1gOLYIW) | [So Tuff So Cute](https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Death Wish](https://open.spotify.com/album/0HU0ivC4hwEbYATlSdsA8S) | 2:31 |
 | 59 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
 | 60 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 |
 | 61 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 |
 | 62 | [Bloom](https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 3:50 |
-| 63 | [stupid bitch](https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:45 |
-| 64 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
-| 65 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 |
+| 63 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 |
+| 64 | [stupid bitch](https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:45 |
+| 65 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
 | 66 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
 | 67 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
 | 68 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
-| 69 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 |
-| 70 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 69 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 70 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 |
 | 71 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
 | 72 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 |
 | 73 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 79 | [FAMOUS ON THE INTERNET](https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [FAMOUS ON THE INTERNET](https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG) | 2:54 |
 | 80 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDk4ZDQzZTBlY2JmZWMzODNjNjRhY2JiYmUzNzQ3ZGE5`
+Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDRhNmMyMDViODVkY2IxYjNlNDllZGNkOWE0ZWNlMzY2`

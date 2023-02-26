@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ingen kamera på iPhone 2!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,380 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,559 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 27 | [LIGGA MED DIN VÄN](https://open.spotify.com/track/2JWEEb30sSanIS6thpBpYF) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [LIGGA MED DIN VÄN](https://open.spotify.com/album/3hMlUNM2ttC51HmIcuAJdW) | 2:21 |
 | 28 | [BANKA BANKA](https://open.spotify.com/track/48ThTgiCCug6yQK6XGtmsH) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [BANKA BANKA](https://open.spotify.com/album/6QPjeFce4XLkTHevZWdpXe) | 2:33 |
 | 29 | [FESTA HELA NATTEN](https://open.spotify.com/track/5t7HXhpi1baZ0XRfuZqICh) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [FESTA HELA NATTEN](https://open.spotify.com/album/1qvXnN3JXgF5xtEmLZHZ2T) | 2:07 |
-| 30 | [En flaska kir \- Kick Edit](https://open.spotify.com/track/0x2VjNIwjYjcoSAJYkP5v3) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [En flaska kir \- Kick Edit](https://open.spotify.com/album/3H4Plr8dG8uqYelsmxPXcT) | 3:15 |
+| 30 | [En flaska kir \- Kick Edit](https://open.spotify.com/track/0x2VjNIwjYjcoSAJYkP5v3) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [En flaska kir \(Kick Edit\)](https://open.spotify.com/album/3H4Plr8dG8uqYelsmxPXcT) | 3:15 |
 | 31 | [JAG SKA BLI KVINNA INATT](https://open.spotify.com/track/1lY3xfkgoGdtQsaKGkumtJ) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [JAG SKA BLI KVINNA INATT](https://open.spotify.com/album/4jBEyzFY3PxYTqq9fAS3ZB) | 2:13 |
 | 32 | [Hot Girl Summer](https://open.spotify.com/track/5owoMwVuyM1w1qk1NHTTJR) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [Hot Girl Summer](https://open.spotify.com/album/1Xz7fND55mPZAG5NdAR2ox) | 2:31 |
 | 33 | [Full blast](https://open.spotify.com/track/4jHnKENlmEuUM61bqtf7qA) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Full blast](https://open.spotify.com/album/4Qn12IcG7Cu6TehwoDehIn) | 2:34 |

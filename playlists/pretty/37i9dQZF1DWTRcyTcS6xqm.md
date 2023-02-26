@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,539 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,551 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 14 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
 | 15 | [T\-Bone Shuffle](https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:50 |
 | 16 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 |
-| 17 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 |
-| 18 | [Going to the Party](https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr) | [Promised Land](https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU) | 3:01 |
+| 17 | [Going to the Party](https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr) | [Promised Land](https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU) | 3:01 |
+| 18 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 |
 | 19 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
 | 20 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
 | 21 | [Riding with the King](https://open.spotify.com/track/3MUQ573SFa0PuI65Gt9X2b) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King \(Deluxe Edition\)](https://open.spotify.com/album/44qfaiUTWryt5PNHjZU9iz) | 4:23 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 37 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 |
 | 38 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 |
 | 39 | [Satisfy My Soul](https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 2:43 |
-| 40 | [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 |
-| 41 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
+| 40 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
+| 41 | [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 |
 | 42 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
 | 43 | [Outlaw Angel](https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Dirty Truth](https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW) | 4:22 |
 | 44 | [Funky Broadway](https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 50 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDI4MjgxNWM2YWVmNGRjMmQyMDMxZDc2Mjk1OGJhNGQx`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMGViMGM3NmE5MzI4ZjU2M2E2MDg4NWZmNDkxMTM0Yjk4`

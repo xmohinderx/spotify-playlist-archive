@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,874 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,879 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 36 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 37 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 |
 | 38 | [Moonlight Serenade](https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:22 |
-| 39 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
-| 40 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
+| 39 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
+| 40 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
 | 41 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
 | 42 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
 | 43 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 52 | [Kissing a Fool](https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:36 |
 | 53 | [Carta Ao Tom 74](https://open.spotify.com/track/3pemsJqLI0GXY9tlQDn8yS) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/1nSSVKQelvXJtKEU3WSqac) | 2:41 |
 | 54 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 |
-| 55 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
-| 56 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
+| 55 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
+| 56 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
 | 57 | [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 |
 | 58 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 59 | [September](https://open.spotify.com/track/2ECLI6x33wCKkU49hwfVux) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Colors of Rio](https://open.spotify.com/album/367pDgfdeqOW5hYRwdsRsN) | 4:06 |
-| 60 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
-| 61 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 |
+| 60 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 |
+| 61 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
 | 62 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 |
 | 63 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 |
 | 64 | [A Hard Day´s Night \(Bossa Version\)](https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J) | [Monique Kessous](https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
 | 75 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
 
-Snapshot ID: `MTY3Njg2NjU5MywwMDAwMDAwMDk4MDBmNmFhZmQ1MmUwODQyMWRhZGY4NTVhNDYxYjMy`
+Snapshot ID: `MTY3Njg2NjU5MywwMDAwMDAwMDliMmFjNGE4MjE4MDFiYzZhYmZmMTYwMmI3MDMyODAw`

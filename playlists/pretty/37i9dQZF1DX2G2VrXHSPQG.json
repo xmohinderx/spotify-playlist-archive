@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 61596,
+  "num_followers": 61619,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMGY4MjU3ZTIyNTg1NzYxYWVmYWQ0NTJjZDhjNzNhNDEy",
+  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMDQ4YjNmMTI2Y2ZmNDQyMDFmZWY1NTExNmQ2OTBlOWJm",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 293360,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd"
-      },
-      "artists": [
-        {
-          "name": "MEG MYERS",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182518,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd"
+      },
+      "artists": [
+        {
+          "name": "MEG MYERS",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z"
     },
     {
       "added_at": "2022-02-04 05:01:00",

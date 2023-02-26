@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,549 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,553 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 11 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 12 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 13 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
-| 14 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
-| 15 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
+| 14 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
+| 15 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 | 16 | [Blue](https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr) | 3:26 |
 | 17 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 |
 | 18 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 39 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 |
 | 40 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 |
 | 41 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 |
-| 42 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
-| 43 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
+| 42 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
+| 43 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
 | 44 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 |
 | 45 | [My Everything](https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/6wglqk5rW63K9eaeqxzZpI) | [My Everything](https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI) | 3:58 |
 | 46 | [Sad Lonely Groove](https://open.spotify.com/track/49SudSFHwgnwMprTAYqa0p) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sad Lonely Groove](https://open.spotify.com/album/2bIg0JjNVir6ldrYyGuqaU) | 3:58 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 65 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
 | 66 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
 | 67 | [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 |
-| 68 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
+| 68 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
 | 69 | [Earth Sick](https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Earth Sick](https://open.spotify.com/album/4HDb2F4k940fPLqIl4OOei) | 3:05 |
-| 70 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
+| 70 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
 
-Snapshot ID: `MTY3NzMxNTQ5MywwMDAwMDAwMGRiODNmNTQ4M2ZkYjgxZTQ2OWZmMTY3NDYxMjRmODVh`
+Snapshot ID: `MTY3NzMxNTQ5MywwMDAwMDAwMDk5OTAwOThkNDZkN2IwOTIzMjQ2ODhkZWI3YjFjMTBl`

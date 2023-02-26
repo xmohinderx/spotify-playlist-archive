@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Paul Kim\(폴킴\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,038 likes - 101 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,063 likes - 101 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

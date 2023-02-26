@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,623 likes - 48 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,630 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 47 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 | 48 | [Cannibals](https://open.spotify.com/track/7lGDiKxrmodlgNvzjZOtws) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:28 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDAzYWQzNDFlYWEwZGM1YTVhZjI0MzQ0YjMwMmU0MTdmMA==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDBjNjI3OWNiMzc3OTgyM2FhMzI5YjQ5ZWU2ZTM5YjI3OA==`

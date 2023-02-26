@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-127 songs - 8 hr 51 min
+128 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Mind Warp](https://open.spotify.com/track/1eOiR3omcI7SxBxyifehFi) | [Ben Snow](https://open.spotify.com/artist/1kzrBcRjcEC1rBI7mJzuLw), [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai) | [Mind Warp](https://open.spotify.com/album/6yUjyOy6F8of7GVovb0Dg1) | 4:06 | 2022-05-06 | 2022-07-22 |
 | [Money Moves \- Remix](https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Skamma](https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU), [J Wilz](https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n), [LOAD B](https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF), [Weejii](https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw), [Blu Bomma](https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh), [Kinetik](https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Money Moves \(The Remixes\)](https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9) | 4:24 | 2022-05-06 |  |
 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 | 2022-06-20 |  |
-| [Nerd Starter Pack](https://open.spotify.com/track/4Be86Iyz32bO0CJAjhSQDg) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Nerd Starter Pack](https://open.spotify.com/album/1sgucleIJWW1ei72uWzuZs) | 4:30 | 2022-05-06 |  |
+| [Nerd Starter Pack](https://open.spotify.com/track/3gMnzlM0E8z3RWFgRKGdhd) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Nerd Starter Pack](https://open.spotify.com/album/1SidTD8IwbHh6UqVPYNbyv) | 4:30 | 2022-08-12 |  |
+| [Nerd Starter Pack](https://open.spotify.com/track/4Be86Iyz32bO0CJAjhSQDg) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Nerd Starter Pack](https://open.spotify.com/album/1sgucleIJWW1ei72uWzuZs) | 4:30 | 2022-05-06 | 2023-02-26 |
 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 | 2022-05-06 |  |
 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 | 2022-08-12 |  |
 | [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 | 2022-08-12 |  |

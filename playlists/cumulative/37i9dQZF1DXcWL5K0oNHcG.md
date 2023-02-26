@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Gecko&Tokage Parade Artwork: Joy Yamusangie
 
-968 songs - 3 day 5 hr 46 min
+969 songs - 3 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,7 +865,8 @@
 | [Thursday Surrender](https://open.spotify.com/track/3Bqy1xr2AcpaDW3r92bEWK) | [Alessia Obino](https://open.spotify.com/artist/1Rn9iT9t7a1wMl1PM9I4kg) | [Thursday Surrender](https://open.spotify.com/album/29I7ZNXkWfLmICqFdP90Cj) | 8:53 | 2023-01-25 |  |
 | [Tired](https://open.spotify.com/track/4lokC5pTwtz1A5AIVKV626) | [Capt.Pigment](https://open.spotify.com/artist/6Iexrv7lcJDX98FpYkbGMq) | [Tired](https://open.spotify.com/album/7MNVmy1mW6gfjk4LkKFeFn) | 2:48 | 2022-05-18 | 2022-06-16 |
 | [Tmuna Blues](https://open.spotify.com/track/5Bw2Zy8WFBMVZ2kcDefmik) | [Iris & Ofer Portugaly](https://open.spotify.com/artist/3oMvAEWH4mmSfXcWfIJMjn), [Ilan Salem](https://open.spotify.com/artist/46hngj56FwYvtAZAXad68n) | [Tmuna Blues](https://open.spotify.com/album/4Sju7XEQBFuG15sRAKUfRf) | 7:40 | 2023-01-11 |  |
-| [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-18 |  |
+| [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-18 | 2023-02-26 |
+| [To be naive](https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 3:59 | 2023-01-18 |  |
 | [Tokyo Bebop](https://open.spotify.com/track/2VCk15QROt1tqPhvpkCxdl) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Tokyo Bebop](https://open.spotify.com/album/07Ko8pqMTHScmctgs3c7R7) | 4:17 | 2022-06-29 | 2022-07-28 |
 | [Toliara](https://open.spotify.com/track/2biBv4aLxlA58fbQLbXd3Y) | [Electric Vocuhila](https://open.spotify.com/artist/7iSjfofIWQlKYKjW9ZIm9f) | [Toliara](https://open.spotify.com/album/2USvhMuxzrz2YwkaRHBPqP) | 2:06 | 2022-06-22 | 2022-07-21 |
 | [Too Bad for You](https://open.spotify.com/track/4iWalHLp5pRLo72NeyCSWS) | [Maximilian Hering](https://open.spotify.com/artist/3z5iCgV4SWmjpcsesBgO62), [Félix Rossy](https://open.spotify.com/artist/5dKDiVpXecRSo7EObbchsS), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [David Muñoz](https://open.spotify.com/artist/70z9AJ6GaQwhy4imKiDnBD) | [Nostalgia](https://open.spotify.com/album/0R3XQU2g1FpHNCrcEU7qnU) | 6:25 | 2022-01-19 | 2023-01-12 |

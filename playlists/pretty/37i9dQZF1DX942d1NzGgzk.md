@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: JayO
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,505 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,569 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 25 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 |
 | 26 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 |
 | 27 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
-| 28 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 |
-| 29 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
+| 28 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
+| 29 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 |
 | 30 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 |
 | 31 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 |
 | 32 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 33 | [Killing Me](https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl) | 3:25 |
-| 34 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 |
-| 35 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 |
+| 34 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 |
+| 35 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 |
 | 36 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 |
 | 37 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 |
 | 38 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 43 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
 | 44 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 |
 | 45 | [In The Moment](https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 3:13 |
-| 46 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 |
-| 47 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 |
+| 46 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 |
+| 47 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 |
 | 48 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 |
 | 49 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
 | 50 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 59 | [Let Me Know \- The Cypher](https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Let Me Know \(The Cypher\)](https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0) | 4:01 |
 | 60 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 |
 
-Snapshot ID: `MTY3NzIyODQyNywwMDAwMDAwMDQwNDRhOTc4MmM5YmZiMWI2ZGM2YzYxYTliYzRlMTFk`
+Snapshot ID: `MTY3NzIyODQyNywwMDAwMDAwMGU4YmQ1NDMzMjFmMTUwMGQ3MzQwYTJlZWIyMmEyZWFj`

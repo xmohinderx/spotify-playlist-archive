@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-105 songs - 6 hr 21 min
+107 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Never Have I Felt This](https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM) | 4:06 | 2021-10-28 | 2022-07-29 |
 | [Night Terror \(feat\. Of Mice & Men\)](https://open.spotify.com/track/5AhV1iYCYJfdz8gTaikr5L) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Unleashed](https://open.spotify.com/album/58RaTQA8XsNG9T7tl5n0ac) | 3:24 | 2021-10-28 |  |
 | [Night Whispers](https://open.spotify.com/track/0yDFdJpx8eP0GN7dAF4uK2) | [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Night Whispers](https://open.spotify.com/album/77zU91YOZiWp4q3hM9VlY1) | 3:20 | 2021-10-28 |  |
-| [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 | 2021-10-28 |  |
+| [ON FIRE](https://open.spotify.com/track/09HjLlsBh3iqLEkOgH4Ac4) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:23 | 2022-10-28 |  |
+| [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 | 2021-10-28 | 2023-02-26 |
 | [ON FIRE](https://open.spotify.com/track/4EDod7XFs8N9Fy1iG5RD4H) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [HARD Summer 2022](https://open.spotify.com/album/3T9vrVG0d2PegXSpJNULvb) | 3:23 | 2021-10-28 | 2022-08-24 |
 | [Orbit](https://open.spotify.com/track/2xhaxIUaEj6RCYLhrQCn1i) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Orbit](https://open.spotify.com/album/6bVKbPVxy7yWyooCwqVcGX) | 3:15 | 2021-10-28 |  |
 | [Our Demons \(feat\. Aja Volkman\)](https://open.spotify.com/track/3iFjScPoAC21CT5cbAFZ7b) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Aja Volkman](https://open.spotify.com/artist/1acEKKXSDIHJifhq0Bj3g1) | [Love Death Immortality](https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs) | 5:16 | 2021-10-28 |  |
@@ -71,7 +72,8 @@
 | [Psycho \(RAC Mix\)](https://open.spotify.com/track/6Hhg2FepgSwCDI2EsENmiQ) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw) | 3:11 | 2021-10-28 | 2022-07-29 |
 | [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 | 2021-10-28 |  |
 | [Psycho \- RAC Mix](https://open.spotify.com/track/3auW9A1llZ8bbGBh9a1t5U) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [Halfway There: The Half\-O\-Ween EP](https://open.spotify.com/album/0q3Zpr4JwzhSLrsTFEGAJK) | 3:12 | 2022-10-28 | 2022-11-13 |
-| [Purgatory](https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f) | 2:49 | 2022-10-21 |  |
+| [Purgatory](https://open.spotify.com/track/0yD4eilzKMHCe5Fhh7qeeC) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/6Ssl05NNAsWoPMJmdRd91j) | 2:49 | 2022-10-28 |  |
+| [Purgatory](https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f) | 2:49 | 2022-10-21 | 2023-02-26 |
 | [RAMPAGE](https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:59 | 2021-10-28 |  |
 | [ROCK IT](https://open.spotify.com/track/1yv3aBLO9rgyEHmAR7jI1M) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [ROCK IT](https://open.spotify.com/album/4bhVSIjmRIxUNzCsy7xe6c) | 3:11 | 2021-10-28 |  |
 | [Roll](https://open.spotify.com/track/7tCfEp99eUv6d3yfaL3TdP) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Roll](https://open.spotify.com/album/1zXKcwZZIyG2ojmJV6s35T) | 4:19 | 2022-09-30 |  |

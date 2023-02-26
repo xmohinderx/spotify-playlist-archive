@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Tove Lo
 
-441 songs - 22 hr 46 min
+442 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-16 | 2022-10-24 |
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-28 |
 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 | 2022-10-14 | 2022-12-24 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-24 |  |
 | [Technicolor](https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [Technicolor](https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc) | 3:17 | 2022-04-29 | 2022-08-13 |
 | [Technicolor](https://open.spotify.com/track/0GjoMSC31H3q2vD2Aa5S4f) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Technicolor](https://open.spotify.com/album/4qx2pjsBgxDPoTGKoRb0Fy) | 2:54 | 2022-08-19 | 2022-09-17 |
 | [THAT GIRL](https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/3iShY0nkuliVn2PiAjySC2) | 2:07 | 2022-09-30 | 2023-02-04 |

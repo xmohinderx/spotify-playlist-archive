@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alex Ferreira.",
-  "num_followers": 105141,
+  "num_followers": 105202,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDM4NDYxMzVmMDU1OGZiZGQxNjdmNjNkMDE1ZjkxMTg2",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDYxYjk5OWYxYTczYjM0MjI5MDE3NjQzMjhlYWM4YjUx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz"
+      },
+      "artists": [
+        {
+          "name": "Iseo",
+          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "La Danza de las Lib\u00e9lulas",
         "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 220867,
       "name": "La Danza de las Lib\u00e9lulas",
       "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz"
-      },
-      "artists": [
-        {
-          "name": "Iseo",
-          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "El Camino",
-      "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Camino Que Pasa",
         "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "El Viejo Comunista",
-        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "El Viejo Comunista",
-      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "El Viejo Comunista",
+        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "El Viejo Comunista",
+      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "abril y mayo",
+        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 120542,
+      "name": "abril y mayo",
+      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1399,6 +1415,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Impulso",
+      "url": "https://open.spotify.com/track/5uaNuyJkZ9jKvpopPQLbT3"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Casi tierra",
         "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
       },
@@ -1431,26 +1467,6 @@
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Impulso",
-        "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Impulso",
-      "url": "https://open.spotify.com/track/5uaNuyJkZ9jKvpopPQLbT3"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -1555,6 +1571,38 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Mi otra mitad",
+        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 229524,
+      "name": "Mi otra mitad",
+      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Corazoncito M\u00edo",
+      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1615,22 +1663,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Las Bestias Que Me Acompa\u00f1an",
-        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "Las Bestias Que Me Acompa\u00f1an",
-      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1643,22 +1675,6 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Corazoncito M\u00edo",
-      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1695,6 +1711,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Imaginar",
         "url": "https://open.spotify.com/album/458jUi8UaIvuFrCg9B2ArI"
       },
@@ -1711,22 +1743,6 @@
       "duration_ms": 209710,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/59zGEtzyJYGrYhSne6ZVZD"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Mi otra mitad",
-        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 229524,
-      "name": "Mi otra mitad",
-      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "abril y mayo",
-        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
         }
       ],
-      "duration_ms": 120542,
-      "name": "abril y mayo",
-      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     }
   ],
   "unique_name": "Cancionistas",

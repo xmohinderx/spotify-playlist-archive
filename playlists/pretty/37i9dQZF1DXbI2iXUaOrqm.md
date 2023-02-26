@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > El soundtrack para los días rebeldes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 12 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
 | 13 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 |
 | 14 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 |
-| 15 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
+| 15 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 |
 | 16 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
-| 17 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 |
+| 17 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 18 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 19 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 |
 | 20 | [CONTANDO OVEJAS](https://open.spotify.com/track/47DL8jY6HJD2mlCcTuOWKX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:23 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 23 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
 | 24 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
 | 25 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
-| 26 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
-| 27 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d) | 2:57 |
+| 26 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d) | 2:57 |
+| 27 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
 | 28 | [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 |
 | 29 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 |
 | 30 | [Ya Me Hiciste Mal](https://open.spotify.com/track/6Iui84AizPAWhNTnPpxJfm) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [El Reflejo](https://open.spotify.com/album/6EpG00D5DG21KhM8OIB0yk) | 3:19 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 33 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 |
 | 34 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 35 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 |
-| 36 | [CUANDO TE FUISTE](https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:47 |
-| 37 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
+| 36 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
+| 37 | [CUANDO TE FUISTE](https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:47 |
 | 38 | [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 |
 | 39 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 |
 | 40 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 49 | [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 |
 | 50 | [Flaca \(De Cabeza A Los Pies\)](https://open.spotify.com/track/7GqzLEwjpTf5WCD0kIRsp8) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:06 |
 
-Snapshot ID: `MTY3NzE3MDU4NywwMDAwMDAwMGEwZmNkOGY3ZWNjYWM2MTNmMjFmYjYzZGMzMDllMWEy`
+Snapshot ID: `MTY3NzE3MDU4NywwMDAwMDAwMDA2YjBjZjFmZDczNjc4MWZmZTVhNmM4ZDBjZjQ1ZTg2`

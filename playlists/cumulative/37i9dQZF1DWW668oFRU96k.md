@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: 22Bullets x Laura White
 
-127 songs - 6 hr 13 min
+128 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Safe to See](https://open.spotify.com/track/2dfTuqNSS2cZJUFETe0aIL) | [SmartLove Music](https://open.spotify.com/artist/2PXE99c8nCPIW3kFb1Il54) | [Safe to See](https://open.spotify.com/album/3SLCM46l6RB2lmyaa667Se) | 2:27 | 2023-02-02 |  |
 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 | 2023-02-09 |  |
 | [Shivers](https://open.spotify.com/track/2YdLi9P7iEk8lRAzfCFup3) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Thatsimo](https://open.spotify.com/artist/6YpREiVGQMVkSzsl4kVwdv), [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Stella Key](https://open.spotify.com/artist/56PRQ7kk9woGM2SBKl8lYc) | [Shivers](https://open.spotify.com/album/1ET9ZCWVUu5XfWYhNGvQfM) | 2:51 | 2023-02-02 |  |
-| [Signs](https://open.spotify.com/track/23TQCebFwF8CYw1TIWCmhe) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/5crK4xlFyg23mf6RirC6hr) | 2:31 | 2023-02-02 |  |
+| [Signs](https://open.spotify.com/track/23TQCebFwF8CYw1TIWCmhe) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/5crK4xlFyg23mf6RirC6hr) | 2:31 | 2023-02-02 | 2023-02-26 |
+| [Signs](https://open.spotify.com/track/72rfezPDhtN4Yfizqn9DLU) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/4DUF8l5e6xtIr9uVBCJWMw) | 2:31 | 2023-02-23 |  |
 | [Sing Your Lullaby](https://open.spotify.com/track/3LGqmgDKefGR9zp3h92VmW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Sing Your Lullaby](https://open.spotify.com/album/61nC52SUGV19X5i0VJoyoa) | 3:42 | 2023-02-02 | 2023-02-10 |
 | [Something Better](https://open.spotify.com/track/0Peztel5LfvggoPNNsbjaM) | [Chouu](https://open.spotify.com/artist/3HpljHLMtYi3o62S2f1qtW), [Yellwflwer](https://open.spotify.com/artist/7yJ6JIPHYqJ7sbMBtAXB6v), [StonexN](https://open.spotify.com/artist/0I1B2v6dLN6Olw3yU5s4iq) | [Something Better](https://open.spotify.com/album/756xQb6eHnNbzShUJPKN74) | 3:18 | 2023-02-02 |  |
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-09 |  |

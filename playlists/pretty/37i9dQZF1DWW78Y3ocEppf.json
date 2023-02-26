@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: RAAHiiM",
-  "num_followers": 39590,
+  "num_followers": 39602,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGZjNTYwMjU4YTk0ZTg3ODE4MjBkNDdmMTk0ZjhlMWY4",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDNmODIzN2YxMTFhNjY0YjIzY2I3YmNhMzY3ODBlZGNl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Do You Mind",
@@ -453,22 +469,6 @@
       "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Too Late To Die Young",
@@ -483,6 +483,26 @@
       "duration_ms": 172131,
       "name": "Make Me Stay",
       "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -549,22 +569,6 @@
       "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Feature Me",
-      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Ctrl (Deluxe)",
@@ -581,20 +585,20 @@
       "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 223414,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+      "duration_ms": 201621,
+      "name": "Feature Me",
+      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -613,6 +617,22 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Two Sides",
@@ -627,42 +647,6 @@
       "duration_ms": 126625,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 202755,
-      "name": "I'm Baby (ft. Jvck James)",
-      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -685,6 +669,58 @@
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
@@ -703,22 +739,6 @@
       "duration_ms": 153735,
       "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
-    },
-    {
-      "added_at": "2022-09-09 04:09:30",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 163700,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -801,6 +821,22 @@
       "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Don't Love Me",
+        "url": "https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 203292,
+      "name": "Don't Love Me",
+      "url": "https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -819,22 +855,6 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Don't Love Me",
-        "url": "https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 203292,
-      "name": "Don't Love Me",
-      "url": "https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -993,26 +1013,6 @@
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Motions",
@@ -1031,6 +1031,26 @@
       "duration_ms": 208860,
       "name": "Motions",
       "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1125,22 +1145,6 @@
       "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 214138,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Figures",
@@ -1155,6 +1159,22 @@
       "duration_ms": 152590,
       "name": "Figures",
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 214138,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1289,6 +1309,30 @@
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
+        "url": "https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS"
+      },
+      "artists": [
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 154552,
+      "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
+      "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
+    },
+    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "C BOTH SIDES",
@@ -1325,22 +1369,6 @@
       "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1361,28 +1389,20 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
-        "url": "https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
       },
       "artists": [
         {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 154552,
-      "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
-      "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1457,6 +1477,26 @@
       "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "TOP BOY",
+        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 123157,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Letter To Ur Ex",
@@ -1505,46 +1545,6 @@
       "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "TOP BOY",
-        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 123157,
-      "name": "Bow Down",
-      "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Soulection Takeover: 2K23 Edition",
-        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
-      },
-      "artists": [
-        {
-          "name": "Phabo",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Soulection",
-          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "Step 2 Me",
-      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Not a Statistic",
@@ -1579,6 +1579,46 @@
       "duration_ms": 168000,
       "name": "uni",
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "What It Do",
+        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
+      },
+      "artists": [
+        {
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 185566,
+      "name": "What It Do (with Fridayy)",
+      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+      },
+      "artists": [
+        {
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "Step 2 Me",
+      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1627,26 +1667,6 @@
       "duration_ms": 167862,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "What It Do",
-        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
-      },
-      "artists": [
-        {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 185566,
-      "name": "What It Do (with Fridayy)",
-      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1731,22 +1751,6 @@
       "duration_ms": 210379,
       "name": "CALI LOVE (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Destiny",
-          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
-        }
-      ],
-      "duration_ms": 198888,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     }
   ],
   "unique_name": "Some Kinda Way",

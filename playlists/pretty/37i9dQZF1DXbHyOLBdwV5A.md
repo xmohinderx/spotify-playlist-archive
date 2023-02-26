@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,446 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,529 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 58 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
 | 59 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 60 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
-| 61 | [O Sonho Não Acabou \(Remix\)](https://open.spotify.com/track/1ntfplj7r38AbtS5LiSjMS) | [DJ Prince](https://open.spotify.com/artist/05bu4oItYBNlRVg0GrZjEJ) | [DJ Prince Hits \(Remix\)](https://open.spotify.com/album/1N3ZpP17GGlFTNd6dPXtT2) | 3:46 |
-| 62 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
-| 63 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
+| 61 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
+| 62 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
+| 63 | [O Sonho Não Acabou \(Remix\)](https://open.spotify.com/track/1ntfplj7r38AbtS5LiSjMS) | [DJ Prince](https://open.spotify.com/artist/05bu4oItYBNlRVg0GrZjEJ) | [DJ Prince Hits \(Remix\)](https://open.spotify.com/album/1N3ZpP17GGlFTNd6dPXtT2) | 3:46 |
 | 64 | [Recomeço](https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Recomeço](https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL) | 3:32 |
 | 65 | [Rei da Revoada \- Remix](https://open.spotify.com/track/24Sg8149jRsZxYcoY67hoY) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [George Morais](https://open.spotify.com/artist/6YSJDpVtDDlJydO4n9NOiX) | [Rei da Revoada \(Remix\)](https://open.spotify.com/album/0KrAlUgsvBss83xPJbILNS) | 2:25 |
 | 66 | [Te Seguirei](https://open.spotify.com/track/1XkJ57HfgrIQu33KU9zgrf) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Luiz Halleluia](https://open.spotify.com/artist/2FPYPMdnIsbKqEqui6NHHl), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Te Seguirei](https://open.spotify.com/album/3j4H2AabxhI6Fw09Ewd6Pd) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 | 75 | [Nothing But The Blood](https://open.spotify.com/track/5TpY5xqQ6YI00qx3LvbusQ) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Nothing But The Blood](https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH) | 2:33 |
 
-Snapshot ID: `MTY3NzIzNzY0MSwwMDAwMDAwMDc5M2Y4YmUwZTM4MTA3OTJmNzMyMWVlY2E5ZDUzMGQ1`
+Snapshot ID: `MTY3NzIzNzY0MSwwMDAwMDAwMDA5YTllYTdkMTcyOWJhMmYwOGQwNGY2M2M1ODRjYmVj`

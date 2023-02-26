@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,567 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,570 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 63 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 |
 | 64 | [OneZeroFive](https://open.spotify.com/track/1Bz2tMa5sDHPv8WRuv70YG) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [OneZeroFive](https://open.spotify.com/album/4NiW1m0wO7YA2XeXB5NdNw) | 4:23 |
 | 65 | [Dancing in Berlin in 90S](https://open.spotify.com/track/7DM4O1uQO3WiRiZJm1zk81) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Never Ending Sounds](https://open.spotify.com/album/11bThZOv2PQOZBjumvIx8L) | 9:21 |
-| 66 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 |
+| 66 | [Mirage](https://open.spotify.com/track/3nxI9GHu2s7hRDtlBzA8ix) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/0mir9qvtpPvTXrBIg4r7xE) | 3:48 |
 | 67 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 |
 | 68 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 |
 | 69 | [Take Me Higher](https://open.spotify.com/track/7r8Q5lPGmMyYccWfUlyGDl) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Fatigue](https://open.spotify.com/album/1YBhDndtypbg5SBwDcqXZ2) | 7:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 |
 | 100 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 
-Snapshot ID: `MTY3NDIxOTg1NywwMDAwMDAwMGE3ODVkMjQ3YTI2NWI0YzViMzBlYWY3NTgwMzRkODU1`
+Snapshot ID: `MTY3NDIxOTg1NywwMDAwMDAwMGJlNmUwNGNlYWM3YzQ1MTJiNjc2ZDVmZTIxNmZiYjg1`

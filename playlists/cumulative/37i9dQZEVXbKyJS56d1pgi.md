@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-750 songs - 1 day 17 hr 34 min
+751 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2022-09-11 |
 | [DIAS](https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:49 | 2023-01-21 | 2023-02-20 |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-12-01 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-24 |
 | [Diferença Mara](https://open.spotify.com/track/0dLkZwE2Xt4ETtUt5cED2l) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:49 | 2022-10-02 | 2022-11-29 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-16 | 2021-08-19 |
@@ -531,7 +532,7 @@
 | [Pra Mim](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Pra Mim](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-02-19 | 2022-02-21 |
 | [PRA MIM](https://open.spotify.com/track/6wDT7SWDZPlOoneWOmSmSC) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 2:33 | 2022-04-05 | 2022-04-11 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
-| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-05 |  |
+| [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-05 | 2023-02-26 |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-11-23 | 2021-12-22 |
 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/3lJ8BcGM1ROQ1ufneU3Qya) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/4ZHtNy8nlylDT1QtQdEA5l) | 2:38 | 2021-04-26 | 2021-06-22 |
 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/73x4PDzlTdJkAa8GtjnUs0) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [Batidão Stronda](https://open.spotify.com/artist/5JNJDtyiFwY74t1uZx0N3Y) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/0m4lLqpcMKDmgh6VCBN2Kk) | 2:38 | 2021-06-22 | 2021-07-21 |

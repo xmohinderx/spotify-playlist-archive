@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 14 | [Pull My Heart Away](https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn) | [Samuel Sweat](https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Pull My Heart Away](https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv) | 2:30 |
 | 15 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
 | 16 | [Broken](https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Broken](https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa) | 3:35 |
-| 17 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
-| 18 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
+| 17 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
+| 18 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
 | 19 | [The Breakup Song](https://open.spotify.com/track/5U4zBRfVdqaL1kOULNtZ1T) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 3:24 |
 | 20 | [Busted Heart \(Hold On To Me\)](https://open.spotify.com/track/3p6xfj47lt8TfOax2oB2Mr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Crave](https://open.spotify.com/album/6UoU5gg48va0GbZchRK1pw) | 3:18 |
 | 21 | [Safe](https://open.spotify.com/track/55s8YHBut1n9rtE44jAHxJ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 3:40 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 24 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
 | 25 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
 | 26 | [Song of a Broken Heart](https://open.spotify.com/track/0zRjxy9NIytQwIP4jHZxEx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 4:01 |
-| 27 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
-| 28 | [No Business](https://open.spotify.com/track/7bmDnmD3RiILoffwBo10mV) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 5:32 |
+| 27 | [No Business](https://open.spotify.com/track/7bmDnmD3RiILoffwBo10mV) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 5:32 |
+| 28 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
 | 29 | [I Will Follow](https://open.spotify.com/track/4EXGTpGRXFnvzM0DL6PFTj) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Little Songs](https://open.spotify.com/album/5n4kw77YDsDW8niS0MawJe) | 4:17 |
 | 30 | [fast forward](https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [fast forward](https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs) | 2:07 |
 | 31 | [FOREVER](https://open.spotify.com/track/6rAswyUJ2ckYCLDG1oPg1u) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [FOREVER](https://open.spotify.com/album/3VQ1BFX9dqOsr2zbiS0TQ3) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 50 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 
-Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMDQyZDkzMjc2OTY4ODQyMzE2MjkzNWM3YTUzMzZhYzIy`
+Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMDI1YmU2MTEwMmNjMmM5MzJkZDMwM2RiYjhmM2Q0Zjdm`

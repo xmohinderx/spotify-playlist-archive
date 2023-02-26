@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Loyaltty y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 11362,
+  "num_followers": 11367,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDkwYThiMjQ0YWZiNjYyMTcwMzQ5NGQxMWFhM2ViNzMx",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDVmMDliYTlkOTVmMTcxMzE4MTA4NDBhNWZhOTA3ZDM3",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "Mami Trap",
         "url": "https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 220800,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
     },
     {
       "added_at": "2023-02-01 03:00:00",

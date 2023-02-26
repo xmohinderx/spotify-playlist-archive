@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-393 songs - 20 hr 37 min
+394 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [do it right \(feat\. Aminé\)](https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [do it right \(feat\. Aminé\)](https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP) | 2:49 | 2022-05-27 | 2023-02-21 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-05-27 | 2022-11-12 |
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2022-05-27 | 2022-09-03 |
+| [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-24 |  |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-07-22 |  |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2022-05-27 | 2022-07-29 |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2022-11-04 | 2022-11-14 |
@@ -143,7 +144,7 @@
 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-05-27 |  |
 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
 | [Have We Met Before \(with Eric Nam\)](https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Have We Met Before \(with Eric Nam\)](https://open.spotify.com/album/3CugoYr2fheAKsUkc4wsVo) | 2:38 | 2022-05-27 |  |
-| [Healing House](https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Healing House](https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk) | 3:47 | 2022-07-15 |  |
+| [Healing House](https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Healing House](https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk) | 3:47 | 2022-07-15 | 2023-02-26 |
 | [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 | 2022-09-02 | 2022-11-12 |
 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2022-05-27 | 2022-07-08 |
 | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/track/2RKSmt3Dv1d4JFDr55LbWg) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ) | 3:50 | 2022-05-27 |  |

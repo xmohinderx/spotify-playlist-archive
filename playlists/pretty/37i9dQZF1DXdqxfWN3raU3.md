@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Zöelle en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,743 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,759 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 37 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 |
 | 38 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 |
 | 39 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
-| 40 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 |
+| 40 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
 | 41 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
-| 42 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
+| 42 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 |
 | 43 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 |
 | 44 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
 | 45 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 |
 | 46 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 47 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 |
 | 48 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
-| 49 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 |
-| 50 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 |
+| 49 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 |
+| 50 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
 
-Snapshot ID: `MTY3NzI2MDI1NiwwMDAwMDAwMDVlNDdiNDZiOWMzNjEzMGQwMjkyMjVlNzAwMTI5OGZm`
+Snapshot ID: `MTY3NzI2MDI1NiwwMDAwMDAwMDdkZjExZTJlZWRkZmVmYzA2YTczZDZjNWRjNTkwYzY3`

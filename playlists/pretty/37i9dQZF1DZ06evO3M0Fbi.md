@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,050 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,474 likes - 39 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 38 | [Dive](https://open.spotify.com/track/6G2baGa99QcqUUTmkEgeZl) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 3:55 |
 | 39 | [Mr\. Moustache](https://open.spotify.com/track/5TZbtpZcTWKEn81Du4hiTb) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:23 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDBlMGM0M2Q1NWJlYjQ0NWVjNzA2MTNjMmQ4ZDFlYjYxZA==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDBmZjIxOGQ1MGQ1ZGIxODcyZDdmMzU1NjY3NzcyMDIwZg==`

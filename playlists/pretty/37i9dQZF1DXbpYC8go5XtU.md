@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,389 likes - 146 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,432 likes - 146 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 89 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 |
 | 90 | [Departure \(The Soul Longs for Freedom\)](https://open.spotify.com/track/72FZCwQOO0M7WZBEM4azIH) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Luminessence](https://open.spotify.com/album/6H1SJeFEtNGELRydkjyKwt) | 7:20 |
 | 91 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 |
-| 92 | [Night Bus](https://open.spotify.com/track/02M7FV29TMBj8GSxECo5Bm) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/38MtIlsByS3HzNX7FrfEfF) | 2:20 |
+| 92 | [Night Bus](https://open.spotify.com/track/3dVdnRZ0LGOfNUp6bxfWKI) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/6WNWQa1Is48wF6ggW4TzC4) | 2:13 |
 | 93 | [Six](https://open.spotify.com/track/3l1Ld5EdRs8OMdbzgqcolH) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 5:34 |
 | 94 | [Genesis](https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf) | 5:16 |
 | 95 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 145 | [Faint Light](https://open.spotify.com/track/1gmQkUuVVE7mIyU4PDnnge) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:20 |
 | 146 | [Ripples \(36 After Dark Version\)](https://open.spotify.com/track/2gCzNknEvRclWSknkujPbp) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 5:25 |
 
-Snapshot ID: `MTY3NDgzNjcyMywwMDAwMDAwMGIwMTg5MDU0MDI4ODgzYzA1MWFmYzBkYzc0OGFhYTIy`
+Snapshot ID: `MTY3NDgzNjcyMywwMDAwMDAwMGE4MDc0NjFkYzkxMGM0MjJiOGMxZjM0YjYwNzNkMGY1`

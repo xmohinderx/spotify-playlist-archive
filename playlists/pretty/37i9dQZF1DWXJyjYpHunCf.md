@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,985 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,108 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 21 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
 | 22 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 23 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
-| 24 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 |
-| 25 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
+| 24 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
+| 25 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 |
 | 26 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
 | 27 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
 | 28 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 46 | [Never Come Back Again](https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Austin Plaine](https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN) | 3:16 |
 | 47 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
 | 48 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
-| 49 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
+| 49 | [Coffee](https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj) | 3:05 |
 | 50 | [Wildflower](https://open.spotify.com/track/7HYVXHGXsXOoQGi7UjYBrQ) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa) | 3:32 |
 | 51 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
-| 52 | [Coffee](https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj) | 3:05 |
+| 52 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
 | 53 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
 | 54 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 55 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 73 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 |
 | 74 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
 | 75 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
-| 76 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 |
-| 77 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 |
+| 76 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 |
+| 77 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 |
 | 78 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
 | 79 | [Do Right](https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Do Right](https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP) | 3:33 |
 | 80 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Help Me to Feel Again](https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/656dTune8st7zgtyUljuGH) | 4:22 |
 | 100 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDY5Zjg3NDkxMjIyZmExMmEzMmUzZTA1Nzc5ZTMxZDc2`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDAyOWFmY2QxZDIwZmFjYjM5ZjA4OTkwOGRiM2Q2Nzhh`

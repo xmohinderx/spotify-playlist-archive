@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape \#040 featuring Hozwal 🔥\. Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844,450 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844,483 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

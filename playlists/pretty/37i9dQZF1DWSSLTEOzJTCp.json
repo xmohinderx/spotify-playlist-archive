@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 7317,
+  "num_followers": 7336,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMDJmMzk3NjljZDQ2NGQ2ODEzZmNlYTljYjJiYzJjMjY1",
+  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMGU0MjMzMmVkMTBmYzAzMDExNTc1NGIzY2M3YmJlZWFm",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "DISRUPTOR LP",
-        "url": "https://open.spotify.com/album/2N9vEGNuEuqxG5rGBIKIME"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "IMY",
-      "url": "https://open.spotify.com/track/1AMhHu4zL3CGHHHqJhOyhV"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -983,6 +963,30 @@
       "duration_ms": 225346,
       "name": "Deathstalker",
       "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
     }
   ],
   "unique_name": "dance tracks we smashed our controllers to in 2022",

@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181662,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra"
+    },
+    {
+      "album": {
         "name": "EDC Las Vegas 2021",
         "url": "https://open.spotify.com/album/5IBne83Up06sVwVAacqzTc"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 181662,
       "name": "Middle",
       "url": "https://open.spotify.com/track/7cb1au0v5kAw8fPdCio8Zi"

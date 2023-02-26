@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Sit back and enjoy Michael Bublé’s favorite love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972,974 likes - 67 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973,280 likes - 67 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

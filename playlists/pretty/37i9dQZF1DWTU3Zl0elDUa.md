@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,450 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,578 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 11 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 12 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
 | 13 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
-| 14 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
-| 15 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
+| 14 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
+| 15 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
 | 16 | [My Feeling \- Daddy's Prime Time Edit](https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [My Feeling](https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5) | 3:48 |
 | 17 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 18 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 22 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 |
 | 23 | [Showing Out \(Get Fresh At the Weekend\) \- 7" Version](https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:34 |
 | 24 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
-| 25 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
-| 26 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
+| 25 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
+| 26 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
 | 27 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
 | 28 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
 | 29 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 | 60 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGIwYmJjNWI3MTk5NmI0ZThlYzEzZTgzODQ2Y2UzNjFh`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGEwY2NjOTNjYTUzODU1YWE2N2UwNzM1ZWFiODdjYjY4`

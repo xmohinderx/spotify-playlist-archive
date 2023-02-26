@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDExZTM2YjQ4NDhlZTg4NDgxNDk1Y2RlNDRkMzkxNDdm",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGJkNTQzODcyNTM5ODEyNTkzNDFiMGRlMTZiNjg0NDM5",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "QUIET",
-        "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 174590,
-      "name": "QUIET",
-      "url": "https://open.spotify.com/track/7tTojNH9f7n2MeAO5HaqAS"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "QUIET",
+        "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 174590,
+      "name": "QUIET",
+      "url": "https://open.spotify.com/track/7tTojNH9f7n2MeAO5HaqAS"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 194798,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "You Still Do",
+        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 231641,
+      "name": "You Still Do",
+      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Fearless / Fill Up The Sky (Live)",
         "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "You Still Do",
-        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 231641,
-      "name": "You Still Do",
-      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "City Lights (feat. Mitch Wong)",
-        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
       },
       "artists": [
         {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "Jasmine Murray",
+          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
         }
       ],
-      "duration_ms": 238573,
-      "name": "City Lights (feat. Mitch Wong)",
-      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
+      "duration_ms": 207893,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
+        "name": "City Lights (feat. Mitch Wong)",
+        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
       },
       "artists": [
         {
-          "name": "Jasmine Murray",
-          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 207893,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
+      "duration_ms": 238573,
+      "name": "City Lights (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
     },
     {
       "added_at": "2020-08-13 14:39:00",

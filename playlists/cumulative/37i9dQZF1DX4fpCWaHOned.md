@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-423 songs - 23 hr 39 min
+424 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2023-01-05 |  |
 | [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-06-03 | 2022-07-29 |
 | [Body Of Water](https://open.spotify.com/track/3t3nRJMR8dvWySXrgGUpyD) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Pop?](https://open.spotify.com/album/36IWTKTouQV9aExZzuG6sP) | 3:08 | 2021-12-10 | 2022-01-08 |
-| [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2023-02-03 |  |
+| [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2023-02-03 | 2023-02-26 |
 | [Born This Way](https://open.spotify.com/track/6wAdqKcL7uESrsekjLTKod) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/6brEmLzLxjAOB0KcXdT7ye) | 4:20 | 2019-08-26 | 2022-04-21 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2022-03-25 | 2023-02-25 |
 | [Boy](https://open.spotify.com/track/5EZddmJbPQqc8IAn0992iK) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 2:58 | 2022-03-12 | 2022-07-29 |
@@ -385,6 +385,7 @@
 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 | 2020-07-18 | 2021-10-23 |
 | [Tomboy](https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Tomboy](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) | 3:23 | 2022-04-15 | 2022-11-13 |
 | [Toothbrush](https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:51 | 2019-10-25 | 2019-10-26 |
+| [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 |  |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-08 | 2022-04-18 |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2019-07-29\* | 2021-07-27 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-03 |  |

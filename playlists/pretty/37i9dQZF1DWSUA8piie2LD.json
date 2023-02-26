@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 62920,
+  "num_followers": 63032,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA2ODk5NSwwMDAwMDAwMDMwZTFjZjMwOTM3ZTk1MTU2ZDczMjc5NjQ5YTc5YjIz",
+  "snapshot_id": "MTY3NzA2ODk5NSwwMDAwMDAwMGIwMGQ3NjRkMjEwMWIxZjM1MGM5ODFlNjk1OTgzN2Q5",
   "tracks": [
     {
       "added_at": "2023-02-15 09:46:03",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Day Into Night",
         "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 238066,
       "name": "Greenstreet",
       "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 238506,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/5Ok60qRT2vAj3n9qLa9Ez6"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 259973,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 340386,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 259973,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 266693,
       "name": "The Closer I Get To You",
       "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Najee's Theme",
-        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 284773,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 253760,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "Najee's Theme",
+        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 284773,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 238053,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "Above The Clouds",
+        "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 228573,
-      "name": "A Quiet Place",
-      "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
+      "duration_ms": 222853,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Above The Clouds",
-        "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 222853,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
+      "duration_ms": 228573,
+      "name": "A Quiet Place",
+      "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 283866,
       "name": "Twice in a Lifetime",
       "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2023-02-15 09:46:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-02-15 09:46:03",
       "album": {
-        "name": "Body And Soul",
-        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Missing in Venice",
-      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
-    },
-    {
-      "added_at": "2023-02-15 09:46:03",
-      "album": {
         "name": "Someone To Love You",
         "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 290453,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
+    },
+    {
+      "added_at": "2023-02-15 09:46:03",
+      "album": {
+        "name": "Body And Soul",
+        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Missing in Venice",
+      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
     },
     {
       "added_at": "2023-02-15 09:46:03",

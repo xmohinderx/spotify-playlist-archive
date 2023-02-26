@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,424 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,442 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 40 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0owGTle1xBp2AZIchl6fp6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Chicago Plays the Stones](https://open.spotify.com/album/0vjdJ6AWmF5G4gsSx53UlI) | 4:53 |
 | 41 | [Hold That Plane](https://open.spotify.com/track/5GC65lioZ3LQbbvMM4dwPi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [70s Blues](https://open.spotify.com/album/6glPjbgakqems9vEZFqlVJ) | 4:41 |
 | 42 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 |
-| 43 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
-| 44 | [Well Enough Alone](https://open.spotify.com/track/7L9e89SRU78ZRhfSuXTz5L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:12 |
+| 43 | [Well Enough Alone](https://open.spotify.com/track/7L9e89SRU78ZRhfSuXTz5L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:12 |
+| 44 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
 | 45 | [Miss Ida B](https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:24 |
 | 46 | [Midnight Train \(feat\. Jonny Lang\)](https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Heavy Love](https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu) | 5:20 |
 | 47 | [Five Long Years](https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 8:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
 | 50 | [Thick Like Mississippi Mud](https://open.spotify.com/track/1fgZiaEwBM4kWspi3Ay0kU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:03 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDBlZTI4NjI1YTdiZDYxMjVlOWI4NTlkYTk5ZjExMjA1Yg==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAxNmM5YjE1N2FkMzA3ZmY2ZDFmOTk4NTQ0NWU4NGMxNA==`

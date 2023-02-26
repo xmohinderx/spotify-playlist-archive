@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,760 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,880 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 92 | [Turn the Beat Around](https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Hold Me, Thrill Me, Kiss Me](https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij) | 3:53 |
 | 93 | [Sopa de Caracol](https://open.spotify.com/track/3ralpk3PMxEPoFKO0hiJMv) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Sopa de Caracol, Golden Hits \- Exitos de Siempre](https://open.spotify.com/album/01naNJTQzXeef1d5oYd7AQ) | 4:48 |
 | 94 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 |
-| 95 | [Rhythm Divine](https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:29 |
-| 96 | [Pelo Suelto](https://open.spotify.com/track/3ZbIfOTLykp21uW9C6Qjjt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/37g1a9T6uyQu0Pwoz6ZkOA) | 3:27 |
+| 95 | [Pelo Suelto](https://open.spotify.com/track/3ZbIfOTLykp21uW9C6Qjjt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/37g1a9T6uyQu0Pwoz6ZkOA) | 3:27 |
+| 96 | [Rhythm Divine](https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:29 |
 | 97 | [Feelin' So Good \(feat\. Big Pun & Fat Joe\)](https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:26 |
 | 98 | [Decir Adios](https://open.spotify.com/track/6reBDUywHDqzG83LVQHscL) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Carlos Ponce](https://open.spotify.com/album/3pZKMylMWkwow7VbOQB6z2) | 4:29 |
 | 99 | [Tiempo De Vals](https://open.spotify.com/track/6MfrzCRWvSYdCMuFk5ZRne) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:07 |
 | 100 | [Cerca De Ti](https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L) | [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Donde Quiera Que Estes](https://open.spotify.com/album/6Cyaqqy2rSqwyJYN1sZAv3) | 3:51 |
 
-Snapshot ID: `MTY3NjY2Nzk5MywwMDAwMDAwMDE4Mjk3NzEwY2ZkZjhmOTE3MjBlMDQ3ZGY1OTQyNjNh`
+Snapshot ID: `MTY3NjY2Nzk5MywwMDAwMDAwMGZkMTU4MDJmZWRhYWQyNzJkNzczZjE1NWFhZjhlZjg5`

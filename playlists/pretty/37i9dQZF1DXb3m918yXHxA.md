@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,137 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,574 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 24 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
 | 25 | [Stumblin' In \- 2017 Remaster](https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7) | [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc), [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Stumblin' In \(2017 Remaster\)](https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F) | 3:59 |
 | 26 | [Reminiscing \- Remastered 2022](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
-| 27 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 3:57 |
-| 28 | [Foolish Heart](https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:39 |
+| 27 | [Foolish Heart](https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:39 |
+| 28 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 3:57 |
 | 29 | [Lido Shuffle](https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:41 |
 | 30 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 |
 | 31 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 33 | [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 |
 | 34 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 35 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
-| 36 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
-| 37 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
+| 36 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
+| 37 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
 | 38 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
 | 39 | [Islands In the Stream](https://open.spotify.com/track/6dnco8haegnJYtylV26cBq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Greatest Hits](https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs) | 4:11 |
 | 40 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 71 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 3:29 |
 | 72 | [Heart to Heart](https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [High Adventure](https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA) | 5:22 |
 | 73 | [Too Hot](https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 4:55 |
-| 74 | [You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Rock On](https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO) | 3:23 |
-| 75 | [All Right](https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/4NiGOhxV6wViotkZKDv17G) | 4:19 |
+| 74 | [All Right](https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/4NiGOhxV6wViotkZKDv17G) | 4:19 |
+| 75 | [You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Rock On](https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO) | 3:23 |
 
-Snapshot ID: `MTY2OTI0NTc2MiwwMDAwMDAwMGIyMDczYzg0YzgyNzY4NjVmMTZkNDNkMDI1MDZjY2Y2`
+Snapshot ID: `MTY2OTI0NTc2MiwwMDAwMDAwMDYxMmM1NmU3NjI3MzIzMjdlMjFhMWM5YzhjYjM2OThh`

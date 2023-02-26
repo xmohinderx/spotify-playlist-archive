@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-176 songs - 12 hr 15 min
+177 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Moonlight Serenade](https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:22 | 2022-06-22 |  |
 | [Moonlight Serenade](https://open.spotify.com/track/3xXrF1nomzDLLMngfZNmKw) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/0eMgf6ydxMDMjoSQXDyQwn) | 4:22 | 2019-05-26\* | 2022-07-29 |
 | [My Baby Just Cares For Me](https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Sophie Milman](https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5) | 3:34 | 2022-05-02 | 2022-12-01 |
+| [My Funny Valentine](https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [My Funny Valentine](https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC) | 4:51 | 2023-02-15 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:32 | 2019-05-26\* | 2022-10-08 |
 | [My One and Only Love](https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Ain't No Sunshine / My One and Only Love](https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC) | 4:40 | 2019-05-26\* |  |
 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 | 2019-05-26\* | 2022-05-03 |
@@ -158,7 +159,7 @@
 | [The More I See You](https://open.spotify.com/track/7DbqsBxxj4bUcEGiVUpk6m) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:47 | 2022-05-09 | 2022-05-16 |
 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-14 |  |
 | [The Nearness Of You](https://open.spotify.com/track/5Q8vFGe2wgjD50TzkHWAkp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Precious & Rare: Nancy Wilson](https://open.spotify.com/album/1qvEgeCQpyGkmEFCL2fH8C) | 2:58 | 2019-05-26\* | 2022-05-03 |
-| [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 | 2022-05-02 |  |
+| [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 | 2022-05-02 | 2023-02-26 |
 | [The Very Thought Of You](https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O) | 6:01 | 2019-05-27 | 2022-07-28 |
 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 | 2022-06-22 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [William Galison](https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn) | [Got You on My Mind](https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S) | 3:02 | 2022-05-02 |  |

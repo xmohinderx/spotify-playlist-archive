@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,260 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,268 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 9 | [Tango en Segunda](https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 3:32 |
 | 10 | [Límites](https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:38 |
 | 11 | [Los Piratas \- MTV Unplugged](https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 2:56 |
-| 12 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 |
+| 12 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
 | 13 | [El Mareo](https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 4:35 |
-| 14 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
-| 15 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
+| 14 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
+| 15 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
 | 16 | [Como Dos Extraños \(feat\. Nestor Marconi\)](https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Néstor Marconi](https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H) | [Cuerpo y Alma](https://open.spotify.com/album/7oJZTQbJsNJ5qKDdTBwpUH) | 2:54 |
-| 17 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
+| 17 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 |
 | 18 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
 | 19 | [Desencuentro](https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 2:21 |
 | 20 | [Tango del Diablo](https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:07 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 41 | [Las Tribus](https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:45 |
 | 42 | [Laura Va](https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:15 |
 | 43 | [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 |
-| 44 | [Nocturno A Mi Barrio](https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Bagayo](https://open.spotify.com/album/7CSdj0Rlyoc3INm3uCD1yl) | 2:20 |
-| 45 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
+| 44 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
+| 45 | [Nocturno A Mi Barrio](https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Bagayo](https://open.spotify.com/album/7CSdj0Rlyoc3INm3uCD1yl) | 2:20 |
 
-Snapshot ID: `MTY1NjA5NDkzOCwwMDAwMDAwMGFmNGQ3MzJlZTFhMjE2YjEwYzY5YmMzMzg2NGJmNTU4`
+Snapshot ID: `MTY1NjA5NDkzOCwwMDAwMDAwMDc3OGUyOTQwNjRkYjkwYjEyMDVkYjFjNDA1MDEyMWU3`

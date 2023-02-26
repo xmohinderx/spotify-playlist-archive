@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Inspired by the latest Nike x Ambush collaboration, Creative Director Yoon, curates a playlist to kick off NYFW.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,298 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,396 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

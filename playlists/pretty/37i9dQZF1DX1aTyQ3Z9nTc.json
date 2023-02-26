@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 114676,
+  "num_followers": 114707,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNzU1OSwwMDAwMDAwMGZiY2QzMmUyYzdhYzU1NmIzODc1MjlkMWIzZjdkNmNj",
+  "snapshot_id": "MTY3NzIxNzU1OSwwMDAwMDAwMDFlZTlmZTU1ZjNhMjJiMzUwZDFjMDJlNzYyZTczYmU3",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
       "added_at": "2022-10-28 04:39:09",
       "album": {
         "name": "Rose Rouge",
@@ -879,22 +895,6 @@
       "duration_ms": 277786,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Been Thinking",
-        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187275,
-      "name": "Been Thinking",
-      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
       "added_at": "2022-05-02 22:05:00",

@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: shame
 
-868 songs - 1 day 19 hr 54 min
+869 songs - 1 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,7 +814,8 @@
 | [Uncertain Joys](https://open.spotify.com/track/27yMT64bCRQwD5hsLFd7ks) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/5K5qqlXzxEv2KhpCvT3vh1) | 3:23 | 2023-01-13 |  |
 | [Uncertain Joys](https://open.spotify.com/track/459r5TBLEcMx05Fp8T3QIq) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/0VE0o7RLM1ESFTzpMdhgEk) | 3:23 | 2023-01-13 | 2023-01-14 |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2021-12-17 | 2022-02-25 |
-| [Under the Streetlight](https://open.spotify.com/track/0W2KwafSXnq7v35p5dtLnW) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Under the Streetlight](https://open.spotify.com/album/5oTKOg11hiQfI4aYFn0vb5) | 2:56 | 2022-11-18 |  |
+| [Under the Streetlight](https://open.spotify.com/track/0W2KwafSXnq7v35p5dtLnW) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Under the Streetlight](https://open.spotify.com/album/5oTKOg11hiQfI4aYFn0vb5) | 2:56 | 2022-11-18 | 2023-02-26 |
+| [Under the Streetlight](https://open.spotify.com/track/7hPc1Q8iPbYBzZw6eAOlTa) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 2:56 | 2023-02-24 |  |
 | [Underdogs](https://open.spotify.com/track/4MALiTKHAOFmOqXe16bt8K) | [Cherryade](https://open.spotify.com/artist/2Z4zth26FtZ4lK2Yu9nBgV) | [Underdogs](https://open.spotify.com/album/10UUUzUXqMPXyoKeVPrALd) | 3:36 | 2022-04-28 | 2022-06-03 |
 | [Unexplainabletitlesleavingyouwonderingwhy \(Welcome In\)](https://open.spotify.com/track/47qjXoKOXDiIZT5jSoydD2) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 1:45 | 2022-05-20 | 2022-07-01 |
 | [Unnamed Song](https://open.spotify.com/track/5jf15rbmGjj6E8k7EJMTV6) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Unnamed Song](https://open.spotify.com/album/4XRTzbvLTIPyHnngt3bfiZ) | 2:58 | 2022-07-28 | 2022-09-09 |

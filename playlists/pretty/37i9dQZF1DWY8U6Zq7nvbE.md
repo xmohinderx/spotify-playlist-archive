@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,785 likes - 180 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,815 likes - 180 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

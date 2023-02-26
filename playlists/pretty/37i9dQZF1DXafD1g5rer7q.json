@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 332367,
+  "num_followers": 332551,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1OTM4NiwwMDAwMDAwMDBkYjcwYTlkMDFmZTU2MmVmZDk3ZTZlNWNkMDc4MWVi",
+  "snapshot_id": "MTY3NTk1OTM4NiwwMDAwMDAwMDEwZjM0M2Y4YmY2MWNkNzM5NWEwNGQzODMxMTlmYzg3",
   "tracks": [
     {
       "added_at": "2023-02-09 16:15:23",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-02-09 16:15:23",
       "album": {
-        "name": "Hooked (Hot Stuff)",
-        "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
-      },
-      "artists": [
-        {
-          "name": "RIKA",
-          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Hooked (Hot Stuff)",
-      "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
-    },
-    {
-      "added_at": "2023-02-09 16:15:23",
-      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2023-02-09 16:15:23",
+      "album": {
+        "name": "Hooked (Hot Stuff)",
+        "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
+      },
+      "artists": [
+        {
+          "name": "RIKA",
+          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Hooked (Hot Stuff)",
+      "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
     },
     {
       "added_at": "2023-02-09 16:15:23",

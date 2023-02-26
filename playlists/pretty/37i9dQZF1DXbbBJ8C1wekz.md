@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,608 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,658 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 57 | [Meu Corre](https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Corre](https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr) | 2:50 |
 | 58 | [Disfarce](https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6) | 2:56 |
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
-| 60 | [Fiquei Rico Cedo](https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Fiquei Rico Cedo](https://open.spotify.com/album/4PlhyAkvqUyaxsmbFtRyNS) | 3:48 |
+| 60 | [Trap de Cria](https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Trap de Cria](https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww) | 1:57 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDE0MzQ5ZjU1NTA4MTk2YzYyMTY1OGFhMDk1ZDc5ZmRk`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGQ2YmUwNWNkYmU3YTY5YTIyNTQ1NGU4OGMyOGM4NDFi`

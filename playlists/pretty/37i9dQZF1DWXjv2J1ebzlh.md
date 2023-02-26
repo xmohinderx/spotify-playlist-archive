@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,432 likes - 1,172 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,469 likes - 1,172 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -353,7 +353,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 343 | [Ceddo End Title](https://open.spotify.com/track/5d00kR2kWPxc1rnKsGh32S) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 5:09 |
 | 344 | [T.I.B.W.F.](https://open.spotify.com/track/1Bx3trnFdCStyiV5PF0vkj) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v) | 2:40 |
 | 345 | [Benzaiten \(Reprise\)](https://open.spotify.com/track/4bixpfr8FZ4NYJ55EnZylH) | [Osamu Kitajima](https://open.spotify.com/artist/1nj6LuWJalUuYfBs0QO1sr) | [Benzaiten](https://open.spotify.com/album/1hpjbnNqkpNIj9nWV4Ejzc) | 11:26 |
-| 346 | [AL CALOR DE LA CUMBIA](https://open.spotify.com/track/0bKVH2zOibIz9OSRJPTqFZ) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [CUMBIA SOL MARINA](https://open.spotify.com/album/5pfc2ZHqgAM4OOlZuFeh71) | 3:36 |
+| 346 | [Al Calor de la Cumbia](https://open.spotify.com/track/3A7jHfd6t2PEsCMMJD5bBP) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [Gran Festival de Porros y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 3:35 |
 | 347 | [Tajir Waa Ilaah](https://open.spotify.com/track/5N6gJatr6C7yYToWsZ2ECU) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 6:50 |
 | 348 | [Gogo Rock](https://open.spotify.com/track/1BPVFB9lkbKd9YGcqCKBpQ) | [Kaleta & Super Yamba Band](https://open.spotify.com/artist/53Ru5pu6UYUdHONmoD3FRa) | [Mèdaho](https://open.spotify.com/album/1DXEM3i2YNs3qxXdBtJqdK) | 2:58 |
 | 349 | [Music de Carnaval](https://open.spotify.com/track/5NqQovaNr0L2VVn9Svdlmf) | [Magdy Al Hussainy](https://open.spotify.com/artist/1xo3eWzfxA5p7tkBahC6MD) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:10 |
@@ -1181,4 +1181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1171 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1172 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NTg0NjgwMCwwMDAwMDAwMDc3NDFiYzg5ZDdhMDU0NTYzZGQ3OGExNmY4OTIzMmI2`
+Snapshot ID: `MTY3NTg0NjgwMCwwMDAwMDAwMGQ0ZDMxZGM4OTY5NTgwMjIyMjBlOTFkZWQ5MmQ4NmNi`

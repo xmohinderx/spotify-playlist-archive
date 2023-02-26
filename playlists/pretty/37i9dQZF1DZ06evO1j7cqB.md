@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,611 likes - 36 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,614 likes - 36 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 20 | [Valinor](https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:39 |
 | 21 | [The Echo and the River](https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:21 |
 | 22 | [Pull of the Light \(feat\. Eivør\)](https://open.spotify.com/track/6eGTqJ4IpQPqPrMMjCbdt2) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 1:44 |
-| 23 | [Comin' Thro' The Rye](https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 1:45 |
+| 23 | [People Disappear All the Time](https://open.spotify.com/track/2j03d8wjAXEh5Gyvs2GuiT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 3:32 |
 | 24 | [Númenor](https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 4:31 |
 | 25 | [Ashes \(feat\. Eivør\)](https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 6:09 |
 | 26 | [Theme from the Walking Dead](https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 0:49 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 35 | [Da Vinci's Demons Main Title Theme](https://open.spotify.com/track/0rIcf3rfCGyQYW5YK8udX1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Da Vinci's Demons \(Original Television Soundtrack\)](https://open.spotify.com/album/4U25uFdBkxGiOKOVOjN95m) | 1:08 |
 | 36 | [Echoes of an Old Life](https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:44 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDAwZmQwZTBjZGFmM2UzNjNjN2UzNDMxNGI4MDIxY2FjMA==`
+Snapshot ID: `Mjc5NTU2NTMsMDAwMDAwMDAxYmQ2NjkwOTg3MjJlZTlkODRhY2M2NzNhYzg5NjNhMg==`

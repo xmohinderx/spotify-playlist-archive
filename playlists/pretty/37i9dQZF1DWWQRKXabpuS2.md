@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: ماجد المهندس
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,959 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,010 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 |
+| 1 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 |
 | 2 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 3 | [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 |
 | 4 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 |
 | 50 | [Maashar Al Oshag](https://open.spotify.com/track/6ICQlcNHmIY6JTf4pTNCkJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Layali Dehrab](https://open.spotify.com/artist/5Jm0HiIbPtXDptk9iWN9uf) | [Maashar AlOshag](https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG) | 3:32 |
 
-Snapshot ID: `MTY3NzI2MTkwMCwwMDAwMDAwMGRiODhmODE3NWQxNzkzYTkzN2FkMjM1MjBjMWU5Mzlh`
+Snapshot ID: `MTY3NzI2MTkwMCwwMDAwMDAwMGNhNWM5ZDRkNDYwN2M2YTBjZGMxZTAxNGZiYmRmYWYw`

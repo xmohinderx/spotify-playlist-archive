@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,113 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,221 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 24 | [Love Me Like You Mean It](https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
 | 25 | [I Think I Fell in Love Today](https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 2:32 |
 | 26 | [Center Point Road](https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:36 |
-| 27 | [WHAT I HAVE](https://open.spotify.com/track/6NQRyB65XYawngq6Cq1uKm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:58 |
+| 27 | [THE LITTLE THINGS](https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:57 |
 | 28 | [Dibs](https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:03 |
-| 29 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
-| 30 | [Legends](https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 4:04 |
+| 29 | [Legends](https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 4:04 |
+| 30 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 | 31 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
 | 32 | [Yeah Boy](https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:14 |
 | 33 | [Love Song to the Earth](https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Johnny Rzeznik](https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Christina Grimmie](https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Q'orianka Kilcher](https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe) | [Love Song to the Earth](https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl) | 3:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 39 | [First Time Again](https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:24 |
 | 40 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDBlYmU5YmYwN2Y4Yzc0N2M4MDBmNzQ2YWVjNjk2ZTFjZA==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDBkYjUxZWI0YzllMzZmOTE1YWUyNThhZjVlOTdiM2ZiYw==`

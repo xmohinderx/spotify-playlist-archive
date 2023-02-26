@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-132 songs - 8 hr 18 min
+133 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Grace](https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:31 | 2023-01-27 |  |
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-11-25 |  |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-11-25 | 2023-02-22 |
-| [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-11-25 |  |
+| [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-11-25 | 2023-02-26 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-27 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-11-25 | 2023-01-10 |
 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 | 2022-11-25 |  |
@@ -129,6 +129,7 @@
 | [tolerate it](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:05 | 2022-11-25 | 2023-01-10 |
 | [Too Much](https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Take A Rest](https://open.spotify.com/album/3Zvzi22zGjr2oql67k8TgK) | 2:34 | 2022-11-25 | 2023-02-22 |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-11-25 | 2023-01-10 |
+| [Vie varda](https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Panorama](https://open.spotify.com/album/01noIpXbHsMP2fm8DpuPkd) | 3:54 | 2023-02-21 |  |
 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 | 2023-02-21 |  |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2022-11-25 |  |
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2022-11-25 |  |

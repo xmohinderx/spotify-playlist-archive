@@ -4087,6 +4087,28 @@
     },
     {
       "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -14428,7 +14450,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0"
@@ -15718,7 +15740,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
@@ -15790,7 +15812,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

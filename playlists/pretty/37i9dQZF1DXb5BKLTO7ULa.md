@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,450 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,472 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 43 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 | 44 | [Don't Hate Me](https://open.spotify.com/track/740fSe2KremXUF2V6e4KnG) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Don’t Hate Me](https://open.spotify.com/album/5onmM2jMU1bod6ybbehqAq) | 2:42 |
 | 45 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 |
-| 46 | [What's That Sound](https://open.spotify.com/track/0FLvjeVDjRrKW3hwNDylT6) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [What's That Sound](https://open.spotify.com/album/5ApqUzToMYI5NG5EEfmRlP) | 3:20 |
+| 46 | [What's That Sound](https://open.spotify.com/track/7Gj0Z7AnSwDH85rg1wgSBX) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [What's That Sound](https://open.spotify.com/album/0qpZh1uOVHVnKBBibeTJiX) | 3:20 |
 | 47 | [Short up Shorts](https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:34 |
 | 48 | [Doing Tonight](https://open.spotify.com/track/2U8r2hDQGAJ5ir6IrmK4cC) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Doing Tonight](https://open.spotify.com/album/3zQQi8tjb3Yoli3SH6Nakm) | 2:54 |
 | 49 | [Breek M'n Hart](https://open.spotify.com/track/0hOx46FJAbzeuBqlUubq2T) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Breek M'n Hart](https://open.spotify.com/album/6Wn1IzgFHLzCYfr8CyWI8m) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Diamonds](https://open.spotify.com/track/41SR1dMrx8vrBn3GWJ1Ika) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Diamonds](https://open.spotify.com/album/6JoxzAuwa8YOL0DafpgX1u) | 4:48 |
 | 100 | [I Won't Hurt You Again](https://open.spotify.com/track/3Q4maXH2ZZrXAmMNDo2jso) | [Wyke van Weelden](https://open.spotify.com/artist/49AdzUx2lR8JtzYBEyPZNB) | [I Won't Hurt You Again](https://open.spotify.com/album/2XlM06SQfHxdrPOYmiR1On) | 1:34 |
 
-Snapshot ID: `MTY3NzIzMzk3MiwwMDAwMDAwMDEwYzhmNGY1ZDg3MzE5YzNiMGQxMzM2OTVkYjNjNDdi`
+Snapshot ID: `MTY3NzIzMzk3MiwwMDAwMDAwMGE2ZTkyNGRhMDQyMDliNGMwZjNlZTA4OGY0N2RmMzMy`

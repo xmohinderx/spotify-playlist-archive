@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=bVY7L2IsT2WrsEWdiJNLJg">Bokani Dyer</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,754 likes - 80 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759 likes - 80 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

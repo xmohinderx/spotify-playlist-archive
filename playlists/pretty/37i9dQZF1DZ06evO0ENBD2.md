@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,590,001 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,590,830 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 17 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 |
 | 18 | [Too Much Love Will Kill You \- Remastered 2011](https://open.spotify.com/track/0W1uTK6I97CbjFKAVtRGfK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(2011 Remaster\)](https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0) | 4:19 |
 | 19 | [Hammer To Fall \- Remastered 2011](https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(2011 Remaster\)](https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y) | 3:38 |
-| 20 | [Fat Bottomed Girls \- 2011 Remaster](https://open.spotify.com/track/6IAVxNFi1W88UhDeyvOsdo) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 4:15 |
-| 21 | [I Want It All \- Single Version](https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL) | 4:01 |
+| 20 | [I Want It All \- Single Version](https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL) | 4:01 |
+| 21 | [Fat Bottomed Girls \- 2011 Remaster](https://open.spotify.com/track/6IAVxNFi1W88UhDeyvOsdo) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 4:15 |
 | 22 | [Friends Will Be Friends \- Remastered 2011](https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:06 |
 | 23 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:05 |
 | 24 | [Face It Alone](https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT) | 4:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 50 | [My Radio](https://open.spotify.com/track/4vdFjNRT82GDyclhl2m1kZ) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [My Radio](https://open.spotify.com/album/1y4xzHozevF6gHMZTmRy32) | 3:04 |
 | 51 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 |
 
-Snapshot ID: `Mjc5NTQwNzUsMDAwMDAwMDAwN2ExYTBiNDJiNWM4MDY4MmY4NjVmODc4Y2ZjMTViNQ==`
+Snapshot ID: `Mjc5NTU2NTMsMDAwMDAwMDAwMTcwMmRkYzc5OTI5ZTljMGNkOWU2YThmY2ZlNDlmMw==`

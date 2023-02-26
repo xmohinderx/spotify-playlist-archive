@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 949,
+  "num_followers": 953,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTIwMCwwMDAwMDAwMGU0ODU4MWRlODc2MDkwZjQzZjU2ODc0OWU3NzQ2MTQ0",
+  "snapshot_id": "MTY2NzI3NTIwMCwwMDAwMDAwMGY4YzU1ZDA5Mzk3NTJhNmVhNzY2OWZlMTVmNTgxMTM0",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -211,6 +211,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -255,26 +275,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Buy or Bye 2",
-        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
       },
@@ -303,22 +303,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "BETTER THAN YOU",
-        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+        "name": "Back In Blood (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 111970,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
+      "duration_ms": 184489,
+      "name": "Back In Blood (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -343,22 +343,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Back In Blood (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
       "artists": [
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 184489,
-      "name": "Back In Blood (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
+      "duration_ms": 111970,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -903,30 +903,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 184833,
-      "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -967,26 +959,30 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         }
       ],
-      "duration_ms": 211025,
-      "name": "PARTY (feat. Quavo & Takeoff)",
-      "url": "https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp"
+      "duration_ms": 184833,
+      "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920 likes - 50 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 921 likes - 50 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 23 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/15wnCuuVPp9DVRwz4E3uGC) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/30bd7R8eBRBJizOc0VNwUK) | 1:31 |
 | 24 | [Bringing This Baby Home](https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:49 |
 | 25 | [Doc McStuffins Theme Song](https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Doc McStuffins: The Doc Is In](https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE) | 0:56 |
-| 26 | [Pete The Cat Theme \(feat\. Elvis Costello\)](https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 0:45 |
-| 27 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 |
+| 26 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 |
+| 27 | [Pete The Cat Theme \(feat\. Elvis Costello\)](https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 0:45 |
 | 28 | [The Loud House Theme Song](https://open.spotify.com/track/1oXMSA17lVDrInULMjezYr) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Theme & End Credit](https://open.spotify.com/album/6Uv1jarJ37u7RpnxHwGtNe) | 1:20 |
 | 29 | [Make Your Move](https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI) | 1:41 |
 | 30 | [My Little Pony Theme Song \(Extended Version\)](https://open.spotify.com/track/37otBX5ps3kYkLwAp4Y3RU) | [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT) | [Friendship is Magic: Songs of Ponyville](https://open.spotify.com/album/53pcW3LeJBQwFGsGDMxOfx) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 49 | [Opening Titles Remix](https://open.spotify.com/track/35EJK7aNqtYfQZANUTdls9) | [Sunset Shimmer](https://open.spotify.com/artist/5fyTC8eAkkeidVgqku26mz), [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era) | [Equestria Girls: Original Motion Picture Soundtrack](https://open.spotify.com/album/0jly2QLfRSLqFARqSGO2Mr) | 1:31 |
 | 50 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 |
 
-Snapshot ID: `MTY3NDgxMzYwMCwwMDAwMDAwMDhlZDE4ZmExYTdhODVlZmM3MTA5MTMxYTIxZDgwOTM0`
+Snapshot ID: `MTY3NDgxMzYwMCwwMDAwMDAwMGNlZDkxMDNlYWRiZTlmOGFhMmI4ZDliZDViYmIwMmFj`

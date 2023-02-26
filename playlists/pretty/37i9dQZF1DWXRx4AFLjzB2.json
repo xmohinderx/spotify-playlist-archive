@@ -1,12 +1,12 @@
 {
   "description": "Only perreo! ",
-  "num_followers": 32562,
+  "num_followers": 32770,
   "original_name": "Perreo Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzMjY1MywwMDAwMDAwMDA0NzE2Mzg4ZWZkMTkyY2NlZWVjNzUzZWMyZmYyYmJi",
+  "snapshot_id": "MTY3NzIzMjY1MywwMDAwMDAwMDE3MzA2ZmEwMGZlODQ3MTRiYjczNzlmNzcwMjJlODFm",
   "tracks": [
     {
       "added_at": "2023-01-30 18:52:57",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-02-25 08:56:46",
+      "added_at": "2023-02-26 01:16:53",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
     },
     {
-      "added_at": "2023-02-25 08:56:46",
+      "added_at": "2023-02-26 01:16:53",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2023-01-30 18:52:57",
+      "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 230653,
       "name": "En La De Ella",
       "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
-    },
-    {
-      "added_at": "2023-01-30 18:52:57",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1187,22 +1187,22 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2023-01-30 18:52:57",
-      "album": {
         "name": "DURO",
         "url": "https://open.spotify.com/album/6uE584km2jae91nY5N9yE4"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 218320,
       "name": "DURO",
       "url": "https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf"
+    },
+    {
+      "added_at": "2023-01-30 18:52:57",
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1471,6 +1471,42 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "DEJAU'",
+      "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
+    },
+    {
+      "added_at": "2023-02-26 01:16:53",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
+    },
+    {
+      "added_at": "2023-01-30 18:52:57",
+      "album": {
         "name": "Baila Morena (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/106R30c82nUmpln49yR9zs"
       },
@@ -1515,42 +1551,6 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
-    },
-    {
-      "added_at": "2023-02-25 08:56:46",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
-    },
-    {
-      "added_at": "2023-01-30 18:52:57",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "DEJAU'",
-      "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1859,18 +1859,22 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
-        "name": "El Enemy de Los Guas\u00edbiri",
-        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 204346,
-      "name": "Al Natural (feat. Yandel)",
-      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1891,22 +1895,18 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+        "name": "El Enemy de Los Guas\u00edbiri",
+        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 163265,
-      "name": "Besalo",
-      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
+      "duration_ms": 204346,
+      "name": "Al Natural (feat. Yandel)",
+      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
     },
     {
       "added_at": "2023-01-30 18:52:57",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2023-01-30 18:52:57",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
+        "name": "Rebota",
+        "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 206493,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
+      "duration_ms": 204630,
+      "name": "Rebota",
+      "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
     }
   ],
   "unique_name": "Perreo Party",

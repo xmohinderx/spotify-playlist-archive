@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
-  "num_followers": 96157,
+  "num_followers": 96205,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDZkMTEwNTE1ZTJkZDgyNzc2ODIyY2JiNWMxN2ZhYTg5",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDJmMGNlYWJjNzVmNzQzZjg2MzA0YTIyZTQ3MTNjOGIx",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "En el Teatro Opera - En Vivo",
         "url": "https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR"
       },
@@ -931,18 +915,34 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+      "duration_ms": 186456,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Salud! Los Perez Garcia en Vivo",
         "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 299176,
       "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
       "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 461266,
       "name": "Todo un Palo - En Vivo",
       "url": "https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Vivo Ac\u00e1",
-        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 321253,
-      "name": "Vida de Topos - En Vivo",
-      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Vivo Ac\u00e1",
+        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 321253,
+      "name": "Vida de Topos - En Vivo",
+      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 381826,
       "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
       "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Vivo Cosqu\u00edn Rock",
         "url": "https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 178877,
       "name": "Ella Es Como un \u00c1ngel - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     }
   ],
   "unique_name": "Vivo de Rock",

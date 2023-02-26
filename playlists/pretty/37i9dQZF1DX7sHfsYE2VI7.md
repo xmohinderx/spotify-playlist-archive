@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,931 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,947 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 25 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 26 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 27 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
-| 28 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 29 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 |
+| 28 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 |
+| 29 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 30 | [Touch Me \(Radio Edit\) \[feat\. Cassandra\]](https://open.spotify.com/track/6j8nh1kHwezw8pkC2eU87F) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v), [Cassandra](https://open.spotify.com/artist/2y8183jDSJ0E4jQSrRqMli) | [Kismet Records Presents Touch Me \(feat\. Cassandra\)](https://open.spotify.com/album/2Frul2fiPFYTGneYeqJOCi) | 3:33 |
 | 31 | [Foreign Language](https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s) | [Foreign Language](https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo) | 4:04 |
 | 32 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 39 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 40 | [Since I Left You](https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO) | 4:22 |
 | 41 | [Drop the Pressure](https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:15 |
-| 42 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
-| 43 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
+| 42 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
+| 43 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
 | 44 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
 | 45 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
 | 46 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 | 70 | [Les Nuits](https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO) | 6:19 |
 
-Snapshot ID: `MTY0NjAxMzk1OCwwMDAwMDAwMDEyNTQ1YzFmMjdkY2FjYzExMGViNTBlOGI4OWUxMWY5`
+Snapshot ID: `MTY0NjAxMzk1OCwwMDAwMDAwMDc0NTBlNTNjNTMxN2RmOWRjZTZhODgyZjM3ODRjNDc2`

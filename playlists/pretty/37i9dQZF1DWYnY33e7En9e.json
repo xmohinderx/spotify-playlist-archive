@@ -1,12 +1,12 @@
 {
   "description": "Hits of the 70s, 80s and 90s for gamers who love things retro.",
-  "num_followers": 364818,
+  "num_followers": 365051,
   "original_name": "Retro Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1NDQwOSwwMDAwMDAwMDVhYmY4MGUzNGZlMmI3MzdkMDI4ODkwZDQ4Y2Q3ZGM1",
+  "snapshot_id": "MTY3NDA1NDQwOSwwMDAwMDAwMDczZGIyYWM4MDFmODRhMDg4N2E5MmY0MzE4MTk4OTM4",
   "tracks": [
     {
       "added_at": "2023-01-18 15:06:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Tea For The Tillerman (Remastered 2020)",
         "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1451,6 +1435,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2023-01-18 15:06:49",

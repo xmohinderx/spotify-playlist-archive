@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Kali Uchis
 
-752 songs - 1 day 16 hr 35 min
+753 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 | 2021-04-30 | 2022-01-29 |
 | [Brewster](https://open.spotify.com/track/1PcRrMqmrFejKGqqqEZm3s) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Brewster](https://open.spotify.com/album/7CEiIAfj28XpmTb9U3LCep) | 2:24 | 2021-12-10 | 2022-04-26 |
+| [Brewster](https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:24 | 2022-07-15 |  |
 | [Brewster](https://open.spotify.com/track/5odIVMTBVr7QetfpLY1fPV) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/2BwmEuKqtvwtqpkJadcaQq) | 2:24 | 2022-07-15 | 2022-07-28 |
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-08-10 | 2022-12-10 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-04-01 | 2022-10-08 |
@@ -224,7 +225,7 @@
 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-11-13 |
 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 | 2023-01-28 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-21 | 2022-07-23 |
-| [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 | 2022-12-09 |  |
+| [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 | 2022-12-09 | 2023-02-26 |
 | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ambre](https://open.spotify.com/artist/5mmOgnbsj8LXOUWqLPcoMa), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd) | 3:40 | 2021-11-05 | 2022-01-25 |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 |  |
 | [Fiji Fine](https://open.spotify.com/track/3Q0S0vFNDJviYsMaeo4wIi) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Fiji Fine](https://open.spotify.com/album/6xRXep3NUG7Hqy41uvzyKQ) | 3:00 | 2021-03-19 | 2022-07-04 |

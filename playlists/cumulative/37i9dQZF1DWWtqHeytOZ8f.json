@@ -1784,6 +1784,24 @@
     {
       "album": {
         "name": "Fi",
+        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95519,
+      "name": "Cherry Blossom Road",
+      "url": "https://open.spotify.com/track/3VWsX9nD57AyC8JJ89YR53"
+    },
+    {
+      "album": {
+        "name": "Fi",
         "url": "https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR"
       },
       "artists": [
@@ -3690,7 +3708,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 197989,
       "name": "Flying Eagle",
       "url": "https://open.spotify.com/track/0j0CeSiXCNqGsz7Ea92leu"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 178348,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb"
@@ -7166,7 +7184,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 235555,
       "name": "Recuerdos del Futuro",
       "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"

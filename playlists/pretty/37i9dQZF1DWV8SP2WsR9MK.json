@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 57411,
+  "num_followers": 57479,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUzODg1NCwwMDAwMDAwMDFiYTRkMDljY2ZhN2I1NmQ2ODUxNDNiMjI1NTkxYjZj",
+  "snapshot_id": "MTY3NjUzODg1NCwwMDAwMDAwMDcwMWM3NmFlNDdiYjRkMTgwZDc2MDhlODNkMmEwNjYz",
   "tracks": [
     {
       "added_at": "2023-02-02 09:09:56",
@@ -447,18 +447,26 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+        "name": "Kessel Plays Standards",
+        "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Barney Kessel",
+          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
         }
       ],
-      "duration_ms": 195200,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
+      "duration_ms": 188333,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
     },
     {
       "added_at": "2023-02-02 09:09:56",
@@ -515,26 +523,18 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Kessel Plays Standards",
-        "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
       "artists": [
         {
-          "name": "Barney Kessel",
-          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
-        },
-        {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 188333,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
     },
     {
       "added_at": "2023-02-02 09:09:56",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Verve Jazz Masters: Tal Farlow",
-        "url": "https://open.spotify.com/album/3s1NyCyNpsGKgUZncxwvyi"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 101400,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/4kAmZwI6PGdgMrkJaodfQp"
-    },
-    {
-      "added_at": "2023-02-02 09:09:56",
-      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 224613,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
+    },
+    {
+      "added_at": "2023-02-02 09:09:56",
+      "album": {
+        "name": "Verve Jazz Masters: Tal Farlow",
+        "url": "https://open.spotify.com/album/3s1NyCyNpsGKgUZncxwvyi"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 101400,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/4kAmZwI6PGdgMrkJaodfQp"
     },
     {
       "added_at": "2023-02-02 09:09:56",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Hand-Crafted Swing",
-        "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
-      },
-      "artists": [
-        {
-          "name": "George Van Eps",
-          "url": "https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps"
-        },
-        {
-          "name": "Howard Alden",
-          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
-        }
-      ],
-      "duration_ms": 370866,
-      "name": "The Nearness Of You - Instrumental",
-      "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
-    },
-    {
-      "added_at": "2023-02-02 09:09:56",
-      "album": {
         "name": "The Sound Of Johnny Smith",
         "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 328800,
       "name": "Misty - 2001 Remaster",
       "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
+    },
+    {
+      "added_at": "2023-02-02 09:09:56",
+      "album": {
+        "name": "Hand-Crafted Swing",
+        "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
+      },
+      "artists": [
+        {
+          "name": "George Van Eps",
+          "url": "https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps"
+        },
+        {
+          "name": "Howard Alden",
+          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
+        }
+      ],
+      "duration_ms": 370866,
+      "name": "The Nearness Of You - Instrumental",
+      "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
     },
     {
       "added_at": "2023-02-02 09:09:56",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
       },
       "artists": [
         {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
         }
       ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
+      "duration_ms": 253586,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
     },
     {
       "added_at": "2023-02-02 09:09:56",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
       },
       "artists": [
         {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
         }
       ],
-      "duration_ms": 253586,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2023-02-02 09:09:56",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2023-02-02 09:09:56",
       "album": {
-        "name": "Three for Three",
-        "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
-      },
-      "artists": [
-        {
-          "name": "Mike Moreno",
-          "url": "https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf"
-        },
-        {
-          "name": "Doug Weiss",
-          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
-        },
-        {
-          "name": "Kendrick Scott",
-          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "The Big Push",
-      "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
-    },
-    {
-      "added_at": "2023-02-02 09:09:56",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
+    },
+    {
+      "added_at": "2023-02-02 09:09:56",
+      "album": {
+        "name": "Three for Three",
+        "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
+      },
+      "artists": [
+        {
+          "name": "Mike Moreno",
+          "url": "https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "The Big Push",
+      "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
     },
     {
       "added_at": "2023-02-02 09:09:56",

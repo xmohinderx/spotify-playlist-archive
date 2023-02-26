@@ -3917,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "The Complete Capitol Recordings Of Art Tatum",
+        "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1UdkQHQZs7pMWLpZBDVRxl"
+    },
+    {
+      "album": {
         "name": "The Complete Capitol Recordings (Vol. One)",
         "url": "https://open.spotify.com/album/6UeRQJM4gPVe4UkmaUmcDX"
       },
@@ -5278,6 +5296,24 @@
       "duration_ms": 416840,
       "name": "K\u00f6ln, January 24, 1975, Pt. II C - Live",
       "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+    },
+    {
+      "album": {
+        "name": "53",
+        "url": "https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "La part des anges",
+      "url": "https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89"
     },
     {
       "album": {
@@ -7346,7 +7382,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 311480,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
@@ -7658,7 +7694,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"

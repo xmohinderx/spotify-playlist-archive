@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-997 songs - 2 day 8 hr 18 min
+998 songs - 2 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2022-07-23 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-19 | 2022-08-07 |
 | [A bientot](https://open.spotify.com/track/0oaFCNSvLVBpHKB3ep9qMI) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 4:16 | 2022-05-30 | 2022-07-02 |
-| [A bientot](https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:16 | 2022-07-01 |  |
+| [A bientot](https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:16 | 2022-07-01 | 2023-02-26 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-26 | 2022-12-27 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-20 |
 | [a p p l y i n g \. p r e s s u r e](https://open.spotify.com/track/1d7q712nXjG98HiwHk7HFS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:57 | 2021-05-16 | 2021-05-17 |
@@ -223,6 +223,7 @@
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-20 | 2023-02-01 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2022-11-25 |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-08-25 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-26 |
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2021-05-12 | 2021-05-20 |
 | [Dis\-ease](https://open.spotify.com/track/54DmTIv86D3sYdiawjULQ0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:59 | 2021-05-23 | 2021-06-20 |
@@ -633,7 +634,7 @@
 | [No.2 \(with parkjiyoon\)](https://open.spotify.com/track/5ky45fGKbzGYilDewlBD6Z) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:13 | 2022-12-03 | 2022-12-13 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-11 | 2022-12-18 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-13 | 2023-02-20 |
-| [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-18 |  |
+| [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-18 | 2023-02-26 |
 | [Nothing \(Feat\. Hwa Sa & MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/0cq9psWsFf2UKiYhbrbKwW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 3:47 | 2021-12-07 | 2021-12-08 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-04-04 | 2022-04-07 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-18 |  |
@@ -730,7 +731,7 @@
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-11-28 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-17 |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2021-07-07 | 2021-07-11 |
-| [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-02-15 | 2023-02-18 |
+| [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-02-15 |  |
 | [Road Trip](https://open.spotify.com/track/2OoG4BqX926Te1vGdMFB2F) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:35 | 2021-09-19 | 2021-09-21 |
 | [ROB](https://open.spotify.com/track/6keGLa1EdSAA5G0p2RFmVg) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 3:25 | 2022-03-04 | 2022-03-08 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-10-23 | 2021-11-28 |

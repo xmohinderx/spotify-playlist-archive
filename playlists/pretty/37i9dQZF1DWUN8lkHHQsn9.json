@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Izabela Zabielska",
-  "num_followers": 2695,
+  "num_followers": 2697,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDFhYzliYTQyZGM3MmE0ZGQ0YzA1YjNmZDA3OWNmNDg1",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDUzYjRkNDFkMzQ2YmU4YTgyNGNiMDlhODZmMDJjYzUz",
   "tracks": [
     {
       "added_at": "2023-01-24 14:00:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Pod Kapturem",
         "url": "https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 96000,
       "name": "Pod Kapturem",
       "url": "https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Nic si\u0119 nie sta\u0142o",
-        "url": "https://open.spotify.com/album/1ILYe1Hxk3Te4LLx5Ukd7D"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Zesp\u00f3\u0142 Cotarda",
-      "url": "https://open.spotify.com/track/6XswpcCoSrlrW1VpkjR68t"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Pokolenie Dobrobytu",
         "url": "https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS"
       },
@@ -255,6 +235,22 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+      },
+      "artists": [
+        {
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy"
       },
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+        "name": "Nic si\u0119 nie sta\u0142o",
+        "url": "https://open.spotify.com/album/1ILYe1Hxk3Te4LLx5Ukd7D"
       },
       "artists": [
         {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+      "duration_ms": 173500,
+      "name": "Zesp\u00f3\u0142 Cotarda",
+      "url": "https://open.spotify.com/track/6XswpcCoSrlrW1VpkjR68t"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "tw\u00f3j zapach",
-        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "tw\u00f3j zapach",
-      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Menago",
         "url": "https://open.spotify.com/album/0Y7mVCIvGcX3TcfJaulQnE"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 176000,
       "name": "Menago",
       "url": "https://open.spotify.com/track/6SfceDE3wkCJwrhY39I2lj"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "tw\u00f3j zapach",
+        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "tw\u00f3j zapach",
+      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
+        "name": "Dziewczynka Tatusia",
+        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "Dziewczynka Tatusia",
-        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        }
-      ],
-      "duration_ms": 141340,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -911,38 +911,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -963,6 +931,22 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-01-24 14:00:00",

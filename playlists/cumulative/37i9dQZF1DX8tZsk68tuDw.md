@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Nia Archives.
 
-2,010 songs - 4 day 20 hr 53 min
+2,011 songs - 4 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,7 +965,8 @@
 | [La candela viva](https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [La candela viva](https://open.spotify.com/album/7vxhUdJugQ2iMlF9DEzygr) | 2:54 | 2022-02-25 | 2022-05-20 |
 | [La La La](https://open.spotify.com/track/1EmhWg1fKL7uNZNPXKPvFI) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [La La La](https://open.spotify.com/album/39uV0vJiStSIuebZ1nDma8) | 3:07 | 2022-06-24 | 2022-07-23 |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-06-24 | 2022-07-09 |
-| [La Tarde](https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd) | 2:43 | 2023-01-13 |  |
+| [La Tarde](https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd) | 2:43 | 2023-01-13 | 2023-02-26 |
+| [La Tarde](https://open.spotify.com/track/1jny0xjkmeZiS2CvuJLuRX) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/44kW2NEni5fjuXMamBEXzL) | 2:43 | 2023-01-13 |  |
 | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/track/62xA7Zhj8CQSecypWIfpZx) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/album/2MYhUTVM7SeBuQX5uNjOam) | 2:32 | 2021-04-30 | 2021-05-29 |
 | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 | 2021-08-21 | 2021-10-16 |
 | [Lately](https://open.spotify.com/track/42l7yCT9PtsgqCzRtdtwL5) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Lately](https://open.spotify.com/album/0pQ3VjJSMz4L9iLAkl6JWM) | 2:51 | 2020-10-13\* | 2020-11-03 |

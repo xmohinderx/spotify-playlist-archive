@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Nia Archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,155 likes - 76 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,179 likes - 76 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 11 | [Another Chance](https://open.spotify.com/track/4kNPMxRexEZSrsXfz628D3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Another Chance](https://open.spotify.com/album/41R3SckRg74bzO6lmitqkX) | 2:46 |
 | 12 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
 | 13 | [Sleepwalking](https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Sleepwalking](https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY) | 2:31 |
-| 14 | [La Tarde](https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd) | 2:43 |
+| 14 | [La Tarde](https://open.spotify.com/track/1jny0xjkmeZiS2CvuJLuRX) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/44kW2NEni5fjuXMamBEXzL) | 2:43 |
 | 15 | [Work](https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work](https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D) | 3:37 |
 | 16 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 |
 | 17 | [All In One Night](https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Love Is Love](https://open.spotify.com/album/2uEuw3GLQXeLTrawVFHjBX) | 3:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 75 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 76 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGJiNmNlYjg3MWEyOTgzYTQ0MTMzNWI2NDIyYzczMzZi`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDI0ZThlNTAzZmNkMmJkOWRkYjM1MzFkYjJlYWFhNGU1`

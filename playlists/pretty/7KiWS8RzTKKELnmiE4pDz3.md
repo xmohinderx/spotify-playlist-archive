@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 371 songs - 16 hr 19 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 373 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,5 +379,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 369 | [Real Niggas Don't Rap](https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:53 |
 | 370 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
 | 371 | [If It Means Anything!](https://open.spotify.com/track/5Y8mZp8WevMgxRqc2uyJsS) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [If It Means Anything!](https://open.spotify.com/album/37MZEYFZ622doZCLUxKVh4) | 2:09 |
+| 372 | [Bëttr 0ff](https://open.spotify.com/track/0r9ZhD7QEbIAcvfhDkIsdV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:50 |
+| 373 | [Orion's Belt](https://open.spotify.com/track/26ppRCIIgFDWmZbP3NAxUu) | [Dammntc](https://open.spotify.com/artist/5fusLQAgJkYQ9NeC0TaVDJ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Orion's Belt](https://open.spotify.com/album/0M2HmW5ebgoukPvZe5YZyT) | 2:33 |
 
-Snapshot ID: `NjkxMiw0ZmRhMmE0NmUwNGM0NjZmZTIzZDY0MWUyMjYyMTEzOGE0YzdmMDYw`
+Snapshot ID: `NjkxNCw5OGMzMTcyMzUwZjA2M2RkMjM5M2JlNmVmNzY3MjNiMzU0YTUzMjJm`

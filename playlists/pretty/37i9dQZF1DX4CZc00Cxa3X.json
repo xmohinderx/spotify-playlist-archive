@@ -1,12 +1,12 @@
 {
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
-  "num_followers": 22227,
+  "num_followers": 22255,
   "original_name": "The Listening Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTgzMCwwMDAwMDAwMDk2YjIwYTNhYmY1YTJiN2QyMDI5ZjNiNjJlYWEzOTNk",
+  "snapshot_id": "MTY3NzI1OTgzMCwwMDAwMDAwMDgxNjMzMmVlYTUzYWVkMTZlNTMwODZmZjkwZmFjYzI0",
   "tracks": [
     {
       "added_at": "2023-02-17 12:10:52",
@@ -171,8 +171,8 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "O Woods / Wake",
-        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
+        "name": "Then",
+        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 132874,
-      "name": "Wake",
-      "url": "https://open.spotify.com/track/4M1hruYTFKjnNnJKcZpVp1"
+      "duration_ms": 207000,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -287,8 +287,8 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Then",
-        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
+        "name": "O Woods / Wake",
+        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
+      "duration_ms": 132874,
+      "name": "Wake",
+      "url": "https://open.spotify.com/track/4M1hruYTFKjnNnJKcZpVp1"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5"
     },
     {
-      "added_at": "2023-02-25 10:07:00",
+      "added_at": "2023-02-26 01:02:56",
       "album": {
         "name": "Ray",
         "url": "https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL"
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ"
+      },
+      "artists": [
+        {
+          "name": "Chequerboard",
+          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
+        }
+      ],
+      "duration_ms": 453700,
+      "name": "A Field of Night",
+      "url": "https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/6E8E0zZwCssyoFKMaA84Hn"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 325533,
       "name": "Kin",
       "url": "https://open.spotify.com/track/4bZrS7VPjRUU2yNEQH7d7Z"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ"
-      },
-      "artists": [
-        {
-          "name": "Chequerboard",
-          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
-        }
-      ],
-      "duration_ms": 453700,
-      "name": "A Field of Night",
-      "url": "https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Strands",
-        "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
-      },
-      "artists": [
-        {
-          "name": "gonima",
-          "url": "https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80"
-        }
-      ],
-      "duration_ms": 155980,
-      "name": "Open Mind",
-      "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
         "name": "Ikigai",
         "url": "https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 295993,
       "name": "Ikigai",
       "url": "https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Strands",
+        "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
+      },
+      "artists": [
+        {
+          "name": "gonima",
+          "url": "https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80"
+        }
+      ],
+      "duration_ms": 155980,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 472500,
-      "name": "2c",
-      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
         "name": "\u30ed\u30b9\u30c8\u30a8\u30c7\u30f3\u3078\u306e\u30d1\u30b9",
         "url": "https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 264352,
       "name": "\u7740\u7269",
       "url": "https://open.spotify.com/track/3u2q61kd8RfpwonVonsPw5"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 472500,
+      "name": "2c",
+      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
+        "name": "absinthe",
+        "url": "https://open.spotify.com/album/6FwAqO2Cc0MXQ4Ox1qd4qu"
+      },
+      "artists": [
+        {
+          "name": "achorda",
+          "url": "https://open.spotify.com/artist/7eAAcHiYdiwMT8iBNs67v0"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "duration_ms": 82674,
+      "name": "absinthe",
+      "url": "https://open.spotify.com/track/7HobaQWJb0qCzsNKmo72dk"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
         "name": "Beautifully Lost Mind",
         "url": "https://open.spotify.com/album/1CeKHEfoc2eQ6KkGl4LNdC"
       },
@@ -1015,22 +1035,18 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "absinthe",
-        "url": "https://open.spotify.com/album/6FwAqO2Cc0MXQ4Ox1qd4qu"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
       },
       "artists": [
         {
-          "name": "achorda",
-          "url": "https://open.spotify.com/artist/7eAAcHiYdiwMT8iBNs67v0"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
         }
       ],
-      "duration_ms": 82674,
-      "name": "absinthe",
-      "url": "https://open.spotify.com/track/7HobaQWJb0qCzsNKmo72dk"
+      "duration_ms": 351379,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1047,22 +1063,6 @@
       "duration_ms": 192000,
       "name": "Upward Swimming Fish",
       "url": "https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
-      },
-      "artists": [
-        {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
-        }
-      ],
-      "duration_ms": 351379,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Sun//Rain",
-        "url": "https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 267065,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 128000,
       "name": "Haze",
       "url": "https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Sun//Rain",
+        "url": "https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 267065,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh"
+      },
+      "artists": [
+        {
+          "name": "The Cancel",
+          "url": "https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
         "name": "Revep (Remaster)",
         "url": "https://open.spotify.com/album/4bnxhUpD6NDaltuGjsv4qN"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 261316,
       "name": "ax Mr. L",
       "url": "https://open.spotify.com/track/5gBjsMXIFVmfRq5HMxI0HN"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh"
-      },
-      "artists": [
-        {
-          "name": "The Cancel",
-          "url": "https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1283,22 +1283,6 @@
       "duration_ms": 126076,
       "name": "Oh",
       "url": "https://open.spotify.com/track/6SAFUT9YaLWhr5SeMp9bsv"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Adrift In Memory",
-      "url": "https://open.spotify.com/track/0Cv17wDbSTPqkTXTTkt2KV"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t"
-      },
-      "artists": [
-        {
-          "name": "Kilometre Club",
-          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
-        }
-      ],
-      "duration_ms": 203476,
-      "name": "Station Eleven",
-      "url": "https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
         "name": "Morning Shore (Eon Isle)",
         "url": "https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 198000,
       "name": "Swim Twice",
       "url": "https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Adrift In Memory",
+      "url": "https://open.spotify.com/track/0Cv17wDbSTPqkTXTTkt2KV"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "duration_ms": 203476,
+      "name": "Station Eleven",
+      "url": "https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Music for Six Rooms",
-        "url": "https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH"
-      },
-      "artists": [
-        {
-          "name": "Hoavi",
-          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
-        }
-      ],
-      "duration_ms": 606000,
-      "name": "Music for Six Rooms",
-      "url": "https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
         "name": "Bioluminescence",
         "url": "https://open.spotify.com/album/2x43RvAJ4ZRMRdBxjZxPfO"
       },
@@ -1435,38 +1419,18 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Rift",
-        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
+        "name": "Music for Six Rooms",
+        "url": "https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+          "name": "Hoavi",
+          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
         }
       ],
-      "duration_ms": 173653,
-      "name": "rest",
-      "url": "https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
-        "name": "Slow Flight",
-        "url": "https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        },
-        {
-          "name": "Low Key Trampoline",
-          "url": "https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Slow Flight",
-      "url": "https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS"
+      "duration_ms": 606000,
+      "name": "Music for Six Rooms",
+      "url": "https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1491,6 +1455,42 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
+        "name": "Slow Flight",
+        "url": "https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        },
+        {
+          "name": "Low Key Trampoline",
+          "url": "https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Slow Flight",
+      "url": "https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Rift",
+        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "rest",
+      "url": "https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
         "name": "Smooth Sailing",
         "url": "https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
-        "name": "Bomani",
-        "url": "https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI"
-      },
-      "artists": [
-        {
-          "name": "Oli Bayston",
-          "url": "https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H"
-        }
-      ],
-      "duration_ms": 475693,
-      "name": "Oxy",
-      "url": "https://open.spotify.com/track/4QzH31KmIul1qi84eKTUmP"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
         "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 168000,
       "name": "Tsukiyo",
       "url": "https://open.spotify.com/track/0LcM0jJCxhAOw8fjLjehes"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
+        "name": "Bomani",
+        "url": "https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI"
+      },
+      "artists": [
+        {
+          "name": "Oli Bayston",
+          "url": "https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H"
+        }
+      ],
+      "duration_ms": 475693,
+      "name": "Oxy",
+      "url": "https://open.spotify.com/track/4QzH31KmIul1qi84eKTUmP"
     },
     {
       "added_at": "2023-02-17 12:10:52",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-02-17 12:10:52",
       "album": {
+        "name": "Suminoe / Sobo",
+        "url": "https://open.spotify.com/album/4TVhsrCAAfc2GGeGnNgdST"
+      },
+      "artists": [
+        {
+          "name": "Bunraku",
+          "url": "https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq"
+        }
+      ],
+      "duration_ms": 186376,
+      "name": "Suminoe",
+      "url": "https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK"
+    },
+    {
+      "added_at": "2023-02-17 12:10:52",
+      "album": {
         "name": "The Shadow Play (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 102515,
       "name": "Zkoum\u00e1n\u00ed du\u0161e, Pt. 2",
       "url": "https://open.spotify.com/track/7fbJJEWelteCwXXACq98ZC"
-    },
-    {
-      "added_at": "2023-02-17 12:10:52",
-      "album": {
-        "name": "Suminoe / Sobo",
-        "url": "https://open.spotify.com/album/4TVhsrCAAfc2GGeGnNgdST"
-      },
-      "artists": [
-        {
-          "name": "Bunraku",
-          "url": "https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq"
-        }
-      ],
-      "duration_ms": 186376,
-      "name": "Suminoe",
-      "url": "https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK"
     },
     {
       "added_at": "2023-02-17 12:10:52",

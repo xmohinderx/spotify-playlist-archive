@@ -1,12 +1,12 @@
 {
   "description": "The hits of tomorrow are on Spotify today. Cover: Gracie Abrams",
-  "num_followers": 2892603,
+  "num_followers": 2893676,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3MjY1MSwwMDAwMDAwMDMzZmVhMGM0MzI4YWU4YmI4N2IxZDY2MTBjMjY0MjYx",
+  "snapshot_id": "MTY3NzM0ODEyNywwMDAwMDAwMGNlYzkzYjBlYTRkMmEyNjJhOTYyYTJlODhkNDA3YmVk",
   "tracks": [
     {
       "added_at": "2023-02-24 21:04:11",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-02-24 21:04:11",
       "album": {
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
+    },
+    {
+      "added_at": "2023-02-24 21:04:11",
+      "album": {
         "name": "I GUESS IT'S LOVE?",
         "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2023-02-24 21:04:11",
-      "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
     },
     {
       "added_at": "2023-02-24 21:04:11",

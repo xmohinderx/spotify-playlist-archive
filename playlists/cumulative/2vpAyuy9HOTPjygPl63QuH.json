@@ -4061,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE"
+      },
+      "artists": [
+        {
+          "name": "Heider",
+          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226976,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
+    },
+    {
+      "album": {
         "name": "ESPIRITU",
         "url": "https://open.spotify.com/album/609BHfosE3offjxwdRzD1Z"
       },
@@ -10702,6 +10720,24 @@
       "duration_ms": 130123,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
+    },
+    {
+      "album": {
+        "name": "Pam Pam",
+        "url": "https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ"
     },
     {
       "album": {

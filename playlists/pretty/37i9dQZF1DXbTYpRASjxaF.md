@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Azevedo, BIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,512 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,574 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 43 | [Mente De Malandra](https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Mente De Malandra](https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo) | 3:22 |
 | 44 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 |
 | 45 | [Evoque Miami Blue](https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Evoque Miami Blue](https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap) | 2:09 |
-| 46 | [Gato Preto](https://open.spotify.com/track/6OOJIcP8FJReQlqMtfFNA4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Gato Preto](https://open.spotify.com/album/0LbluPc9TsaUDZrYJiFfqh) | 2:26 |
-| 47 | [Jogadão Na Pista](https://open.spotify.com/track/25MNsu2vO3puRdsLKdnQG3) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Mc negrone](https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Jogadão Na Pista](https://open.spotify.com/album/5Buf68zaJMNgM6PlXQmgWo) | 3:35 |
+| 46 | [Jogadão Na Pista](https://open.spotify.com/track/25MNsu2vO3puRdsLKdnQG3) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Mc negrone](https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Jogadão Na Pista](https://open.spotify.com/album/5Buf68zaJMNgM6PlXQmgWo) | 3:35 |
+| 47 | [Gato Preto](https://open.spotify.com/track/6OOJIcP8FJReQlqMtfFNA4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Gato Preto](https://open.spotify.com/album/0LbluPc9TsaUDZrYJiFfqh) | 2:26 |
 | 48 | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0) | 4:25 |
 | 49 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
 | 50 | [Jogador](https://open.spotify.com/track/1Seaw5DuwftrRiKDqkizPR) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Jogador](https://open.spotify.com/album/31n2Ou1qjqqlAhrcWvIG3m) | 2:48 |
 
-Snapshot ID: `MTY3NzIwNzY2MCwwMDAwMDAwMGFlNTFlNzNjYzhlOWY2NDJhM2JiNWJjMzhhNzgzYzNk`
+Snapshot ID: `MTY3NzIwNzY2MCwwMDAwMDAwMDUxMmU3ZDUzOThiYzA3YTI1NDhiYjJiYjliYWRiYTQx`

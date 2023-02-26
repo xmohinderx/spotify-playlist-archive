@@ -3179,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Chicago Beat",
+        "url": "https://open.spotify.com/album/7oJlGeVKfoii2S4OiZze0m"
+      },
+      "artists": [
+        {
+          "name": "Tony White",
+          "url": "https://open.spotify.com/artist/11hDQYxPPVNQrO1tDy1UME"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346488,
+      "name": "CHICAGO BEAT",
+      "url": "https://open.spotify.com/track/0hu5cFhujE8D2wj5HQTNB4"
+    },
+    {
+      "album": {
         "name": "chilibanana",
         "url": "https://open.spotify.com/album/3BpJkWRnKfXc4Ujkhs9KIh"
       },
@@ -8522,7 +8540,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 285871,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1NAUnoSJv0bDHC8wyQ8J8Q"
@@ -12958,7 +12976,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB"
@@ -17150,7 +17168,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 305147,
       "name": "Tallaght",
       "url": "https://open.spotify.com/track/07ddPSqNPjxmgh2evefw2Z"

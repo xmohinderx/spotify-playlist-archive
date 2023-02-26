@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,887 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,908 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 31 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 |
 | 32 | [no sense](https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [no sense](https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li) | 2:50 |
 | 33 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
-| 34 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 |
-| 35 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
-| 36 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
-| 37 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 |
-| 38 | [Nothing Can Come Between Us](https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:22 |
+| 34 | [Nothing Can Come Between Us](https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:22 |
+| 35 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 |
+| 36 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
+| 37 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
+| 38 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 |
 | 39 | [Scoring](https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [TwoFr 2](https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK) | 3:05 |
 | 40 | [Shhh](https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Shhh](https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ) | 2:19 |
 | 41 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [Vibrate](https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:38 |
 | 50 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGRmMjhlOGIzMWJiZTI5ZTdiNTdhZWQwMTEwZjg3MWZi`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGIwZGRiYTBlOTMwOGIwNWYyMTY1YmExYmY2N2NkNTAz`

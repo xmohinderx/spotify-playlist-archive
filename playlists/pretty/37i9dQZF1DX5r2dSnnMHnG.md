@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,993 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,996 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 12 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
 | 13 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 |
 | 14 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 |
-| 15 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
-| 16 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 |
+| 15 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 |
+| 16 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
 | 17 | [You\(=I\)](https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:49 |
 | 18 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 19 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 27 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
 | 28 | [Chocolate Drive 초콜릿](https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:10 |
 | 29 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
-| 30 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
-| 31 | [Bom Bom Bom](https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Love Love Love](https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi) | 3:28 |
+| 30 | [Bom Bom Bom](https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Love Love Love](https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi) | 3:28 |
+| 31 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 32 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
 | 33 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
 | 34 | [Mean 심술](https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:37 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 60 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 |
 | 61 | [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 |
 | 62 | [Feeling Good \- 2019 Ver](https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 2:42 |
-| 63 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
-| 64 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
+| 63 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
+| 64 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
 | 65 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 | 66 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
 | 67 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 74 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
 | 75 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 |
 
-Snapshot ID: `MTY3NDcwOTIyMCwwMDAwMDAwMGNkOTliMGFiY2NmODJkMTgzNDBkNzAzYTZjZWJiZGUx`
+Snapshot ID: `MTY3NDcwOTIyMCwwMDAwMDAwMGUxM2Q1ZGIzZGQ0NWM0NDMyN2VjZDM0MmM5OWE1NzM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,045 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,243 likes - 40 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 36 | [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 |
 | 37 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
 | 38 | [Never Knew Love Like This Before \(Extended Mix\)](https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Groove On, Vol\. 1](https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa) | 5:28 |
-| 39 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
-| 40 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
+| 39 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
+| 40 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 |
 
-Snapshot ID: `MTYyOTE3NzE0NCwwMDAwMDAwMDI3OWRmNjY4NjBiYzE3ZjA3OTgzNjAyMjQ2M2VkN2Y1`
+Snapshot ID: `MTYyOTE3NzE0NCwwMDAwMDAwMGVhMjQxMzdlNTM5MGQ4YzVhNTBmMmNkNWM4N2RmMTgy`

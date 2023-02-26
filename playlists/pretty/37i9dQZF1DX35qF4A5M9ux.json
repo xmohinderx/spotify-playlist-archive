@@ -1,12 +1,12 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 203427,
+  "num_followers": 203660,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY0NDA5MSwwMDAwMDAwMDMwNjcwMGYyZDhhMGRhYjExYjFmOWU3NjljM2MwYmY1",
+  "snapshot_id": "MTY1OTY0NDA5MSwwMDAwMDAwMDRkOGVmYmU5MDkzMDMzMmI0NzM4ZTc3NWQ2Yjk3Y2Zi",
   "tracks": [
     {
       "added_at": "2022-08-04 20:14:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
-      },
-      "artists": [
-        {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 321200,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Y Qu\u00e9 Me Pasa - Salsa",
+      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Luchar\u00e9",
-        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
         }
       ],
-      "duration_ms": 303306,
-      "name": "Y Qu\u00e9 Me Pasa - Salsa",
-      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
+      "duration_ms": 321706,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Subway Salsa: The Montuno Records Story",
-        "url": "https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL"
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
       },
       "artists": [
         {
-          "name": "Zaperoko",
-          "url": "https://open.spotify.com/artist/2YYb9XAYl7ePSPIvQ3hOL4"
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
         }
       ],
-      "duration_ms": 368400,
-      "name": "No Qued\u00f3 Ni el Gato",
-      "url": "https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu"
+      "duration_ms": 261472,
+      "name": "Punta a Punta",
+      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     }
   ],
   "unique_name": "Salsa de Oro",

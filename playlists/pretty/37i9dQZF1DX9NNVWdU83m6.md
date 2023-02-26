@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,728 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,768 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 10 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 |
 | 11 | [Sinopsis](https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Sinopsis](https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld) | 2:12 |
 | 12 | [Badeep](https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Badeep](https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA) | 6:03 |
-| 13 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
-| 14 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
+| 13 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
+| 14 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
 | 15 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
 | 16 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
 | 17 | [Flowerbed](https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Flowerbed](https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1) | 4:26 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 19 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 |
 | 20 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
 | 21 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 |
-| 22 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
-| 23 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 |
+| 22 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 |
+| 23 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
 | 24 | [Cptn Future](https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4) | [NuHussel Orchestra](https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN) | [Kids](https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8) | 5:02 |
 | 25 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
 | 26 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 38 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
 | 39 | [Mezza Luna](https://open.spotify.com/track/4rHvDCZqfrm3yMMOKMwXft) | [PsychCloned](https://open.spotify.com/artist/4xMOnUYYtQbbqEUHxPXa0Y), [Camilo D.G.](https://open.spotify.com/artist/1H1jkHEUqtnoPmJPyCKo1R), [Space Hobo](https://open.spotify.com/artist/3CoCzt2Wu1GPYoKcxVf351) | [Melodic Trance](https://open.spotify.com/album/3EeUEdRJ3niaEtc0Wz0vfN) | 4:55 |
 | 40 | [Ultima](https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Ultima](https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ) | 4:29 |
-| 41 | [Meteor Stream](https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Meteor Stream](https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb) | 5:45 |
+| 41 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
 | 42 | [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 |
 | 43 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
 | 44 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 |
 | 50 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDVkOTBlMGY0NThkMzMwMzk2MGYzNDA5Y2FkYjdiYzI2`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDEyYjM1OWMxMmVlMTZiNzY0NTE3YTBlNDE5MTRmYTc3`

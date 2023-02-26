@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 330992,
+  "num_followers": 331122,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDY0YzRlODdhYzExNzU5N2U3ODQ0YzhlMTMzMzg0MWRi",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGRhZmRiYzYwZmYyMzljYzEyOTkzYmRlYzQ0ODcyNTg0",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -621,26 +621,6 @@
       "url": "https://open.spotify.com/track/1EmHeOAiZpHgLMbAXUQENm"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Tom's Diner (Electro Swing Mix)",
-        "url": "https://open.spotify.com/album/7oIVtGiQ1cZE8S5DKqh9dw"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        },
-        {
-          "name": "Kasia Buja",
-          "url": "https://open.spotify.com/artist/0Raqt5611HhEAPm88g2aeg"
-        }
-      ],
-      "duration_ms": 191176,
-      "name": "Tom's Diner - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77"
-    },
-    {
       "added_at": "2022-05-13 04:03:00",
       "album": {
         "name": "Boring 20s",
@@ -683,6 +663,26 @@
       "duration_ms": 178282,
       "name": "Laisse-Toi Tomber",
       "url": "https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Tom's Diner (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/7oIVtGiQ1cZE8S5DKqh9dw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
+        },
+        {
+          "name": "Kasia Buja",
+          "url": "https://open.spotify.com/artist/0Raqt5611HhEAPm88g2aeg"
+        }
+      ],
+      "duration_ms": 191176,
+      "name": "Tom's Diner - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Glam! - Single",
+        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
+      },
+      "artists": [
+        {
+          "name": "Dimie Cat",
+          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
+        }
+      ],
+      "duration_ms": 187689,
+      "name": "Glam - Electro-swing Remix",
+      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Cat Came Back",
         "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 173296,
       "name": "The Cat Came Back - Bdd Remix Edit",
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Glam! - Single",
-        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
-      },
-      "artists": [
-        {
-          "name": "Dimie Cat",
-          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
-        }
-      ],
-      "duration_ms": 187689,
-      "name": "Glam - Electro-swing Remix",
-      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Good Old Days",
-        "url": "https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Breakfast",
-          "url": "https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Good Old Days",
-      "url": "https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID"
-    },
-    {
       "added_at": "2022-07-05 12:46:20",
       "album": {
         "name": "Both Sides of the Moon",
@@ -1213,20 +1197,20 @@
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+        "name": "The Good Old Days",
+        "url": "https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY"
       },
       "artists": [
         {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+          "name": "Moonlight Breakfast",
+          "url": "https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp"
         }
       ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
+      "duration_ms": 192000,
+      "name": "The Good Old Days",
+      "url": "https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID"
     },
     {
       "added_at": "2022-11-07 16:43:23",
@@ -1247,6 +1231,22 @@
       "duration_ms": 178320,
       "name": "Watch Your Tongue",
       "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2020-10-30 09:06:04",

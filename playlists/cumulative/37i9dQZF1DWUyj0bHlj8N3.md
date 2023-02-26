@@ -4,11 +4,12 @@
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-76 songs - 4 hr 26 min
+77 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acrobatic](https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT) | 2:56 | 2021-12-17 |  |
+| [Acrobatic](https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT) | 2:56 | 2021-12-17 | 2023-02-26 |
+| [Acrobatic](https://open.spotify.com/track/3jIFcrHrnLgBio9z8mkMBo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/2lOide8iBXNliLKlqvAIWu) | 2:56 | 2021-12-17 |  |
 | [All The Time](https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [All The Time](https://open.spotify.com/album/67Ulp5KinPqy6RBWgS3hO7) | 2:19 | 2021-12-17 |  |
 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 | 2021-12-17 |  |
 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 | 2021-12-17 |  |

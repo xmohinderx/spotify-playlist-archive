@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,968 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,100 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

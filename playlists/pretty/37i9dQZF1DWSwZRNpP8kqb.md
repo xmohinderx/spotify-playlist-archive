@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,332 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,358 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 51 | [En el Fresco de la Noche](https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Cría](https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8) | 5:40 |
 | 52 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 |
 | 53 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
-| 54 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
-| 55 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 |
+| 54 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 |
+| 55 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 | 56 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
-| 57 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
+| 57 | [La Jardinera](https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz) | [Silvia Iriondo](https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7), [Carlos Aguirre & Quinteto de Guitarras](https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5) | [Pasionarias](https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m) | 3:55 |
 | 58 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
-| 59 | [La Jardinera](https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz) | [Silvia Iriondo](https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7), [Carlos Aguirre & Quinteto de Guitarras](https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5) | [Pasionarias](https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m) | 3:55 |
+| 59 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
 | 60 | [El seclanteño](https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Rosa De Los Vientos](https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy) | 4:46 |
 | 61 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 |
 | 62 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 66 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 |
 | 67 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 |
 | 68 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 |
-| 69 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 |
-| 70 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
+| 69 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
+| 70 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 |
 | 71 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
 | 72 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
 | 73 | [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 |
 | 74 | [Cuando vuelva a encontrarte](https://open.spotify.com/track/3rCX9nWMuNlpILaIo8otaL) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW) | 2:31 |
 | 75 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMGI5YjI1ZTFlZDZmZmZjOTUxNjllNTE5MzY5ZjgxZjNm`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMGY4YTg1MTJjZjE5OTE0YmM2NmZlMDA1MDBjOGE0YmI4`

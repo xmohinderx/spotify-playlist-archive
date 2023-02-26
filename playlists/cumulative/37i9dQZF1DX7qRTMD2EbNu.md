@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=A77LtOw8ScqPlHwiVxtb5A"> Black Sherif </a>
 
-158 songs - 8 hr 4 min
+159 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Floor Shake](https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X) | [DJ Semtex](https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Floor Shake](https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE) | 2:32 | 2023-02-23 |  |
 | [Frass](https://open.spotify.com/track/4YesAXkrlESdn1Vk2f65pa) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Nothing Matters](https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi) | 2:43 | 2022-12-08 |  |
 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 | 2022-06-29 | 2022-12-19 |
-| [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 | 2022-06-24 |  |
+| [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 | 2023-01-20 |  |
+| [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 | 2022-06-24 | 2023-02-26 |
 | [From Osu](https://open.spotify.com/track/6V6uaUFRJD73rWx5bjujan) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [From Osu](https://open.spotify.com/album/1qEx9aEwX3lrz0EX3Oro8z) | 3:24 | 2023-02-10 |  |
 | [Gbedu](https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Snypa](https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Gbedu](https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0) | 3:03 | 2022-08-12 | 2022-12-02 |
 | [GIRLS XXX](https://open.spotify.com/track/5UQsNzxfaIWuY0tT2pnZuh) | [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [GIRLS XXX](https://open.spotify.com/album/01g8crwiJmiaby1O6XzGUo) | 3:02 | 2022-12-08 | 2022-12-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 275820,
+  "num_followers": 275884,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMDZjMmJkMDhkNzliMTI5MjAyZmY5ZTEwYWE1YmI2MjM4",
+  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMDk3OTk3ZmNhNjI5Mjk4ZWM3MGViYjRjOTE1OWJiMjVm",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "In Manchester",
-        "url": "https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 173476,
-      "name": "In Manchester",
-      "url": "https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Plum",
         "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 286660,
       "name": "Even True Love",
       "url": "https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "In Manchester",
+        "url": "https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 173476,
+      "name": "In Manchester",
+      "url": "https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Irrational",
         "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 203992,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "So Humble The Afternoon",
+        "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 322840,
+      "name": "So Humble the Afternoon",
+      "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 205225,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Ethernity",
-        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
-      },
-      "artists": [
-        {
-          "name": "For Tracy Hyde",
-          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Just Like Fireflies",
-      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
     }
   ],
   "unique_name": "Dreampop",

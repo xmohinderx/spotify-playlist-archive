@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,845 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,847 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 20 | [Manhattan](https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:24 |
 | 21 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 |
 | 22 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
-| 23 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 |
-| 24 | [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 |
+| 23 | [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 |
+| 24 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 |
 | 25 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |
 | 26 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 |
 | 27 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 33 | [Downtown Train](https://open.spotify.com/track/3fPqUl4lPDUQmY0T7dKUv2) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:50 |
 | 34 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
 | 35 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
-| 36 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
-| 37 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
+| 36 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
+| 37 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
 | 38 | [Piazza, New York Catcher](https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:03 |
 | 39 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 40 | [Brooklyn](https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 49 | [Welcome To New York City](https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 5:09 |
 | 50 | [Across 110th Street](https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Best Of Bobby Womack \- The Soul Years](https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd) | 3:44 |
 
-Snapshot ID: `MTY3Mjc3MzgxNCwwMDAwMDAwMGY3ODY0Y2NkODkwODEwZGY1NGNiMmYzNjNlMzQ0OGM1`
+Snapshot ID: `MTY3Mjc3MzgxNCwwMDAwMDAwMDI4OWY4YzU1ZTZjOGE1NWM4YTU3OGJlNDYzOTc1MGE3`

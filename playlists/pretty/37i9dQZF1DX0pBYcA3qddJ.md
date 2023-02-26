@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,078 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,101 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 67 | [Voyage](https://open.spotify.com/track/5T9jY8XY5uAkewdYMjDdYi) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Voyage](https://open.spotify.com/album/1zyRsUPkb552Z6f4w0dvM4) | 2:39 |
 | 68 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 69 | [Fractal](https://open.spotify.com/track/4E5jKJGrswkfkjQ4e0VsgH) | [Ruben Gerards](https://open.spotify.com/artist/2AGeMh4qqkuiyiD5tiO449) | [Fractal](https://open.spotify.com/album/5QhFnYTMLJMTRParRoX8nf) | 2:56 |
-| 70 | [Polovetsian Dances from Prince Igor: Introduzione](https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [George Szell](https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Mussorgsky: Pictures at an Exhibition \- Expanded Edition](https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om) | 2:16 |
+| 70 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 |
 | 71 | [あしたに向かって](https://open.spotify.com/track/2qoheoIUxD6rwibBksqTFt) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [哀しみの向こう](https://open.spotify.com/album/0RZI94WG9thxjLCfLMYIuq) | 3:40 |
-| 72 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 |
+| 72 | [Polovetsian Dances from Prince Igor: Introduzione](https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [George Szell](https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Mussorgsky: Pictures at an Exhibition \- Expanded Edition](https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om) | 2:16 |
 | 73 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 74 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 75 | [Rainbow](https://open.spotify.com/track/0C0p6ndJk5S6LdQyyqzfdJ) | [Mina Kubota](https://open.spotify.com/artist/4z1dMCmOJ6VHm8P7EP5qWf) | [ARIA\~ピアノ・コレクション\~ スタジオーネ\-季節\-](https://open.spotify.com/album/6AOubvJvCg6wAxeb1Glwhx) | 3:05 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 96 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 | 97 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 |
 | 98 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
-| 99 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 |
+| 99 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 |
 | 100 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 |
 
-Snapshot ID: `MTY3NzIwOTgzNywwMDAwMDAwMGMzNDA5NDE1MDQ4MzE4ZWRkZjlhN2Y5M2E3ZDQ3ZmFh`
+Snapshot ID: `MTY3NzIwOTgzNywwMDAwMDAwMDM5NDI2ZTJlYWZhOGE4NjY0NTFiOTBlNWYxYjVmNzIw`

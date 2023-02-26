@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,744 likes - 89 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,753 likes - 89 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 29 | [Reggae en el Universo](https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:06 |
 | 30 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
 | 31 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
-| 32 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
-| 33 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 32 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 33 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 34 | [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 |
 | 35 | [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 |
 | 36 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 60 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
 | 61 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 62 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
-| 63 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
-| 64 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 |
+| 63 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 |
+| 64 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
 | 65 | [La Pipa](https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Sergio Colombo Presenta el Natty Combo](https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s) | 5:49 |
 | 66 | [Sonido Fresco](https://open.spotify.com/track/1gka28UzjRHhMcRpaux6o8) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Ritmo Elemental](https://open.spotify.com/album/59ogO85mMUoWI8ijg6VBLl) | 3:48 |
 | 67 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [La Máscara \- En Vivo](https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [20 Años en Vivo & En Directo](https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT) | 5:31 |
 | 89 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 
-Snapshot ID: `MTY3MTc2NDQwMCwwMDAwMDAwMDlmZWMwNjViNWFlZTUwYmQ4ZDZkZGVlZTdhMzIwNzhh`
+Snapshot ID: `MTY3MTc2NDQwMCwwMDAwMDAwMDI1YmQxMjI0MjgzM2I4ZTk0MDE2MmJiNjdlNjk1YWVi`

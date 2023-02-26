@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le tracce italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,948 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,974 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 8 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 |
 | 9 | [Ti ho voluto bene veramente](https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 2:49 |
 | 10 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
-| 11 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
-| 12 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
+| 11 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
+| 12 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 13 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 |
 | 14 | [Piccola Stella](https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 3:52 |
 | 15 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 |
 | 16 | [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 |
 | 17 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
-| 18 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 |
-| 19 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 |
+| 18 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 |
+| 19 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 |
 | 20 | [Rondini Al Guinzaglio](https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 4:00 |
 | 21 | [Completamente](https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [Completamente Sold Out](https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj) | 3:36 |
 | 22 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 39 | [Meraviglioso \- Live](https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [San Siro Live \(Deluxe Edition\)](https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa) | 4:03 |
 | 40 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 |
 | 41 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 |
-| 42 | [Estate](https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Estate](https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq) | 3:06 |
-| 43 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
+| 42 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
+| 43 | [Estate](https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Estate](https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq) | 3:06 |
 | 44 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 45 | [Oggi Sono Io](https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [it.pop](https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t) | 3:48 |
 | 46 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 |
 | 47 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
 | 48 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 |
 | 49 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 |
-| 50 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 |
+| 50 | [Anche Fragile](https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:59 |
 
-Snapshot ID: `MTY3Njg4NzAxNywwMDAwMDAwMDc2MjdiM2U3NjRiODM4NTM5MDg2MzlhNWQ1OTQxNzRk`
+Snapshot ID: `MTY3Njg4NzAxNywwMDAwMDAwMDYwYjJhOTNhNTE5N2QxZWY5YTNlNGNmOTA3OWM0N2Yx`

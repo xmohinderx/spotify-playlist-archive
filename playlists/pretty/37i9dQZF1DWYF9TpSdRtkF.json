@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 11649,
+  "num_followers": 11657,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MzczNywwMDAwMDAwMDViOGJkNjM4ODlkNjE1OTdmNzllZTAxYzJjMDdhOTgz",
+  "snapshot_id": "MTY3MzU4MzczNywwMDAwMDAwMDg4NmY5MDFkMGU4ZWI4MTNkZDYzZDExOWUyNWMyNmIx",
   "tracks": [
     {
       "added_at": "2023-01-13 04:22:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
-        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
-      },
-      "artists": [
-        {
-          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
-          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
-      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
-    },
-    {
-      "added_at": "2023-01-13 04:22:17",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!",
         "url": "https://open.spotify.com/album/3XMVnavGGMGhtKL5kX9wSq"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 329226,
       "name": "Flyers!!!",
       "url": "https://open.spotify.com/track/4Bu9rUQh1aABKXeMM8oSSr"
+    },
+    {
+      "added_at": "2023-01-13 04:22:17",
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
+        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
+      },
+      "artists": [
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
+      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -887,26 +887,18 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
-        "url": "https://open.spotify.com/album/5ug6ELg787KuXMs1Z5gthX"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
+        "url": "https://open.spotify.com/album/0i8lhN2S9zPhErVX2LXhc0"
       },
       "artists": [
         {
-          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
-          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
-        },
-        {
-          "name": "\u4e2d\u8c37 \u80b2 (CV.\u539f\u5d8b\u3042\u304b\u308a)",
-          "url": "https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl"
-        },
-        {
-          "name": "Momoko Suou (CV: Keiko Watanabe)",
-          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
         }
       ],
-      "duration_ms": 311466,
-      "name": "Arrive You ~\u305d\u308c\u304c\u904b\u547d\u3067\u3082~",
-      "url": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X"
+      "duration_ms": 271200,
+      "name": "Glow Map",
+      "url": "https://open.spotify.com/track/79OU4I5FkeGb9yKmlD23bn"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -927,18 +919,26 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
-        "url": "https://open.spotify.com/album/0i8lhN2S9zPhErVX2LXhc0"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
+        "url": "https://open.spotify.com/album/5ug6ELg787KuXMs1Z5gthX"
       },
       "artists": [
         {
-          "name": "765 MILLION ALLSTARS",
-          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u4e2d\u8c37 \u80b2 (CV.\u539f\u5d8b\u3042\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Glow Map",
-      "url": "https://open.spotify.com/track/79OU4I5FkeGb9yKmlD23bn"
+      "duration_ms": 311466,
+      "name": "Arrive You ~\u305d\u308c\u304c\u904b\u547d\u3067\u3082~",
+      "url": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -1179,30 +1179,18 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
-        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 06",
+        "url": "https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf"
       },
       "artists": [
         {
-          "name": "Rio Momose (CV: Rikako Yamaguchi)",
-          "url": "https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4"
-        },
-        {
-          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
-          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+          "name": "\u5bae\u5c3e\u7f8e\u4e5f (CV.\u6850\u8c37\u8776\u3005)",
+          "url": "https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC"
         }
       ],
-      "duration_ms": 231133,
-      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
-      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
+      "duration_ms": 301093,
+      "name": "\u521d\u604b\u30d0\u30bf\u30d5\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -1232,6 +1220,34 @@
       "added_at": "2023-01-13 04:22:17",
       "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+      },
+      "artists": [
+        {
+          "name": "Rio Momose (CV: Rikako Yamaguchi)",
+          "url": "https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
+      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
+    },
+    {
+      "added_at": "2023-01-13 04:22:17",
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
       },
       "artists": [
@@ -1243,22 +1259,6 @@
       "duration_ms": 254360,
       "name": "Shamrock Vivace",
       "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
-    },
-    {
-      "added_at": "2023-01-13 04:22:17",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 06",
-        "url": "https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u5c3e\u7f8e\u4e5f (CV.\u6850\u8c37\u8776\u3005)",
-          "url": "https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC"
-        }
-      ],
-      "duration_ms": 301093,
-      "name": "\u521d\u604b\u30d0\u30bf\u30d5\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -1491,34 +1491,6 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
-        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
-      },
-      "artists": [
-        {
-          "name": "Takane Shijou (CV: Yumi Hara)",
-          "url": "https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl"
-        },
-        {
-          "name": "Umi Kousaka (CV: Reina Ueda)",
-          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
-        },
-        {
-          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
-          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
-        },
-        {
-          "name": "Miya Miyao (CV: Choucho Kiritani)",
-          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
-        }
-      ],
-      "duration_ms": 287293,
-      "name": "\u77b3\u306e\u4e2d\u306e\u30b7\u30ea\u30a6\u30b9",
-      "url": "https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF"
-    },
-    {
-      "added_at": "2023-01-13 04:22:17",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
         "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
       },
@@ -1543,6 +1515,34 @@
       "duration_ms": 265600,
       "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
       "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
+    },
+    {
+      "added_at": "2023-01-13 04:22:17",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "Takane Shijou (CV: Yumi Hara)",
+          "url": "https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "duration_ms": 287293,
+      "name": "\u77b3\u306e\u4e2d\u306e\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 03",
-        "url": "https://open.spotify.com/album/0x3A6Datf6hMIKYXZN6Kwp"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
+        "url": "https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w"
       },
       "artists": [
         {
-          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
-          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "Rio Momose (CV: Rikako Yamaguchi)",
+          "url": "https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4"
         }
       ],
-      "duration_ms": 226746,
-      "name": "\u3086\u3048\u306b\u2026\u306a\u3093\u3067\u3059",
-      "url": "https://open.spotify.com/track/21Vh5CofcrnxMyW8WqCBaP"
+      "duration_ms": 240613,
+      "name": "Cherry Colored Love",
+      "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
     },
     {
       "added_at": "2023-01-13 04:22:17",
@@ -1675,22 +1679,18 @@
     {
       "added_at": "2023-01-13 04:22:17",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
-        "url": "https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w"
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 03",
+        "url": "https://open.spotify.com/album/0x3A6Datf6hMIKYXZN6Kwp"
       },
       "artists": [
         {
-          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
-          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
-        },
-        {
-          "name": "Rio Momose (CV: Rikako Yamaguchi)",
-          "url": "https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4"
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
         }
       ],
-      "duration_ms": 240613,
-      "name": "Cherry Colored Love",
-      "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
+      "duration_ms": 226746,
+      "name": "\u3086\u3048\u306b\u2026\u306a\u3093\u3067\u3059",
+      "url": "https://open.spotify.com/track/21Vh5CofcrnxMyW8WqCBaP"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",

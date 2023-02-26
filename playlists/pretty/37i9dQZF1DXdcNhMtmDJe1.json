@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 76366,
+  "num_followers": 76388,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGYxNTkzNTcyNjRiNjBhMzkyZWFiNTI3ZDQyODk3Y2Rm",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDFkM2M3ODYwNDg0ZmEwYTUzNjUxZmMwZDdiMGU4ODM0",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel In Distress: A Foggy Day",
-      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -951,34 +951,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Don Rose",
-          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 417640,
-      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
-      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
       },
@@ -1003,6 +975,34 @@
       "duration_ms": 949253,
       "name": "Second Rhapsody",
       "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Don Rose",
+          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 417640,
+      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
+      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
     },
     {
       "added_at": "2022-08-05 04:02:00",

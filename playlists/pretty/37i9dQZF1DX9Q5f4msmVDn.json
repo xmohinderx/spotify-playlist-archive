@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 5887,
+  "num_followers": 5908,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGRmMjhlOGIzMWJiZTI5ZTdiNTdhZWQwMTEwZjg3MWZi",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGIwZGRiYTBlOTMwOGIwNWYyMTY1YmExYmY2N2NkNTAz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Lay Wit Ya (feat. Duke Deuce)",
         "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 235978,
       "name": "gold fronts (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2022-10-01 16:00:00",

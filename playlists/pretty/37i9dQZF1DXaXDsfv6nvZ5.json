@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 740671,
+  "num_followers": 740733,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDk3Yzk2MzA5ODQ3YzcyNWVjZDQ0ZDlhMTE5OWU3OGNl",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDRiYWZjNDZmOTg3OTEzOWFjYTdkNTNkMDFjZTI4NTVm",
   "tracks": [
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
       "added_at": "2022-10-03 05:27:10",
       "album": {
         "name": "Sweet Blue",
@@ -1333,20 +1317,36 @@
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
       },
       "artists": [
         {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
         }
       ],
-      "duration_ms": 194365,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/57x83GI7482qiFSDooS02L"
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
     }
   ],
   "unique_name": "Soul Coffee",

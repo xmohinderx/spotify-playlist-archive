@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 63 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 63 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 62 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
 | 63 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `Mjc5NTUyNjAsMDAwMDAwMDBkYTkwMzlkMWQ4NmNmODkzYWQ2OTg4NjQwMWI0ZDE1ZA==`
+Snapshot ID: `Mjc5NTYxNjAsMDAwMDAwMDA2M2Q1MTY4N2E2ODQxM2RhNjkwNGRhOTY1OTA0MmQ3Yw==`

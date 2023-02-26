@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,536 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,640 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 50 | [Preso \(with Aleks Syntek\)](https://open.spotify.com/track/51TFIzlPxFyQsKhBE9tHDe) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [José José Duetos Volumen 2](https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D) | 4:12 |
 | 51 | [Aún Estoy de Pie](https://open.spotify.com/track/3YvbKPUuXXUtbnmcEcYGpp) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Tesoros](https://open.spotify.com/album/3cqWxJrSCEz1iFFLr2vUm6) | 4:00 |
 | 52 | [Amnesia](https://open.spotify.com/track/7xNvkborz5fC8SaTe3ecQl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 2](https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064) | 3:44 |
-| 53 | [No Discutamos](https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 2:19 |
-| 54 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
+| 53 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
+| 54 | [No Discutamos](https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 2:19 |
 | 55 | [Lágrimas](https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 5:12 |
 | 56 | [Con Tu Amor](https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Tu Amor](https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X) | 4:09 |
 | 57 | [Piel de Azúcar](https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 2](https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064) | 3:38 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 81 | [Cosas de Enamorados](https://open.spotify.com/track/0am5jWvHPdiOggYsAvpTvY) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:26 |
 | 82 | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT) | 2:44 |
 | 83 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 |
-| 84 | [Yo No Sé Que Me Pasó](https://open.spotify.com/track/0ZRZzgY6myZ67vLoUcZbsC) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 4:42 |
-| 85 | [Tú Me Dijiste Adiós](https://open.spotify.com/track/7cUrtfZr6ONm7tvPqluEcK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:14 |
+| 84 | [Tú Me Dijiste Adiós](https://open.spotify.com/track/7cUrtfZr6ONm7tvPqluEcK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:14 |
+| 85 | [Yo No Sé Que Me Pasó](https://open.spotify.com/track/0ZRZzgY6myZ67vLoUcZbsC) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 4:42 |
 | 86 | [Te Quise Olvidar](https://open.spotify.com/track/5rSWafwAbqksTW1egLSowr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 4:29 |
 | 87 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
 | 88 | [Te Quiero Tal Como Eres](https://open.spotify.com/track/5YmvD7VUaakAnlLUBBIz5W) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 95 | [Ahora Con la Banda..\. Te Voy a Olvidar / Ya para Qué / La Farsante](https://open.spotify.com/track/4tZ4seoyOqBvjlGlrJenF3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 5:02 |
 | 96 | [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 |
 | 97 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 |
-| 98 | [Así Fue](https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 6:32 |
-| 99 | [Eso Nomás](https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL) | 4:22 |
+| 98 | [Eso Nomás](https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL) | 4:22 |
+| 99 | [Así Fue](https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 6:32 |
 | 100 | [La Diferencia](https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 3:31 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDdmMmU4ZTU1N2Q1MWNmYWE4ZjUxNGZhOTllNmU2YzI5`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDk1ZDdiZmYwZWM4NTcwNGY1OTM4ODk4ZjhiYTg4MDg5`

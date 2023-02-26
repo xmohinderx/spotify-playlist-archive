@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Ben L'Oncle Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,216 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 19 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 |
 | 20 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 21 | [Where Were You](https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Ties](https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR) | 3:25 |
-| 22 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
-| 23 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 |
+| 22 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 |
+| 23 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
 | 24 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 |
 | 25 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 26 | [OCT 33](https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:49 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 29 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
 | 30 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 |
 | 31 | [Hard Life](https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Hard Life](https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL) | 3:48 |
-| 32 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:18 |
-| 33 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
+| 32 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
+| 33 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:18 |
 | 34 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 |
 | 35 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 |
 | 36 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 49 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
 | 50 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 |
 | 51 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
-| 52 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
-| 53 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
-| 54 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 |
+| 52 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
+| 53 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 |
+| 54 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 55 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
 | 56 | [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 |
 | 57 | [Stay](https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stay](https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 69 | [You Live In My Phone](https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE) | [You Live In My Phone](https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX) | 4:33 |
 | 70 | [Carried Away](https://open.spotify.com/track/29ZonaZKYeeuOu6gMheY8D) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:08 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDhlOTlkZjhiNGMzOTg4NjQyYTBkM2RlNTBlMGFkNDY2`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGJlNjYyODhjYTBjMTVlY2E1MDlmOWM2ZTEzZTQyMjA5`

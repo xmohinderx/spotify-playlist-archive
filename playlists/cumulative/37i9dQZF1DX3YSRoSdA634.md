@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-492 songs - 1 day 6 hr 20 min
+493 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2022-06-24 |  |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2022-06-03 |  |
 | [Deeper Meaning](https://open.spotify.com/track/2K7NWakXsWXtGBHKGZTMec) | [Zach Heckendorf](https://open.spotify.com/artist/6ByG3e9FrWcM1eOJcIuOSR) | [Deeper Meaning](https://open.spotify.com/album/0e8jEms3WUtEbS48ongYAR) | 2:46 | 2022-04-29 | 2022-05-11 |
+| [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-02-24 |  |
 | [DITR](https://open.spotify.com/track/1iEH453kVmEcwgVKtbvylS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:12 | 2022-06-17 | 2022-07-29 |
 | [Don't Forget About Me](https://open.spotify.com/track/2beozoXN4fRxFHLpiVBrNv) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/0VL0YxxKMUyizBR0SMveRA) | 4:28 | 2022-02-07 | 2022-04-20 |
 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 | 2022-07-01 | 2022-12-24 |
@@ -452,7 +453,7 @@
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2022-01-05 |  |
 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 | 2022-06-10 |  |
 | [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/2L433J1zwGjK5w6SHwJAhp) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68pBVLvF14n0d3c6BYlOTk) | 3:24 | 2021-12-15 | 2022-07-29 |
-| [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 3:24 | 2022-07-01 |  |
+| [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 3:24 | 2022-07-01 | 2023-02-26 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-07-08 |  |
 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2022-07-01 | 2023-01-07 |
 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 | 2022-06-24 |  |

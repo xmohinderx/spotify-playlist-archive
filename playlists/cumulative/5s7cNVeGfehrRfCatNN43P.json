@@ -17379,6 +17379,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
         "name": "Tears In The Club (feat. The Weeknd)",
         "url": "https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY"
       },

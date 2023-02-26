@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,334 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,736 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 47 | [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 |
 | 48 | [Joyride](https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Extended Version\)](https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N) | 4:23 |
 | 49 | [Please Don't Go](https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR) | [Double You](https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV) | [We All Need Love](https://open.spotify.com/album/61jMz9gG0UkpTGeVI2x26L) | 3:20 |
-| 50 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 |
+| 50 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
 
-Snapshot ID: `MTY3NjAzMzU0MiwwMDAwMDAwMDE4ODgxZTlkYmFiNmY4ZmE5ODljOTUyYTg2YmVhMWM4`
+Snapshot ID: `MTY3NjAzMzU0MiwwMDAwMDAwMDRhZTJmOTkxZTBlNGNjNmNkYjAyYWFhZGUyNTVjN2Uz`

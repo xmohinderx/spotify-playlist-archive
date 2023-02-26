@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 188884,
+  "num_followers": 188889,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGNhOWNkMTkzZTY0MDg4Y2E1ZTc4ZDg1MjJiMDVlNTJl",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGRmMTA1MjEzN2Y4OTMyMTBkMDNiZjMwMDhkMDFhZDc4",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3vlP9QH45gN0GSbJYN7tCe"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Orange Villa",
-          "url": "https://open.spotify.com/artist/1Zfvu3KDmISwHwOuU8eXH5"
-        }
-      ],
-      "duration_ms": 146355,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -883,22 +863,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3vlP9QH45gN0GSbJYN7tCe"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+          "name": "Orange Villa",
+          "url": "https://open.spotify.com/artist/1Zfvu3KDmISwHwOuU8eXH5"
         }
       ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+      "duration_ms": 146355,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -919,6 +899,26 @@
       "duration_ms": 165120,
       "name": "Dance All Over Me - Jax Jones Remix",
       "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        }
+      ],
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "God Is A Dancer (with Mabel)",
+        "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "God Is A Dancer (with Mabel)",
+      "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "God Is A Dancer (with Mabel)",
-        "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "God Is A Dancer (with Mabel)",
-      "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Fiender \u00e4r tr\u00e5kigt",
+        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tillf\u00e4lligheter",
+      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 184026,
       "name": "Brave",
       "url": "https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Fiender \u00e4r tr\u00e5kigt",
-        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Tillf\u00e4lligheter",
-      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
     },
     {
       "added_at": "2023-02-23 23:00:00",

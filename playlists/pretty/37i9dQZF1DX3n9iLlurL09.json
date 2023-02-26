@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 60908,
+  "num_followers": 60970,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMGE3YWQwOTdiNjM5OTc3MzM3MjYxY2ZiOGNkNDI4Zjc1",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDA0YTJiMGEzYzUxYWIxN2Y3MmM2YTA4ZTEwNTNkM2Rj",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Walk The Moon",
-        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 321280,
-      "name": "Anna Sun",
-      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 224680,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Walk The Moon",
+        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 321280,
+      "name": "Anna Sun",
+      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Sweet Disarray",
         "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 196848,
       "name": "From Nowhere",
       "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 226373,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Synthetica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+        "name": "Synthetica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "duration_ms": 179653,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
+      "duration_ms": 236413,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Next Year",
-      "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Shields",
         "url": "https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
     }
   ],
   "unique_name": "Best of Indie 2012",

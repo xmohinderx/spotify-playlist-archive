@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 358059,
+  "num_followers": 358986,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg2MDMzMSwwMDAwMDAwMDY4ZTlmYzcwNmJiNDc3NjNmNzgxNzFmZmMwZDc4Njc0",
+  "snapshot_id": "MTY3Mzg2MDMzMSwwMDAwMDAwMGM2OGY0MzJhYzBlYTg0ZWU3NmZjYzk0YjNkNjJjMmVh",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Never Too Much",
@@ -915,6 +899,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Living In The Background",
-        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 378946,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Living In The Background",
+        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 378946,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Bad - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "In Square Circle",
@@ -1235,6 +1219,22 @@
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Bad - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Tell It to My Heart (Expanded Edition)",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Live Is Life",
-        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
       },
       "artists": [
         {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 249500,
-      "name": "Live Is Life (Digitally Remastered) (Single Version)",
-      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1455,6 +1439,22 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Live Is Life",
+        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Live Is Life (Digitally Remastered) (Single Version)",
+      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True Blue (Reissue)",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Points On The Curve",
         "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 240800,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "True Blue (Reissue)",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Above The Clouds - The Collection (Deluxe)",
-        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
-      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
-    },
-    {
       "added_at": "2021-09-18 06:09:03",
       "album": {
         "name": "Hands Up",
@@ -1803,6 +1787,22 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Like a Prayer",
@@ -1867,6 +1851,22 @@
       "duration_ms": 340866,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2017,22 +2017,6 @@
       "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Madonna (Reissue)",
@@ -2049,20 +2033,20 @@
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
         }
       ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2095,6 +2079,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Empty Glass",
-        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
-      },
-      "artists": [
-        {
-          "name": "Pete Townshend",
-          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Let My Love Open The Door",
-      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Empty Glass",
+        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
+      },
+      "artists": [
+        {
+          "name": "Pete Townshend",
+          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Let My Love Open The Door",
+      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2277,6 +2277,22 @@
       "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Pipes Of Peace",
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "A Flock Of Seagulls",
         "url": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 308933,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2411,18 +2427,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True Blue (Reissue)",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
         }
       ],
-      "duration_ms": 257466,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2443,22 +2459,6 @@
       "duration_ms": 204786,
       "name": "Dancing in the Street - 2002 Remaster",
       "url": "https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
-      },
-      "artists": [
-        {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Dancing with Tears in My Eyes",
-      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     }
   ],
   "unique_name": "80s Party",

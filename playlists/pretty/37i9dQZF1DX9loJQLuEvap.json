@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: C\u00e9line Dion",
-  "num_followers": 1667760,
+  "num_followers": 1667914,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTEwMjk3NywwMDAwMDAwMDE5ZWQzYTUyMDI4NzVlYjc2MTY5NTg2NTBiOTIxOThj",
+  "snapshot_id": "MTY3NTEwMjk3NywwMDAwMDAwMDQxNTA4ZDQ0MjVhMGFhMDc2NDk2NWUzMzFhY2M4NTA0",
   "tracks": [
     {
       "added_at": "2023-01-30 18:22:57",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 230933,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -727,6 +711,22 @@
       "duration_ms": 250546,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
     },
     {
       "added_at": "2023-01-30 18:22:57",

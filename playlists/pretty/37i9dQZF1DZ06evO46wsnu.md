@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,600 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,631 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 36 | [Black Masks & Gasoline](https://open.spotify.com/track/5LYYi2xeLbrnvD9UQ1AE3U) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 2:59 |
 | 37 | [The Numbers](https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 4:59 |
 | 38 | [Holding Patterns](https://open.spotify.com/track/4tbMuNMqsH536ovfXw5bOd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 3:29 |
-| 39 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 |
-| 40 | [Faint Resemblance \- Ghost Note Symphonies](https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 2:22 |
+| 39 | [Faint Resemblance \- Ghost Note Symphonies](https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 2:22 |
+| 40 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 |
 | 41 | [Monarch](https://open.spotify.com/track/5G3zN7LhZzHwD6RSLbPAUk) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:32 |
 | 42 | [Wolves](https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:37 |
 | 43 | [The Answer](https://open.spotify.com/track/3SUWh0G4xKwABijsrahDRW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:01 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 48 | [Welcome To The Breakdown](https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:03 |
 | 49 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:06 |
 | 50 | [Voices Off Camera \- Ghost Note Symphonies](https://open.spotify.com/track/3PaeUkXlQSmYKlR30fbdzU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:01 |
-| 51 | [Last Man Standing](https://open.spotify.com/track/2wf0dt4xapeHtfUyizyQqQ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:27 |
+| 51 | [Blood To Bleed](https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:48 |
 
-Snapshot ID: `Mjc5NTQwNzUsMDAwMDAwMDAzMTEyNTNhYjcyY2VjMTUzYmFjYzYzYzliYjc2MjZiYw==`
+Snapshot ID: `Mjc5NTU2NTMsMDAwMDAwMDAyZTFkYTAxM2Q2NmE0YTVjYzFlM2E0OTM4MTA5OWIzMQ==`

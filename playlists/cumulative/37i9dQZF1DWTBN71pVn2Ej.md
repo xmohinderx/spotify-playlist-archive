@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-311 songs - 18 hr 13 min
+312 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-21 |  |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-31 | 2022-11-05 |
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 | 2022-10-22 |
-| [Only One](https://open.spotify.com/track/3IDxRzc2zzTc16pGEz90LA) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3) | 3:21 | 2023-01-13 |  |
+| [Only One](https://open.spotify.com/track/3IDxRzc2zzTc16pGEz90LA) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3) | 3:21 | 2023-01-13 | 2023-02-26 |
+| [Only One](https://open.spotify.com/track/5nm5Y0BEjEoWZdVz5bUiCp) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/1yu0ZfTJVvsrgjMF9tDuGn) | 3:21 | 2023-02-24 |  |
 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 | 2022-09-06 | 2022-10-22 |
 | [Open Your Eyes and Dream](https://open.spotify.com/track/6o7ipc663JGAnWsntR8Ny6) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Open Your Eyes and Dream](https://open.spotify.com/album/0tYtuOZFH561GOoZU3VdqV) | 4:02 | 2022-09-22 | 2023-02-25 |
 | [Out Of the Dark and into the Light](https://open.spotify.com/track/2M01sUTKph6pqR7J5j79Er) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Out of the Dark and Into the Light](https://open.spotify.com/album/03wqT0b3aui6059tTnSqqs) | 2:59 | 2022-09-30 | 2023-01-14 |

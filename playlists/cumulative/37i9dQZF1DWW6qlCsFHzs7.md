@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-76 songs - 5 hr 50 min
+77 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Real Badman \- Bakey Remix](https://open.spotify.com/track/1fNBFxMDl2gOg6vs3oXXHb) | [Arfa](https://open.spotify.com/artist/6n67IiFncVHKaMwpejXW6d), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Real Badman \(Bakey Remix\)](https://open.spotify.com/album/3ARueEj9kyRQh5t61shiIQ) | 4:48 | 2023-01-10 | 2023-02-01 |
 | [Reasons](https://open.spotify.com/track/5DhWz7cAypKi6eFpVLQgG0) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Reasons & Fluteloops](https://open.spotify.com/album/22EznsXBYtKj4OFhYoz5zc) | 4:58 | 2023-01-10 |  |
 | [Request Line](https://open.spotify.com/track/3MMgBwZrja6WrCPoxJbDWy) | [D&G](https://open.spotify.com/artist/2LO7TMTsXDG1R5Ohw6DeGe) | [Dubs & Grooves, Vol\. 1](https://open.spotify.com/album/5IXHDuJrdE9tEF0m2g3NVw) | 6:36 | 2023-01-10 |  |
-| [Ride That Thing](https://open.spotify.com/track/7CGfYF9Gb3a7GGUZtbQolR) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Active](https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu) | 3:09 | 2023-01-10 |  |
+| [Ride That Thing](https://open.spotify.com/track/1xize7v0QtfP7rAv8ThWFq) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Active](https://open.spotify.com/album/1jXOTR9fYQgJDflrfAWySM) | 3:09 | 2023-01-10 |  |
+| [Ride That Thing](https://open.spotify.com/track/7CGfYF9Gb3a7GGUZtbQolR) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Active](https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu) | 3:09 | 2023-01-10 | 2023-02-26 |
 | [Right Here! Right Now!](https://open.spotify.com/track/4n9lVLJfHKtu7ogdcTOUdZ) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 4:31 | 2023-02-01 |  |
 | [Right Together \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0wxi24FvxpoyBSsg9ugskd) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Right Together \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/4rU7B8ztRuttCxeRVHhzom) | 3:05 | 2023-01-10 | 2023-02-01 |
 | [Rise For Love](https://open.spotify.com/track/6RtUXHKvEvHVXnm1Z1WU1Y) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Careless](https://open.spotify.com/album/3UvoNUY5z5XnLmYavKyDLN) | 6:41 | 2023-01-10 |  |

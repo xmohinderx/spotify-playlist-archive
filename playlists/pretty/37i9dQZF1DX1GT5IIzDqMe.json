@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 76218,
+  "num_followers": 76254,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGViODYwMjFhOTdmMmFmZWYzYjc5NzBmMjFkOTljZjQy",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDkzYzAxNzkwMDJmYTUxOTMxZjgxNGU5MjA3MWFiYjhm",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -755,22 +755,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
         }
       ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -791,18 +787,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
       "artists": [
         {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2022-07-22 08:57:48",

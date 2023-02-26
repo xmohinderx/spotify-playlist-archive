@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 54604,
+  "num_followers": 54615,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMDU4YjY4MGViOTBjNTc0YzEzZDYzNDMwMDEyMDQzYmY0",
+  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMDY4NDE3OGNiOGQ5MDk3NmQ5NDU5ZjFiZGM2MTU0ZTA0",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -137,26 +137,6 @@
       "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
-      "added_at": "2022-08-09 18:38:23",
-      "album": {
-        "name": "Tukumtak",
-        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "Tukumtak",
-      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Blues",
@@ -175,6 +155,26 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+    },
+    {
+      "added_at": "2022-08-09 18:38:23",
+      "album": {
+        "name": "Tukumtak",
+        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Tukumtak",
+      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
-    },
-    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -479,6 +463,22 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Your Voice",
         "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 175776,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Musica Infinita",
+        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 283841,
+      "name": "Orbita 13",
+      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
+    },
+    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -723,18 +739,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Musica Infinita",
-        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 283841,
-      "name": "Orbita 13",
-      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -759,22 +775,6 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -807,6 +807,22 @@
       "duration_ms": 364520,
       "name": "Cenit",
       "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
+    },
+    {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        }
+      ],
+      "duration_ms": 485054,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -853,52 +869,20 @@
       "url": "https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        }
-      ],
-      "duration_ms": 485054,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Lines In The Sand",
-        "url": "https://open.spotify.com/album/0rOMKaWPJScXu76Vm6GglX"
+        "name": "\u00a1Oh! Mi Amor",
+        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
       },
       "artists": [
         {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
-        },
-        {
-          "name": "John Escreet",
-          "url": "https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9"
-        },
-        {
-          "name": "Matt Brewer",
-          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
-        },
-        {
-          "name": "Thana Alexa",
-          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
-        },
-        {
-          "name": "Chase Baird",
-          "url": "https://open.spotify.com/artist/6bOdATrvhzr4uWsePPqCwJ"
+          "name": "DaJuana Band",
+          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
         }
       ],
-      "duration_ms": 523748,
-      "name": "Bad Hombres Y Mujeres",
-      "url": "https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W"
+      "duration_ms": 318122,
+      "name": "Trato De Asimilar",
+      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

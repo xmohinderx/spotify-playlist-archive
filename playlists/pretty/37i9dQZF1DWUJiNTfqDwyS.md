@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,146 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,372 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 16 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 |
 | 17 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
 | 18 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
-| 19 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 |
-| 20 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
+| 19 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
+| 20 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 |
 | 21 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
 | 22 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 |
 | 23 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 25 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 26 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
 | 27 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
-| 28 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
-| 29 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 28 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 29 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
 | 30 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
 | 31 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
 | 32 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [My Heart Will Go On](https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO) | 3:24 |
 | 50 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
 
-Snapshot ID: `MTY3NjgyODA0NiwwMDAwMDAwMDIyODM1NjczZjAzOTI5ZjUyMzE4MjQzMmU5Nzk5Y2Yz`
+Snapshot ID: `MTY3NjgyODA0NiwwMDAwMDAwMDYwZTMyOGQ3NzBlZGViMjdlMjkxNDFkZTYwOWQ0MzM0`

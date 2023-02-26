@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,707 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,687 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 34 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 | 35 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
 | 36 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
-| 37 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
-| 38 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
+| 37 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
+| 38 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
 | 39 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 |
 | 40 | [Falling Slowly](https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb) | [Steve Kazee](https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK), [Cristin Milioti](https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU), [Once Ensemble](https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG) | [Once: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN) | 4:26 |
 | 41 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [I Need To Wake Up](https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Greatest Hits: The Road Less Traveled](https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P) | 3:33 |
 | 56 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MTY3NTE5NDA3NiwwMDAwMDAwMDZmNGUyMmFkNDQ2MjkzN2VjMjZjZjUyNTE0ZWFhYWNj`
+Snapshot ID: `MTY3NTE5NDA3NiwwMDAwMDAwMDY4M2VhN2ZiOGIwMGJjZGE3OGNmODFhNjhkNTBlMzFi`

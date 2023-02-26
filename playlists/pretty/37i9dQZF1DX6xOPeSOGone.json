@@ -1,12 +1,12 @@
 {
   "description": "The great masterpieces of the genre. Cover: U2",
-  "num_followers": 3552858,
+  "num_followers": 3553869,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODY2NSwwMDAwMDAwMDM5OTEwN2M1ODYzMjQxNDNjYzViMDI2M2EwODYzMTZi",
+  "snapshot_id": "MTY3NDA3ODY2NSwwMDAwMDAwMDg3YTkxOTY5NjBlNmU3OGM2NDgxNmMwYWVkZjAzNjM4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:51:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 159346,
       "name": "Breakfast In America - 2010 Remastered",
       "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
     },
     {
       "added_at": "2023-01-18 21:51:05",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-01-18 21:51:05",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 297853,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2023-01-18 21:51:05",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 267080,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2023-01-18 21:51:05",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "All I Wanna Do Is Make Love To You",
-      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 210480,
       "name": "To Be With You - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "All I Wanna Do Is Make Love To You",
+      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2023-01-18 21:51:05",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 301546,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 329400,
       "name": "She Talks To Angels",
       "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 301546,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
     },
     {
       "added_at": "2023-01-18 21:51:05",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2023-01-18 21:51:05",
       "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "added_at": "2023-01-18 21:51:05",
+      "album": {
         "name": "Lap Of Luxury",
         "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
-    },
-    {
-      "added_at": "2023-01-18 21:51:05",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     }
   ],
   "unique_name": "Soft Rock",

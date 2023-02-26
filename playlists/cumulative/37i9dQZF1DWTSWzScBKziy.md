@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-184 songs - 11 hr 57 min
+185 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 | 2022-05-27 |  |
 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 | 2022-10-29 |  |
 | [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 3:11 | 2022-05-27 | 2022-10-30 |
+| [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 | 2022-10-29 |  |
 | [Grace Greater](https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [Grace Greater](https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv) | 4:22 | 2022-05-27 | 2022-10-30 |
 | [Gratitude \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Gratitude \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t) | 4:12 | 2022-05-27 |  |
 | [Growing Pains](https://open.spotify.com/track/7AS4QfVE36kemDghmTbJaj) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/7fRMtIRU0irBhCD4rb4KrV) | 3:50 | 2022-05-27 | 2022-10-30 |
@@ -66,7 +67,7 @@
 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 | 2022-05-27 | 2022-10-30 |
 | [High Calling](https://open.spotify.com/track/2gB0rcZPb6q0P3Pd828K8Y) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3g41qW3oYLAsJmp81NDHe0) | 3:09 | 2022-05-27 | 2022-07-28 |
 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-10-29 |  |
-| [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-10-29 |  |
+| [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-10-29 | 2023-02-26 |
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-05-27 |  |
 | [How Can I Be Silent](https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U) | [Chelsea](https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18) | [How Can I Be Silent](https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C) | 3:24 | 2022-05-27 | 2022-10-30 |
 | [How Can You Not](https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [How Can You Not](https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz) | 3:12 | 2022-10-29 |  |

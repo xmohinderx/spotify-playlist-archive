@@ -4,7 +4,7 @@
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: John Summit
 
-76 songs - 4 hr 16 min
+77 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-11-30 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-30 |  |
 | [Set You Free](https://open.spotify.com/track/3l3RsIHCP7WkjxeBGSy3ep) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Set You Free](https://open.spotify.com/album/4nP6NnjdbIapDZXwc3M9NN) | 2:53 | 2022-11-30 |  |
-| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-11-30 |  |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2022-11-30 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-11-30 | 2023-02-26 |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-11-30 |  |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-11-30 |  |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-11-30 |  |

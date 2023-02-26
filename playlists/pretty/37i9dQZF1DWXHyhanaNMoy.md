@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Alleen maar motion en good vibes\. Cover: Jinho 9 & KATNUF
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,870 likes - 79 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,892 likes - 79 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

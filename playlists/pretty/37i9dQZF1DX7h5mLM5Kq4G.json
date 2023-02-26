@@ -1,12 +1,12 @@
 {
   "description": "The songs we've been partying to in 2022. Cover: David Guetta & Bebe Rexha #SpotifyWrapped",
-  "num_followers": 47277,
+  "num_followers": 47310,
   "original_name": "Top Party Hits of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNzQyNSwwMDAwMDAwMDZiNzk2NDllM2FjMzM3MzJlNTcxYTAxYmU1MjJkYTY3",
+  "snapshot_id": "MTY2OTgxNzQyNSwwMDAwMDAwMGI5NDU2MTBjYjgxMzQ0NWQ5ZGJjOWEwZTc1NThlYWQ2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Munch (Feelin\u2019 U)",
         "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1279,6 +1259,26 @@
       "duration_ms": 194437,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0YJW8OXw8G1xDfkzaID3vv"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2022-11-30 13:46:00",

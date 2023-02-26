@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Eddie Zuko
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,859 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,851 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 9 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 |
 | 10 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 |
 | 11 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:24 |
-| 12 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
-| 13 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 |
+| 12 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 |
+| 13 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
 | 14 | [Ni bien ni mal](https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ni bien ni mal](https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs) | 2:50 |
 | 15 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 | 16 | [Bahía](https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg), [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Bahía](https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3) | 3:01 |
 | 17 | [Love You Like A Love Song](https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD) | [Love You Like A Love Song](https://open.spotify.com/album/52oyEMc0XE02mCIGFJ1bys) | 1:21 |
-| 18 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
-| 19 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 18 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 19 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 20 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 |
 | 21 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 |
 | 22 | [Serotonina](https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Serotonina](https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP) | 2:54 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 33 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 |
 | 34 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
 | 35 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 36 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 |
-| 37 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 |
+| 36 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 |
+| 37 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 |
 | 38 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
 | 39 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
 | 40 | [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 49 | [Supersad](https://open.spotify.com/track/3wXHiSxEOqxhPHB9sa2Ylk) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Oscuro](https://open.spotify.com/album/2M2py5NnsTLVQhmkQfIrft) | 3:35 |
 | 50 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
 
-Snapshot ID: `MTY3NjU4MTIwMywwMDAwMDAwMGU5ZDk3YjgyZjI0Y2FlYTljNzFiMTc0YWNhMjUwN2E1`
+Snapshot ID: `MTY3NjU4MTIwMywwMDAwMDAwMGZlZDAzZWNhZmU1NTIwMjkyMWJjNWJkOTQyODI2OWRj`

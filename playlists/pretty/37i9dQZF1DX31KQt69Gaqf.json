@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 183085,
+  "num_followers": 183083,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDNiZmVkNDI4OGJlNTM1NzUyMTVlY2I0YjU3YmI1ZDVm",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDc2YWRiM2RkM2E2YTBjYTk4ZjJhYzhiOTdiYjYzM2E0",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -95,22 +95,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Wachito Rico",
-        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "i <3 u",
-      "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 372866,
       "name": "Breathe Deeper",
       "url": "https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Wachito Rico",
+        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "i <3 u",
+      "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "AUATC",
-        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 142125,
-      "name": "AUATC",
-      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Light (Edit)",
         "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "AUATC",
+        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 142125,
+      "name": "AUATC",
+      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "cold water",
-        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 233239,
-      "name": "cold water",
-      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 227651,
       "name": "Folding",
       "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "cold water",
+        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "cold water",
+      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Can't Fight",
-        "url": "https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 138756,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Can't Fight",
+        "url": "https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Goodbye Blue",
         "url": "https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 241026,
       "name": "Goodbye Blue",
       "url": "https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH"
     },
     {
-      "added_at": "2021-09-24 18:51:29",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 202873,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k"
-    },
-    {
       "added_at": "2021-08-12 14:57:38",
       "album": {
         "name": "Pure Shores",
@@ -1443,6 +1427,22 @@
       "duration_ms": 232130,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz"
+    },
+    {
+      "added_at": "2021-09-24 18:51:29",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 202873,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k"
     },
     {
       "added_at": "2021-08-12 14:57:38",

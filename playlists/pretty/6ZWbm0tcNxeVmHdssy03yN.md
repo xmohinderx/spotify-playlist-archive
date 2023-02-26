@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,430 likes - 89 songs - 4 hr 43 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,439 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 28 | [Madeline](https://open.spotify.com/track/7gfrQfuXFtyHvufmuSe5J0) | [Chutney](https://open.spotify.com/artist/0x6G9fepCzjn26EtxocZDQ) | [Madeline](https://open.spotify.com/album/5CfQW4T8jKGc5aSGq9P723) | 4:01 |
 | 29 | [Self Sabotage](https://open.spotify.com/track/7wKrZkAGy6fckS5NJCmneD) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Self Sabotage](https://open.spotify.com/album/1IqzcIVTjvGUK7Hpx6Fo7Y) | 2:52 |
 | 30 | [Fight or Flight](https://open.spotify.com/track/2kzbY8YdMYOqixsGcTZPx8) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry) | [Fight or Flight](https://open.spotify.com/album/3xTVIOmlpSTf8AFt9UWA0O) | 4:05 |
-| 31 | [Grapefruit Soda](https://open.spotify.com/track/5Hfi6OZhytd8lhMeG1TJRW) | [Arey](https://open.spotify.com/artist/1WXP249QGwgcPb852Lxn2F) | [Grape Fruit Soda](https://open.spotify.com/album/1a5AHMDnzDoMhk9LgYhiqP) | 2:21 |
+| 31 | [Grapefruit Soda](https://open.spotify.com/track/5Hfi6OZhytd8lhMeG1TJRW) | [Arey](https://open.spotify.com/artist/1WXP249QGwgcPb852Lxn2F) | [Grapefruit Soda](https://open.spotify.com/album/1a5AHMDnzDoMhk9LgYhiqP) | 2:21 |
 | 32 | [Second Best](https://open.spotify.com/track/5UtWLmAHAkJPY12sqpRKKq) | [23 Unofficial](https://open.spotify.com/artist/3wvA1LQHLvXmkPFm3WtSrI) | [Second Best](https://open.spotify.com/album/195VTBnq8xyc440Gz2UWca) | 3:12 |
 | 33 | [Red Flag](https://open.spotify.com/track/56ut4S1lT99udAHtE4YjWD) | [Juai](https://open.spotify.com/artist/55xSTCgtKgSy0nUJxcJg1e) | [Red Flag](https://open.spotify.com/album/2HptVbFuU7EYZLwThC24aY) | 2:30 |
 | 34 | [Ten Foot Tall](https://open.spotify.com/track/6m3NC2P7CQD2Dd3KC8spfF) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [Ten Foot Tall](https://open.spotify.com/album/5snZOPhRqJXq3toYJQ2LB7) | 3:05 |

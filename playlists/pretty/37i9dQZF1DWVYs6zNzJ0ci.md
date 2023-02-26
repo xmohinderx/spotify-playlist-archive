@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,904 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,034 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 75 | [Eu Quero Tudo](https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Eu Quero Tudo](https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ) | 3:39 |
 | 76 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
 | 77 | [Las Ganas de Vivir](https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/0IGW3ipP3z1PXooqMX403Q) | 3:53 |
-| 78 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
+| 78 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
 | 79 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
-| 80 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
-| 81 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 80 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
+| 81 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 82 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 83 | [Entre Sombras](https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY) | [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM) | [Entre Sombras](https://open.spotify.com/album/1nNKsMJWo80HyYbg6rKIob) | 3:18 |
 | 84 | [Cómo Voy a Olvidarte](https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Voy a Olvidarte](https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP) | 2:55 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 92 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
 | 93 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 94 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
-| 95 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
-| 96 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
+| 95 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
+| 96 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
 | 97 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
 | 98 | [Y Es de Día](https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Gimnasia para Momias](https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG) | 5:37 |
 | 99 | [Fotosíntesis](https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Fotosíntesis](https://open.spotify.com/album/3VppSFRLWDea4KZmSs80HQ) | 3:04 |
 | 100 | [La Musica](https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Codigos Del Alma](https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS) | 5:07 |
 
-Snapshot ID: `MTY3NTM4MjQ2MCwwMDAwMDAwMDc5NDFjNTIxYTk4NTQxYTgzZGI1ZGEyNGY2ZWQxMjkx`
+Snapshot ID: `MTY3NTM4MjQ2MCwwMDAwMDAwMDMxMmJiNWMyZDFlYmIxZDM1NjI2ODVjYzA0ODExYjA4`

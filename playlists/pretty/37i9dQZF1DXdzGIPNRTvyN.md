@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,518 likes - 38 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,625 likes - 38 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 12 | [Spiritual Sleep](https://open.spotify.com/track/3YuYnf5gPQPmzKW3UtEQ0M) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Queen of Spiritual Sleep](https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit) | 2:36 |
 | 13 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 |
 | 14 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 |
-| 15 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 |
-| 16 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 |
+| 15 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 |
+| 16 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 |
 | 17 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 |
 | 18 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 |
-| 19 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
-| 20 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 |
+| 19 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 |
+| 20 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 21 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 |
 | 22 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 |
 | 23 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 30 | [Forest Piano Music for Work and Reading](https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Forest Coating Music Healing piano like being in the forest, for morning cafe, for working, teleworking, napping Forest sound, river sound with white noise ASMR](https://open.spotify.com/album/11LxODCrOmiAzbPXdRKdz9) | 2:06 |
 | 31 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 |
 | 32 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 |
-| 33 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 |
-| 34 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 |
-| 35 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 |
+| 33 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 |
+| 34 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 |
+| 35 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 |
 | 36 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 |
-| 37 | [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 |
-| 38 | [Peaceful Rains](https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI) | [Piano Radiance](https://open.spotify.com/artist/69P4GKHbbgUhcNWn7Qaj1u) | [Music for Spa and Massage:Restful Rain and Piano](https://open.spotify.com/album/7Bd8L9jNUCE2kr7hqYguXd) | 3:36 |
+| 37 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 |
+| 38 | [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 |
 
-Snapshot ID: `MTY3Njk4MjI4MCwwMDAwMDAwMDcwOGE0NTkzZjVlNmI2MzFmNDNmZDg3YjhlOTBjOWMy`
+Snapshot ID: `MTY3Njk4MjI4MCwwMDAwMDAwMDg2N2I2ZjFiNTAwN2MyZjA2ZGNjZDM5NjgxOGYwODFk`

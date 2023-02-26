@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nielson op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,421 likes - 110 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,456 likes - 110 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

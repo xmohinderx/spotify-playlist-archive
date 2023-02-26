@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night time hours
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,403 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,432 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 25 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [COPY COPY \(Logic1000 & Big Ever Remix\)](https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs) | 4:15 |
 | 26 | [Fooley](https://open.spotify.com/track/53a82fPkpZAQ7zgXTCsLpn) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:34 |
 | 27 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 |
-| 28 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 |
-| 29 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 |
-| 30 | [Heirloom](https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN) | 4:43 |
+| 28 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 |
+| 29 | [Heirloom](https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN) | 4:43 |
+| 30 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 |
 | 31 | [Sleeping Beauty](https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Sleeping Beauty](https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf) | 3:29 |
 | 32 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
 | 33 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 |
 | 34 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
-| 35 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
-| 36 | [Condition](https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:44 |
+| 35 | [Condition](https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:44 |
+| 36 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
 | 37 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
 | 38 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 39 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 42 | [fall back](https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw) | [fall back](https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj) | 4:12 |
 | 43 | [All Together, Here Together](https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR) | [Adult Art Club](https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl) | [All Together, Here Together](https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx) | 3:58 |
 | 44 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
-| 45 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
-| 46 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
+| 45 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
+| 46 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
 | 47 | [Signs](https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy) | [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [Signs](https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E) | 3:11 |
-| 48 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
-| 49 | [Flauta Magica](https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8) | 2:22 |
+| 48 | [Flauta Magica](https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8) | 2:22 |
+| 49 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
 | 50 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 51 | [Be With U](https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Be With U](https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw) | 9:11 |
 | 52 | [Revelation \- Barry Can't Swim Remix](https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Revelation \(Barry Can't Swim Remix\)](https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 69 | [Control](https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Control EP](https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx) | 3:59 |
 | 70 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 
-Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMDU5NzYzYjRiOWViYmMxMzNmNzE1ZGI1YjU3ODcwMDg1`
+Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMDkwNjMwM2Q5YjIxZTJmYTY0ODk3ZjEwOTI4YjYyNmRl`

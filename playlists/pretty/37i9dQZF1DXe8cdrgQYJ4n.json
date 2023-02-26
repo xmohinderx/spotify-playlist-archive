@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11121,
+  "num_followers": 11141,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDVmZDRmMGU5ZGVkZmY1NGNkNzFlZmY5NDgyY2QzMDg2",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDYxYjJhMDE5YjIwYjI4OTFhYjM2MjM2MmJmMzQyZjc4",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "What Type of X",
+        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "What Type of X",
+      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 203066,
       "name": "Hula Hoops",
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "What Type of X",
-        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "What Type of X",
-      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -387,18 +387,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        },
         {
           "name": "DPR LIVE",
           "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+      "duration_ms": 132746,
+      "name": "I\u2019m bad too (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -417,24 +421,20 @@
       "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
     },
     {
-      "added_at": "2023-02-14 07:48:55",
+      "added_at": "2023-02-26 01:54:59",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+        "name": "W.A.Y",
+        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
       "artists": [
         {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        },
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
         }
       ],
-      "duration_ms": 132746,
-      "name": "I\u2019m bad too (Feat. DPR LIVE)",
-      "url": "https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV"
+      "duration_ms": 177973,
+      "name": "WE ARE YOUNG",
+      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 205226,
       "name": "LUNATIC",
       "url": "https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU"
-    },
-    {
-      "added_at": "2023-02-25 10:24:36",
-      "album": {
-        "name": "W.A.Y",
-        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "WE ARE YOUNG",
-      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
-      "added_at": "2023-02-25 10:24:36",
+      "added_at": "2023-02-26 01:54:59",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"

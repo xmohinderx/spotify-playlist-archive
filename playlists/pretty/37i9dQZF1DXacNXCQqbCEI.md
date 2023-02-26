@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,341 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,403 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 17 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 |
 | 18 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 19 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
-| 20 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 |
-| 21 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
+| 20 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
+| 21 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 |
 | 22 | [Sakoneta](https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 4:45 |
 | 23 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
 | 24 | [Mojanda \(feat\. Wabi Sabi\)](https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Wabi Sabi](https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS) | [Tranquillitas](https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o) | 6:13 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 53 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 |
 | 54 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
 | 55 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
-| 56 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
+| 56 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 |
 | 57 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
-| 58 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 |
+| 58 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 59 | [Mano de Fatima](https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt) | 3:55 |
 | 60 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
 
-Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMDA1MWNhMTNkNWQ4Yzg0NzM3YjEyZDc2MWMzNGE0MDRj`
+Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMGE5YjgxY2NkNGFmNzMyMTFlOTkzMGNiMmYwMDUxZDE0`

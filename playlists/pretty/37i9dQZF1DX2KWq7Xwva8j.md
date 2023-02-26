@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Queralt Lahoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,839 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,841 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 24 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 |
 | 25 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 |
 | 26 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 |
-| 27 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
-| 28 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
+| 27 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
+| 28 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
 | 29 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 |
 | 30 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
 | 31 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 | 50 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 |
 
-Snapshot ID: `MTY3Njk4MTgyMSwwMDAwMDAwMDcyMGQ1NDVlODAyODhiZWQ3YjcyMDBlYTVhMjQ4MTc1`
+Snapshot ID: `MTY3Njk4MTgyMSwwMDAwMDAwMDA0OTliYWQwZjg1YWNhYzZmNGJmNjdjNjUzNmNiODIw`

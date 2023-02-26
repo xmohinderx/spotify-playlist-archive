@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,924 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,935 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 43 | [Nonsense](https://open.spotify.com/track/2iHoEvbIjpo2VPRxHo0RIY) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Personal Taste \(Original Television Soundtrack\)](https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62) | 3:19 |
 | 44 | [My Lecon](https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 3:26 |
 | 45 | [LOVE](https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [With L.O.V.E Brown Eyed Girls](https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl) | 3:37 |
-| 46 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 |
-| 47 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 |
+| 46 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 |
+| 47 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 |
 | 48 | [My Name](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:13 |
 | 49 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 50 | [TTL Listen 2](https://open.spotify.com/track/7vYCpj7Jj5YM3iTMxg6jI6) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8), [초신성](https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW) | [TTL Listen 2](https://open.spotify.com/album/2yLTr1C65h5RLvxGdBzyyN) | 3:32 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 61 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 62 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
 | 63 | [아무리 생각해도 난 너를](https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 '자신의 대표곡'](https://open.spotify.com/album/4taROD1UypCjbIgisuLolT) | 4:33 |
-| 64 | [Hi\~](https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Hi\~](https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho) | 3:27 |
-| 65 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 |
+| 64 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 |
+| 65 | [Hi\~](https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Hi\~](https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho) | 3:27 |
 | 66 | [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 |
 | 67 | [애인…있어요](https://open.spotify.com/track/4hDdZkmUuBiM8mQSGXeY75) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [이은미 LIVE CONCERT 가슴이 뛴다](https://open.spotify.com/album/2zFdzuOnmYvh9fKJgRpOIm) | 4:18 |
 | 68 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 72 | [Better Together](https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6) | 3:38 |
 | 73 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
 | 74 | [Two Of Us](https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK) | [채연](https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D) | [Virginalness Bloom](https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY) | 3:03 |
-| 75 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 |
+| 75 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 |
 | 76 | [I Do](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 3:45 |
-| 77 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 |
+| 77 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 |
 | 78 | [Saturday Night](https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU) | [Type B \(1\)](https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC) | 3:42 |
 | 79 | [애송이의 사랑](https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [애송이의 사랑](https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b) | 3:40 |
 | 80 | [LOVE119 \(feat\. MC Mong\)](https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [Dropping the Tears](https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol) | 3:58 |
 | 81 | [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 |
 | 82 | [Shady Girl](https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Shady Girl](https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE) | 3:14 |
-| 83 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
-| 84 | [An old love story](https://open.spotify.com/track/4jknyio1tolPfGu539fE87) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Beautiful Mind](https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L) | 3:54 |
+| 83 | [An old love story](https://open.spotify.com/track/4jknyio1tolPfGu539fE87) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Beautiful Mind](https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L) | 3:54 |
+| 84 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
 | 85 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 |
 | 86 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 |
 | 87 | [Hot Stuff](https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [My Fair Lady \(Original Television Soundtrack\)](https://open.spotify.com/album/6IPH808fsWagTBK9SusndW) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [Tell Me One More Time](https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv), [장한나](https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V) | [Tell Me One More Time](https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO) | 3:15 |
 | 100 | [안녕이란 말 대신](https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [N001](https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS) | 3:40 |
 
-Snapshot ID: `MTYxNTQ3OTk3MSwwMDAwMDAwMDdlMDljMzU2YzdmMzk5Njc1ZjJiM2Y5MTdlMThmZDY3`
+Snapshot ID: `MTYxNTQ3OTk3MSwwMDAwMDAwMDA1ZmU1MTM1ZGFmM2Q3ZjVkNTAyZTJhMjFjOTliMjdj`

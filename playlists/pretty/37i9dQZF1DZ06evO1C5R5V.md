@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,723 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,745 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 28 | [En los Años 30 \- En Vivo](https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:26 |
 | 29 | [Alejandro](https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:50 |
 | 30 | [El Primer Destino](https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
-| 31 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 |
-| 32 | [Por los Gluteos de Mi Novia](https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:57 |
+| 31 | [Por los Gluteos de Mi Novia](https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:57 |
+| 32 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 |
 | 33 | [La Vida](https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:30 |
 | 34 | [Como las Hojas](https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 4:05 |
 | 35 | [Puedes Decir](https://open.spotify.com/track/5vnDhoFEOXK3UKbyBn7PLK) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Muñequita Sintética \- En Vivo](https://open.spotify.com/track/0gfKBEqDYugm5EHcz6phNs) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Muñequita Sintética \(En Vivo\)](https://open.spotify.com/album/4p9qyFiCvpE3BkgKQHdGf2) | 6:29 |
 | 50 | [Enamorada De Un Amigo Mío \- En Vivo](https://open.spotify.com/track/4pzmHhjozylrw2GyEzf6w4) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Vive Una Noche Mágica \(En Vivo\)](https://open.spotify.com/album/2fcpmQSdUp1667ydxqjFhi) | 5:46 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDA3OGUyYTExNjEwOGU0MmY3ZDk4MmMzMmQ5ZTkyNDU3Ng==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAxMTFiYzQ1ODVmYjMzZWQ0ZjVlNDU0ZmRkNzg2NDc2ZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 114559,
+  "num_followers": 114652,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDcyNmI0NDBlNTZlNGZhNzJiYjBiY2Y3YjM5ODc0NzUw",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGMzYjY5YzRkMjFjYzY2NTRhNzhlOTA4OTU2ZTM5YWRi",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "The Night: The Collection",
+        "url": "https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 213963,
+      "name": "The Night (Part 2 - Acoustic)",
+      "url": "https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 198026,
       "name": "Here Tonight - The Acoustic Sessions",
       "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "The Night: The Collection",
-        "url": "https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 213963,
-      "name": "The Night (Part 2 - Acoustic)",
-      "url": "https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 178285,
       "name": "Slow Dance In A Parking Lot - Acoustic",
       "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Be The Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 182027,
-      "name": "Be The Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Be The Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 182027,
+      "name": "Be The Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "She Had Me At Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "She Had Me At Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Acoustic Sessions EP",
-        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Last Cigarette - Acoustic",
-      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 182327,
       "name": "At the End of a Bar - Acoustic",
       "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Last Cigarette - Acoustic",
+      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Just About Over You (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "Just About Over You - Acoustic Version",
-      "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Austin (Acoustic)",
         "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 226179,
       "name": "Austin - Acoustic",
       "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Just About Over You (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 188026,
+      "name": "Just About Over You - Acoustic Version",
+      "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
     },
     {
       "added_at": "2023-02-17 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Larry June & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,476 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,622 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

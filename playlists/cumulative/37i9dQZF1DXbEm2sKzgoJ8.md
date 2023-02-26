@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-297 songs - 16 hr 33 min
+298 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2022-07-13 |  |
 | [Mountains](https://open.spotify.com/track/0w0kClmKsQz5A6OecdwhVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Mountains](https://open.spotify.com/album/251uvmlPX4D3UiH4zGtj66) | 4:08 | 2022-02-04 | 2022-07-24 |
 | [Move Your Body](https://open.spotify.com/track/0uWdHURWJfKvB6NTgCALKu) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Move Your Body](https://open.spotify.com/album/6U6WZQucaJKReFmZCYuEc2) | 3:10 | 2022-03-25 | 2022-04-19 |
-| [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 | 2021-12-10 |  |
+| [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 | 2021-12-10 | 2023-02-26 |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-23 | 2022-07-29 |
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/02BwlHD6hUNn3kzySLfqMq) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/album/6U2yXVQ8xY1HNOtDU191CD) | 2:48 | 2022-01-28 | 2022-07-27 |
 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 | 2022-12-28 | 2023-02-18 |
@@ -194,6 +194,7 @@
 | [Oxford Circus](https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Oxford Circus](https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC) | 2:32 | 2022-10-06 |  |
 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 | 2021-12-10 | 2022-10-29 |
 | [Peaches & Cream](https://open.spotify.com/track/5SkKyC7IWhUW3MlrZPo12o) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Peaches & Cream](https://open.spotify.com/album/5FFS3PuaUUDPW1u4ugHSqx) | 3:08 | 2022-05-06 | 2022-07-28 |
+| [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 | 2023-02-24 |  |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2022-07-13 |  |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-18 |  |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-07-29 |  |

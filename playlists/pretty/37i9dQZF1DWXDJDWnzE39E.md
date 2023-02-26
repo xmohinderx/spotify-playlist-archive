@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,948 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,255 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 47 | [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 |
 | 48 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
 | 49 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
-| 50 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
-| 51 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 |
+| 50 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 |
+| 51 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
 | 52 | [And So It Went \[Feat\. Tom Morello\]](https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 4:30 |
 | 53 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 |
 | 54 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 68 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
 | 69 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
 | 70 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 |
-| 71 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
+| 71 | [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 |
 | 72 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
 | 73 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
 | 74 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
 | 75 | [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 |
 | 76 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 |
 | 77 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 |
-| 78 | [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 |
+| 78 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
 | 79 | [Lift Me Up](https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:29 |
 | 80 | [Strong](https://open.spotify.com/track/3FFjdo3CSKqeGx3nlN0WWv) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Strong](https://open.spotify.com/album/5wOeEqQPVbXisrwRKmxLBc) | 3:06 |
 
-Snapshot ID: `MTY3NjA0Mzg3NSwwMDAwMDAwMDlmODQ5Zjc1YTViNDU5N2U0YmVmYzM2ZWZmNDFiODBi`
+Snapshot ID: `MTY3NjA0Mzg3NSwwMDAwMDAwMDk5MTNmZWUwN2FmM2E1MDRkMGQ3NWMzZWUwZGU0MTA2`

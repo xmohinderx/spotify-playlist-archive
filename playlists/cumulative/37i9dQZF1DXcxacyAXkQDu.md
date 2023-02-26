@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-843 songs - 2 day 2 hr 4 min
+844 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/11VjvbhJ8QdHC37VktjfUA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/0DvXICZwcJszRJpYglIVOy) | 4:31 | 2021-12-21 | 2022-07-29 |
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa) | 4:31 | 2022-07-08 | 2022-12-25 |
 | [Dreams](https://open.spotify.com/track/7x7DOytG3tRbZsaLMt4JBq) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Dreams](https://open.spotify.com/album/2LH8xN3t9OREDNJhAo99F5) | 3:34 | 2021-12-21 | 2022-04-09 |
-| [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 | 2021-12-21 |  |
+| [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 | 2021-12-21 | 2023-02-26 |
 | [drivers license](https://open.spotify.com/track/2Or2xCQrCtsu5Pkg8DuAvz) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/5hRLamvDu0NbkTBuVHkdA4) | 3:48 | 2021-12-21 | 2022-11-26 |
 | [drivers license](https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A) | 3:48 | 2022-12-02 |  |
 | [Dude](https://open.spotify.com/track/1BGu0LjKQfC63QBaRMYc66) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Dude](https://open.spotify.com/album/2NfRYje8N8j6nwTbAVxp9B) | 2:40 | 2022-02-03 | 2022-04-12 |
@@ -303,6 +303,7 @@
 | [Hey Stranger](https://open.spotify.com/track/45tEJcu0I1GRXVwxpKeAS0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Hey Stranger](https://open.spotify.com/album/7uscnjqzWKaJhjXMQ9Gyao) | 3:27 | 2022-03-24 | 2022-04-21 |
 | [hidden springs](https://open.spotify.com/track/0Xb28zH7wukuHkHVPYm5mV) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [femme florale](https://open.spotify.com/album/2EyR9WKaYKtccaYJjH56Lt) | 3:26 | 2021-12-21 |  |
 | [Hideout](https://open.spotify.com/track/2cVKk3oYDdQNC9Jon2INP2) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [Hideout](https://open.spotify.com/album/3pTDYfSMqFO3ubiv5BwzvA) | 2:57 | 2022-03-24 | 2022-04-20 |
+| [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-26 |  |
 | [High School](https://open.spotify.com/track/6lMSPe1s87AMLpulkYXQZv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [High School](https://open.spotify.com/album/5vLQPxkoNqwtVQTvZQMPwe) | 3:24 | 2022-03-24 | 2022-11-13 |
 | [Highest Grace](https://open.spotify.com/track/1GSTdtc4p77KScGJxDHkG9) | [Selma & Gustaf](https://open.spotify.com/artist/0tUfqypVbl1m19xo9T9yUL), [The Unmarried Queen](https://open.spotify.com/artist/5kT8jMovuiNohuRVboX9yY) | [Stories Of](https://open.spotify.com/album/1LajD4yGDf5O2gFBkIN9EY) | 4:08 | 2022-03-24 | 2022-04-21 |
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2021-12-21 |  |

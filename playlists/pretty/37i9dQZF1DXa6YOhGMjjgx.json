@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 470648,
+  "num_followers": 470643,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg2MDExOSwwMDAwMDAwMDZiZWQyNzA0MmYyNWQyODkyYjEyM2UyNjZlYzE2Zjg2",
+  "snapshot_id": "MTY3NDg2MDExOSwwMDAwMDAwMGRhMDY0MDczMzZlZjM2ZDdiOGNjN2UwYTM1NTMzMTNi",
   "tracks": [
     {
       "added_at": "2023-01-27 22:55:19",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/7nqQxq17r4eUTqsDAdrL6v"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 180772,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/6Zz846CtUmQGP5z4F7sccA"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/7nqQxq17r4eUTqsDAdrL6v"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 180772,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/6Zz846CtUmQGP5z4F7sccA"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+        "name": "Black Box",
+        "url": "https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI"
       },
       "artists": [
         {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
         }
       ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+      "duration_ms": 212621,
+      "name": "Like A Drug",
+      "url": "https://open.spotify.com/track/1LRCaubw4bOjUUl0xbrsO9"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -443,22 +459,6 @@
       "duration_ms": 188026,
       "name": "I Like the Way You Die",
       "url": "https://open.spotify.com/track/05HQ6KrftQ0kvnvM1qE5pt"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Black Box",
-        "url": "https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 212621,
-      "name": "Like A Drug",
-      "url": "https://open.spotify.com/track/1LRCaubw4bOjUUl0xbrsO9"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Bunny Man",
-        "url": "https://open.spotify.com/album/6bKrlySqeQntAp4PtX46oW"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Bunny Man",
-      "url": "https://open.spotify.com/track/7Mhs6TsXacUO1wJP67r3yp"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 220324,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Bunny Man",
+        "url": "https://open.spotify.com/album/6bKrlySqeQntAp4PtX46oW"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Bunny Man",
+      "url": "https://open.spotify.com/track/7Mhs6TsXacUO1wJP67r3yp"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Moments of Clarity",
-        "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 230935,
-      "name": "Moments of Clarity",
-      "url": "https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5HFHCbXFgWSVg6wzUlDTRu"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 180000,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/7w3fpRHULr70wtGdPfMufh"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Chewing Glass",
-        "url": "https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv"
-      },
-      "artists": [
-        {
-          "name": "James and the Cold Gun",
-          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Chewing Glass",
-      "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "The Next Curse",
         "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
       },
@@ -1231,6 +1199,22 @@
       "duration_ms": 241638,
       "name": "The Next Curse",
       "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1263,6 +1247,22 @@
       "duration_ms": 293354,
       "name": "STATUES (v2)",
       "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Chewing Glass",
+        "url": "https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv"
+      },
+      "artists": [
+        {
+          "name": "James and the Cold Gun",
+          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Chewing Glass",
+      "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "See Through You",
-        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
-      },
-      "artists": [
-        {
-          "name": "Spyres",
-          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
-        }
-      ],
-      "duration_ms": 224285,
-      "name": "See Through You",
-      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "See Through You",
+        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "See Through You",
+      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
-      },
-      "artists": [
-        {
-          "name": "Daphne's Couch",
-          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 196457,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
+      },
+      "artists": [
+        {
+          "name": "Daphne's Couch",
+          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Great Mass of Color",
-        "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 360333,
-      "name": "Great Mass of Color",
-      "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Double Down",
         "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 190946,
       "name": "Double Down - 2019 Mix",
       "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Great Mass of Color",
+        "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "duration_ms": 360333,
+      "name": "Great Mass of Color",
+      "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
     },
     {
       "added_at": "2023-01-27 22:55:19",

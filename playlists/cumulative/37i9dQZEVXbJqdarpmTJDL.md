@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,033 songs - 2 day 7 hr 52 min
+1,034 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Diamantia](https://open.spotify.com/track/3dQasgX8yPD2OxGsEyvBWs) | [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Diamantia](https://open.spotify.com/album/4qODWAd1f5lMs4oH7bt9iB) | 3:07 | 2021-04-24 | 2021-07-24 |
 | [Diamonds](https://open.spotify.com/track/7oodKU6PGYhIm5WdAoBUOZ) | [YT](https://open.spotify.com/artist/48pDK4NOqLtJxn5AAKVUra) | [Diamonds](https://open.spotify.com/album/1zQFhDxY5uMY0klREveu9Z) | 2:05 | 2021-04-09 | 2021-04-13 |
 | [Diddy](https://open.spotify.com/track/0DV9QK5UZlTG8jwSECi3No) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Still Active](https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe) | 4:06 | 2021-03-27\* | 2021-04-11 |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-16 |
 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 | 2022-03-12 | 2022-05-26 |
 | [Diego](https://open.spotify.com/track/1BU2rpXjavf2YHvTyfmku4) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Super Trapper II](https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV) | 4:10 | 2021-09-04 | 2021-09-05 |
@@ -1010,7 +1011,7 @@
 | [WHO YOU?](https://open.spotify.com/track/1sUJwKbP3Ci9nXeWKID9lc) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [WHO YOU?](https://open.spotify.com/album/4lWvqIPlyxtlYnjATYx4Q3) | 3:01 | 2022-11-26 | 2022-12-03 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-03-27\* | 2021-05-06 |
 | [Willie Wonka](https://open.spotify.com/track/65E5pMq4njVePLPorQnolb) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 3:10 | 2021-07-15 | 2021-07-16 |
-| [WOAH](https://open.spotify.com/track/4xZ59WxpeOJ8REpvsdfraN) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [WOAH](https://open.spotify.com/album/5OwymxCmRK0yDbTzWRKwOs) | 3:02 | 2023-01-28 |  |
+| [WOAH](https://open.spotify.com/track/4xZ59WxpeOJ8REpvsdfraN) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [WOAH](https://open.spotify.com/album/5OwymxCmRK0yDbTzWRKwOs) | 3:02 | 2023-01-28 | 2023-02-26 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-11 | 2021-10-27 |
 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 | 2021-07-18 | 2021-07-19 |
 | [Woo Walk](https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 2:44 | 2021-06-05 | 2022-02-16 |

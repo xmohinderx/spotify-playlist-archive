@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,383 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,561 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 35 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
 | 36 | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I) | 2:33 |
 | 37 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 |
-| 38 | [Acrobatic](https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT) | 2:56 |
+| 38 | [Acrobatic](https://open.spotify.com/track/3jIFcrHrnLgBio9z8mkMBo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/2lOide8iBXNliLKlqvAIWu) | 2:56 |
 | 39 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 |
 | 40 | [Shockwave](https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 3:01 |
 | 41 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 59 | [Tell Me A Lie](https://open.spotify.com/track/4ccYRZ7WptUbPD3RZ0BhvP) | [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [Tell Me A Lie](https://open.spotify.com/album/02NfjCu6aYB6k14uNchflD) | 2:41 |
 | 60 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 |
 
-Snapshot ID: `MTYzOTc3ODQwMywwMDAwMDAwMGVkY2ZkNDU0MjlmOWM5Y2FlMWI5N2M0YTNiNDA4NmE3`
+Snapshot ID: `MTYzOTc3ODQwMywwMDAwMDAwMGE1NWI2ODEzYTY4MWQ1OWE3MWM1MjA5Y2VmMGEwZmJh`

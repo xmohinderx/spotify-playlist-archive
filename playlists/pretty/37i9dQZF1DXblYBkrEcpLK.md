@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: プリキュア \(Pretty Cure\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,589 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,614 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 45 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 | 46 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
 | 47 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 |
-| 48 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
-| 49 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
+| 48 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
+| 49 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
 | 50 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDgwOTk0M2IwNzU5NGRjNzkwYmEwZGJiNWEyNWNjMGE0`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMDZmMGJmMDk3YTJiMzIwYzFhOWJmYjBmZWNlNmQ0ODEw`

@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 | 2022-10-24 |  |
-| [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 | 2022-10-24 | 2023-02-04 |
-| [Bad \- Remastered 2009](https://open.spotify.com/track/6TQ7XVKcCQcfCEmv0QYYV8) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 6:08 | 2023-02-03 |  |
+| [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 | 2022-10-24 |  |
+| [Bad \- Remastered 2009](https://open.spotify.com/track/6TQ7XVKcCQcfCEmv0QYYV8) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 6:08 | 2023-02-03 | 2023-02-26 |
 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 | 2022-10-24 |  |
 | [Bullet The Blue Sky \- Remastered 2007](https://open.spotify.com/track/1C6Tmo58WMtnAPdxYz9qCz) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:31 | 2022-12-27 | 2023-02-23 |
 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 | 2022-10-24 |  |

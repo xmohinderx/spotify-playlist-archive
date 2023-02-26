@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 96099,
+  "num_followers": 96109,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyNTA1MywwMDAwMDAwMGQ1ZWNhNzkwOWRjNTAwNWJhMzQ2OTYwMGE5M2NhYTcx",
+  "snapshot_id": "MTY3NzIyNTA1MywwMDAwMDAwMGEwODQyMTgwNDBlYzM1NWQ5NjFhZmFhMDRhOTg3Y2Iz",
   "tracks": [
     {
       "added_at": "2023-02-24 07:49:22",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-02-24 07:49:22",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-02-24 07:49:22",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-02-24 07:49:22",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 233973,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
     },
     {
       "added_at": "2023-02-24 07:49:22",
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew"
     },
     {
-      "added_at": "2023-02-25 09:44:43",
+      "added_at": "2023-02-26 01:06:44",
       "album": {
         "name": "The Lead",
         "url": "https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG"
@@ -1055,6 +1055,22 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "added_at": "2023-02-24 07:49:22",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-02-24 07:49:22",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-02-24 07:49:22",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2023-02-24 07:49:22",
-      "album": {
         "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
       },
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-02-24 07:49:22",
       "album": {
-        "name": "Visiting Hours",
-        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+      "duration_ms": 201933,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

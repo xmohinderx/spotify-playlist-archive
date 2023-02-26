@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
-  "num_followers": 6731,
+  "num_followers": 6735,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDgzZWQyZWI0YjU3MDQwYzU1NmEwZDZjZGQ3NWM1NjBl",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDZlMTAyMGQ1MjQ2NTQ3NjlkMWRlYTFhZTg0NGFkNzQ4",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Up Next",
-        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
+        "name": "Le Qu\u00e9b\u00e9cois",
+        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+          "name": "Sir Path",
+          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
         }
       ],
-      "duration_ms": 149363,
-      "name": "West Side",
-      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
+      "duration_ms": 191578,
+      "name": "Vie de bum",
+      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le Qu\u00e9b\u00e9cois",
-        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
+        "name": "Up Next",
+        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
       },
       "artists": [
         {
-          "name": "Sir Path",
-          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
         }
       ],
-      "duration_ms": 191578,
-      "name": "Vie de bum",
-      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
+      "duration_ms": 149363,
+      "name": "West Side",
+      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Saint Laurent",
+        "url": "https://open.spotify.com/album/6uqW9dsiR5MDJcRTzhw3MD"
+      },
+      "artists": [
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Saint Laurent",
+      "url": "https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Cerb\u00e8re",
         "url": "https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 237662,
       "name": "Bando",
       "url": "https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Saint Laurent",
-        "url": "https://open.spotify.com/album/6uqW9dsiR5MDJcRTzhw3MD"
-      },
-      "artists": [
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        },
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Saint Laurent",
-      "url": "https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Sourire kabyle",
         "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 206733,
       "name": "Badman",
       "url": "https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dis moi",
-        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 247170,
-      "name": "Dis Moi",
-      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "On Frap",
         "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 187213,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Dis moi",
+        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
+      },
+      "artists": [
+        {
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+        }
+      ],
+      "duration_ms": 247170,
+      "name": "Dis Moi",
+      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Bateaux Colombiens",
+        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 251495,
+      "name": "OuinOuin",
+      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1163,38 +1179,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Non Merci",
-        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 211970,
-      "name": "Non Merci",
-      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Bateaux Colombiens",
-        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 251495,
-      "name": "OuinOuin",
-      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Cash Out",
         "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 171262,
       "name": "G-code",
       "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Non Merci",
+        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
+      },
+      "artists": [
+        {
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+        }
+      ],
+      "duration_ms": 211970,
+      "name": "Non Merci",
+      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Bonhomme Pendu (Chapitre 2)",
-        "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Izzy-S",
-          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
-        }
-      ],
-      "duration_ms": 235075,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "C'est pas la qualit\u00e9 qui compte",
         "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
       },
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Bonhomme Pendu (Chapitre 2)",
+        "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "...At Least My Mom Loves Me",
-        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
-      },
-      "artists": [
-        {
-          "name": "Maky Lavender",
-          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
-        }
-      ],
-      "duration_ms": 243721,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "...At Least My Mom Loves Me",
+        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        }
+      ],
+      "duration_ms": 243721,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "4:00AM",
-        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
-      },
-      "artists": [
-        {
-          "name": "Kevin Na$h",
-          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
-        }
-      ],
-      "duration_ms": 202515,
-      "name": "I Roll",
-      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "5 / 5",
         "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Gucci",
-        "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
+        "name": "4:00AM",
+        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
       },
       "artists": [
         {
-          "name": "SB",
-          "url": "https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG"
+          "name": "Kevin Na$h",
+          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
         }
       ],
-      "duration_ms": 211696,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
+      "duration_ms": 202515,
+      "name": "I Roll",
+      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1687,6 +1671,22 @@
       "duration_ms": 193293,
       "name": "Dollaz",
       "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
+      },
+      "artists": [
+        {
+          "name": "SB",
+          "url": "https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG"
+        }
+      ],
+      "duration_ms": 211696,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1723,42 +1723,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Jungle Music",
-        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
-      },
-      "artists": [
-        {
-          "name": "Farfadet",
-          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 265786,
-      "name": "D\u00e9coller",
-      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "La Barquetterie",
         "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
       },
@@ -1791,6 +1755,42 @@
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Jungle Music",
+        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "duration_ms": 265786,
+      "name": "D\u00e9coller",
+      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 213167,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     },
     {
       "added_at": "2022-03-11 05:02:00",

@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 196636,
       "name": "A Clean Record",
       "url": "https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 250540,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC"
@@ -8227,6 +8227,24 @@
     },
     {
       "album": {
+        "name": "Strangest Sea",
+        "url": "https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214983,
+      "name": "Strangest Sea",
+      "url": "https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe"
+    },
+    {
+      "album": {
         "name": "Save US",
         "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
@@ -8568,6 +8586,24 @@
       "duration_ms": 134213,
       "name": "The Boy From Ipanema",
       "url": "https://open.spotify.com/track/7L2n068PidY6cnNdyTfeRb"
+    },
+    {
+      "album": {
+        "name": "The Days Of Wine And Roses",
+        "url": "https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185301,
+      "name": "The Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Ariel Camacho en portada. ",
-  "num_followers": 193058,
+  "num_followers": 193329,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2NjA1NCwwMDAwMDAwMGQwMDA0OWUzOTdlNzY4ZTU2MjU3ODFkZTE5YmNhODhk",
+  "snapshot_id": "MTY3NzI2NjA1NCwwMDAwMDAwMDkzNzhlMjRlZDcwMjcxZGEzNDJlNmMxMDU4M2JhODRl",
   "tracks": [
     {
       "added_at": "2023-02-24 19:14:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
-    },
-    {
-      "added_at": "2023-02-24 19:14:14",
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 186373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2023-02-24 19:14:14",
+      "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
-    },
-    {
-      "added_at": "2023-02-24 19:14:14",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 226324,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+    },
+    {
+      "added_at": "2023-02-24 19:14:14",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2023-02-24 19:14:14",

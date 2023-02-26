@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 113302,
+  "num_followers": 113412,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMGI2MTRjOTI5MzFiOTQ5YjQ4OGI1NWRmNGRmNDdjY2M1",
+  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMGYxODVjYjVmMmYyMTU3NDE0NWNmZTgwMzg2YTA3MzI3",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 271720,
       "name": "Brick",
       "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Under the Western Freeway",
-        "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
-      },
-      "artists": [
-        {
-          "name": "Grandaddy",
-          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "A.M. 180",
-      "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 357693,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Under the Western Freeway",
+        "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
+      },
+      "artists": [
+        {
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "A.M. 180",
+      "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
-      },
-      "artists": [
-        {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
-        }
-      ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Enter The Vaselines (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
       "artists": [
         {
-          "name": "The Vaselines",
-          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Son Of A Gun",
-      "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1503,6 +1487,22 @@
       "duration_ms": 238333,
       "name": "Random Rules",
       "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Enter The Vaselines (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
+      },
+      "artists": [
+        {
+          "name": "The Vaselines",
+          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Son Of A Gun",
+      "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+        "name": "Stoned and Dethroned",
+        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
       "artists": [
         {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
         }
       ],
-      "duration_ms": 194093,
-      "name": "Cure for Pain",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
     }
   ],
   "unique_name": "Thrifted",

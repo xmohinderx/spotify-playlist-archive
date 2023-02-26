@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-111 songs - 7 hr 1 min
+112 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Na Na Na](https://open.spotify.com/track/5NEyoTXkeo2L6UkRgRgSKD) | [Steve Yoo](https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9) | [Cyber Yoo Sueng Jun](https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD) | 3:54 | 2021-03-11 |  |
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2021-03-11 |  |
 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 | 2021-03-11 |  |
-| [One Flew over the Cuckoo's Nest](https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:23 | 2021-03-11 |  |
+| [One Flew over the Cuckoo's Nest](https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:23 | 2021-03-11 | 2023-02-26 |
 | [Only One](https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Only One \- The 3rd Album](https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j) | 3:54 | 2021-03-11 |  |
 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 | 2021-03-11 |  |
 | [Phone Number](https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [노.라.보.세.](https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li) | 3:32 | 2021-03-11 |  |
@@ -87,6 +87,7 @@
 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 | 2021-03-11 |  |
 | [날개 잃은 천사](https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 4:02 | 2021-03-11 |  |
 | [너를 사랑해](https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 3:36 | 2021-03-11 |  |
+| [너에게 원한건](https://open.spotify.com/track/0ZHcGH7yubwhdqFeCMbNBA) | [노이즈](https://open.spotify.com/artist/4hStAvBgyDP1ccOm7CLpvG) | [사랑만사](https://open.spotify.com/album/0hEg0GPy7X6L0CxoxrhJur) | 3:38 | 2021-03-11 |  |
 | [너희가 힙합을 아느냐?](https://open.spotify.com/track/2jsrFWgixfjCPU7oJVc3Xe) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:40 | 2021-03-11 |  |
 | [늑대와 함께 춤을](https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [늑대와 함께 춤을](https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE) | 4:13 | 2021-03-11 |  |
 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 | 2021-03-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Mimi Rose. Updates every Wednesday.",
-  "num_followers": 169004,
+  "num_followers": 169006,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE4Njg1MSwwMDAwMDAwMDQ1YjBhMWE5OGUxMzVkOTAyNmM1NDczZWY0N2Q5MGMw",
+  "snapshot_id": "MTY3NzE4Njg1MSwwMDAwMDAwMGY5N2I5NDJlODU5NmRjMWJiMTYwNmE4YWE5ZmJlMGU5",
   "tracks": [
     {
       "added_at": "2023-02-23 21:14:11",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
+        "name": "De un Solo Aliento",
+        "url": "https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI"
+      },
+      "artists": [
+        {
+          "name": "Tunacola",
+          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
+        }
+      ],
+      "duration_ms": 216502,
+      "name": "De un Solo Aliento",
+      "url": "https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
         "name": "Majalca",
         "url": "https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "De un Solo Aliento",
-        "url": "https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI"
+        "name": "Noche No Te Vayas",
+        "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
       },
       "artists": [
         {
-          "name": "Tunacola",
-          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
         }
       ],
-      "duration_ms": 216502,
-      "name": "De un Solo Aliento",
-      "url": "https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h"
+      "duration_ms": 170868,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -511,22 +527,6 @@
       "duration_ms": 214125,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
-        "name": "Noche No Te Vayas",
-        "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 170868,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6"
-      },
-      "artists": [
-        {
-          "name": "Dru Flecha",
-          "url": "https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 204000,
       "name": "Mar",
       "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6"
+      },
+      "artists": [
+        {
+          "name": "Dru Flecha",
+          "url": "https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "San Menace",
-        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
-      },
-      "artists": [
-        {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "San Menace",
-      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "NN CARONTE",
         "url": "https://open.spotify.com/album/4xBdgRmStodbuNPAoJIOsQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 232747,
       "name": "Vientre",
       "url": "https://open.spotify.com/track/0qrTCjRD816Usk3ixgwqWr"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
     },
     {
       "added_at": "2023-02-23 21:14:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-23 21:14:11",
       "album": {
-        "name": "TE QUIERO TOO",
-        "url": "https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o"
-      },
-      "artists": [
-        {
-          "name": "Andres Tagliaferro",
-          "url": "https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "TE QUIERO TOO",
-      "url": "https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS"
-    },
-    {
-      "added_at": "2023-02-23 21:14:11",
-      "album": {
         "name": "Llanura de Cristal",
         "url": "https://open.spotify.com/album/6Dl89xDR4M0ZPkE6rtrWmc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229598,
       "name": "Llanura de Cristal",
       "url": "https://open.spotify.com/track/5VEZ0FYrCxxZv6CtQHZfEx"
+    },
+    {
+      "added_at": "2023-02-23 21:14:11",
+      "album": {
+        "name": "TE QUIERO TOO",
+        "url": "https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o"
+      },
+      "artists": [
+        {
+          "name": "Andres Tagliaferro",
+          "url": "https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "TE QUIERO TOO",
+      "url": "https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS"
     },
     {
       "added_at": "2023-02-23 21:14:11",

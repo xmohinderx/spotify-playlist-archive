@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-538 songs - 1 day 8 hr 21 min
+539 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2022-11-20 |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-15 | 2022-02-27 |
 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 | 2022-07-16 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 |  |
@@ -518,7 +519,7 @@
 | [追](https://open.spotify.com/track/66cBlqEs1viJJCE74CDfGB) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [寵愛](https://open.spotify.com/album/3vTH8NPADshZKutRSeVWDJ) | 5:23 | 2021-04-03 | 2022-04-05 |
 | [逆時車站](https://open.spotify.com/track/2EU1uVEUCgSA5aiBiHJDAk) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [逆時車站](https://open.spotify.com/album/6b5wLYHfOYRSkW1jnSWcuQ) | 3:20 | 2021-07-30 | 2022-02-17 |
 | [遲了悔改 \- ViuTV電視劇《太平紋身店》主題曲](https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [遲了悔改 \(ViuTV電視劇《太平紋身店》主題曲\)](https://open.spotify.com/album/76CJR7OqDn0eP3YhY2efl8) | 4:24 | 2021-03-27\* | 2021-05-25 |
-| [還原淚](https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [還原淚](https://open.spotify.com/album/2VO3cKcPm5noVSuRsS4NPx) | 3:33 | 2022-10-06 |  |
+| [還原淚](https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [還原淚](https://open.spotify.com/album/2VO3cKcPm5noVSuRsS4NPx) | 3:33 | 2022-10-06 | 2023-02-26 |
 | [還在流浪](https://open.spotify.com/track/35xilew5nalcetOeytaDFj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 | 2022-08-07 |
 | [邊一個發明了ENCORE](https://open.spotify.com/track/2MBaZXaQ7VKmDTr7cPPHP4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MEMENTO](https://open.spotify.com/album/2EGs23HGMWvVUYxfiMzlgK) | 4:46 | 2022-08-13 | 2023-01-07 |
 | [銀河修理員](https://open.spotify.com/track/0pupuSkMBGpzsqG3fWcyPe) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Limerence](https://open.spotify.com/album/27M08FRLdAhpAkorPnkuGa) | 3:52 | 2021-03-27\* | 2022-01-04 |

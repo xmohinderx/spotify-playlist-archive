@@ -1850,10 +1850,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 200639,
       "name": "What's That Sound",
       "url": "https://open.spotify.com/track/0FLvjeVDjRrKW3hwNDylT6"
+    },
+    {
+      "album": {
+        "name": "What's That Sound",
+        "url": "https://open.spotify.com/album/0qpZh1uOVHVnKBBibeTJiX"
+      },
+      "artists": [
+        {
+          "name": "The Astral Twins",
+          "url": "https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "What's That Sound",
+      "url": "https://open.spotify.com/track/7Gj0Z7AnSwDH85rg1wgSBX"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141512,
+  "num_followers": 141517,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMGM4YzMxNjFmNjYxMjFhMTM2MDEwNDI1NzI0NmU0NGMz",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDQ3NTJiMDM1Y2NkY2JhZjA3YTU1OTYwYWU2Y2U5ZTE2",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Quinto",
-        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vision",
-          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 238549,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Quinto",
+        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vision",
+          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Por Fin Decid\u00ed",
         "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 194599,
       "name": "Por Fin Decid\u00ed",
       "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Girls Night",
         "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "N\u00famero Dos",
-        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
       },
       "artists": [
         {
-          "name": "Emanuel J",
-          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
         }
       ],
-      "duration_ms": 192000,
-      "name": "No Quiero Nada",
-      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -615,6 +599,22 @@
       "duration_ms": 251239,
       "name": "Me Enamor\u00e9 de un \u00c1ngel",
       "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "N\u00famero Dos",
+        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
+      },
+      "artists": [
+        {
+          "name": "Emanuel J",
+          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No Quiero Nada",
+      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
-      },
-      "artists": [
-        {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Baby Luna",
         "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 177748,
       "name": "Baby Luna",
       "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
-      },
-      "artists": [
-        {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 180651,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+      },
+      "artists": [
+        {
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     },
     {
       "added_at": "2023-01-27 17:40:01",

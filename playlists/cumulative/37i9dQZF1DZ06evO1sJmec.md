@@ -4,7 +4,7 @@
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-64 songs - 6 hr 10 min
+65 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Fade To Black \- Remastered](https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:57 | 2022-05-30 |  |
 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 4:44 | 2022-05-30 |  |
 | [For Whom The Bell Tolls \- Remastered](https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 5:09 | 2022-05-30 |  |
+| [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 | 2023-02-25 |  |
 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 | 2022-05-30 |  |
 | [Hardwired](https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 3:09 | 2022-05-30 |  |
 | [Harvester Of Sorrow](https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 5:45 | 2022-05-30 |  |
@@ -67,7 +68,7 @@
 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 | 2022-05-30 |  |
 | [Until It Sleeps](https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:27 | 2022-05-30 |  |
 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 | 2022-05-30 |  |
-| [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2022-10-12 |  |
+| [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2022-10-12 | 2023-02-26 |
 | [Wherever I May Roam](https://open.spotify.com/track/22GbAGb80ZZNgm2yrBMnpR) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:43 | 2022-05-30 |  |
 | [Whiplash \- Remastered](https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:08 | 2022-05-30 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2022-05-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
-  "num_followers": 48682,
+  "num_followers": 48700,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIyMywwMDAwMDAwMGIzNDBlZDJhNjkxZjk1NTIwYjc0YWVlYzE3ZDUzNDAx",
+  "snapshot_id": "MTY3NDg0MTIyMywwMDAwMDAwMGRhZWI2OWEwMjQxYWIxODkxNGY5ZDA4NzcwODQwZjI5",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:22",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
+        "name": "El Fugitivo (En Vivo)",
+        "url": "https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Fugitivo - En Vivo",
+      "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
-        "name": "El Fugitivo (En Vivo)",
-        "url": "https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo - En Vivo",
-      "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -359,22 +359,18 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Malas Rachas (En Vivo)",
-        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
+        "name": "Puras de Servando, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 256754,
-      "name": "Malas Rachas (En Vivo)",
-      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
+      "duration_ms": 164257,
+      "name": "La Muchacha del Salado \"la Nicholette\" - En Vivo",
+      "url": "https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Puras de Servando, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX"
+        "name": "Malas Rachas (En Vivo)",
+        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 164257,
-      "name": "La Muchacha del Salado \"la Nicholette\" - En Vivo",
-      "url": "https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I"
+      "duration_ms": 256754,
+      "name": "Malas Rachas (En Vivo)",
+      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Tragedias de Mi Pueblo (Con Banda)",
-        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253105,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 201168,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Tragedias de Mi Pueblo (Con Banda)",
+        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253105,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 219036,
-      "name": "El Shadow - En vivo",
-      "url": "https://open.spotify.com/track/752ewFkVffZbVoSfBXdNx3"
+      "duration_ms": 187943,
+      "name": "A Mis Enemigos - En vivo",
+      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1663,8 +1663,8 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 187943,
-      "name": "A Mis Enemigos - En vivo",
-      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
+      "duration_ms": 219036,
+      "name": "El Shadow - En vivo",
+      "url": "https://open.spotify.com/track/752ewFkVffZbVoSfBXdNx3"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Cara de Bala (En Vivo)",
-        "url": "https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Zap Garcia",
-          "url": "https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg"
-        }
-      ],
-      "duration_ms": 151382,
-      "name": "Cara de Bala (En Vivo)",
-      "url": "https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "La Perris (En Vivo)",
         "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 165492,
       "name": "La Perris - En Vivo",
       "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Cara de Bala (En Vivo)",
+        "url": "https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Zap Garcia",
+          "url": "https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg"
+        }
+      ],
+      "duration_ms": 151382,
+      "name": "Cara de Bala (En Vivo)",
+      "url": "https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "El Juan",
-        "url": "https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl"
-      },
-      "artists": [
-        {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        },
-        {
-          "name": "Humberto Herrera",
-          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
-        }
-      ],
-      "duration_ms": 138703,
-      "name": "El Juan - Vivo",
-      "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "El Escudo Del Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 175000,
       "name": "El Escudo Del Chavo - En Vivo",
       "url": "https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "El Juan",
+        "url": "https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Humberto Herrera",
+          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
+        }
+      ],
+      "duration_ms": 138703,
+      "name": "El Juan - Vivo",
+      "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Las Preferidas, Vol. 4 (En Vivo)",
-        "url": "https://open.spotify.com/album/73ZvjsY05oQ16RTnKuHGgW"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "El Descuido Del \u00c1guila (En Vivo)",
-      "url": "https://open.spotify.com/track/40KF9kstT4CbOMVZ4GmQXu"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "En Vivo... El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
       },
@@ -2387,18 +2371,18 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "El Codiciado (En Vivo)",
-        "url": "https://open.spotify.com/album/6HzaXemIvKdZw3PAlycETQ"
+        "name": "Las Preferidas, Vol. 4 (En Vivo)",
+        "url": "https://open.spotify.com/album/73ZvjsY05oQ16RTnKuHGgW"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 195317,
-      "name": "El Codiciado (En Vivo)",
-      "url": "https://open.spotify.com/track/0OS8GS58mL03Hw6E1gPWEQ"
+      "duration_ms": 282506,
+      "name": "El Descuido Del \u00c1guila (En Vivo)",
+      "url": "https://open.spotify.com/track/40KF9kstT4CbOMVZ4GmQXu"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2419,6 +2403,22 @@
       "duration_ms": 207946,
       "name": "La Nueva Escuela (En Vivo)",
       "url": "https://open.spotify.com/track/5qoKQ40BEsXnKvh8ukBMnP"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "El Codiciado (En Vivo)",
+        "url": "https://open.spotify.com/album/6HzaXemIvKdZw3PAlycETQ"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "El Codiciado (En Vivo)",
+      "url": "https://open.spotify.com/track/0OS8GS58mL03Hw6E1gPWEQ"
     },
     {
       "added_at": "2023-01-27 17:40:22",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2023-01-27 17:40:22",
       "album": {
-        "name": "Besos Y Copas (En Vivo)",
-        "url": "https://open.spotify.com/album/46Y1UoLLf7GBVSwwR1jxKJ"
-      },
-      "artists": [
-        {
-          "name": "Los Cuates de Sinaloa",
-          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
-        }
-      ],
-      "duration_ms": 187061,
-      "name": "Besos Y Copas (En Vivo)",
-      "url": "https://open.spotify.com/track/0xHedGzkiufKRHj2S1hdSf"
-    },
-    {
-      "added_at": "2023-01-27 17:40:22",
-      "album": {
         "name": "En Vivo Desde La D",
         "url": "https://open.spotify.com/album/5IOVPxrxFdSQx6txrGoBNg"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 223000,
       "name": "Maniaco Enfermo",
       "url": "https://open.spotify.com/track/3048sEV1VZ5jcqDvLm3CDL"
+    },
+    {
+      "added_at": "2023-01-27 17:40:22",
+      "album": {
+        "name": "Besos Y Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/46Y1UoLLf7GBVSwwR1jxKJ"
+      },
+      "artists": [
+        {
+          "name": "Los Cuates de Sinaloa",
+          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+        }
+      ],
+      "duration_ms": 187061,
+      "name": "Besos Y Copas (En Vivo)",
+      "url": "https://open.spotify.com/track/0xHedGzkiufKRHj2S1hdSf"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

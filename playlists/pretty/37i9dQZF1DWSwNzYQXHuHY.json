@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6566,
+  "num_followers": 6575,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDg4MiwwMDAwMDAwMGNjZjgxNWQ1ZGEwZGQwMmVlNWEwODlhMzZiMjc1NzVm",
+  "snapshot_id": "MTY3NzIzNDg4MiwwMDAwMDAwMDJkYmQ0NzkzNTMxZGRmOGNjZGUyMmRiZjAzOGRkM2Jk",
   "tracks": [
     {
       "added_at": "2023-02-14 07:47:27",
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
-      "added_at": "2023-02-25 09:44:12",
+      "added_at": "2023-02-26 00:29:32",
       "album": {
         "name": "Love to Hate You, Pt. 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3"
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
+      "added_at": "2023-02-26 00:29:32",
+      "album": {
+        "name": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7qMURkrL885kAgogHHnSon"
+      },
+      "artists": [
+        {
+          "name": "LILY",
+          "url": "https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+        }
+      ],
+      "duration_ms": 191957,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
+    },
+    {
       "added_at": "2023-02-14 07:47:27",
       "album": {
         "name": "Ordinary Love",
@@ -375,26 +395,6 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2023-02-25 09:44:12",
-      "album": {
-        "name": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7qMURkrL885kAgogHHnSon"
-      },
-      "artists": [
-        {
-          "name": "LILY",
-          "url": "https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5"
-        },
-        {
-          "name": "SULLYOON",
-          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
-        }
-      ],
-      "duration_ms": 191957,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
     },
     {
       "added_at": "2023-02-14 07:47:27",
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
     },
     {
-      "added_at": "2023-02-25 09:44:12",
+      "added_at": "2023-02-26 00:29:32",
       "album": {
         "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"

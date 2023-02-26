@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,264 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,464 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 25 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
 | 26 | [Take on the World](https://open.spotify.com/track/6J0xeqjdpsUH0W1YBCmD1L) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/48weSvWTs8IQAaUUl3Db8r) | 4:31 |
 | 27 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
-| 28 | [Failure](https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:34 |
-| 29 | [Scars](https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:28 |
+| 28 | [Scars](https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:28 |
+| 29 | [Failure](https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:34 |
 | 30 | [Soda](https://open.spotify.com/track/3PUnku87booODLtX6VVHwN) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:56 |
 | 31 | [The Drug In Me Is Reimagined](https://open.spotify.com/track/5GIWP2q6p92lFA10KUuL0z) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is Reimagined](https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk) | 5:40 |
 | 32 | [I Won't Give In](https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Black](https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V) | 3:49 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 61 | [Stay With Me](https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 3:14 |
 | 62 | [Johnny Cash \- Stripped](https://open.spotify.com/track/4sBOU30e7J2KF2VzBwDG2M) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Johnny Cash \(Stripped\)](https://open.spotify.com/album/0NBqAEzV88JB497CabtJCn) | 3:36 |
 | 63 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
-| 64 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
-| 65 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
+| 64 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
+| 65 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
 | 66 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
 | 67 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 68 | [Welcome Home](https://open.spotify.com/track/07heIznr3ziWFz4nnW9xaj) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Hard Feelings](https://open.spotify.com/album/4ynBCBfxMK2COzPTJ8kma9) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 79 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
 | 80 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
 
-Snapshot ID: `MTY3NjU3NzM3MywwMDAwMDAwMGNjZjM4ZGNiZWMzYzEzODhhMWM5YmIzMDExN2NkZTcy`
+Snapshot ID: `MTY3NjU3NzM3MywwMDAwMDAwMDEzN2ZiOTRmMjRmNDYyZjVmNzdmMjc5YjJjMzMyNDk0`

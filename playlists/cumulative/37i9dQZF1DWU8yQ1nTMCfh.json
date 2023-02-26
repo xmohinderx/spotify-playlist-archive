@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 225632,
       "name": "Control",
       "url": "https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur"
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
+    },
+    {
+      "album": {
         "name": "Jungla de Pensamientos",
         "url": "https://open.spotify.com/album/68WnJ97v6WmmVO1wliSg5T"
       },
@@ -1435,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "album": {
         "name": "Llueven los Vergazos",
         "url": "https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2"
       },
@@ -1518,7 +1554,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 285440,
       "name": "Los \u00c1ngeles, California",
       "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"

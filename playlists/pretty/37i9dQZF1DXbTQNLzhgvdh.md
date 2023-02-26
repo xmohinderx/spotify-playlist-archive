@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > y solo mírame con esos ojito' lindo' ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,849 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,912 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 65 | [Tú](https://open.spotify.com/track/536jZQnDc8UczLFWyRqEzt) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yin](https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71) | 3:31 |
 | 66 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 67 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
-| 68 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
-| 69 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 |
+| 68 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 |
+| 69 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
 | 70 | [Nuestras metas](https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Nuestras metas](https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK) | 4:14 |
 | 71 | [Maldito Romántico](https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein) | 4:32 |
 | 72 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 74 | [Empapelado](https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Empapelado](https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei) | 3:41 |
 | 75 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
 
-Snapshot ID: `MTY3NjQwMjY0NiwwMDAwMDAwMDU2MDdhNWYxN2NiNWMxN2U5ZDk0OGMxNzhmN2NkZDRj`
+Snapshot ID: `MTY3NjQwMjY0NiwwMDAwMDAwMDkyZTRkN2QyNzRiYzY3NmI1ZWUzYjljNTE1NDFiZDFi`

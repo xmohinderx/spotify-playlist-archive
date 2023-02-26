@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-298 songs - 21 hr 14 min
+299 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 | 2021-12-16 | 2022-11-11 |
 | [Gee Baby, Ain't I Good To You \- Remastered](https://open.spotify.com/track/3UrxgGboM1N5xsdOcz4o0K) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 4:25 | 2021-12-16 | 2022-11-11 |
 | [Georgia On My Mind](https://open.spotify.com/track/5H1sFv6LHIUmzXLtnDyKFa) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 5:41 | 2022-05-18 | 2022-11-11 |
-| [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-11 |  |
+| [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-11 | 2023-02-26 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-11-11 | 2022-12-29 |
 | [Great Pumpkin Waltz](https://open.spotify.com/track/4GxlhcswUFAHF6iN4bs2lH) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:26 | 2021-12-16 | 2022-05-25 |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 4:10 | 2022-09-28 | 2022-11-11 |
@@ -161,6 +161,7 @@
 | [Lonely Town](https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:34 | 2021-12-16 | 2022-11-11 |
 | [Lonely Town \(From On The Town\)](https://open.spotify.com/track/1ymGHXrlbLxcMqFAtEOqBs) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Somewhere: The Songs Of Leonard Bernstein](https://open.spotify.com/album/2quYR6cVpVBFymH7h7qv0D) | 6:37 | 2021-12-16 | 2022-11-11 |
 | [Long Ago And Far Away](https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 3:54 | 2022-05-18 | 2022-11-11 |
+| [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 | 2023-02-23 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-11-11 |  |
 | [Lover Man \- Remastered](https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:30 | 2021-12-16 | 2022-11-11 |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-01-05 |  |

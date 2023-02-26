@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1486148,
+  "num_followers": 1486141,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NjA0MywwMDAwMDAwMGE5NGY0ZWNmYjIyNmQzMmVkNGExMzVkOWMxMTU5ZTI3",
+  "snapshot_id": "MTY3NTk1NjA0MywwMDAwMDAwMDc5ZDIwZWI5N2M5ZDI1ZDI0ZGQ2NzI5NWRhNTAzODA2",
   "tracks": [
     {
       "added_at": "2023-02-02 15:00:00",
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ"
     },
     {
-      "added_at": "2023-02-25 10:00:37",
+      "added_at": "2023-02-26 01:31:18",
       "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
     },
     {
-      "added_at": "2023-02-25 10:00:37",
+      "added_at": "2023-02-26 01:31:18",
       "album": {
         "name": "CELEBRATION OF JAY 3",
         "url": "https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg"
     },
     {
-      "added_at": "2023-02-25 10:00:37",
+      "added_at": "2023-02-26 01:31:18",
       "album": {
         "name": "Green Hour",
         "url": "https://open.spotify.com/album/6sYcWXkK18aoNRdKOtiAF6"
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "High Jazz",
         "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe"
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
       },
       "artists": [
         {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
         }
       ],
-      "duration_ms": 100465,
-      "name": "winter in rio",
-      "url": "https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB"
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 103255,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "winter in rio",
+      "url": "https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Easy Feet",
+        "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
+      },
+      "artists": [
+        {
+          "name": "Smartface",
+          "url": "https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym"
+        }
+      ],
+      "duration_ms": 116893,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
       },
@@ -923,18 +939,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Easy Feet",
-        "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
+        "name": "Whitecaps",
+        "url": "https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0"
       },
       "artists": [
         {
-          "name": "Smartface",
-          "url": "https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym"
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Waywell",
+          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
         }
       ],
-      "duration_ms": 116893,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+      "duration_ms": 127760,
+      "name": "Undercurrent",
+      "url": "https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -955,26 +975,6 @@
       "duration_ms": 129679,
       "name": "Summit",
       "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Whitecaps",
-        "url": "https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0"
-      },
-      "artists": [
-        {
-          "name": "LESKY",
-          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
-        },
-        {
-          "name": "Waywell",
-          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
-        }
-      ],
-      "duration_ms": 127760,
-      "name": "Undercurrent",
-      "url": "https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC"
-      },
-      "artists": [
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        }
-      ],
-      "duration_ms": 216188,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "duration_ms": 216188,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Lofi Loyal Caf\u00e9 Customer",
-        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
-      },
-      "artists": [
-        {
-          "name": "Single Friend",
-          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
-        },
-        {
-          "name": "Lo'fi Boy",
-          "url": "https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lofi Loyal Caf\u00e9 Customer",
-      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Lofi Loyal Caf\u00e9 Customer",
+        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        },
+        {
+          "name": "Lo'fi Boy",
+          "url": "https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lofi Loyal Caf\u00e9 Customer",
+      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "fog morning",
-        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
-      },
-      "artists": [
-        {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "fog morning",
-      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "February: A Rest in Beats Tribute to the Sounds of Nujabes",
         "url": "https://open.spotify.com/album/6bJFsauZZ1IfdOhQekv7x2"
       },
@@ -1295,22 +1279,6 @@
       "duration_ms": 227268,
       "name": "Kumomi",
       "url": "https://open.spotify.com/track/1EUwtIVPwB08afinH7423c"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "SPICA",
-        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
-      },
-      "artists": [
-        {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "SPICA",
-      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1347,6 +1315,38 @@
       "duration_ms": 148124,
       "name": "Whatsreal",
       "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "fog morning",
+        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
+      },
+      "artists": [
+        {
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "fog morning",
+      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "SPICA",
+        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "SPICA",
+      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
     },
     {
       "added_at": "2023-02-02 15:00:00",

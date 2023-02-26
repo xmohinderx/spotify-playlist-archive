@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Gecko&Tokage Parade Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,165 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,202 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 12 | [Let Me Drown You](https://open.spotify.com/track/5lf2S2nfBnebGmJiYlt8JF) | [Koosje](https://open.spotify.com/artist/1HkSjS5rzNg402IoG8RlEp), [Artvark Saxophone Quartet](https://open.spotify.com/artist/4Hbx0YJ3AOimjLob7GYRly) | [Let Me Drown You](https://open.spotify.com/album/1UvFezBaGY7FNxUZTAXybe) | 4:28 |
 | 13 | [Cambio](https://open.spotify.com/track/0xP6bjcjDNr76V1wscrHdc) | [Real Project](https://open.spotify.com/artist/3YqCU0lqanJsECL9iPUxPK), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Cambio](https://open.spotify.com/album/1vWp4I8tb7gveTmXKmJrs9) | 5:34 |
 | 14 | [The Austin Scene](https://open.spotify.com/track/4LZFTzSJe5NeyJ7uXEKk6c) | [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [The Austin Scene](https://open.spotify.com/album/3mteGkNZeBXFHp40g1L7e2) | 4:43 |
-| 15 | [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 |
+| 15 | [To be naive](https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 3:59 |
 | 16 | [Don't Touch My Pizza](https://open.spotify.com/track/4Eo4rDCZgVBcWTwdAc755a) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Don't Touch My Pizza](https://open.spotify.com/album/72SzThPYxCOCi4K7nrICCH) | 3:37 |
 | 17 | [万葉 \(Manyou\)](https://open.spotify.com/track/6l0CgdO1LfKNS1NTAUQppx) | [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D), [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [万葉 \(Manyou\)](https://open.spotify.com/album/3oheCeChFLNuQlbiAOkH5a) | 4:09 |
 | 18 | [This Town](https://open.spotify.com/track/7DxNrUAcEP22ECwJLG6ksy) | [Revulva](https://open.spotify.com/artist/478agCaHgiqDySnHUBzqGS) | [This Town](https://open.spotify.com/album/2N6V586tK0ELISVD387MHt) | 4:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Explorations of One's Self Inside a Caravan](https://open.spotify.com/track/3vDtZyKQKAg5LCfr4Y1mgY) | [Harry Christelis](https://open.spotify.com/artist/5JkSdbKIea82lrbbbkt2O7), [Christos Stylianides](https://open.spotify.com/artist/51uGQgWINfEcrZkmeuBpoV), [Andrea Di Biase](https://open.spotify.com/artist/5QbzXhxE9turmrCqd5Fose), [Dave Storey](https://open.spotify.com/artist/173p0nF7UqLCAX3a7wR58d) | [Explorations of One's Self Inside a Caravan](https://open.spotify.com/album/4bgQAoc7eURGY6LBqtmWtP) | 9:13 |
 | 75 | [Chrysalide](https://open.spotify.com/track/4z216cr5r11o7U1aCrjY67) | [Patricia Essong](https://open.spotify.com/artist/0Xw8xErlE8lUQwW2h9KQhS) | [Chrysalide](https://open.spotify.com/album/4zObpGAsQyYFylPsuzUJgT) | 3:12 |
 
-Snapshot ID: `MTY3NzA0MjAwMCwwMDAwMDAwMDUzZDc4OGJkMTBkZDI0YzZiODQzOWZhNmQxMmEzMDc2`
+Snapshot ID: `MTY3NzA0MjAwMCwwMDAwMDAwMDY0NzM2MjUxM2ZjYjU3OGI0OTE3NWIwNTJiZWQzMDlh`

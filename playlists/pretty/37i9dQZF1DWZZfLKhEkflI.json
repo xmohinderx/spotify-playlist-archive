@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 58508,
+  "num_followers": 58537,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODY3OSwwMDAwMDAwMGEwOTRiMzQwNDYyNmJkNTE0MWQzZjYwZTEzODIzZjRk",
+  "snapshot_id": "MTY3NzE0ODY3OSwwMDAwMDAwMDEyZTEzNWI4MTRlM2JiMTFjNWFkYTg0OWEyZDdhZTQ4",
   "tracks": [
     {
       "added_at": "2023-02-23 10:37:59",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-02-23 10:37:59",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 552000,
-      "name": "Johnny's Blue",
-      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
+      "duration_ms": 571680,
+      "name": "The Chess Players - Remastered 2005",
+      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
     },
     {
       "added_at": "2023-02-23 10:37:59",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-02-23 10:37:59",
       "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 571680,
-      "name": "The Chess Players - Remastered 2005",
-      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
+      "duration_ms": 552000,
+      "name": "Johnny's Blue",
+      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
     },
     {
       "added_at": "2023-02-23 10:37:59",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-23 10:37:59",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Down Home",
-      "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
-    },
-    {
-      "added_at": "2023-02-23 10:37:59",
-      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 395213,
       "name": "Light Blue - Remastered",
       "url": "https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw"
+    },
+    {
+      "added_at": "2023-02-23 10:37:59",
+      "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Down Home",
+      "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
     },
     {
       "added_at": "2023-02-23 10:37:59",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-23 10:37:59",
       "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 345466,
-      "name": "Preach Brother",
-      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
-    },
-    {
-      "added_at": "2023-02-23 10:37:59",
-      "album": {
         "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
         "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 488000,
       "name": "Blues For Skeeter - Remastered 2000",
       "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
+    },
+    {
+      "added_at": "2023-02-23 10:37:59",
+      "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 345466,
+      "name": "Preach Brother",
+      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
     },
     {
       "added_at": "2023-02-23 10:37:59",

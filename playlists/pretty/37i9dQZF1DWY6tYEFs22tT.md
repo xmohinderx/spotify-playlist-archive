@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Lil Wayne & 🕊 DMX, Don Toliver, Quavo, Freddie Dredd, and Jim Jones is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,402 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,445 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

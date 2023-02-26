@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 32982,
+  "num_followers": 33012,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyMzgyNywwMDAwMDAwMGI0ZTZiOTEyMjY5MzI4NDM5MDAzMDA5MzE3MTJkOGFj",
+  "snapshot_id": "MTY3NzIyMzgyNywwMDAwMDAwMDIzZDFlYzk3ODFmOGIxNGIzYWY2ZDc0YzQ5MzQzNDI4",
   "tracks": [
     {
       "added_at": "2023-02-23 22:34:18",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
     },
     {
-      "added_at": "2023-02-25 10:00:15",
+      "added_at": "2023-02-26 00:48:51",
       "album": {
         "name": "Bully Season Vol.1",
         "url": "https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE"
@@ -483,38 +483,30 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Overloading (OVERDOSE)",
-        "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
       },
       "artists": [
         {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
         },
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         },
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Overloading (OVERDOSE)",
-      "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -595,30 +587,38 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Sugarcane (Remix)",
-        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+        "name": "Overloading (OVERDOSE)",
+        "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
         },
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         },
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 251147,
-      "name": "Sugarcane - Remix",
-      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
+      "duration_ms": 205000,
+      "name": "Overloading (OVERDOSE)",
+      "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 186299,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 146399,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Want It All (feat. Polo G)",
         "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 177449,
       "name": "Chance (Na Ham)",
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
         "name": "SOMETHING",
         "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Common Person",
-      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 158399,
       "name": "Oshe (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2023-02-23 22:34:18",

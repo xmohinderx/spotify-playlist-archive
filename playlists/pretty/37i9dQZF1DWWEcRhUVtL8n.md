@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704,530 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,548 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 |
-| 2 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
+| 2 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 3 | [Pretty In Possible](https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:36 |
-| 4 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 4 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 5 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 6 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
 | 7 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 36 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 37 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 |
 | 38 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 |
-| 39 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 |
-| 40 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 |
+| 39 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 |
+| 40 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 |
 | 41 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 42 | [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 |
-| 43 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 |
-| 44 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
+| 43 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
+| 44 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 |
 | 45 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 46 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
 | 47 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 67 | [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 |
 | 68 | [leave this party](https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [leave this party](https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX) | 2:59 |
 | 69 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 |
-| 70 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
-| 71 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
+| 70 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
+| 71 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
 | 72 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 |
 | 73 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 74 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 |
 | 75 | [Races](https://open.spotify.com/track/0QTBPKcT0vvXRRNFTznWy6) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Races](https://open.spotify.com/album/26TS76G6SM9VnQEAWXZTcO) | 2:13 |
 
-Snapshot ID: `MTY3NzIxMTkzNSwwMDAwMDAwMDkyMjliMzg4ZDBkY2UwOWRhMjNmYmE2MzliZTUxM2Jj`
+Snapshot ID: `MTY3NzIxMTkzNSwwMDAwMDAwMDM3MzhlZDg4Mzc1YTc4NmZiZDZkNTQxZDhiNjc5YjBk`

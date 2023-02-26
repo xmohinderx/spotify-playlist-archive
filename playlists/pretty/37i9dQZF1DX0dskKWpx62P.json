@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 27566,
+  "num_followers": 27593,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDRhMjYwOTZmZTA3YzZkOTcxY2EzMDk1YWE2MzM1M2M3",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDRjNGJiODVlMjBiYTMyNDA3M2I4MjkxMTE5OGY3MjY5",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "LO MEJOR DE LO ANTERIOR",
+        "url": "https://open.spotify.com/album/7MzodXzKWxlxylBShZGnSW"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "AY CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 173066,
       "name": "Serenata Condemayta",
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "LO MEJOR DE LO ANTERIOR",
-        "url": "https://open.spotify.com/album/7MzodXzKWxlxylBShZGnSW"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "AY CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "T\u00fa Puedes Volar",
         "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",

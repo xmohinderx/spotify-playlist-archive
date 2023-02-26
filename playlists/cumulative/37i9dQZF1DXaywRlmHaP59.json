@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Nancy 10",
+        "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254441,
+      "name": "Baddi Hada Hebbou",
+      "url": "https://open.spotify.com/track/5x6ABIAk3xrwFSAkZeppTP"
+    },
+    {
+      "album": {
         "name": "Fairouz World, Pt. 1",
         "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
       },

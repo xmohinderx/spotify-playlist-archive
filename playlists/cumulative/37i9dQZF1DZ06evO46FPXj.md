@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-184 songs - 22 hr 4 min
+185 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Eggshell](https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf) | 9:02 | 2023-02-14 |  |
 | [Eidetic Casein](https://open.spotify.com/track/2HGcBBNq1zBgR8tYPJfSUK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 6:12 | 2023-02-11 |  |
 | [Eidetic Casein](https://open.spotify.com/track/3lEObWPuJFtiNMwOW5EYTo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:12 | 2022-06-05 | 2022-10-07 |
+| [esc desc](https://open.spotify.com/track/2jkbWZcdUrazEcvyjoiRef) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK) | 4:55 | 2023-02-25 |  |
 | [esc desc](https://open.spotify.com/track/4WOwxNRtErpf5sWuvWvGVu) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 4:55 | 2022-05-30 | 2023-01-22 |
 | [esle 0](https://open.spotify.com/track/4I9ZIyy2jlHb8UEkd3NWCd) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/5V9HrJ2u1noLUk0V4HF8uM) | 3:13 | 2022-06-01 | 2022-06-03 |
 | [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2022-05-29 | 2023-02-16 |
@@ -122,7 +123,7 @@
 | [Nine](https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 3:40 | 2023-02-14 |  |
 | [Nine](https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 3:40 | 2022-05-30 | 2023-02-15 |
 | [Notwo](https://open.spotify.com/track/7hHUHGKvEsce78bcvPZ6kL) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 5:34 | 2023-02-14 | 2023-02-16 |
-| [os veix3](https://open.spotify.com/track/4yGBuJFneUOpQUJ7QLMYw3) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:37 | 2023-02-23 |  |
+| [os veix3](https://open.spotify.com/track/4yGBuJFneUOpQUJ7QLMYw3) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:37 | 2023-02-23 | 2023-02-26 |
 | [Osla for n](https://open.spotify.com/track/2q7T5yWSOMheZrPX3O0YlI) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [L\-event](https://open.spotify.com/album/3cueiJohv2FIIj5NYyn6cn) | 8:11 | 2023-02-16 | 2023-02-19 |
 | [Overand](https://open.spotify.com/track/0HkOdDWfP8XiVsndgNrh2s) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 7:33 | 2023-02-14 |  |
 | [Overand](https://open.spotify.com/track/0PmrE6p9m2cQJNb0IITqke) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 7:33 | 2022-05-30 | 2023-02-15 |

@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611410,
+  "num_followers": 611430,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMGU3YTI3MmI5YTZmYjMyYTlmMzUwYmRmYjJjZTMwN2Q3",
+  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMDJhZjNjMWY2ZmI3YjllZmI4ODgxOWNiOWEzYmNhNWQ5",
   "tracks": [
     {
       "added_at": "2023-01-20 15:43:31",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "HOLY FVCK",
-        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
         }
       ],
-      "duration_ms": 180260,
-      "name": "EAT ME (feat. Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2"
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -599,34 +595,22 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+        "name": "HOLY FVCK",
+        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
       "artists": [
         {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
-      },
-      "artists": [
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+      "duration_ms": 180260,
+      "name": "EAT ME (feat. Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -643,6 +627,22 @@
       "duration_ms": 211119,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 235613,
-      "name": "Bored To Death",
-      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Bored To Death",
+      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
     },
     {
       "added_at": "2023-01-20 15:43:31",

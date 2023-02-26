@@ -4,7 +4,7 @@
 
 > La belleza nunca pasa de moda.
 
-168 songs - 11 hr 22 min
+169 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-01-01 |  |
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2022-01-01 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2021-04-30 |  |
-| [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-04-30 |  |
+| [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-04-30 | 2023-02-26 |
 | [Chan Chan](https://open.spotify.com/track/0niGpRHjbAjZJMrjY77kTc) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Chan Chan](https://open.spotify.com/album/4LroueiEhwtrhmzg9rZPjM) | 4:21 | 2021-04-30 | 2022-07-29 |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2022-01-01 | 2022-12-22 |
 | [Cobarde \- Spotify Singles](https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:11 | 2021-04-30 | 2022-07-29 |
@@ -109,6 +109,7 @@
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-01-01 |  |
 | [My Sweet Lord](https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Eric Clapton: Life In 12 Bars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk) | 4:40 | 2022-08-31 | 2022-11-13 |
 | [My Sweet Lord](https://open.spotify.com/track/3Njxl86N4inxFi5xBuCoR1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 4:41 | 2021-04-30 | 2022-07-29 |
+| [My Sweet Lord \- 2014 Remaster](https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 4:41 | 2023-01-24 |  |
 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 | 2022-01-01 | 2023-02-14 |
 | [Nel Blu Dipinto Di Blu](https://open.spotify.com/track/5zyrEv4F3FaLECI8TOKpFM) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Nel Blu Dipinto Di Blu](https://open.spotify.com/album/490sLjsTmSo7MnA8noKMOH) | 3:39 | 2021-04-30 | 2022-07-29 |
 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:04 | 2022-12-22 |  |

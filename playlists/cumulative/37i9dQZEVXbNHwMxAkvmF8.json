@@ -2819,6 +2819,28 @@
     },
     {
       "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -6780,7 +6802,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -9610,7 +9632,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 117333,
       "name": "Pogi Hip-Hop",
       "url": "https://open.spotify.com/track/3587lsrur0nDemFY0xbpN9"
@@ -11812,7 +11834,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 235932,
       "name": "Sz\u00f3lj R\u00e1m",
       "url": "https://open.spotify.com/track/7JiCvaH242DCn6jk9CBYBg"
@@ -12704,7 +12726,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 178823,
       "name": "Tudom - Bonus Track",
       "url": "https://open.spotify.com/track/20q5biELYLRsX7uI4l02ia"
@@ -13026,7 +13048,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 117200,
       "name": "Visszat\u00e9rtem",
       "url": "https://open.spotify.com/track/4hPaoh0KU6iK1bvG4olh2d"

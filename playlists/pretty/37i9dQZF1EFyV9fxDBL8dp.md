@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Olhos Verdes](https://open.spotify.com/track/1IJnD8eudZeKV8GqISVfZv) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:40 |
 | 2 | [Mar de Luz](https://open.spotify.com/track/5ogZ0BhJqplsxQO1KvDtte) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:25 |
-| 3 | [Pretinha Minha](https://open.spotify.com/track/1XYXU6UaxtJzslWKAiG6WO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:12 |
-| 4 | [Eu Me Precipitei](https://open.spotify.com/track/6QcnrB9K9mLlbZQ8c6wpkT) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:48 |
+| 3 | [Eu Me Precipitei](https://open.spotify.com/track/6QcnrB9K9mLlbZQ8c6wpkT) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:48 |
+| 4 | [Pretinha Minha](https://open.spotify.com/track/1XYXU6UaxtJzslWKAiG6WO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:12 |
 | 5 | [Verão de Maceió](https://open.spotify.com/track/6jUCgRxUKqvYNjLhGku4lv) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:45 |
 | 6 | [Sossegado](https://open.spotify.com/track/50JIuufaDwXtipM1PW5JeU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:40 |
 | 7 | [Eu Vi](https://open.spotify.com/track/5CMSSsWrLvHwurRcdNBbqw) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:27 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 70 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 71 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `Mjc5NTUyNjMsMDAwMDAwMDAzOTAyMTE2NDlkNzFjZDU1ZDIyNGYyMmI1MjBlZTQ3MA==`
+Snapshot ID: `Mjc5NTYxNjMsMDAwMDAwMDA3MDk1MDc1ODQ2MTBkZmE5YTQxN2UzMDA4OWFlOTYwOQ==`

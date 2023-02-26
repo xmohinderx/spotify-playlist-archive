@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: WILSN",
-  "num_followers": 435563,
+  "num_followers": 435629,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNzIxOCwwMDAwMDAwMDRmMjJkMmU4ZDZhZWYzNGY5NDQ0MDA5MGQ3MjU0OGM3",
+  "snapshot_id": "MTY3NjYzNzIxOCwwMDAwMDAwMDdjZmI5NmQxOTlhNThiYjhmYzcwNmQ2OTg5ZWI4OTgw",
   "tracks": [
     {
       "added_at": "2023-02-17 12:33:38",
@@ -615,6 +615,42 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
+        "name": "Sage Motel",
+        "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Sage Motel",
+      "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
         "name": "I Told You I Would",
         "url": "https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM"
       },
@@ -643,42 +679,6 @@
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
-        "name": "Sage Motel",
-        "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Sage Motel",
-      "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
-      },
-      "artists": [
-        {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
         "name": "Easier Said Than Done",
         "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 217200,
       "name": "My Way",
       "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
         "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 186965,
       "name": "Everybody Watching",
       "url": "https://open.spotify.com/track/1nHMytYSkk9bmMEVa7j5bY"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
-        "name": "Trippin",
-        "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
-      },
-      "artists": [
-        {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
         "name": "No Tears In My Champagne",
         "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 266734,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
         "name": "Feel It Comin",
         "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 205685,
       "name": "Feel It Comin - Single Version",
       "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
         }
       ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+      "duration_ms": 189667,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1383,6 +1383,22 @@
       "duration_ms": 272020,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 189667,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "Light Speaks the Quilt",
-        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
-      },
-      "artists": [
-        {
-          "name": "Jonny Kosmo",
-          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
-        }
-      ],
-      "duration_ms": 176032,
-      "name": "Rolodex",
-      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
         "name": "Those Days Are Over",
         "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 174393,
       "name": "Every Day and Every Night",
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+      },
+      "artists": [
+        {
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
+        "name": "Hurts So Bad",
+        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Hurts So Bad - with Josh Teskey",
+      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
       },
@@ -1595,22 +1615,6 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
-      },
-      "artists": [
-        {
-          "name": "Liquid Spirits",
-          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -1627,42 +1631,18 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "Hurts So Bad",
-        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
       },
       "artists": [
         {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
         }
       ],
-      "duration_ms": 235061,
-      "name": "Hurts So Bad - with Josh Teskey",
-      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
-    },
-    {
-      "added_at": "2023-02-17 12:33:38",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
+      "duration_ms": 169986,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1683,18 +1663,22 @@
     {
       "added_at": "2023-02-17 12:33:38",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+      "duration_ms": 203840,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
     },
     {
       "added_at": "2023-02-17 12:33:38",
@@ -1731,6 +1715,22 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "added_at": "2023-02-17 12:33:38",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-02-17 12:33:38",

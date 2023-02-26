@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,118 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,228 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 15 | [I Ain't No Joke](https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:52 |
 | 16 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:24 |
 | 17 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 |
-| 18 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 |
-| 19 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
+| 18 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
+| 19 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 |
 | 20 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
 | 21 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
 | 22 | [Paid In Full](https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:48 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 26 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
 | 27 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
 | 28 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
-| 29 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
+| 29 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 |
 | 30 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
-| 31 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 |
+| 31 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
 | 32 | [Don't Believe The Hype](https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:19 |
 | 33 | [Apache](https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [8th Wonder](https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ) | 6:13 |
 | 34 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 57 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
 | 58 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 59 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
-| 60 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
-| 61 | [Al\-Naafyish \- Time](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
+| 60 | [Al\-Naafyish \- Time](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
+| 61 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
 | 62 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 | 63 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 64 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 | 70 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
 
-Snapshot ID: `MTY3Mzg2OTk5MSwwMDAwMDAwMGIyZjY1NTdmMmIzNmNiYjY4MDljZjhkNGRiNGQ4Yzcx`
+Snapshot ID: `MTY3Mzg2OTk5MSwwMDAwMDAwMGUzODdlMmFmNGU3YzAyYjYwZDFkYzFmMTk4MmQ3ZDgx`

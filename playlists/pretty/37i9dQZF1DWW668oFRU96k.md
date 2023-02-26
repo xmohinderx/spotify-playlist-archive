@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: 22Bullets x Laura White
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,637 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,653 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 29 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 |
 | 30 | [One Day Soon](https://open.spotify.com/track/6QQvEyivbE6czJfLrxMNfR) | [Blink](https://open.spotify.com/artist/19fY7qlB3oRObm7sXD64kI), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Jetty Rachers](https://open.spotify.com/artist/3PEwg6PSmRHBg6dXNAPN1h), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [One Day Soon](https://open.spotify.com/album/5YjsACGtO1hSjPi3Puv0VF) | 3:12 |
 | 31 | [Stay Another Night](https://open.spotify.com/track/2D01XpzKgqhJoajUqwfTP0) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [Stay Another Night](https://open.spotify.com/album/1bkW7BSzfbWcIbsMr02kCj) | 2:43 |
-| 32 | [Signs](https://open.spotify.com/track/23TQCebFwF8CYw1TIWCmhe) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/5crK4xlFyg23mf6RirC6hr) | 2:31 |
+| 32 | [Signs](https://open.spotify.com/track/72rfezPDhtN4Yfizqn9DLU) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/4DUF8l5e6xtIr9uVBCJWMw) | 2:31 |
 | 33 | [Safe to See](https://open.spotify.com/track/2dfTuqNSS2cZJUFETe0aIL) | [SmartLove Music](https://open.spotify.com/artist/2PXE99c8nCPIW3kFb1Il54) | [Safe to See](https://open.spotify.com/album/3SLCM46l6RB2lmyaa667Se) | 2:27 |
 | 34 | [Something Better](https://open.spotify.com/track/0Peztel5LfvggoPNNsbjaM) | [Chouu](https://open.spotify.com/artist/3HpljHLMtYi3o62S2f1qtW), [Yellwflwer](https://open.spotify.com/artist/7yJ6JIPHYqJ7sbMBtAXB6v), [StonexN](https://open.spotify.com/artist/0I1B2v6dLN6Olw3yU5s4iq) | [Something Better](https://open.spotify.com/album/756xQb6eHnNbzShUJPKN74) | 3:18 |
 | 35 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 79 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 |
 | 80 | [All In One Night](https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Love Is Love](https://open.spotify.com/album/2uEuw3GLQXeLTrawVFHjBX) | 3:07 |
 
-Snapshot ID: `MTY3NzE2ODAwMCwwMDAwMDAwMGFlMDBjOTZmMTY5MTdjYjQ5MGYxNDQ4ZTc5YjQyMGRh`
+Snapshot ID: `MTY3NzE2ODAwMCwwMDAwMDAwMDMxNmZhYTdlMWVhNzM5YWJlMGE3N2VmMWRhMzMxMzg5`

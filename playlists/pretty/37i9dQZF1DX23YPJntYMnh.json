@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 457902,
+  "num_followers": 457961,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGQwNTc4ZjE4ODRkOGRiNWU3MDIxMDRkZWJlY2FlYzEx",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGMwZTQ0NGM4ZDNlMTcwYmZiYmE4YTZmYzY4OGYwMTg4",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Breaking Glass - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 259866,
       "name": "Midlife Crisis",
       "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Breaking Glass - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
     },
     {
       "added_at": "2022-02-04 05:02:00",

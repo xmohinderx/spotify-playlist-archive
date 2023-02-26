@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 16545,
+  "num_followers": 16630,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDZlOGI0ZjQ0YzZiZGRmNjQxMjJmNTY1ZTNmZjNhMGJl",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDM4ZTBkZmY3NThkOGVlNjY1ZWJmYmUwZjI3ZDQzYTU4",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Screen Violence",
         "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "We Need Medicine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 196893,
       "name": "Halloween Blues",
       "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
     },
     {
       "added_at": "2023-02-09 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 106223,
+  "num_followers": 106352,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGE5MWY0ZDhhZjYzM2NkZTY3OTU2NTg5NzNhNmQ1NTMx",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDdmYTU2ODU0NGMzMzZjNmQ2OWE5MGJjYmYyMjczOGUx",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "The Essentials: Orleans",
         "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Moonlight Feels Right",
-        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
-      },
-      "artists": [
-        {
-          "name": "Starbuck",
-          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Moonlight Feels Right",
-      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Another Page",
@@ -891,6 +875,22 @@
       "duration_ms": 259532,
       "name": "All Right",
       "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Moonlight Feels Right",
+        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
+      },
+      "artists": [
+        {
+          "name": "Starbuck",
+          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Moonlight Feels Right",
+      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
     },
     {
       "added_at": "2021-04-22 18:12:12",

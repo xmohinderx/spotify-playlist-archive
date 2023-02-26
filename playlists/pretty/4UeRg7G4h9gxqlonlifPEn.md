@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Harold
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,559 likes - 120 songs - 5 hr 41 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,557 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

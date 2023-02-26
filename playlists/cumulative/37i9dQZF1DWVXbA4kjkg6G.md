@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-126 songs - 12 hr 13 min
+127 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:00 | 2021-06-25 |  |
 | [Dayvan Cowboy](https://open.spotify.com/track/4Y2W4zKa3q72ztbkA0r8Va) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:00 | 2021-06-25 | 2023-02-02 |
 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 | 2021-06-25 |  |
-| [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 | 2021-06-25 |  |
+| [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 | 2021-06-25 | 2023-02-26 |
 | [Dig This Vibe](https://open.spotify.com/track/2xtVHxXsBNADpdNUr8Owpa) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 4:54 | 2021-06-25 | 2022-07-29 |
 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 | 2021-06-25 |  |
 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 | 2021-06-25 | 2023-02-07 |
@@ -101,6 +101,7 @@
 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 | 2021-06-25 |  |
 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 | 2021-06-25 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 | 2021-06-25 |  |
+| [Snapper](https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Reeled And Skinned](https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz) | 4:47 | 2021-06-25 |  |
 | [Snapper](https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ) | [Red Snapper feat\. Beth Orton](https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg) | [Reeled And Skinned](https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4) | 4:47 | 2021-06-25 | 2023-02-02 |
 | [Song 2](https://open.spotify.com/track/6gJn2GouSKBuU1z1ydwDS8) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Jaku](https://open.spotify.com/album/3CwU0SFLys2d9BKbzX42cH) | 4:59 | 2021-06-25 | 2022-08-12 |
 | [Song 2](https://open.spotify.com/track/6yanRGdN1bj7aYsXnElK0h) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Jaku](https://open.spotify.com/album/3dmRqnSSeMcPOrFGAmy2sm) | 4:59 | 2021-06-25 | 2022-07-29 |

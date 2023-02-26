@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-214 songs - 12 hr 6 min
+215 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Angae](https://open.spotify.com/track/50kyft8lFid4ol27SQwIJQ) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:36 | 2022-05-11 | 2022-07-14 |
 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-08 |  |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2022-05-11 | 2022-07-28 |
+| [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/70uwRJV7crAG7mkFtfde0K) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 | 2023-02-24 |  |
 | [Bah! I know you! 흥! 다 보인다](https://open.spotify.com/track/3nIpeIrHGcNKkZMo52wVQA) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 3:12 | 2022-05-11 | 2022-06-03 |
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-06-13 | 2022-07-28 |
 | [Be there](https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa) | [Ikki](https://open.spotify.com/artist/1PbvNmIOnL1ZJgNvxUpomb) | [Be there](https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ) | 3:19 | 2022-06-09 | 2022-07-28 |
@@ -78,7 +79,7 @@
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-11 | 2022-11-17 |
 | [Hawaiiya](https://open.spotify.com/track/6d1HS0a3QkOH82CWCc5h8f) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:31 | 2022-05-11 | 2022-07-27 |
 | [heowoojeog \(Feat\. Curren\)](https://open.spotify.com/track/5Ic9AAaaGl73otooQP5Gyg) | [LLANO](https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd), [Curren](https://open.spotify.com/artist/1oKl2IxHi8Dwx4iTaBGVob) | [duL](https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW) | 2:54 | 2022-05-11 | 2022-07-20 |
-| [Hide into Night](https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Hide into Night](https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV) | 4:08 | 2023-01-13 |  |
+| [Hide into Night](https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Hide into Night](https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV) | 4:08 | 2023-01-13 | 2023-02-26 |
 | [Hmm](https://open.spotify.com/track/68G3FJrF1DAFhHnpM905QF) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:06 | 2022-05-11 | 2022-07-27 |
 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 | 2022-08-19 |  |
 | [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 | 2022-05-11 | 2022-11-22 |

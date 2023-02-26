@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Carol Biazin e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,749 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,762 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 11 | [ANESTESIA](https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [ANESTESIA](https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c) | 2:22 |
 | 12 | [TIPO EU](https://open.spotify.com/track/5rnZwEM4x70Arx4hbEOPSg) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [TIPO EU](https://open.spotify.com/album/0jQseakS3kI0YEtyzJl76n) | 3:28 |
 | 13 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
-| 14 | [Degradê](https://open.spotify.com/track/0d0HsamQYE3b4Owr3lLtM5) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 2:44 |
+| 14 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 |
 | 15 | [Droga](https://open.spotify.com/track/5DhDHmJ3F62xk4mQAtosRt) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:31 |
-| 16 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 |
+| 16 | [Degradê](https://open.spotify.com/track/0d0HsamQYE3b4Owr3lLtM5) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 2:44 |
 | 17 | [matching tattoo](https://open.spotify.com/track/5YoeaF0TESI5LH2Bvz7X9p) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DISCO VOADOR](https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd) | 2:23 |
 | 18 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 |
 | 19 | [Telepatia](https://open.spotify.com/track/4mYq9GLiRglw3V6lztdV4e) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Telepatia](https://open.spotify.com/album/3VqbvFIVanUEBnSHnIVNHS) | 2:28 |
 | 20 | [bonita e miserável](https://open.spotify.com/track/6GQIy9IDBTKDTuFin2GYwW) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [para\-raio](https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw) | 2:51 |
 | 21 | [Toma Cavalgada](https://open.spotify.com/track/77ybcepgbas4VwocDuaKNT) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Toma Cavalgada](https://open.spotify.com/album/1VuA5e1erDZ9uqDTBCsAVt) | 2:45 |
-| 22 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 |
-| 23 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
-| 24 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 |
-| 25 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 |
+| 22 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
+| 23 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 |
+| 24 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 |
+| 25 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 |
 | 26 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
 | 27 | [Eles nos Chamam de Amigos](https://open.spotify.com/track/1zIdr8OSTa8nY3SpJ7XKZd) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Eles nos Chamam de Amigos](https://open.spotify.com/album/4GPRFkoDZvVE1AJjAO5mmG) | 3:08 |
 | 28 | [burburinho](https://open.spotify.com/track/1Mem9DQYCKtukH5DOrbmdV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [BURBURINHO](https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Número 1](https://open.spotify.com/track/2socHRYT8zT7noGhOKeztH) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [CARA](https://open.spotify.com/album/5gHeIIHjKzEIlHJchlobxJ) | 2:03 |
 | 50 | [Amor Indefinido](https://open.spotify.com/track/1rSdYMsc9Ct1AMtvRgNBvv) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Amor Indefinido](https://open.spotify.com/album/4S3iDE7Uwtm8uR9acKqHiz) | 2:27 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDMyZjBjZWVjZGUxM2I5YjJmYTFkODBmNTlkYWRhOTAz`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGRiOGJlMzlhMjJmMDBiMGY5NzljMzFkZGI1NWU1YmZj`

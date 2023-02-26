@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 227506,
+  "num_followers": 227534,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDI1MTYwOThlOTY2MDJkODI3MmE0N2E2MDA1OTg0NmI4",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDRiNjkxMThkYmRmNDY5ZjMwYmZlOGQ4NDljOGUxZjRm",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/1DpF83ld572jojmymv9J8P"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 153364,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
         "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/1DpF83ld572jojmymv9J8P"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 153364,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 153735,
-      "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+        "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 163700,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+      "duration_ms": 153735,
+      "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 174890,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Vibez",
         "url": "https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 163127,
       "name": "Vibez",
       "url": "https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 174890,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 193789,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+      "duration_ms": 193789,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Nobody Is Listening",
         "url": "https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 196493,
       "name": "Connexion",
       "url": "https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "DISC TWO",
+        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "VICES",
+      "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Man Makes Plans",
         "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "DISC TWO",
-        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/39D2GatZ2RuT6BGln1tNK1"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
         }
       ],
-      "duration_ms": 183750,
-      "name": "VICES",
-      "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
+      "duration_ms": 151467,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/1nD05bbfyNSyYxKUjF8BNo"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/39D2GatZ2RuT6BGln1tNK1"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 151467,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/1nD05bbfyNSyYxKUjF8BNo"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Decide",
-        "url": "https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Decide",
-      "url": "https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Not Me",
         "url": "https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "On Lock",
-        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 161677,
-      "name": "On Lock",
-      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Open (Remix)",
         "url": "https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 161677,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "I Think I Do",
         "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
       },
@@ -1563,26 +1563,6 @@
       "duration_ms": 142438,
       "name": "I Think I Do",
       "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1607,6 +1587,26 @@
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     }
   ],
   "unique_name": "R&B Magic",

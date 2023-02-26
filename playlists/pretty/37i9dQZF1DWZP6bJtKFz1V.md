@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,185 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,213 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 60 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 61 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 |
 | 62 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 |
-| 63 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 |
-| 64 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
-| 65 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 |
+| 63 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
+| 64 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 |
+| 65 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 |
 | 66 | [heart attack](https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:26 |
 | 67 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
 | 68 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 77 | [Wake Up](https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:36 |
 | 78 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
 | 79 | [Martian Man](https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Martian Man](https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9) | 2:04 |
-| 80 | [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 |
-| 81 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
+| 80 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
+| 81 | [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 |
 | 82 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 |
-| 83 | [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 |
-| 84 | [Grow Up Tomorrow](https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI) | 3:12 |
+| 83 | [Grow Up Tomorrow](https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI) | 3:12 |
+| 84 | [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 |
 | 85 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 |
 | 86 | [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 |
 | 87 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 92 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:45 |
 | 93 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 | 94 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 |
-| 95 | [This Is What They Meant](https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [This Is What They Meant](https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq) | 2:54 |
+| 95 | [Skate](https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:53 |
 | 96 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 |
-| 97 | [Would Ya Could Ya](https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Would Ya Could Ya](https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG) | 2:49 |
-| 98 | [Skate](https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:53 |
+| 97 | [This Is What They Meant](https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [This Is What They Meant](https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq) | 2:54 |
+| 98 | [Would Ya Could Ya](https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Would Ya Could Ya](https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG) | 2:49 |
 | 99 | [Dummy](https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy \(Deluxe\)](https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW) | 3:16 |
 | 100 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGU0NzY4NmViOGI3MTFiMTFkMDA5Mzc5NDgzMDRmNmE4`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDU1MjJkYTA4NmI1ZTI4Y2VkNzQ3ODY3MjY3MDk3N2E0`

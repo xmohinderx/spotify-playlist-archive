@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,256 songs - 2 day 19 hr 42 min
+1,257 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 | 2022-08-30 | 2022-09-01 |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2023-02-16 | 2023-02-22 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-01-03 | 2023-02-01 |
-| [Bleed](https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Bleed](https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP) | 3:25 | 2023-02-24 |  |
+| [Bleed](https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Bleed](https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP) | 3:25 | 2023-02-24 | 2023-02-26 |
 | [Bleed](https://open.spotify.com/track/1grI6XCzv8xD3agR9gUpRl) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Bleed](https://open.spotify.com/album/3sBXsP0zgyV9t5HfLf6hEb) | 3:25 | 2023-02-21 | 2023-02-25 |
 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 | 2022-09-27 | 2022-10-02 |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2023-01-03 | 2023-01-07 |
@@ -175,6 +175,7 @@
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2022-05-10 | 2022-05-15 |
 | [Calling All the Monsters](https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Calling All The Monsters](https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz) | 3:26 | 2022-11-01 | 2022-11-06 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-20 | 2022-10-05 |
+| [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB) | [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Melodramatic](https://open.spotify.com/album/68QwVLwpCilgbZorXibyd2) | 3:06 | 2023-02-25 |  |
 | [Can't Get Out Of This Mood](https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 3:42 | 2023-02-10 | 2023-02-15 |
 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 | 2022-03-15 | 2022-04-20 |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-08-16 | 2022-08-24 |
@@ -461,7 +462,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 | 2022-06-21 | 2022-06-28 |
 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 | 2022-10-21 | 2022-10-23 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-28 | 2022-01-14 |
-| [HARDY BOYS](https://open.spotify.com/track/1VCK5LhCwuVrR1kkVFrybo) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [HARDY BOYS](https://open.spotify.com/album/0tmMuY0nUkhCMLFxKEFibx) | 2:56 | 2023-02-24 |  |
+| [HARDY BOYS](https://open.spotify.com/track/1VCK5LhCwuVrR1kkVFrybo) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [HARDY BOYS](https://open.spotify.com/album/0tmMuY0nUkhCMLFxKEFibx) | 2:56 | 2023-02-24 | 2023-02-26 |
 | [HARDY BOYS](https://open.spotify.com/track/5EWj39tmZNznLjDsL6Ow9c) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [HARDY BOYS](https://open.spotify.com/album/3IaHvQ7PXIhqYVmvfOT5uQ) | 2:56 | 2023-02-19 | 2023-02-24 |
 | [hardy boys](https://open.spotify.com/track/0EqNycY0qa3wyN6LcDkgAU) | [ogu](https://open.spotify.com/artist/0PSLP8C3n2b0pFYGjURLcm) | [hardy boys](https://open.spotify.com/album/5daKGSMS1zFrE5gZAJ3XRy) | 2:57 | 2023-02-23 | 2023-02-25 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-20 | 2022-02-20 |
@@ -827,7 +828,7 @@
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2022-11-27 | 2023-01-14 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-31 | 2022-06-10 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-31 | 2022-07-24 |
-| [Past Lives \- Sapientdreams Remix](https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw) | [Dj Agos](https://open.spotify.com/artist/2m4LlfxDioYvvjx6UWjV8U) | [Past Lives \(Sapientdreams Remix\)](https://open.spotify.com/album/65E47oz7ARX7uXdLT988tu) | 2:34 | 2023-01-31 | 2023-02-07 |
+| [Past Lives \- Sapientdreams Remix](https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw) | [Dj Agos](https://open.spotify.com/artist/2m4LlfxDioYvvjx6UWjV8U) | [Past Lives \(Sapientdreams Remix\)](https://open.spotify.com/album/65E47oz7ARX7uXdLT988tu) | 2:34 | 2023-01-31 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-03 |  |
 | [Perc & Sex](https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Goat](https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr) | 2:34 | 2023-01-28 |  |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-08-16 | 2022-08-24 |

@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: RBD\n\n",
-  "num_followers": 114113,
+  "num_followers": 114160,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMDA3ODVlZTRjYTk1YTAwZmFkYWM3YjM1YjUzNzliNGQx",
+  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMDZkOWYxYTFkMDlkZWEyOTFmNDYyMjRkYWE2ZDhiODUx",
   "tracks": [
     {
       "added_at": "2023-02-24 03:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+        "name": "Special (feat. SZA)",
+        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+      "duration_ms": 174748,
+      "name": "Special (feat. SZA)",
+      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -535,38 +539,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Special (feat. SZA)",
-        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 174748,
-      "name": "Special (feat. SZA)",
-      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -603,6 +587,22 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
         "url": "https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb"
       },
@@ -839,34 +823,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Dancing's Done",
-        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Dancing\u2019s Done",
-      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -887,22 +855,34 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "Dancing's Done",
+        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -927,6 +907,46 @@
       "duration_ms": 157649,
       "name": "PROIBIDONA",
       "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -971,30 +991,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 155495,
-      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -1023,6 +1019,30 @@
       "duration_ms": 182085,
       "name": "Heart Wants What It Wants",
       "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1203,6 +1223,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Dirt Femme",
         "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
       },
@@ -1235,22 +1271,6 @@
       "duration_ms": 138094,
       "name": "Enough To Drink",
       "url": "https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1459,6 +1479,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Roller Coasters Make Me Sad",
+        "url": "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Roller Coasters Make Me Sad",
+      "url": "https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -1551,26 +1587,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Roller Coasters Make Me Sad",
-        "url": "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
       "artists": [
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Roller Coasters Make Me Sad",
-      "url": "https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK"
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 187602,
       "name": "Clareou",
       "url": "https://open.spotify.com/track/0cttxC2PCCrfSmgbA1GIwB"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
     }
   ],
   "unique_name": "SUPERNOVA",

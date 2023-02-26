@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 32548,
+  "num_followers": 32570,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjA0NywwMDAwMDAwMDJmY2U2N2Q3ODVkYzhiZmIxYjJlYzU2NWVkNTljMjg0",
+  "snapshot_id": "MTY3Mzg3NjA0NywwMDAwMDAwMDM4YzUyNzY2ZWNhYjljYjc4ZjMxMjQ3YzFkMGJhMmE5",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 177048,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Language & Perspective",
-        "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 182518,
-      "name": "Cardiac Arrest",
-      "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Blue on Black",
         "url": "https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 182518,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
     },
     {
       "added_at": "2020-05-15 11:36:11",

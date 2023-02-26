@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,396 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,460 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 36 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 |
 | 37 | [Supernatural](https://open.spotify.com/track/04Ndcc1318s9s9gRGGlrQo) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Supernatural](https://open.spotify.com/album/61yrnIQNoSMirv6gadFV6W) | 3:52 |
 | 38 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
-| 39 | [Only One](https://open.spotify.com/track/3IDxRzc2zzTc16pGEz90LA) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3) | 3:21 |
+| 39 | [Only One](https://open.spotify.com/track/5nm5Y0BEjEoWZdVz5bUiCp) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/1yu0ZfTJVvsrgjMF9tDuGn) | 3:21 |
 | 40 | [Pain of Glass](https://open.spotify.com/track/5jJsqz7aMxtft8490mW6oC) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Burning Halos](https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO) | 3:28 |
 | 41 | [Can't Deny It](https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2) | 3:58 |
 | 42 | [Suspect](https://open.spotify.com/track/1L2I2u02iJkQMUalrOYI19) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Suspect](https://open.spotify.com/album/4KU9hQndjgoFYtgRMPoyln) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Goodbye](https://open.spotify.com/track/4vSnZR2POAHKIbE7B362Wd) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH \(Deluxe Edition\)](https://open.spotify.com/album/4JbHzfL3iwGrbYVOClW0n9) | 4:20 |
 | 60 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDZkNzNiYTYzNDk1NDcyYmJiNThiMWMwOGE2MzQxNTA0`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDRiN2MyYjhlMzI5NzUzNjc3ZGM5N2ZjZjhlNTIyMzE4`

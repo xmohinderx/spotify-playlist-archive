@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,914 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,944 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 21 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 22 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 |
 | 23 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 |
-| 24 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
-| 25 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 |
-| 26 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
+| 24 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
+| 25 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
+| 26 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 |
 | 27 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 |
 | 28 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
 | 29 | [When You Were Made](https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Taking up Space](https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 3:37 |
 | 50 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
 
-Snapshot ID: `MTY3NDI1MDMyMCwwMDAwMDAwMDI3NWQ1OWVkNjdhODdiMzYxZWIzM2I3YTljNmE2NjRk`
+Snapshot ID: `MTY3NDI1MDMyMCwwMDAwMDAwMGUzN2EyNDA4Zjc0M2MyYmEyYjQ2ZmUyY2IxZDA1Y2Qz`

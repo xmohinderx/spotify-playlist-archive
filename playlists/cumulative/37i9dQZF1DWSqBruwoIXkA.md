@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Kelsea Ballerini
 
-449 songs - 1 day 0 hr 58 min
+450 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
 | [Missing You Sucks](https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Missing You Sucks](https://open.spotify.com/album/4MPVizOXoqdsmdxdFxY0dv) | 2:58 | 2022-01-07 | 2022-07-26 |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2022-01-28 |  |
-| [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2023-01-04 |  |
+| [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2023-01-04 | 2023-02-26 |
 | [Move It to the Side](https://open.spotify.com/track/38OP7Qad0x4tEZzYVBuidm) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Healthy Baby Boy, Pt\. 1](https://open.spotify.com/album/175q5mZC31DOs41hmLQGNB) | 2:33 | 2021-12-17 | 2022-03-23 |
 | [Movies](https://open.spotify.com/track/3x7YsMwPnlXe51XWrwjo7g) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/7FC09mQFRxQnKhNXDikU6p) | 3:34 | 2022-06-24 | 2022-07-29 |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-28 |  |
@@ -303,6 +303,7 @@
 | [Need Someone](https://open.spotify.com/track/3iYS4NIxfoSNNnPuBhawZy) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Need Someone](https://open.spotify.com/album/0A3sognBevBEGwN2qSpKQ6) | 2:56 | 2022-04-29 | 2022-04-30 |
 | [Never Be Me](https://open.spotify.com/track/1M7qLcfozANPcMKfgMEHOt) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:35 | 2021-12-17 | 2022-05-03 |
 | [Never Had a Chance](https://open.spotify.com/track/5ICjRLHOxUv6gcRbr2ux9Z) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5SU6TQaPF0wDCXpU9l585n) | 2:25 | 2022-09-16 | 2023-02-16 |
+| [Never Had a Chance](https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt) | 2:25 | 2023-02-24 |  |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-10-08 |
 | [never have i ever](https://open.spotify.com/track/3Xd99mhH9oQVZTzTlVo2yI) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [never have i ever](https://open.spotify.com/album/2LiJdjvvjQ9epjhTMtbedp) | 2:28 | 2022-02-11 | 2022-03-13 |
 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-18 |  |

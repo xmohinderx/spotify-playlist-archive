@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Israel Salazar",
-  "num_followers": 234989,
+  "num_followers": 235117,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI0NzkzMSwwMDAwMDAwMGVjMzc3YjI0ZTdmODM3NDg5YWRjODA5OTJiZjMxMGI0",
+  "snapshot_id": "MTY3NzI0NzkzMSwwMDAwMDAwMGM4MGI2NmE2MjkxOGQwN2YxNGI2Njk2NGVmZTA5ZDIx",
   "tracks": [
     {
       "added_at": "2023-02-24 11:07:17",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
+        "name": "Nunca Te Deixarei (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Nunca Te Deixarei - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -731,38 +751,22 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Nunca Te Deixarei (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Nunca Te Deixarei - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -887,22 +891,18 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "No Secreto",
-        "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 410245,
-      "name": "No Secreto",
-      "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "On Tape (Ao Vivo)",
         "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 228388,
       "name": "Falar Com Deus - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "No Secreto",
+        "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 410245,
+      "name": "No Secreto",
+      "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
     },
     {
       "added_at": "2023-02-24 11:07:17",

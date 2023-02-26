@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Standly & Callejero Fino.",
-  "num_followers": 292471,
+  "num_followers": 292647,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMDEwNjg5MjFkZTZmYjJkNjcwN2NlMTllYjI5YzFlMDQ1",
+  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMDRkMWMwNjAyNjI3MmM2N2JjNThkMTNlZWExZjQ5NzEy",
   "tracks": [
     {
       "added_at": "2023-02-24 03:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "AUTOM\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Ese Corte",
-        "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
-      },
-      "artists": [
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "Ese Corte",
-      "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 211394,
       "name": "Sin Frenos",
       "url": "https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Ese Corte",
+        "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "Ese Corte",
+      "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -643,18 +643,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Parcera",
-        "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
+        "name": "Los Diablotes",
+        "url": "https://open.spotify.com/album/62jXkO0N4afVBqtlW1G166"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
         }
       ],
-      "duration_ms": 207908,
-      "name": "Parcera",
-      "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
+      "duration_ms": 167058,
+      "name": "Los Diablotes",
+      "url": "https://open.spotify.com/track/36ys9pBrC5SLAADHsbsDVF"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -679,22 +683,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Los Diablotes",
-        "url": "https://open.spotify.com/album/62jXkO0N4afVBqtlW1G166"
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
       },
       "artists": [
         {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 167058,
-      "name": "Los Diablotes",
-      "url": "https://open.spotify.com/track/36ys9pBrC5SLAADHsbsDVF"
+      "duration_ms": 207908,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Morad: Bzrp Music Sessions, Vol. 47",
         "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 177583,
       "name": "Morad: Bzrp Music Sessions, Vol. 47",
       "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Con Puras de 25",
         "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "OJAL\u00c1",
-        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 160482,
-      "name": "OJAL\u00c1",
-      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 176727,
       "name": "Antes de Perderte",
       "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Si Quieren Frontear",
+        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Si Quieren Frontear",
+      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
         "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
       },
@@ -1111,6 +1135,26 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "ADICTO (feat. Best, Bayriton)",
         "url": "https://open.spotify.com/album/2lMQji7tH4Gb2VPoi1iF55"
       },
@@ -1143,26 +1187,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "Sin Seguro",
-      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "DANCE CRIP",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Si Quieren Frontear",
-        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Si Quieren Frontear",
-      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Caminemos de la Mano",
-        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Caminemos de la Mano",
-      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
       },
@@ -1283,6 +1263,38 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Locura y Maldad",
         "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
       },
@@ -1299,18 +1311,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+        "name": "Caminemos de la Mano",
+        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
       },
       "artists": [
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         }
       ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+      "duration_ms": 214695,
+      "name": "Caminemos de la Mano",
+      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1343,22 +1359,6 @@
       "duration_ms": 181224,
       "name": "Salimos Del Tarro",
       "url": "https://open.spotify.com/track/21BoBFBeh49Vrl9DRUsOu8"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 201507,
+      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
       },
@@ -1431,6 +1451,74 @@
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
+        "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
+        },
+        {
+          "name": "Gringuitos Records",
+          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
+        },
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "duration_ms": 483683,
+      "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
+      "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1455,46 +1543,6 @@
       "duration_ms": 225864,
       "name": "Dime T\u00fa",
       "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 201507,
-      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1547,50 +1595,42 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
-        "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
+        "name": "Sali\u00f3 De Noche",
+        "url": "https://open.spotify.com/album/2h5u7sSXcSL7YwVJRRw3AE"
       },
       "artists": [
         {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         },
         {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Bayron Fire",
-          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
-        },
-        {
-          "name": "El Rey",
-          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
-        },
-        {
-          "name": "Gringuitos Records",
-          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
-        },
-        {
-          "name": "Tommy Boysen",
-          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 483683,
-      "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
-      "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
+      "duration_ms": 220631,
+      "name": "Sali\u00f3 De Noche",
+      "url": "https://open.spotify.com/track/15r68Um6LBYYBGUEEkqRkB"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1647,46 +1687,6 @@
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Sali\u00f3 De Noche",
-        "url": "https://open.spotify.com/album/2h5u7sSXcSL7YwVJRRw3AE"
-      },
-      "artists": [
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 220631,
-      "name": "Sali\u00f3 De Noche",
-      "url": "https://open.spotify.com/track/15r68Um6LBYYBGUEEkqRkB"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1811,42 +1811,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "KAWAII",
-        "url": "https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 198247,
-      "name": "KAWAII",
-      "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "KU'",
         "url": "https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf"
       },
@@ -1871,6 +1835,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Hooka",
         "url": "https://open.spotify.com/album/4dotvAmzUuJ8yugn71wz86"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 193453,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/5YhEoEA8OdwNYiFIBPh6nt"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "KAWAII",
+        "url": "https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 198247,
+      "name": "KAWAII",
+      "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Delincuente",
-        "url": "https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 172481,
-      "name": "Delincuente",
-      "url": "https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 159967,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 172481,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y"
     },
     {
       "added_at": "2023-02-24 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,576 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,813 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 63 | [Levantando Polvadera \- En Vivo](https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando la Bandona](https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e) | 2:09 |
 | 64 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aplaca Tus Berrinches](https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj) | 3:10 |
 | 65 | [Nunca Dudes En Llamarme](https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Nunca Dudes En Llamarme](https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96) | 3:24 |
-| 66 | [El 30 de Febrero](https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [El 30 de Febrero](https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p) | 3:01 |
-| 67 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
+| 66 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
+| 67 | [El 30 de Febrero](https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [El 30 de Febrero](https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p) | 3:01 |
 | 68 | [Soy un Desmadre](https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT), [Marco A\. Flores](https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g) | [10+10](https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f) | 2:47 |
 | 69 | [Que Llore, Que Llore](https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:45 |
 | 70 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 73 | [Fiestas, Tragos, Noche Loca](https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:40 |
 | 74 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 75 | [Te Quiero Mil](https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Te Quiero Mil](https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc) | 3:03 |
-| 76 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
-| 77 | [De Ti Exclusivo](https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Para Ti Exclusivo \(En Vivo Desde Arandas Jalisco\)](https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO) | 3:16 |
+| 76 | [De Ti Exclusivo](https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Para Ti Exclusivo \(En Vivo Desde Arandas Jalisco\)](https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO) | 3:16 |
+| 77 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
 | 78 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 79 | [La Patrona](https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Patrona](https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz) | 2:30 |
 | 80 | [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 |
 | 81 | [Las Edades \(En Vivo\)](https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Las Edades \(En Vivo\)](https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF) | 2:51 |
 | 82 | [Modo Crudo](https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Modo Crudo](https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k) | 2:08 |
-| 83 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
-| 84 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
+| 83 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
+| 84 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 85 | [Se Vale Enamorarse](https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Vale Enamorarse](https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY) | 2:56 |
 | 86 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 |
 | 87 | [Una Julio 70](https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Julio 70](https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Ya Estuvo Suave](https://open.spotify.com/track/4biDENf02zmdKNU6kbFIFZ) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Ya Estuvo Suave](https://open.spotify.com/album/0ZSFczOfp9Y9wTU3n9zYBq) | 3:24 |
 | 100 | [A Como Yo Lo Veo](https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [A Como Yo Lo Veo](https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C) | 3:17 |
 
-Snapshot ID: `MTY3NjYxMzYwMCwwMDAwMDAwMGQxNmY0NTM0MzljMDFiMzU5ZDQ4MTRmYjViM2UyMzU1`
+Snapshot ID: `MTY3NjYxMzYwMCwwMDAwMDAwMDE3ZTdkYTNkMDUxMjI3Nzg5MzE1NGJlMjllYzJlYmUz`

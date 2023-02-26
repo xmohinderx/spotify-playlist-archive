@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-159 songs - 9 hr 47 min
+160 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dengue Woman Blues](https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f) | 6:23 | 2022-05-27 | 2022-07-15 |
 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 | 2022-07-08 |  |
 | [Devil Is Watching You](https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes](https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV) | 4:00 | 2022-05-25 |  |
-| [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/3IzpmJtlrpaYQeQqCRKQZg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:00 | 2023-01-27 |  |
+| [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/3IzpmJtlrpaYQeQqCRKQZg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:00 | 2023-01-27 | 2023-02-26 |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2022-05-25 |  |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-10-14 |  |
 | [Done Changed My Way of Living](https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 7:03 | 2022-05-25 |  |
@@ -68,6 +68,7 @@
 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 | 2022-10-10 |  |
 | [God Moves on the Water](https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 3:01 | 2022-06-14 |  |
 | [Good Morning Little School Girl](https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:36 | 2023-01-20 |  |
+| [Good, Good Man](https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Good, Good Man](https://open.spotify.com/album/2pSMTbVb4OZqESjjjwyRRG) | 3:56 | 2023-02-24 |  |
 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-27 |  |
 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 | 2022-05-27 |  |
 | [Heart of Stone](https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:25 | 2022-09-30 |  |

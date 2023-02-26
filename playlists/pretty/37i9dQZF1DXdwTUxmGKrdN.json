@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 382230,
+  "num_followers": 382354,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDgxZDViMzFmMmE3MzA0M2Y5NDQ0ZWI3MWQyYWY4OTYx",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDkwNWE1ODk0ZDdmYzZhMDZjM2UxMGNhZmY3OGNjOTY2",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 304266,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "The Very Best Of Lee Ritenour",
-        "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
+        "name": "Lil' Man Soul",
+        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
       },
       "artists": [
         {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        },
-        {
-          "name": "Dave Grusin",
-          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 297240,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
+      "duration_ms": 245226,
+      "name": "I'm Waiting For You",
+      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Lil' Man Soul",
-        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+        "name": "The Very Best Of Lee Ritenour",
+        "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        },
+        {
+          "name": "Dave Grusin",
+          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
         }
       ],
-      "duration_ms": 245226,
-      "name": "I'm Waiting For You",
-      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+      "duration_ms": 297240,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "The Story of Jaz",
         "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
-      },
-      "artists": [
-        {
-          "name": "Jazz Holdouts",
-          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
-        }
-      ],
-      "duration_ms": 246024,
-      "name": "Workin'",
-      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+      },
+      "artists": [
+        {
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+        }
+      ],
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314574,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 269981,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1rhgEbGtMVOARoVGssCQDr"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314574,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 228426,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Soulfully",
-        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
       },
       "artists": [
         {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Soulfully",
-      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1067,58 +1067,34 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+        "name": "Soulfully",
+        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
       },
       "artists": [
         {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
         }
       ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+      "duration_ms": 250000,
+      "name": "Soulfully",
+      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
     },
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Encantadora",
-        "url": "https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda"
+        "name": "Coevolve",
+        "url": "https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E"
       },
       "artists": [
         {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Encantadora",
-      "url": "https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ"
-      },
-      "artists": [
-        {
-          "name": "Willie Bradley",
-          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
-        },
-        {
-          "name": "Ragan Whiteside",
-          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
-        }
-      ],
-      "duration_ms": 228386,
-      "name": "It's On Now (feat. Ragan Whiteside)",
-      "url": "https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV"
+      "duration_ms": 293613,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1143,18 +1119,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Coevolve",
-        "url": "https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E"
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda"
       },
       "artists": [
         {
-          "name": "Kayla Waters",
-          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 293613,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti"
+      "duration_ms": 250706,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1175,18 +1155,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ"
       },
       "artists": [
         {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+          "name": "Willie Bradley",
+          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
+        },
+        {
+          "name": "Ragan Whiteside",
+          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
         }
       ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
+      "duration_ms": 228386,
+      "name": "It's On Now (feat. Ragan Whiteside)",
+      "url": "https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Soulmate",
-        "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
       },
       "artists": [
         {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        },
-        {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Swing City",
-      "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1263,6 +1243,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Swing City",
+      "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+        "name": "Stylin'",
+        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
       },
       "artists": [
         {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+          "name": "Gregory Goodloe",
+          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
         }
       ],
-      "duration_ms": 239949,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
+      "duration_ms": 247346,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Stylin'",
-        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
       "artists": [
         {
-          "name": "Gregory Goodloe",
-          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
         }
       ],
-      "duration_ms": 247346,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
+      "duration_ms": 239949,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1343,22 +1343,6 @@
       "duration_ms": 240172,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Candy Store",
         "url": "https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Heading Wes",
-      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 311359,
       "name": "Everyone but You",
       "url": "https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Heading Wes",
+      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Soul City",
-        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 236723,
-      "name": "Consequences",
-      "url": "https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Finger Painting",
         "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 246546,
       "name": "Let\u2019s Get Serious",
       "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Soul City",
+        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 236723,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
-      },
-      "artists": [
-        {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
-        }
-      ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Bass Trap",
         "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+        }
+      ],
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Uptown Blues",
         "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 299480,
-      "name": "I\u2019m All Ears",
-      "url": "https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1643,8 +1627,24 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H"
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 299480,
+      "name": "I\u2019m All Ears",
+      "url": "https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
       },
       "artists": [
         {
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
+      "duration_ms": 228973,
+      "name": "Romantic Nights",
+      "url": "https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M"
     },
     {
       "added_at": "2023-02-23 23:00:00",

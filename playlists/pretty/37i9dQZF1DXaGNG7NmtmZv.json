@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 178712,
+  "num_followers": 178767,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGYwMjkxMGNmZGEyMjIwZDAyZTI4YTk0MTBjYzBhZjlm",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDZlMzA0Y2MwZDFiOTI4MDA5MjE5NjI0MGVjM2YyYzU2",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "In This Defiance",
-        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
-      },
-      "artists": [
-        {
-          "name": "Strife",
-          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
-        }
-      ],
-      "duration_ms": 147186,
-      "name": "Blistered",
-      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Cognicide",
         "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 97266,
       "name": "Mailer, Meet Jim",
       "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "In This Defiance",
+        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
+      },
+      "artists": [
+        {
+          "name": "Strife",
+          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
+        }
+      ],
+      "duration_ms": 147186,
+      "name": "Blistered",
+      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "State Of The World Address",
         "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 225960,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
     },
     {
       "added_at": "2020-12-08 15:12:11",

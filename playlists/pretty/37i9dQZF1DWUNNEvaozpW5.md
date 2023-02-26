@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Marea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,326 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,422 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 55 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 56 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 |
 | 57 | [Rojitas las orejas](https://open.spotify.com/track/42R5irny7qThOYUThAL7VW) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A Puerta Cerrada](https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1) | 3:44 |
-| 58 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
-| 59 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
+| 58 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
+| 59 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 60 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 61 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 |
 | 62 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 71 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 72 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
 | 73 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 |
-| 74 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
-| 75 | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 |
+| 74 | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 |
+| 75 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGZjOTgyMDZlYzIyNDUwYjc1ZGFiMDFmZGNlYTk4YzQz`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDk4NzhkOTI5MzRlZWI5MDU5NDVmZDZjNWYyMTFkNWVi`

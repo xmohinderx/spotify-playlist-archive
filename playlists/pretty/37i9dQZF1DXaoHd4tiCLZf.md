@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,893 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,100 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 69 | [Let Your Body Move](https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Let Your Body Move](https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG) | 4:02 |
 | 70 | [So Far Gone \- FootRocket Remix](https://open.spotify.com/track/0ZYY26LEy2ZO2iE3t2G0HM) | [Cheb Miaou](https://open.spotify.com/artist/5F7u7H5gfu6hPeRo50MOIg), [Shermar](https://open.spotify.com/artist/5KYVHGBIvNAQ2UjOpcNqAP), [FootRocket](https://open.spotify.com/artist/7BPFKaQl9MDa4rmv9QZh5L) | [So Far Gone \(Remixes\)](https://open.spotify.com/album/7JBpbP6jRXMFpHgSx0DPgM) | 4:33 |
 | 71 | [Maintenant je suis un voyou](https://open.spotify.com/track/4IkmUm6jKsbpjCeueZTxe1) | [Bruno Leys](https://open.spotify.com/artist/2PczkstWFQX9fDNcZmh7AD) | [Maintenant je suis un voyou](https://open.spotify.com/album/2Gj7CGzupJ66a287wKo3VF) | 2:38 |
-| 72 | [Never Get It Right \- Shura Remix](https://open.spotify.com/track/6kOTygghOZ87u2beHNgjLf) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/6NrMHY6PJWPBC1L1R3ydvS) | 4:01 |
+| 72 | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/track/58SeDNMb4niHLPL6GqbVY0) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/7sOsATCDwhe0xuborcuCeI) | 4:01 |
 | 73 | [French Boy \(with Say Lou Lou\)](https://open.spotify.com/track/2edxaDRP64og12jbINed3G) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [PrimaDonna vol\. 1](https://open.spotify.com/album/1aet7y0wiLscYjhuqwPwNo) | 4:43 |
 | 74 | [Just a Clown](https://open.spotify.com/track/5JJTagJDBRxOwBDPuvVLB7) | [Primer](https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI) | [Incubator](https://open.spotify.com/album/4H2VMSzj5yp80XLKaCmEzZ) | 3:42 |
 | 75 | [Don't You Know I Want](https://open.spotify.com/track/1OxneB9YE9auNVUBs4eVlK) | [slowblood](https://open.spotify.com/artist/7fvspPcBE70SFwIJ3bBWC1) | [Don't You Know I Want](https://open.spotify.com/album/3vA7LZ25OSgsrbOR8zIVEK) | 5:15 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDFmZDUyMTA5NjIzMzcwN2QzOWI3OWQzMmY1MDA0ZGFj`
+Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMGVhYjU0ZjY5M2ZkMGQ2NWRhNzU1MDA4N2U2YWZhMGE2`

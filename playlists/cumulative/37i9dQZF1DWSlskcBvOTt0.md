@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-371 songs - 1 day 14 hr 22 min
+372 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |
-| [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 |  |
+| [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2022-11-13 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
 | [REMIND ME \- Booka Shade Remix](https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [REMIND ME \(Booka Shade Remix\)](https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu) | 5:53 | 2022-12-16 | 2023-01-14 |
@@ -326,6 +326,7 @@
 | [Tension \- Original Mix](https://open.spotify.com/track/2KPzCuzQYlgKL5nn07iF0L) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [Tension EP](https://open.spotify.com/album/6kMI88POp0m6t0D4ZNxBRq) | 6:51 | 2022-02-11 | 2022-04-23 |
 | [Tesseract](https://open.spotify.com/track/4TNofWkxOifvDtDc9sZ9Tt) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Tesseract](https://open.spotify.com/album/48sMxe3nuBJKxHf0USYS0Z) | 6:45 | 2022-06-10 | 2022-06-17 |
 | [Teti](https://open.spotify.com/track/0irwGiZpPVrODCo5FqDolb) | [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [Satelliti](https://open.spotify.com/album/1tT8txa3ua7bxGj8wfgWKa) | 6:21 | 2021-04-30 | 2022-07-28 |
+| [Tha Music](https://open.spotify.com/track/6GRltnShKJ3r7sgwqGBi9V) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [FaCet, Vol\. 1.1](https://open.spotify.com/album/6TvEEGV40m8LSdFiIOGh50) | 7:15 | 2023-02-24 |  |
 | [The Beginning](https://open.spotify.com/track/1lgZRp60xplBwhzGboUwnM) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Nocturnal 007 \(Part I\)](https://open.spotify.com/album/6z0v4pBxXUb9PgmwTPVISf) | 4:02 | 2021-12-10 | 2022-07-28 |
 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 | 2021-06-04 |  |
 | [The High](https://open.spotify.com/track/4EG4CocKZV7FAs71MTiUUv) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [The High](https://open.spotify.com/album/3F4A5UXMww9UFt9lf1YAvm) | 6:12 | 2022-06-03 | 2022-07-28 |

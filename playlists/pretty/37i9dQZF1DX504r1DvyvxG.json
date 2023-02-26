@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2550175,
+  "num_followers": 2550724,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGVhMGIzYzMzODc3YzkxODhlY2QyMDcyNDExMjIxNDVl",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDk3MzQ1NzhmNmQ5NTFhZjdiNjY4MDAwM2ZkMDQ5OGFk",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Uh-HUH!",
-        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 283666,
-      "name": "Pink Houses",
-      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 388800,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Uh-HUH!",
+        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 283666,
+      "name": "Pink Houses",
+      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "The Best of Bread",
         "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 155773,
       "name": "If",
       "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Infamous Angel",
-        "url": "https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf"
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
       "artists": [
         {
-          "name": "Iris DeMent",
-          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 300933,
-      "name": "Our Town",
-      "url": "https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N"
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     }
   ],
   "unique_name": "Classic Acoustic",

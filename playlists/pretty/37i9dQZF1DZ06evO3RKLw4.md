@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,673 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,686 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 28 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 29 | [Honor Is All We Know](https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:11 |
 | 30 | [It's Quite Alright](https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:29 |
-| 31 | [Let's Go](https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 1:26 |
+| 31 | [Hyena](https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:54 |
 | 32 | [Hooligans](https://open.spotify.com/track/5uNrA98u8ZSoAaHaDSSmU4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:32 |
-| 33 | [Hyena](https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:54 |
+| 33 | [Let's Go](https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 1:26 |
 | 34 | [Arrested in Shanghai](https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 4:11 |
 | 35 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 |
 | 36 | [Who Would've Thought](https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:56 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 42 | [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 |
 | 43 | [Ghost of a Chance](https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 1:36 |
 | 44 | [The Wolf](https://open.spotify.com/track/0rwQS0EU9Gg5EuA5d9Q5mm) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:38 |
-| 45 | [If The Kids Are United](https://open.spotify.com/track/5aL313wM2AQsQvdDNXrMXR) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Give Em The Boot II](https://open.spotify.com/album/2N7UbvqcQZDXWZrfHDeoYa) | 2:41 |
-| 46 | [Let Me Go](https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 3:13 |
+| 45 | [Let Me Go](https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 3:13 |
+| 46 | [If The Kids Are United](https://open.spotify.com/track/5aL313wM2AQsQvdDNXrMXR) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Give Em The Boot II](https://open.spotify.com/album/2N7UbvqcQZDXWZrfHDeoYa) | 2:41 |
 | 47 | [Track Fast](https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 0:58 |
 | 48 | [Spirit of '87](https://open.spotify.com/track/11LLAA8ur0h06BjAJmG4zl) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:22 |
-| 49 | [Rats In The Hallway](https://open.spotify.com/track/4xjmfrqmUWgLSoaRA78qs3) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:21 |
-| 50 | [Don Giovanni](https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 0:35 |
+| 49 | [Don Giovanni](https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 0:35 |
+| 50 | [Rats In The Hallway](https://open.spotify.com/track/4xjmfrqmUWgLSoaRA78qs3) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:21 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDA5OWZmNjJkMTAzZmNiY2VmOGYyODIzNTIzM2I5YjAyNg==`
+Snapshot ID: `Mjc5NTU2NTMsMDAwMDAwMDBmYTAxMmFkNzYzNzc5MjRkNGIwOWFjMjEwMGY5MTA4ZA==`

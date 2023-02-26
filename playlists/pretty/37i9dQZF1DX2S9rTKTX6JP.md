@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,007 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,131 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 45 | [Love Song](https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 46 | [Somebody That I Used to Know](https://open.spotify.com/track/100lHmeZbp3OvinYgotmVc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Somebody That I Used to Know](https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO) | 3:29 |
 | 47 | [Radioactive](https://open.spotify.com/track/2okeBtFNVJ4n33NEV1RxBm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE) | 3:13 |
-| 48 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
-| 49 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 |
+| 48 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 |
+| 49 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
 | 50 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 |
 | 51 | [God's Gonna Cut You Down](https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God's Gonna Cut You Down](https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf) | 2:40 |
 | 52 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 89 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
 | 90 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
 | 91 | [Can't Help Falling In Love](https://open.spotify.com/track/66Ceo7qZOyyX3J8AUsT2Vt) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Can't Help Falling In Love](https://open.spotify.com/album/0xCg7AH64BKMQvKMcFnTo9) | 3:01 |
-| 92 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |
-| 93 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
+| 92 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
+| 93 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |
 | 94 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
 | 95 | [Mad World](https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l) | 3:30 |
 | 96 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 100 | [Like a Virgin](https://open.spotify.com/track/55tH1vUqhMrLlcJ09k2QGq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:08 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGQyNGJjOTUzMzlmMzdiY2Y3NzJmZjcyNWMyZWFjMmI3`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDNlMGY2ZmZkNWYyYjEwNzFkNTVmMzc1Y2NiOThkMWJi`

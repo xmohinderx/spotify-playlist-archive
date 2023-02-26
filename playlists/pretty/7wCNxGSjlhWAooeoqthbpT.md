@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records.
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,838 likes - 60 songs - 3 hr 3 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,837 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "all-day bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 162568,
+  "num_followers": 162600,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk3MzQ5NiwwMDAwMDAwMDNmYzFlNTUxZDk1MzQyMTBlZTJmNjk1YzhmYjI1ZjA3",
+  "snapshot_id": "MTY3Njk3MzQ5NiwwMDAwMDAwMDJiMTA4ZWE2MGE0NmMxYWI4ZDI5MjBlYjdmNmFiNzg1",
   "tracks": [
     {
       "added_at": "2023-02-10 00:29:15",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-01-18 17:37:10",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-01-18 17:37:10",
+      "album": {
         "name": "Boy's a liar",
         "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
-    },
-    {
-      "added_at": "2023-01-18 17:37:10",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 208760,
-      "name": "Cigarette Daydreams",
-      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 208760,
+      "name": "Cigarette Daydreams",
+      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -541,38 +541,6 @@
       "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
     },
     {
-      "added_at": "2023-01-20 13:57:03",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270846,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
-    },
-    {
       "added_at": "2023-01-04 23:35:04",
       "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
@@ -599,6 +567,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 270846,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "added_at": "2023-01-20 13:57:03",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1161,30 +1161,6 @@
       "url": "https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM"
     },
     {
-      "added_at": "2023-01-18 17:37:10",
-      "album": {
-        "name": "on & on",
-        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "on & on",
-      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
-    },
-    {
       "added_at": "2023-01-04 23:35:04",
       "album": {
         "name": "Organisation",
@@ -1215,6 +1191,30 @@
       "duration_ms": 229720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+    },
+    {
+      "added_at": "2023-01-18 17:37:10",
+      "album": {
+        "name": "on & on",
+        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 192621,
+      "name": "Solar Power",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 192621,
-      "name": "Solar Power",
-      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2103,18 +2103,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Poundshop Kardashians",
-        "url": "https://open.spotify.com/album/3786cITcKTrcxtezOgZKME"
+        "name": "god of the sunsets",
+        "url": "https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
         }
       ],
-      "duration_ms": 159295,
-      "name": "Poundshop Kardashians",
-      "url": "https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR"
+      "duration_ms": 124705,
+      "name": "god of the sunsets",
+      "url": "https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2131,6 +2131,22 @@
       "duration_ms": 190226,
       "name": "Lost in Translation",
       "url": "https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Poundshop Kardashians",
+        "url": "https://open.spotify.com/album/3786cITcKTrcxtezOgZKME"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 159295,
+      "name": "Poundshop Kardashians",
+      "url": "https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2163,22 +2179,6 @@
       "duration_ms": 91080,
       "name": "Any Way You Want Me",
       "url": "https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "god of the sunsets",
-        "url": "https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "god of the sunsets",
-      "url": "https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Why Am I Like This?",
-        "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 212713,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 220960,
       "name": "Say It",
       "url": "https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
       "artists": [
         {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
         }
       ],
-      "duration_ms": 258319,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
+      "duration_ms": 221973,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
       },
       "artists": [
         {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
         }
       ],
-      "duration_ms": 221973,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
+      "duration_ms": 258319,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
     },
     {
       "added_at": "2023-01-04 23:35:04",

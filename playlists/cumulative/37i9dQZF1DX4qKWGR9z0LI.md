@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Maluma & Marc Anthony
 
-216 songs - 16 hr 31 min
+217 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Es por Ti](https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por Ti](https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et) | 3:04 | 2022-05-20 |  |
 | [Es por ti](https://open.spotify.com/track/2aS68sRyREHLCF2hft3NOt) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por ti](https://open.spotify.com/album/2CQbvu5ncDwr0toXCR3JTF) | 3:04 | 2022-03-18 | 2022-07-29 |
 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 | 2022-01-01 |  |
-| [Fabricando Fantasías](https://open.spotify.com/track/6cKAPpR0QwLaEKghevxdHc) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Noches Latinas 3](https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr) | 4:34 | 2022-01-01 |  |
+| [Fabricando Fantasías](https://open.spotify.com/track/6cKAPpR0QwLaEKghevxdHc) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Noches Latinas 3](https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr) | 4:34 | 2022-01-01 | 2023-02-26 |
+| [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 | 2023-02-24 |  |
 | [Felices los 4 \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 4:02 | 2022-01-01 |  |
 | [Flor Pálida](https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:40 | 2022-01-01 |  |
 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 | 2022-01-01 | 2023-02-21 |

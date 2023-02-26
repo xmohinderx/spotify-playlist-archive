@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 544996,
+  "num_followers": 545040,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGVlNTA4MTI5OWNjODdmZWJmYTA2Njg4MmZjMGMwZWM5",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGIxM2NiMDM2MGI2MzIwZjI2YzU4ZjA5Mjc5NjZhMTE0",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -301,30 +301,6 @@
       "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v"
-      },
-      "artists": [
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        }
-      ],
-      "duration_ms": 197677,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Pathways",
@@ -347,6 +323,30 @@
       "duration_ms": 209501,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v"
+      },
+      "artists": [
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        }
+      ],
+      "duration_ms": 197677,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr"
     },
     {
-      "added_at": "2022-02-11 18:57:20",
-      "album": {
-        "name": "4 Rooms",
-        "url": "https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Can We? Take A Break",
-      "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Turkish Delight",
@@ -551,6 +535,22 @@
       "duration_ms": 212527,
       "name": "Bonzai View",
       "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"
+    },
+    {
+      "added_at": "2022-02-11 18:57:20",
+      "album": {
+        "name": "4 Rooms",
+        "url": "https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Can We? Take A Break",
+      "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Altered Time",
@@ -839,6 +823,22 @@
       "duration_ms": 130000,
       "name": "Altered Time",
       "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Pire",
@@ -953,6 +937,22 @@
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
     },
     {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Moonlight Love Affair",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "We Don't Need No Roads",
-        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
-      },
-      "artists": [
-        {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
-        }
-      ],
-      "duration_ms": 258334,
-      "name": "We Don't Need No Roads",
-      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Deep in the Pocket",
@@ -999,6 +983,22 @@
       "duration_ms": 224971,
       "name": "Kountdown",
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "We Don't Need No Roads",
+        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "duration_ms": 258334,
+      "name": "We Don't Need No Roads",
+      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1019,30 +1019,6 @@
       "duration_ms": 202900,
       "name": "Tin Tin Deo - NerdStar Remix",
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Aso EP",
-        "url": "https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U"
-      },
-      "artists": [
-        {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Cem Mo",
-          "url": "https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 208456,
-      "name": "Jim Bell",
-      "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1075,6 +1051,30 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Aso EP",
+        "url": "https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Cem Mo",
+          "url": "https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 208456,
+      "name": "Jim Bell",
+      "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tiger's Den (Radio Edit)",
-        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 271375,
-      "name": "Tiger's Den - Radio Edit",
-      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Quantum Blackness",
@@ -1159,6 +1143,22 @@
       "duration_ms": 387514,
       "name": "Black Space Jazz",
       "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tiger's Den (Radio Edit)",
+        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 271375,
+      "name": "Tiger's Den - Radio Edit",
+      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
+      "added_at": "2021-09-24 04:02:00",
+      "album": {
+        "name": "Excursions",
+        "url": "https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Life Of Leisure",
+      "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Childhood Memories (Remix)",
@@ -1213,38 +1229,6 @@
       "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Thoughts",
-        "url": "https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh"
-      },
-      "artists": [
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        }
-      ],
-      "duration_ms": 155877,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi"
-    },
-    {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Excursions",
-        "url": "https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Life Of Leisure",
-      "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Thoughts Under Water",
@@ -1259,26 +1243,6 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Blue to Red (Photay Remix)",
-        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "Blue to Red - Photay Remix",
-      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1301,6 +1265,42 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Blue to Red (Photay Remix)",
+        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "Blue to Red - Photay Remix",
+      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh"
+      },
+      "artists": [
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        }
+      ],
+      "duration_ms": 155877,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi"
+    },
+    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Whales",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Come Out and Play",
@@ -1353,20 +1337,20 @@
       "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2021-05-14 04:01:00",
       "album": {
-        "name": "Nu Jump",
-        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
       },
       "artists": [
         {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Nu Jump",
-      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 135999,
       "name": "Northbound",
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Nu Jump",
+        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Nu Jump",
+      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Afro Cello (Super Full Moon Rework)",
-        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
-      },
-      "artists": [
-        {
-          "name": "Danny Keane",
-          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Afro Cello - Super Full Moon Rework",
-      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Typhoon",
@@ -1481,6 +1465,22 @@
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Afro Cello (Super Full Moon Rework)",
+        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
+      },
+      "artists": [
+        {
+          "name": "Danny Keane",
+          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "Afro Cello - Super Full Moon Rework",
+      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Still Flute",
@@ -1497,44 +1497,32 @@
       "url": "https://open.spotify.com/track/1fG6lTlZzxK1Ljo6RkSh4r"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2022-05-16 15:07:06",
       "album": {
-        "name": "Morse Code",
-        "url": "https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy"
+        "name": "Bootyscoot",
+        "url": "https://open.spotify.com/album/57Re4Gq4x1NvimVAytLmKT"
       },
       "artists": [
         {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+          "name": "The Polish Ambassador",
+          "url": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU"
         },
         {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+          "name": "Jesse Klein",
+          "url": "https://open.spotify.com/artist/6EVgiuWVrdencro4gjLJKE"
         },
         {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+          "name": "Robin Jackson",
+          "url": "https://open.spotify.com/artist/7E3Dm7icYWJNSN8pK57Ufy"
         },
         {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        },
-        {
-          "name": "Raghav Mehrotra",
-          "url": "https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1"
-        },
-        {
-          "name": "Aidan McKeon",
-          "url": "https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk"
-        },
-        {
-          "name": "Noah Wise",
-          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
+          "name": "Ananda Vaughan",
+          "url": "https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V"
         }
       ],
-      "duration_ms": 184545,
-      "name": "Morse Code",
-      "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+      "duration_ms": 397090,
+      "name": "Bootyscoot",
+      "url": "https://open.spotify.com/track/7nb8sYJDmnbEEEET8EZh59"
     }
   ],
   "unique_name": "Jazztronica",

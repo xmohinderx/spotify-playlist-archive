@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,921 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,937 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 13 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
 | 14 | [Ay, Chabela](https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 15 | [Ya Vas Carnal](https://open.spotify.com/track/3gJO6TqU3wqgrKTy49kVk8) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:50 |
-| 16 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 |
-| 17 | [El Bato Gacho](https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:26 |
-| 18 | [Botellitas](https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:30 |
+| 16 | [El Bato Gacho](https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:26 |
+| 17 | [Botellitas](https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:30 |
+| 18 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 |
 | 19 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
 | 20 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
 | 21 | [Cielito Lindo](https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 3:41 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 26 | [Chaparrita](https://open.spotify.com/track/4mcQaRnIRyOqBocOjivSZz) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:27 |
 | 27 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 |
 | 28 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
-| 29 | [El Dicharachero](https://open.spotify.com/track/5nOSFNSuftuAAt5cAVfsAa) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:47 |
+| 29 | [Alta Y Delgadita](https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 2:53 |
 | 30 | [Negrita de Mis Pesares](https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH) | [Mariachi Pablo Olmedo](https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR) | [Mexican Music: Best Mariachi Music\. Traditional & Popular Mexican Songs, Rancheras & Corridos](https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L) | 2:59 |
 | 31 | [La Interesada](https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [De Buen Humor, Con Las Canciones Y La Voz De Chava Flores](https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg) | 2:21 |
 | 32 | [El Pescuezo del Pollo](https://open.spotify.com/track/4frs1wdJNCBLiCPjfnROlz) | [El Mariachi Moya](https://open.spotify.com/artist/14VL0b6xKpHMRUj0mmp2QS) | [El Pescuezo del Pollo](https://open.spotify.com/album/6YRvAFY1eDocapKDlJc633) | 4:26 |
 | 33 | [El copetín](https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rancheras Vol\. 2](https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2) | 2:44 |
 | 34 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
-| 35 | [Alta Y Delgadita](https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 2:53 |
+| 35 | [El Dicharachero](https://open.spotify.com/track/5nOSFNSuftuAAt5cAVfsAa) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:47 |
 | 36 | [El Niño Perdido](https://open.spotify.com/track/5Frkx683FObfMc5dAJJmb3) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 3:14 |
 | 37 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 |
 | 38 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
 
-Snapshot ID: `MTY3NDYwMjgwMSwwMDAwMDAwMDBlMzBkM2YzMDIyYzVlMTMzYzkwOWE2OGRiZjJiNDlh`
+Snapshot ID: `MTY3NDYwMjgwMSwwMDAwMDAwMDUwMDYwN2Q2NmQ1YzBiNjEwODAzMjQ0NjRiZmJiZjIz`

@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-273 songs - 14 hr 4 min
+274 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-05-27 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2022-05-27 |  |
 | [Secrets \- HUGEL Remix](https://open.spotify.com/track/3iLwZIDtKxGC277rHmX4is) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Secrets \(HUGEL Remix\)](https://open.spotify.com/album/6Wqc4e52SJej0I4t4SiHrD) | 3:16 | 2022-05-27 | 2022-07-08 |
-| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-07-08 |  |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2023-02-26 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-07-08 | 2023-02-26 |
 | [Seven Nation Army \- The Glitch Mob Remix](https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Seven Nation Army \(The Glitch Mob Remix\)](https://open.spotify.com/album/6XN8b2NIomlwPOoBlILqXv) | 4:17 | 2022-05-27 | 2022-11-13 |
 | [Shadows](https://open.spotify.com/track/3UTnoLehZjISbFueAmhGvY) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy), [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT) | [Shadows](https://open.spotify.com/album/4TEmyBI34m3wkoLNvy95aZ) | 3:06 | 2022-05-27 | 2022-07-29 |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-07-22 | 2022-08-10 |

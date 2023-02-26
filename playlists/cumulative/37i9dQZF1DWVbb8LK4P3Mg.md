@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-176 songs - 10 hr 28 min
+177 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Before Our Night Is Over](https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:34 | 2021-12-21 |  |
 | [Best Christmas Ever](https://open.spotify.com/track/2Ma3UUb4b1c7Y0fLyLpHfo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 3:56 | 2021-12-21 | 2022-07-28 |
 | [Best Christmas Ever](https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:56 | 2021-12-21 | 2022-12-10 |
-| [BETTER DAYS](https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 4:11 | 2021-12-21 |  |
+| [BETTER DAYS](https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 4:11 | 2021-12-21 | 2023-02-26 |
 | [Butter \(Holiday Remix\)](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Holiday Remix\)](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) | 2:41 | 2021-12-21 |  |
 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 | 2023-01-10 |  |
 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 | 2021-12-21 |  |
@@ -139,6 +139,7 @@
 | [starry night](https://open.spotify.com/track/2Ngtq0z4NF96LsW5x0O5sP) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw), [WOORIZARI 우리자리](https://open.spotify.com/artist/4wSK8ZJdJbAcWLwMcUXIFb) | [BLACKYPLATFORM](https://open.spotify.com/album/68M29UPBO2BxSIIxNBZmLg) | 3:41 | 2021-12-21 |  |
 | [Sweater \- Orchestral Version](https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Sweater \(Orchestral Version\)](https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb) | 3:57 | 2021-12-21 |  |
 | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9) | 3:26 | 2021-12-21 |  |
+| [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 | 2023-01-10 |  |
 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 | 2021-12-21 | 2023-01-11 |
 | [The First Noel + Oh Holy Night](https://open.spotify.com/track/0ZZk4Jkdp1Zb98dZ1fyQKQ) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Season](https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi) | 3:27 | 2021-12-21 | 2022-11-11 |
 | [The First Noel + Oh Holy Night](https://open.spotify.com/track/5dy4boImHwApBOQQxdO5QJ) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:27 | 2021-12-21 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Auténticos Decadentes y Andrea Echeverri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,071 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,135 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 55 | [Adiós adiós](https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Terc3ra Llamada](https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG) | 3:44 |
 | 56 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 |
 | 57 | [Close To You](https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [20 Minutos](https://open.spotify.com/album/2PQBj0ptx0kRiSFO4xrdSq) | 5:29 |
-| 58 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
-| 59 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
+| 58 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
+| 59 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
 | 60 | [Tanto amor me marea](https://open.spotify.com/track/4jGSfblxObklndcGJprEoa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:59 |
 | 61 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
 | 62 | [Cannabis](https://open.spotify.com/track/3pKEYZcL428BwPWiP2udxz) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:25 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 83 | [Como Te Voy a Olvidar \- Edit](https://open.spotify.com/track/1vNuHEbQONnN0DJUBKeUXJ) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Como Te Voy a Olvidar](https://open.spotify.com/album/0Z03xjCkEIUUBLi1Wtd1mA) | 4:14 |
 | 84 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 |
 | 85 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 |
-| 86 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 |
-| 87 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 86 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 87 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 |
 | 88 | [Sanguchito](https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena \(Deluxe\)](https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG) | 3:39 |
 | 89 | [Morocha](https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Morocha](https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP) | 2:36 |
 | 90 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Vicio](https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV) | [Sonora de Llegar](https://open.spotify.com/album/1giTHiLOSaaB8TqchemtJf) | 2:46 |
 | 100 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
 
-Snapshot ID: `MTY3MTE1ODE0MywwMDAwMDAwMDYyNTkyYmJjYTNmNGYzNGYyYTQ4NDkzYjM3ZmY0ZmFk`
+Snapshot ID: `MTY3MTE1ODE0MywwMDAwMDAwMGE3NzU4NmU3MmUwYmNmNDNmYWE4OGEwZTA4NGZhNDg4`

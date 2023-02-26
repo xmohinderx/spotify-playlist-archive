@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 358496,
+  "num_followers": 358547,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2NDQwMCwwMDAwMDAwMGIwZTZmMjVmMWE1MGZlODlmZTA0YzRiMDY5NjQ2Yjg4",
+  "snapshot_id": "MTY3NzE2NDQwMCwwMDAwMDAwMGUwN2M4ODYwYWM1Yjk0M2I4NTMwZTdiOWRjMTkxM2Vl",
   "tracks": [
     {
       "added_at": "2023-02-23 15:00:00",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "Haven (feat. Hana Hope)",
-        "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
       },
       "artists": [
         {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Haven - feat. Hana Hope",
-      "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+        "name": "Haven (feat. Hana Hope)",
+        "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
+      "duration_ms": 196000,
+      "name": "Haven - feat. Hana Hope",
+      "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "Jiga",
-        "url": "https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m"
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
       },
       "artists": [
         {
-          "name": "JJJ",
-          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
-        },
-        {
-          "name": "DJ SCRATCH NICE",
-          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
         }
       ],
-      "duration_ms": 243610,
-      "name": "Jiga",
-      "url": "https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH"
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+        "name": "Jiga",
+        "url": "https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m"
       },
       "artists": [
         {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
+        {
+          "name": "DJ SCRATCH NICE",
+          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
         }
       ],
-      "duration_ms": 183493,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+      "duration_ms": 243610,
+      "name": "Jiga",
+      "url": "https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "Moon Prison",
-        "url": "https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE"
+        "name": "non zero sum game",
+        "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         }
       ],
-      "duration_ms": 165692,
-      "name": "Moon Prison",
-      "url": "https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew"
+      "duration_ms": 208099,
+      "name": "non zero sum game",
+      "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "non zero sum game",
-        "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
+        "name": "Moon Prison",
+        "url": "https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE"
       },
       "artists": [
         {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
         }
       ],
-      "duration_ms": 208099,
-      "name": "non zero sum game",
-      "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
+      "duration_ms": 165692,
+      "name": "Moon Prison",
+      "url": "https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "Roll",
-        "url": "https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 215928,
-      "name": "Roll",
-      "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
         "name": "LaLaLa",
         "url": "https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 175824,
       "name": "LaLaLa",
       "url": "https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
+        "name": "Roll",
+        "url": "https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 215928,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 149002,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        },
+        {
+          "name": "KAR\u00cdTAS",
+          "url": "https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
         "name": "SHUNKA RYOUGEN",
         "url": "https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60"
       },
@@ -1683,22 +1703,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g"
+        "name": "paradigm",
+        "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
       },
       "artists": [
         {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        },
-        {
-          "name": "KAR\u00cdTAS",
-          "url": "https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc"
+          "name": "ame_no_parade",
+          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs"
+      "duration_ms": 213397,
+      "name": "paradigm",
+      "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -1715,22 +1731,6 @@
       "duration_ms": 219033,
       "name": "Ravel",
       "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
-        "name": "paradigm",
-        "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
-      },
-      "artists": [
-        {
-          "name": "ame_no_parade",
-          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
-        }
-      ],
-      "duration_ms": 213397,
-      "name": "paradigm",
-      "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
     },
     {
       "added_at": "2023-02-23 15:00:00",

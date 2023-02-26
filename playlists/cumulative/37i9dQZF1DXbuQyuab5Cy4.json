@@ -1126,6 +1126,24 @@
     {
       "album": {
         "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "ON FIRE",
+      "url": "https://open.spotify.com/track/09HjLlsBh3iqLEkOgH4Ac4"
+    },
+    {
+      "album": {
+        "name": "BRAVE",
         "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
       },
       "artists": [
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 203520,
       "name": "ON FIRE",
       "url": "https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA"
@@ -1324,6 +1342,28 @@
     {
       "album": {
         "name": "Purgatory",
+        "url": "https://open.spotify.com/album/6Ssl05NNAsWoPMJmdRd91j"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Purgatory",
+      "url": "https://open.spotify.com/track/0yD4eilzKMHCe5Fhh7qeeC"
+    },
+    {
+      "album": {
+        "name": "Purgatory",
         "url": "https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f"
       },
       "artists": [
@@ -1338,7 +1378,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 169846,
       "name": "Purgatory",
       "url": "https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28"

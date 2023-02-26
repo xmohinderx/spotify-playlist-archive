@@ -4,7 +4,7 @@
 
 > We hear you.
 
-547 songs - 1 day 3 hr 2 min
+548 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [idk what i did](https://open.spotify.com/track/5LKhtxlLJexaKTlA71Ij2Z) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [idk what i did](https://open.spotify.com/album/6AcUrVbdhSrv4wp9e6oPqE) | 3:49 | 2021-04-30 | 2022-04-17 |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-07-15 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2021-04-02 | 2022-07-29 |
+| [idtwcbf \(friends\)](https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Antisocial](https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp) | 2:31 | 2023-02-26 |  |
 | [if all the people \. \. .](https://open.spotify.com/track/6vsEeepIYXoNMC7ROPfXoR) | [aesthetic boi](https://open.spotify.com/artist/1W4VMesdXuX2yKVXHeHcLN), [hiraeth.](https://open.spotify.com/artist/5oLTLuHsqyA78zxL9l3Udp) | [if all the people \. \. .](https://open.spotify.com/album/5x20UTRfdLYCL6hsZL3C9X) | 2:33 | 2021-10-26 | 2022-06-09 |
 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 | 2021-04-02 | 2023-01-06 |
 | [If You Leave](https://open.spotify.com/track/6vOasXD4uE6zEPgcXD86Tq) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [If You Leave](https://open.spotify.com/album/0rgdSm4zbzgZEBKXja4xJp) | 2:40 | 2021-04-02 | 2022-07-19 |
@@ -401,7 +402,7 @@
 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 | 2021-04-02 | 2022-05-16 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-31 | 2023-02-15 |
 | [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2021-04-02 | 2022-07-29 |
-| [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-11-11 |  |
+| [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-11-11 | 2023-02-26 |
 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 | 2021-04-02 | 2022-12-17 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-07-29 |
 | [Sad Thoughts, Anxiety Panics](https://open.spotify.com/track/5NfSH292uE4Kcyr3QkHfJl) | [CYBERLOVE](https://open.spotify.com/artist/71pi8vh7jr7f0DnisuL03m) | [Sad Thoughts, Anxiety Panics](https://open.spotify.com/album/7en610Uv88Vckej2Tq1a9p) | 2:00 | 2022-04-12 | 2022-04-19 |

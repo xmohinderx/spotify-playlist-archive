@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-122 songs - 8 hr 5 min
+123 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Hit It](https://open.spotify.com/track/60XKnJFLaCy2SH8bubf5pK) | [Moodshift](https://open.spotify.com/artist/7lqnPqyrFL0XGLbtXEh8Xa), [Johnny Sibilly](https://open.spotify.com/artist/6VLNC4sGFfIHJJ8poWQzsD) | [Hit It](https://open.spotify.com/album/0a52rXqUjvvej73zHXZdtK) | 2:08 | 2021-11-19 |  |
 | [HOUSE OF KETA \- Playgirls from Caracas Remix](https://open.spotify.com/track/3V9swS8KjBsVaSOJlnYzoi) | [FLUIDOSTUDIO](https://open.spotify.com/artist/51aWIDc4ApbJEEe3Ua2wRy), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o), [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [HOUSE OF KETA](https://open.spotify.com/album/5bKEalOUBTY6CvdXoIVAyQ) | 3:42 | 2021-11-19 | 2022-09-04 |
 | [HOUSE OF KETA \- Playgirls from Caracas Remix](https://open.spotify.com/track/5qcx6g6Z4tZJszOU5q4eMM) | [FLUIDOSTUDIO](https://open.spotify.com/artist/51aWIDc4ApbJEEe3Ua2wRy), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/4XGTWdwXP2hcowBniMcAW8), [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [HOUSE OF KETA](https://open.spotify.com/album/47cw1ecpzbzDX4kz4f9PhV) | 3:42 | 2022-08-05 |  |
-| [House Princess](https://open.spotify.com/track/2faERFNJkMa1dFoiGgV9Pp) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/6wgtaAwdbqmcjIYjMLOsVe) | 5:16 | 2022-03-04 |  |
+| [House Princess](https://open.spotify.com/track/09J4n4tmEJksU3CS5oY2tk) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/0zZWFJeJZoYhyw0U2aZhh2) | 5:16 | 2023-02-23 |  |
+| [House Princess](https://open.spotify.com/track/2faERFNJkMa1dFoiGgV9Pp) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/6wgtaAwdbqmcjIYjMLOsVe) | 5:16 | 2022-03-04 | 2023-02-26 |
 | [I Chant, You Vogue](https://open.spotify.com/track/1DrQopISwKABpnS9qnK9lY) | [Leggoh](https://open.spotify.com/artist/3QOXHCj0WrJNsTcR2FucQ0) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 5:02 | 2022-07-01 |  |
 | [I Chant, You Vogue](https://open.spotify.com/track/4EMwjbmbQ3jQQCS6LVtHgS) | [Leggoh](https://open.spotify.com/artist/3QOXHCj0WrJNsTcR2FucQ0) | [Qweendom](https://open.spotify.com/album/6wQJ9AhRhjnj2SxBSyM86m) | 5:02 | 2021-11-19 | 2022-07-29 |
 | [I Miss The Club](https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO) | [Kweku Saunderson](https://open.spotify.com/artist/6TLjcZpFzo4Sno68bY6MkZ), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [I Miss The Club](https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83) | 2:56 | 2021-11-19 |  |

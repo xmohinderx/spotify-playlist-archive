@@ -4,7 +4,7 @@
 
 > kvar på samma plats vi starta
 
-838 songs - 1 day 13 hr 5 min
+839 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [BNY & CLD](https://open.spotify.com/track/1eTXGyw9q6mMl3MUjNRDHU) | [Naiia](https://open.spotify.com/artist/4F67EiXT2ffTcQknrKXYDO), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [BNY & CLD](https://open.spotify.com/album/6zPuULnz6YcgB3a3pbSz2c) | 2:43 | 2022-05-26 | 2022-08-05 |
 | [BOLT](https://open.spotify.com/track/0RflCR9n5gkkW34IINLQbq) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH) | [BOLT](https://open.spotify.com/album/6Big0eVQiuD0IcMZDc5Oio) | 2:27 | 2022-09-22 | 2022-10-14 |
 | [BORZ](https://open.spotify.com/track/7m5yy8LF2su0nvw9xrYzkz) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [BORZ](https://open.spotify.com/album/2TSw6JdtrxZRGKR9i4LHaQ) | 2:30 | 2022-11-17 | 2023-01-27 |
+| [BOTTEGA](https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BOTTEGA](https://open.spotify.com/album/3d8p48lwwRTX1ZcNpHxIX2) | 2:33 | 2023-02-25 |  |
 | [Bra där](https://open.spotify.com/track/5pMFG5gtEEshnjVAdI2V41) | [Yoel Ismo](https://open.spotify.com/artist/04jKIDOInCEhDYjw6tpmLR), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Bra där](https://open.spotify.com/album/63TUQGGt1fmlp7OtI4Sx9h) | 2:50 | 2022-06-17 | 2022-06-24 |
 | [Bra kväll](https://open.spotify.com/track/3fn38lky1wEnGfZOpu4eqA) | [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA) | [Bra kväll](https://open.spotify.com/album/0ycDtHMYMcGlahQPg36PAs) | 2:31 | 2022-04-14 | 2022-05-06 |
 | [Bra Snart](https://open.spotify.com/track/2NiMsdOoFl6i7J1XKJUwpx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:58 | 2022-11-17 | 2022-12-02 |
@@ -738,7 +739,7 @@
 | [TICK TACK](https://open.spotify.com/track/13GVEmxDKwgxLLuZ0swDpu) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [TICK TACK](https://open.spotify.com/album/3VcBxD6jYxyOimnBLQ010Z) | 2:42 | 2022-09-15 | 2022-10-13 |
 | [TICK TACK](https://open.spotify.com/track/5XRZL49gUcxJGepV6G2t4b) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [TICK TACK](https://open.spotify.com/album/5gRppL8hyAuI6XW7w4L8Nd) | 2:42 | 2022-10-07 | 2022-12-22 |
 | [Tiden](https://open.spotify.com/track/45aZ1JEtwwPynubJbLD5lj) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Tiden](https://open.spotify.com/album/4lPxy4bk1ICSpIumNwYtK0) | 2:01 | 2022-09-22 | 2022-10-21 |
-| [Tiden rinner iväg](https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Tiden rinner iväg](https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2) | 2:59 | 2022-11-17 |  |
+| [Tiden rinner iväg](https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Tiden rinner iväg](https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2) | 2:59 | 2022-11-17 | 2023-02-26 |
 | [Tillbaka](https://open.spotify.com/track/4a1JogEAJAOSvrCLKPqdHy) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Tillbaka](https://open.spotify.com/album/6zNgY4f0YcCSi2A05o75HQ) | 2:12 | 2022-05-05 | 2022-06-24 |
 | [Timmar](https://open.spotify.com/track/5BXgS5z1VydcSorPfQdtCq) | [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4) | [STRESS! \(Hjärnfonden\)](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 2:15 | 2022-11-17 | 2022-12-09 |
 | [Tjejerna Tjejerna Tjejerna](https://open.spotify.com/track/0pQeJklkLoaVxj2xhdmSsZ) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Tjejerna Tjejerna Tjejerna](https://open.spotify.com/album/05276OHhCjgNlD97iKHdib) | 3:19 | 2022-04-28 | 2022-06-10 |

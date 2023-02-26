@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Cover: A$AP ROCKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,440 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,553 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

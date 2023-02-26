@@ -4,13 +4,13 @@
 
 > Versões desplugadas do mundo pop.
 
-144 songs - 8 hr 33 min
+145 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Together](https://open.spotify.com/track/0EolrgZsjOyjjTuHEhgVuk) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ain't Together](https://open.spotify.com/album/3nY7uA5jciz3tNyw8DolUl) | 3:22 | 2021-11-05 | 2022-07-29 |
 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 | 2021-11-05 |  |
-| [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 | 2022-10-14 |  |
+| [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 | 2022-10-14 | 2023-02-26 |
 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 | 2021-11-05 |  |
 | [America](https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [America](https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [America](https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 4:03 | 2021-11-05 |  |
@@ -41,6 +41,7 @@
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me \(Acoustic\)](https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME) | 3:34 | 2022-10-07 | 2022-12-11 |
 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 | 2023-01-27 |  |
 | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH) | 3:08 | 2022-09-09 |  |
+| [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 | 2023-02-24 |  |
 | [Die Of A Broken Heart \- Acoustic](https://open.spotify.com/track/1RVq89LvXQYuEDurokDRvO) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart \(Acoustic\)](https://open.spotify.com/album/4pGufWAK66P4G7QyuaW2Db) | 3:08 | 2022-11-04 | 2022-11-26 |
 | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms) | 2:15 | 2022-12-02 |  |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-11-05 |  |

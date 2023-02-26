@@ -1,12 +1,12 @@
 {
   "description": "the best of the best tracks. Cover: The Yeah Yeah Yeahs",
-  "num_followers": 792294,
+  "num_followers": 792577,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5ODQ2NCwwMDAwMDAwMDk3YmY2NjA5NmQ1MDMwOTI1NjY0ZWQyNWFmOWE5M2Iw",
+  "snapshot_id": "MTY3NzA5ODQ2NCwwMDAwMDAwMDJlYmY1YTRiMWRhYWY2MzIwMGE1NWJlOTlmY2MwYTkx",
   "tracks": [
     {
       "added_at": "2023-02-22 20:41:04",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 318591,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 318591,
-      "name": "Eventually",
-      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 147350,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 147350,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 291640,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
         "name": "Goodpain",
         "url": "https://open.spotify.com/album/7soDnur2TfBoEJETTCws91"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 204208,
       "name": "Beige",
       "url": "https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 318186,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1475,22 +1491,6 @@
       "duration_ms": 220866,
       "name": "Lookalike",
       "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2023-02-22 20:41:04",
-      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-02-22 20:41:04",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2023-02-22 20:41:04",
@@ -1623,6 +1607,22 @@
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2023-02-22 20:41:04",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": "2023-02-22 20:41:04",

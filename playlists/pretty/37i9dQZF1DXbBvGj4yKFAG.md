@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,090 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,396 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 25 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 |
 | 26 | [town](https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:13 |
 | 27 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
-| 28 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
-| 29 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
+| 28 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
+| 29 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
 | 30 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 |
 | 31 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 32 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 |
 | 33 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 |
 | 34 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 |
 | 35 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
-| 36 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 |
-| 37 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
+| 36 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
+| 37 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 |
 | 38 | [punch](https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:20 |
 | 39 | [Fight Club](https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 1:47 |
 | 40 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 46 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 |
 | 47 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 |
 | 48 | [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 |
-| 49 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
-| 50 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 |
+| 49 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 |
+| 50 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 
-Snapshot ID: `MTY3NzI1Mjk1MywwMDAwMDAwMDQwOWYwNzlmZDgzOTc1OWU3ZTA1MTM0NGIwNmJhYjIy`
+Snapshot ID: `MTY3NzI1Mjk1MywwMDAwMDAwMDkzMWFlZmY2M2FmYjEyODE3N2VhNzdiNTVlMThkZjdh`

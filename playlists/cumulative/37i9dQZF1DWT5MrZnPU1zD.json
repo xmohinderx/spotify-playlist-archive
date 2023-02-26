@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 208539,
       "name": "Dump It Dummy (feat. 2rare)",
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
@@ -8780,7 +8780,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 238421,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI"
@@ -9046,6 +9046,32 @@
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
+    },
+    {
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
       "album": {
@@ -10104,6 +10130,28 @@
       "duration_ms": 144729,
       "name": "Shittin' Me",
       "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
+    },
+    {
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "Shmunk (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
     },
     {
       "album": {

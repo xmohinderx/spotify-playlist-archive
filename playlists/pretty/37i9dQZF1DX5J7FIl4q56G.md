@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Archetypes Collide
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,669 likes - 52 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,792 likes - 52 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,305 likes - 80 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,336 likes - 80 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 67 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 |
 | 68 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
 | 69 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
-| 70 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
-| 71 | [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 |
+| 70 | [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 |
+| 71 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
 | 72 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
 | 73 | [Eze Ebube II](https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Ebube II](https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh) | 7:12 |
 | 74 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Merciful](https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G) | [Benita Okojie](https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a) | [Merciful](https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ) | 3:04 |
 | 80 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDMxM2YzNzdjMTU5MjRlOWQ1YzY1ZGNmNjE2Nzk4ZTFh`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGNjNmYyOWMyNGNjMWQxZWUwYTU5N2I1NThlYzcwMWRl`

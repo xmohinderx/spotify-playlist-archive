@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-574 songs - 1 day 10 hr 15 min
+576 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2023-02-09 |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-07-18 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 |  |
 | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/152sJgmftB46Q6IsDTUDLN) | [Sam Concepcion](https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7) | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/45ZolRka5exOabNpGPfbTo) | 3:30 | 2022-02-18 | 2022-08-11 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-01-01 | 2022-01-03 |
@@ -245,6 +246,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-06 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-01-08 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-08-21 | 2021-10-29 |
+| [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2023-02-25 |  |
 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 | 2022-04-05 |  |
 | [Isa lang](https://open.spotify.com/track/1MlQobUd4mVrouZ57qXQ9t) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/3UfTpuminIQO0oDidXgx9T) | 4:29 | 2021-12-18 | 2022-04-06 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-25 | 2021-12-27 |
@@ -367,7 +369,7 @@
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2021-10-29 | 2021-12-23 |
 | [Only The Young \- Featured in Miss Americana](https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Only The Young \(Featured in Miss Americana\)](https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK) | 2:37 | 2022-05-10 | 2022-05-16 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-11-04 | 2021-11-13 |
-| [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-03-09 |  |
+| [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-03-09 | 2023-02-26 |
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-10-04 | 2022-03-10 |
 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 | 2023-01-23 |  |
 | [panaginip](https://open.spotify.com/track/2mvLrJ6WVuwHAxLcv84nrQ) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1bqqn1NItYe7K6LZGKn2jd) | 5:32 | 2023-01-16 | 2023-01-18 |
@@ -484,7 +486,7 @@
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-01-17 | 2022-01-29 |
 | [Surface Pressure \- From "Encanto"/Soundtrack Version](https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Surface Pressure \(From "Encanto"\)](https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA) | 3:22 | 2022-01-28 | 2022-02-10 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-11-20 |
-| [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-01-12 |  |
+| [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-01-12 | 2023-02-26 |
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2021-12-10 | 2022-04-06 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-04-05 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-29 |

@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 18 min
+83 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [De Seattle Hasta San Diego](https://open.spotify.com/track/6cJZ0jt8KxTz8RXQDpmiUK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Seattle Hasta San Diego](https://open.spotify.com/album/2JpiptY2bA7LrAdybMIY7f) | 3:22 | 2022-06-01 | 2022-10-13 |
 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 | 2022-06-01 |  |
 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 | 2022-10-17 |  |
+| [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/track/2Baeml3Al7Wts8T8rJHNCt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/album/46BHSHTKsQezmW3lZoikjI) | 3:50 | 2023-02-25 |  |
 | [El 50](https://open.spotify.com/track/4fuXs2iGbUPp7ReStvNegS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:22 | 2022-06-01 | 2022-10-13 |
 | [El 8](https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El 8](https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME) | 2:45 | 2022-06-01 | 2022-12-14 |
 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 | 2022-12-07 |  |
@@ -74,7 +75,7 @@
 | [Por Clave El 02](https://open.spotify.com/track/66gge7FSp4QFJs5usnSvJm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:46 | 2022-06-01 | 2022-10-21 |
 | [Por Clave el 3](https://open.spotify.com/track/2YPVZzjY8uLt7QUUPg0dU8) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 3:17 | 2022-12-13 |  |
 | [Por Clave El Chino](https://open.spotify.com/track/7MH1vx6qW9AUHk3sRriH7K) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:59 | 2022-06-01 | 2022-10-13 |
-| [Por Clave El Doble R](https://open.spotify.com/track/0XgKAiK0HGLecgxi6vcvsN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 4:05 | 2022-06-01 |  |
+| [Por Clave El Doble R](https://open.spotify.com/track/0XgKAiK0HGLecgxi6vcvsN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 4:05 | 2022-06-01 | 2023-02-26 |
 | [Por Clave El Fresa](https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:24 | 2022-06-01 |  |
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-10-15 |  |
 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 | 2022-06-01 |  |

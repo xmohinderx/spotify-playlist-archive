@@ -4,7 +4,7 @@
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-1,058 songs - 2 day 8 hr 35 min
+1,059 songs - 2 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-25 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-25 | 2022-04-02 |
 | [Taste So Good \(The Cann Song\)](https://open.spotify.com/track/4FqUvCrGGtjFWektg6I65l) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Taste So Good \(The Cann Song\)](https://open.spotify.com/album/14gn0RFWtsOsnvjWRUnUof) | 2:35 | 2022-06-03 | 2022-06-11 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-25 |  |
 | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2021-12-17 | 2021-12-25 |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-17 | 2023-02-25 |
 | [Teenage Drama](https://open.spotify.com/track/4qkNnSjoWGv2fcYYpyOGSu) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Teenage Drama](https://open.spotify.com/album/0Nol1OFzdoWs59gOEP60fc) | 3:12 | 2022-02-11 | 2022-02-19 |

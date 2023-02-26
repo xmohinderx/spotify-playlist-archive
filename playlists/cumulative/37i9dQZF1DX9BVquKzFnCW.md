@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-188 songs - 16 hr 59 min
+189 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [S.K.J.](https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Bags Meets Wes \[Keepnews Collection\]](https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3) | 5:17 | 2022-12-07 |  |
 | [S.N.C.F.](https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc) | [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O), [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Nate Wood](https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR) | [Landed in Brooklyn \(with Tim Lefebvre & Nate Wood\)](https://open.spotify.com/album/5JxcyZzPM8oy5FElSKRmj7) | 6:05 | 2022-02-23 |  |
 | [Salute To Benny](https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Laughin' to Keep From Cryin'](https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo) | 8:32 | 2022-02-23 |  |
-| [Sandino](https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Etudes](https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s) | 4:47 | 2022-06-22 |  |
+| [Sandino](https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Etudes](https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s) | 4:47 | 2022-06-22 | 2023-02-26 |
 | [Sandino](https://open.spotify.com/track/1BYDZ6y1kfTEIj0OizAll6) | [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Etudes](https://open.spotify.com/album/3K5vMOi2CazUGFqKgBgy0R) | 4:47 | 2022-02-23 | 2022-07-29 |
 | [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-02-23 | 2022-09-15 |
 | [Shiny Stockings](https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:20 | 2023-01-04 |  |
@@ -175,6 +175,7 @@
 | [Twelve More Bars To Go](https://open.spotify.com/track/64zWqacsqNgPPYtjunGYxj) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Juju](https://open.spotify.com/album/34UpyT7OR59DvQjUsf4ufY) | 5:28 | 2022-04-08 | 2022-07-29 |
 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 | 2022-06-22 | 2023-02-01 |
 | [Two Left Feet](https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Jump For Joy](https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu) | 3:15 | 2022-02-23 |  |
+| [Uh Huh \- Remastered 2005](https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Workout](https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q) | 10:47 | 2023-02-23 |  |
 | [Uncharted](https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 3:55 | 2022-02-23 |  |
 | [Under A Blanket Of Blue](https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:36 | 2022-02-23 | 2022-10-07 |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2022-02-23 | 2022-09-01 |

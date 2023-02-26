@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Ghetto Kids en portada.",
-  "num_followers": 55481,
+  "num_followers": 55485,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2NzkxMCwwMDAwMDAwMDhkNjBlZjkxYjhjZWFiY2JhZTk2OTM3YmIwZGJjYWQ5",
+  "snapshot_id": "MTY3NzI2NzkxMCwwMDAwMDAwMGE3YzJkY2MxYmNiMzVhNzVhZWM0YmU0NzcwMGMxMTdj",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
+      "added_at": "2023-01-27 18:00:00",
+      "album": {
+        "name": "LA DEA",
+        "url": "https://open.spotify.com/album/6Quj2M2JueLw3mWXV0J2vM"
+      },
+      "artists": [
+        {
+          "name": "Elvis de Yongol",
+          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "LA DEA",
+      "url": "https://open.spotify.com/track/1L9TXxy6RxbGFRyR8ocM2L"
+    },
+    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Equivocado",
@@ -663,22 +679,6 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
-    },
-    {
-      "added_at": "2023-01-27 18:00:00",
-      "album": {
-        "name": "LA DEA",
-        "url": "https://open.spotify.com/album/6Quj2M2JueLw3mWXV0J2vM"
-      },
-      "artists": [
-        {
-          "name": "Elvis de Yongol",
-          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "LA DEA",
-      "url": "https://open.spotify.com/track/1L9TXxy6RxbGFRyR8ocM2L"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/2JIAfuvQfZRpCSxAVxb4Og"
+        "name": "La \u00daltima Noche",
+        "url": "https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N"
       },
       "artists": [
         {
-          "name": "Zailor",
-          "url": "https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
         }
       ],
-      "duration_ms": 180696,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/6viV9n8f7e3peUY3od4jyj"
+      "duration_ms": 162186,
+      "name": "La \u00daltima Noche",
+      "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "La \u00daltima Noche",
-        "url": "https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N"
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/2JIAfuvQfZRpCSxAVxb4Og"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+          "name": "Zailor",
+          "url": "https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt"
         }
       ],
-      "duration_ms": 162186,
-      "name": "La \u00daltima Noche",
-      "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
+      "duration_ms": 180696,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/6viV9n8f7e3peUY3od4jyj"
     },
     {
       "added_at": "2022-11-25 02:28:29",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy"
     },
     {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "Solteras",
+        "url": "https://open.spotify.com/album/2JKecMPRulCP3h0Xn42P8N"
+      },
+      "artists": [
+        {
+          "name": "Sofi Mata",
+          "url": "https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Solteras",
+      "url": "https://open.spotify.com/track/3NNOr3YRkdiYF1Jvfq8Nin"
+    },
+    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "hembrismo",
@@ -1095,22 +1111,6 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
-        "name": "Solteras",
-        "url": "https://open.spotify.com/album/2JKecMPRulCP3h0Xn42P8N"
-      },
-      "artists": [
-        {
-          "name": "Sofi Mata",
-          "url": "https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Solteras",
-      "url": "https://open.spotify.com/track/3NNOr3YRkdiYF1Jvfq8Nin"
     }
   ],
   "unique_name": "Urbano Fresh",

@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Romeo Santos.
 
-269 songs - 17 hr 35 min
+270 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,9 +150,10 @@
 | [Me Enamore](https://open.spotify.com/track/60VVaKgIJNftR2UWkLIYah) | [Michael Stuart](https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe) | [Me Enamore](https://open.spotify.com/album/3jM0m1h8r76o74B3EiYlCJ) | 4:03 | 2022-02-14 | 2022-07-20 |
 | [Me Enamoro Mas de Ti](https://open.spotify.com/track/11WuRl9efXTiWYtvB2y8X3) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Jean Rodriguez](https://open.spotify.com/artist/0AaeA0bBuFyAWdJ2W6597x) | [Mas De Mi](https://open.spotify.com/album/21Q82X4xEiZNbFHEmhZTX3) | 4:30 | 2021-12-03 | 2022-02-05 |
 | [Me Tengo Que Ir](https://open.spotify.com/track/6bum69IXoiGcZCb83ZtfGA) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Salsa Classics, Vol\. 1](https://open.spotify.com/album/41WgoKq8UltJA2tL7msFdt) | 4:43 | 2021-12-03 | 2022-02-15 |
-| [Me Tienes Mal](https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Comienzos](https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf) | 3:32 | 2021-12-03 |  |
+| [Me Tienes Mal](https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Comienzos](https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf) | 3:32 | 2021-12-03 | 2023-02-26 |
 | [Mentiras](https://open.spotify.com/track/0xpFMTYO3lWSNUA9OZqV4k) | [Lafame](https://open.spotify.com/artist/2ap4aQTG8zcKmzRjqlVmMd) | [Mentiras](https://open.spotify.com/album/1qFogdo4JwXkOdm1JNkawR) | 3:27 | 2022-02-14 | 2022-02-16 |
 | [Mi Mundo Entero](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 | 2022-05-27 |  |
+| [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-02-24 |  |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2021-12-03 | 2022-02-15 |
 | [Mil Horas](https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj) | 3:45 | 2021-12-03 | 2022-02-15 |
 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 | 2021-12-03 | 2022-02-15 |

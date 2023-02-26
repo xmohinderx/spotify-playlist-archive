@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Parker McCollum",
-  "num_followers": 399823,
+  "num_followers": 399859,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGE4YWMzMGU3NDRjN2E5NDA1M2FmZTZhOGZiOWYzYTA1",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDAwNzk2ZjRkMDcwNzAwZDVhOTYwMDZjMGNiZTViZDJm",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "You In A Honky Tonk",
-        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183570,
-      "name": "You In A Honky Tonk",
-      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Happier Alone (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 224027,
       "name": "Happier Alone (feat. Koe Wetzel)",
       "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "You In A Honky Tonk",
+        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183570,
+      "name": "You In A Honky Tonk",
+      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 167512,
-      "name": "Where the Wildflowers Lay",
-      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 293862,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 167512,
+      "name": "Where the Wildflowers Lay",
+      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -611,6 +611,22 @@
       "duration_ms": 239763,
       "name": "The Highway Kind",
       "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "West Texas Weather",
+        "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "West Texas Weather",
+      "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 285525,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Warning Label",
         "url": "https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 285525,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Breaking News",
         "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 220234,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Buckle of the Bible Belt",
+        "url": "https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Buckle of the Bible Belt",
+      "url": "https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -779,22 +811,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Buckle of the Bible Belt",
-        "url": "https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD"
-      },
-      "artists": [
-        {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Buckle of the Bible Belt",
-      "url": "https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Girls Like Me",
+        "url": "https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "duration_ms": 171045,
+      "name": "Girls Like Me",
+      "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -827,22 +859,6 @@
       "duration_ms": 172314,
       "name": "That Drink (feat. Neal McCoy)",
       "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Girls Like Me",
-        "url": "https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Micaela",
-          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
-        }
-      ],
-      "duration_ms": 171045,
-      "name": "Girls Like Me",
-      "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
-      },
-      "artists": [
-        {
-          "name": "Chad Cooke Band",
-          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
-        }
-      ],
-      "duration_ms": 224894,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Pick Up Your Phone",
         "url": "https://open.spotify.com/album/56yN096213YQfIJ5SpsZs3"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 216585,
       "name": "Took the Fall",
       "url": "https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "it won't always be this way",
         "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 211515,
       "name": "'Til I See You Again",
       "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
-      },
-      "artists": [
-        {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
-        }
-      ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Down the Stairwell \u2013 Side A",
         "url": "https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO"
       },
@@ -1135,34 +1135,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Baby Do",
-        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 208392,
-      "name": "Baby Do",
-      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+      "duration_ms": 272666,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1183,18 +1183,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
+        "name": "Baby Do",
+        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 272666,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
+      "duration_ms": 208392,
+      "name": "Baby Do",
+      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1235,26 +1251,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
-      },
-      "artists": [
-        {
-          "name": "Jacob Stelly",
-          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
-        },
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 242517,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Fine By Me",
         "url": "https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz"
       },
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I'm Not Him",
-        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
       },
       "artists": [
         {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Jacob Stelly",
+          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
+        },
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
         }
       ],
-      "duration_ms": 195882,
-      "name": "I'm Not Him",
-      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
+      "duration_ms": 242517,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "I'm Not Him",
+        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 195882,
+      "name": "I'm Not Him",
+      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Die Runnin'",
         "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 191531,
       "name": "Die Runnin'",
       "url": "https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 229586,
       "name": "If I Lived Here",
       "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "South of Forever",
-        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 247211,
-      "name": "South of Forever",
-      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Cowboys Don't Cry",
-        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 189657,
-      "name": "Cowboys Don't Cry",
-      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Cowboys Don't Cry",
+        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 189657,
+      "name": "Cowboys Don't Cry",
+      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 208827,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "What Else Can She Do",
-        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "jackson",
-      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "You Ain't No Cowboy",
         "url": "https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd"
       },
@@ -1603,26 +1619,6 @@
       "duration_ms": 208106,
       "name": "You Ain't No Cowboy",
       "url": "https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Bad Days Better",
-        "url": "https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX"
-      },
-      "artists": [
-        {
-          "name": "Adam Hood",
-          "url": "https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 272880,
-      "name": "Harder Stuff",
-      "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Been Better",
-        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
+        "name": "Bad Days Better",
+        "url": "https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX"
       },
       "artists": [
         {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+          "name": "Adam Hood",
+          "url": "https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 196507,
-      "name": "Been Better",
-      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
+      "duration_ms": 272880,
+      "name": "Harder Stuff",
+      "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
     },
     {
       "added_at": "2023-02-24 05:00:00",

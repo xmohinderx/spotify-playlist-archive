@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-242 songs - 21 hr 41 min
+243 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Skies](https://open.spotify.com/track/7GlssS4q7XvUJUgkyO5Js1) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Skies](https://open.spotify.com/album/3ltnGdeZPFYDmWaspSwgRh) | 4:43 | 2022-02-18 | 2022-07-28 |
 | [Skylla](https://open.spotify.com/track/3R8AWBWbqkWTvWx9Tjd16p) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Skylla](https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ) | 7:37 | 2022-02-18 | 2023-02-02 |
 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 | 2020-03-31 | 2022-02-27 |
+| [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-02-23 |  |
 | [Somaoh](https://open.spotify.com/track/6zr0ynyIM2RRaoTMOmj9h9) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 3:48 | 2020-03-31 | 2023-01-12 |
 | [Song for Selene \(I'll Meet You in My Dreams\)](https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 5:24 | 2022-06-02 | 2023-02-01 |
 | [Song with Orange and Other Things, Pt\. 1](https://open.spotify.com/track/1zZmLyjiFSEUklKHCj1nq2) | [Mark Wade Trio](https://open.spotify.com/artist/5UJBuLbTmWg5XNUv3e5xDW) | [True Stories](https://open.spotify.com/album/1NupgPFqRhoYih5dYdInac) | 4:43 | 2022-03-11 | 2022-05-04 |
@@ -205,7 +206,7 @@
 | [Stella By Starlight](https://open.spotify.com/track/2vKupPlhSiBaIysnqX5shW) | [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Perpetual Optimism](https://open.spotify.com/album/0adoHb4iey3I7lIeRi1cmY) | 4:05 | 2020-03-31 | 2022-06-09 |
 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 | 2020-03-31 | 2022-08-31 |
 | [Summer In Central Park](https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 6:41 | 2020-03-31 |  |
-| [Summer Night](https://open.spotify.com/track/11AL6tbocPeqYeriqsjFEZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 6:38 | 2022-07-28 |  |
+| [Summer Night](https://open.spotify.com/track/11AL6tbocPeqYeriqsjFEZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 6:38 | 2022-07-28 | 2023-02-26 |
 | [Summer Night](https://open.spotify.com/track/13OL18QpOtq4YQqV2JSLH1) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/1QB4m0HwnjxgEBC4Azxdtz) | 6:38 | 2022-02-18 | 2022-07-29 |
 | [Summer Wind](https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 4:37 | 2020-03-31 | 2023-02-20 |
 | [Sunday Waltz](https://open.spotify.com/track/2mRVnRNedKeSnDeI7crXrK) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 5:23 | 2020-03-31 | 2022-05-11 |

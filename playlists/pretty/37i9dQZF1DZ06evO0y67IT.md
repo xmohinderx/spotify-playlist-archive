@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,223 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,227 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 8 | [Constant Dread](https://open.spotify.com/track/74eohVDfoTJockasBnIOoU) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 2:52 |
 | 9 | [Blue Burns Orange](https://open.spotify.com/track/5w2Y1wj3QU8jHNj3WLei02) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:19 |
 | 10 | [Pens And Needles](https://open.spotify.com/track/58kxWzZNk5RftBK6kqiRJm) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:15 |
-| 11 | [Ohio Is For Lovers \- Lofi](https://open.spotify.com/track/68kuwYK3mdn415abKKiISa) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Ohio is for Lovers \(Lofi\)](https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw) | 2:54 |
-| 12 | [Rescue Me](https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:07 |
+| 11 | [Rescue Me](https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:07 |
+| 12 | [Ohio Is For Lovers \- Lofi](https://open.spotify.com/track/68kuwYK3mdn415abKKiISa) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Ohio is for Lovers \(Lofi\)](https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw) | 2:54 |
 | 13 | [The Transition](https://open.spotify.com/track/2Kl16QuHGGiK7Je4VGzQIt) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 |
 | 14 | [We Are So Last Year](https://open.spotify.com/track/6g8VLFKHQCbKi6l0XpLKdT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 2:57 |
 | 15 | [The Rain Just Follows Me](https://open.spotify.com/track/4V06e8gINM5WBvZIqcZ9Ni) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:11 |
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 21 | [Life On Standby](https://open.spotify.com/track/0Cp4EGSI11ePgUD3qpt5Nn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:11 |
 | 22 | [Where Can I Stab Myself In The Ears](https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:42 |
 | 23 | [Spray Paint It Black](https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Anthony Raneri](https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:18 |
-| 24 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 |
+| 24 | [The Perfect Way to Fall Apart](https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 4:09 |
 | 25 | [Common Crook](https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:13 |
 | 26 | [So Hopelessly](https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:00 |
 | 27 | [Thunder in Our Hearts](https://open.spotify.com/track/4lR93dysMoS3kf8QYSBwpv) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:45 |
-| 28 | [The Perfect Way to Fall Apart](https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 4:09 |
+| 28 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 |
 | 29 | [Somewhere In Between](https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:21 |
 | 30 | [Pet Sematary](https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:37 |
 | 31 | [Holy Coast](https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Come Back Home \(Reprised\)](https://open.spotify.com/track/0oPYSVGiTrBQP2Dmv6N6IA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 4:11 |
 | 50 | [Pink Hearts](https://open.spotify.com/track/3jBVbUiGtySOvHyIaIXBLD) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:13 |
 
-Snapshot ID: `Mjc5NTQwNzUsMDAwMDAwMDA4MzUzYjBkMGIzZjJmYzlkY2YyYzgyMmMzODczOTFkYg==`
+Snapshot ID: `Mjc5NTU2NTMsMDAwMDAwMDA2MThjZDc4NzM4YTViMjg3Y2VhNGNlYTU5YWQ0YTUzYg==`

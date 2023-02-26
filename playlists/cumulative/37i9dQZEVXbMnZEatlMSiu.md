@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-563 songs - 1 day 10 hr 20 min
+564 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-09-18 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-28 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
-| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-16 |  |
+| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-16 | 2023-02-26 |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-05-28 | 2022-06-01 |
 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 | 2021-08-24 | 2021-08-28 |
 | [Baby U Decide](https://open.spotify.com/track/66EypNPbL0yK9AYj0Q6tZ5) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Baby U Decide](https://open.spotify.com/album/5cS6rl9rrb6qeko596BUP2) | 2:21 | 2022-09-02 | 2022-09-07 |
@@ -417,6 +417,7 @@
 | [忽然](https://open.spotify.com/track/7628wHlTHencodj9Z244Rt) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [忽然](https://open.spotify.com/album/1GASFFJ8U2ewmMNHIHYRhr) | 4:37 | 2021-08-13 | 2021-09-27 |
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2021-03-27\* | 2022-10-27 |
 | [怎麼忘記了你 \(feat.魏如昀\)](https://open.spotify.com/track/4a1lAgW1N5l2LJT5oInbRc) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [無視](https://open.spotify.com/album/5CkigNhinaroKJrFWQVLWQ) | 4:38 | 2021-12-22 | 2022-01-05 |
+| [情勒 GASLIGHT \(feat\. ØZI\)](https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [情勒 GASLIGHT \(feat\. ØZI\)](https://open.spotify.com/album/4R24nFxGHvAj4yTv3Q3wt9) | 3:46 | 2023-02-25 |  |
 | [想了妳6次](https://open.spotify.com/track/0z81zrkn4dqmRLJpRePjYc) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [想了妳6次](https://open.spotify.com/album/4n3QnqVIEmJe0B2aZAlrk8) | 3:43 | 2022-02-28 | 2022-05-11 |
 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 | 2022-12-27 |  |
 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 | 2023-01-02 |  |

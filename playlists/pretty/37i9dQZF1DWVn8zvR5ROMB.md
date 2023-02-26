@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Conner Smith, Dierks Bentley, Ashley McBryde and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,319 likes - 77 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,521 likes - 77 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

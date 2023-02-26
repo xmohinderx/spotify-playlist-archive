@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Mezzosangue in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,698 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,722 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 65 | [Caramelle da uno sconosciuto](https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:23 |
 | 66 | [Ad occhi chiusi](https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [Ad occhi chiusi](https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ) | 3:45 |
 | 67 | [Piombo & fango](https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy) | [Mr\. Phil](https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Lord Bean](https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0) | [Guerra fra poveri](https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C) | 5:09 |
-| 68 | [Lontano 2036](https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:03 |
-| 69 | [Il cielo su Roma](https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo) | 4:48 |
+| 68 | [Il cielo su Roma](https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo) | 4:48 |
+| 69 | [Lontano 2036](https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:03 |
 | 70 | [Bastavano Le Briciole](https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B) | 3:53 |
 | 71 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 |
 | 72 | [Iron Maiden](https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Iron Maiden](https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Aspettando Il Sole \- Remastered](https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa \(Remastered\)](https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2) | 5:11 |
 | 100 | [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 |
 
-Snapshot ID: `MTY3NjY0NDIzOSwwMDAwMDAwMGQ4MzYxN2E0OGU4YzgzODE2OTlkOGNjNjI3NGFlMjAz`
+Snapshot ID: `MTY3NjY0NDIzOSwwMDAwMDAwMGMwNDE2YzBlZWQ3YjgzMzRhOThmOTU4YzRmYTI1MDdj`

@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring The Blessed Madonna.",
-  "num_followers": 1775109,
+  "num_followers": 1775580,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGU3ZTYwYWZiNWRhNDIzOWNiZjEzZDViN2Y4ODYzYWM1",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDk5NWQ0ZTVkOTM3MDc2NzEzODhlMDU0NGMzODgxOThi",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Smack Yo'",
-        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Smack Yo'",
-      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "God On The Weekend",
         "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 180231,
       "name": "God On The Weekend",
       "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Smack Yo'",
+        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Smack Yo'",
+      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "People Ain't Dancing (feat. Kah-Lo)",
+        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+      },
+      "artists": [
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 154859,
+      "name": "People Ain't Dancing (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Tra Tra",
         "url": "https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 126774,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "People Ain't Dancing (feat. Kah-Lo)",
-        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
-      },
-      "artists": [
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 154859,
-      "name": "People Ain't Dancing (feat. Kah-Lo)",
-      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Music Began To Play",
         "url": "https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 145984,
       "name": "The Music Began To Play",
       "url": "https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Sete",
-        "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Sete",
-      "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Trompeta",
         "url": "https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz"
       },
@@ -1519,18 +1495,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+        "name": "Love Vibration",
+        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
       },
       "artists": [
         {
-          "name": "Seamus D",
-          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 180719,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
+      "duration_ms": 180487,
+      "name": "Love Vibration",
+      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1551,6 +1527,22 @@
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+      },
+      "artists": [
+        {
+          "name": "Seamus D",
+          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1579,22 +1571,6 @@
       "duration_ms": 202281,
       "name": "Let You Do This (with Buy Now)",
       "url": "https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1751,6 +1727,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Sidewindah (feat. Flirta D)",
         "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
       },
@@ -1767,22 +1759,6 @@
       "duration_ms": 213562,
       "name": "Sidewindah (feat. Flirta D)",
       "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1819,26 +1795,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe"
       },
@@ -1871,18 +1827,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI"
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI"
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1923,6 +1883,46 @@
       "duration_ms": 158462,
       "name": "We Don\u2019t Need - Club Edit",
       "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "It's Quiet Now (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Zorro",
+        "url": "https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 216981,
+      "name": "Zorro",
+      "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
     }
   ],
   "unique_name": "Housewerk",

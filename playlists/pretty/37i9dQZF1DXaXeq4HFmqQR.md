@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Loyaltty y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,362 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,367 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Éxtasis](https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Éxtasis](https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf) | 3:03 |
 | 12 | [Aún Me Queda Fe](https://open.spotify.com/track/2nCMRkfn5uJTvxD9k9SXoN) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Aún Me Queda Fe](https://open.spotify.com/album/3VwhiG1lHrwwPTbdi32ZhO) | 3:11 |
 | 13 | [High](https://open.spotify.com/track/5WxHiXTAIn8U7hUthK89C2) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [High](https://open.spotify.com/album/15ww8sGn53UcsQ6fSPcnji) | 3:19 |
-| 14 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 |
-| 15 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
+| 14 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
+| 15 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 |
 | 16 | [PERREO PA LAS NENAS](https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:56 |
 | 17 | [Lehia](https://open.spotify.com/track/06DRbxvGPWBfUc5mf8ka0Y) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Lehia](https://open.spotify.com/album/1DlDbvxnUDtT2RnWXYzP8F) | 2:46 |
 | 18 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [anto](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Teteo](https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Teteo](https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6) | 2:31 |
 | 50 | [Fuega](https://open.spotify.com/track/2nh8GLnWGZwGUUryJfSlNf) | [La Lola](https://open.spotify.com/artist/76fJm7snE4sS86N9gd7tnT) | [Fuega](https://open.spotify.com/album/5xOlrYq3hPU7PFhyCf0jAg) | 2:51 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDkwYThiMjQ0YWZiNjYyMTcwMzQ5NGQxMWFhM2ViNzMx`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDVmMDliYTlkOTVmMTcxMzE4MTA4NDBhNWZhOTA3ZDM3`

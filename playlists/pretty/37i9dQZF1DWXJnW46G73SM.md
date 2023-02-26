@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مصطفى حجاج
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,919 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,985 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bataleny](https://open.spotify.com/track/1PbE0dZap84eVSIqlNRjIr) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bataleny](https://open.spotify.com/album/7s1bkOjp7V8wiWJY9Mf7iq) | 3:50 |
-| 2 | [Shokr Khas](https://open.spotify.com/track/1umEMxmOa7hn6XGjqggQ4q) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Shokr Khas](https://open.spotify.com/album/6SWL7U28mMRQOMsJSEGF2C) | 3:34 |
+| 2 | [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 |
 | 3 | [Ela 7aden Ma](https://open.spotify.com/track/5hc6jOHOgXJtN3ZHKwj1lN) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Ela 7aden Ma](https://open.spotify.com/album/25ft5XXqmxrQCMVAOuUyxk) | 3:39 |
 | 4 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 |
 | 5 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 |
 | 50 | [Khoshy Hayaty](https://open.spotify.com/track/6IZc9TCicWP7pV1yKjQ5c2) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Khoshy Hayaty](https://open.spotify.com/album/4L1MlEeeI7bYnitOdSgeds) | 2:55 |
 
-Snapshot ID: `MTY3NzE3NDg3MywwMDAwMDAwMDNiMjlkMjNkNmQ0NTg2NmQxYjA2ZDMxZGRhMTZlYzAy`
+Snapshot ID: `MTY3NzE3NDg3MywwMDAwMDAwMDgzOTlkODc5NTM1MzJjMjYyNDEwYTkzM2NiNGMyNjhm`

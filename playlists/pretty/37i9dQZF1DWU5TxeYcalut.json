@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 150104,
+  "num_followers": 150141,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIwNzY2MCwwMDAwMDAwMDkxMGZlYWY1NjMxZjZjNmQ4Yzc2NWE1YjE5NmQzMjNm",
+  "snapshot_id": "MTY3NzIwNzY2MCwwMDAwMDAwMDUzOTBjMjIwNzBmZTkzYTQxZDYzOWEwNWUzMTJlNWQ2",
   "tracks": [
     {
       "added_at": "2023-02-24 03:01:00",
@@ -163,6 +163,22 @@
       "duration_ms": 284165,
       "name": "Vila Bela",
       "url": "https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "A Thousand Candles",
+        "url": "https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 215564,
+      "name": "A Thousand Candles",
+      "url": "https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -523,6 +539,26 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
+        "name": "Encontro",
+        "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
+      },
+      "artists": [
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Ivan Vilela",
+          "url": "https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp"
+        }
+      ],
+      "duration_ms": 511760,
+      "name": "Sert\u00e3o",
+      "url": "https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/2TlVBTqT3zyval7mxrWIlf"
       },
@@ -543,26 +579,6 @@
       "duration_ms": 177997,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/5rDscLbEgTrDznuvyCPUzM"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Encontro",
-        "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
-      },
-      "artists": [
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Ivan Vilela",
-          "url": "https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp"
-        }
-      ],
-      "duration_ms": 511760,
-      "name": "Sert\u00e3o",
-      "url": "https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -787,34 +803,6 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
-        "name": "Sincronia",
-        "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
-      },
-      "artists": [
-        {
-          "name": "Trio Corrente",
-          "url": "https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Fabio Torres",
-          "url": "https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh"
-        },
-        {
-          "name": "Paulo Paulelli",
-          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
-        }
-      ],
-      "duration_ms": 395219,
-      "name": "Feira de Mangaio",
-      "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
         "name": "Trio Baru: Dez Anos (Live)",
         "url": "https://open.spotify.com/album/5AzuLOIMaMqp6IKbdJ6CfV"
       },
@@ -843,6 +831,34 @@
       "duration_ms": 221354,
       "name": "Ponteio - Live",
       "url": "https://open.spotify.com/track/6WQ5M4CSmlwQPLQ4TQeye1"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Sincronia",
+        "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
+      },
+      "artists": [
+        {
+          "name": "Trio Corrente",
+          "url": "https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Fabio Torres",
+          "url": "https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh"
+        },
+        {
+          "name": "Paulo Paulelli",
+          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
+        }
+      ],
+      "duration_ms": 395219,
+      "name": "Feira de Mangaio",
+      "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1107,6 +1123,22 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Maldonado Quintet",
+          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
+        }
+      ],
+      "duration_ms": 270012,
+      "name": "With Ernesto",
+      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
         "name": "\u00c2mbar - os Afluentes da M\u00fasica",
         "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
       },
@@ -1167,38 +1199,6 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Maldonado Quintet",
-          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
-        }
-      ],
-      "duration_ms": 270012,
-      "name": "With Ernesto",
-      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
-        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
-      },
-      "artists": [
-        {
-          "name": "Mano a Mano Trio",
-          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
-        }
-      ],
-      "duration_ms": 244074,
-      "name": "Cobra Criada",
-      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
         "name": "Amilton Godoy 80 Anos",
         "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 166933,
       "name": "Ponteio 49",
       "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
+        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
+      },
+      "artists": [
+        {
+          "name": "Mano a Mano Trio",
+          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
+        }
+      ],
+      "duration_ms": 244074,
+      "name": "Cobra Criada",
+      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1247,6 +1263,34 @@
       "duration_ms": 259532,
       "name": "Impress\u00f5es",
       "url": "https://open.spotify.com/track/2Sn7WVqrXfyVhpwO2A9GVd"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Afinidades",
+        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
+      },
+      "artists": [
+        {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
+        },
+        {
+          "name": "Mauricio Einhorn",
+          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
+        },
+        {
+          "name": "Bruno Cardozo",
+          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        },
+        {
+          "name": "Cuca Teixeira",
+          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
+        }
+      ],
+      "duration_ms": 343211,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1283,34 +1327,6 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Afinidades",
-        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
-      },
-      "artists": [
-        {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        },
-        {
-          "name": "Mauricio Einhorn",
-          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
-        },
-        {
-          "name": "Bruno Cardozo",
-          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        },
-        {
-          "name": "Cuca Teixeira",
-          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
-        }
-      ],
-      "duration_ms": 343211,
-      "name": "Burlesque",
-      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1555,6 +1571,30 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
+        "name": "Experimento 1",
+        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
+      },
+      "artists": [
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        }
+      ],
+      "duration_ms": 576170,
+      "name": "Experimento 1",
+      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
         "name": "Cozinhando Pedra",
         "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
       },
@@ -1567,42 +1607,6 @@
       "duration_ms": 322546,
       "name": "Cozinhando Pedra",
       "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        }
-      ],
-      "duration_ms": 407033,
-      "name": "Influ\u00eancia",
-      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Sidiel Vieira Quinteto",
-        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
-      },
-      "artists": [
-        {
-          "name": "Sidiel Vieira Quinteto",
-          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 506440,
-      "name": "Atrevido",
-      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1627,30 +1631,54 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
-        "name": "When the Answer Is a Question",
-        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+        "name": "Festa",
+        "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "S\u00e9rgio Reze",
-          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+          "name": "Guilherme Monteiro",
+          "url": "https://open.spotify.com/artist/3GBt2bx1By1qA7JhvfMuq9"
         }
       ],
-      "duration_ms": 457386,
-      "name": "When the Answer Is a Question",
-      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+      "duration_ms": 257500,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/1yFDSsdKxTHHEop447JCLs"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Sidiel Vieira Quinteto",
+        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
+      },
+      "artists": [
+        {
+          "name": "Sidiel Vieira Quinteto",
+          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 506440,
+      "name": "Atrevido",
+      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        }
+      ],
+      "duration_ms": 407033,
+      "name": "Influ\u00eancia",
+      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1679,42 +1707,22 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
-        "name": "Experimento 1",
-        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
+        "name": "Clim\u00e3o",
+        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
       },
       "artists": [
         {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+          "name": "RP Project",
+          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
         },
         {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+          "name": "Walmir Gil",
+          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
         }
       ],
-      "duration_ms": 576170,
-      "name": "Experimento 1",
-      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Festa",
-        "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Monteiro",
-          "url": "https://open.spotify.com/artist/3GBt2bx1By1qA7JhvfMuq9"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Festa",
-      "url": "https://open.spotify.com/track/1yFDSsdKxTHHEop447JCLs"
+      "duration_ms": 430563,
+      "name": "Clim\u00e3o",
+      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1735,6 +1743,34 @@
       "duration_ms": 266226,
       "name": "Novidade",
       "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "When the Answer Is a Question",
+        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "S\u00e9rgio Reze",
+          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 457386,
+      "name": "When the Answer Is a Question",
+      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1771,6 +1807,42 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+      },
+      "artists": [
+        {
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Sebastiana",
+        "url": "https://open.spotify.com/album/4q56BGQ4tTDObrGGLe5XSU"
+      },
+      "artists": [
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        }
+      ],
+      "duration_ms": 374180,
+      "name": "Trasantonte",
+      "url": "https://open.spotify.com/track/6oi42F70ZZDRpWIJABOD1u"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
         "name": "Posl\u00fadio",
         "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
       },
@@ -1795,46 +1867,6 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
-        "name": "Clim\u00e3o",
-        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
-      },
-      "artists": [
-        {
-          "name": "RP Project",
-          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
-        },
-        {
-          "name": "Walmir Gil",
-          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
-        }
-      ],
-      "duration_ms": 430563,
-      "name": "Clim\u00e3o",
-      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
         "name": "Sobre a Lua e os Passos",
         "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
       },
@@ -1855,22 +1887,6 @@
       "duration_ms": 247683,
       "name": "Sobre a Lua e os Passos",
       "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Sebastiana",
-        "url": "https://open.spotify.com/album/4q56BGQ4tTDObrGGLe5XSU"
-      },
-      "artists": [
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        }
-      ],
-      "duration_ms": 374180,
-      "name": "Trasantonte",
-      "url": "https://open.spotify.com/track/6oi42F70ZZDRpWIJABOD1u"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -1947,46 +1963,6 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
-        "name": "AMF",
-        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
-      },
-      "artists": [
-        {
-          "name": "Ana Azevedo",
-          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
-        },
-        {
-          "name": "Augusto Mattoso",
-          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
-        },
-        {
-          "name": "Andr\u00e9 Fr\u00f3es",
-          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
-        }
-      ],
-      "duration_ms": 334890,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
         "name": "Es\u00e8nt\u00e1y\u00e9",
         "url": "https://open.spotify.com/album/4oOweGVz1dZa9yA8iBZxCW"
       },
@@ -2035,6 +2011,30 @@
     {
       "added_at": "2023-02-24 03:01:00",
       "album": {
+        "name": "AMF",
+        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
+      },
+      "artists": [
+        {
+          "name": "Ana Azevedo",
+          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
+        },
+        {
+          "name": "Augusto Mattoso",
+          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
+        },
+        {
+          "name": "Andr\u00e9 Fr\u00f3es",
+          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
+        }
+      ],
+      "duration_ms": 334890,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
         "name": "\u00a1\u00c1ndale!",
         "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
       },
@@ -2047,6 +2047,22 @@
       "duration_ms": 202272,
       "name": "\u00a1\u00c1ndale!",
       "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
+    },
+    {
+      "added_at": "2023-02-24 03:01:00",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2023-02-24 03:01:00",
@@ -2171,22 +2187,6 @@
       "duration_ms": 402929,
       "name": "Nasceu o Amor",
       "url": "https://open.spotify.com/track/1C8bNtsT3FF5AFMISWVqKt"
-    },
-    {
-      "added_at": "2023-02-24 03:01:00",
-      "album": {
-        "name": "A Thousand Candles",
-        "url": "https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 215564,
-      "name": "A Thousand Candles",
-      "url": "https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6"
     },
     {
       "added_at": "2023-02-24 03:01:00",

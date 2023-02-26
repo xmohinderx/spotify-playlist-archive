@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,572 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,632 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 45 | [Sleep Deprivation](https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Sleep Deprivation](https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp) | 2:35 |
 | 46 | [Long Time](https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:16 |
 | 47 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
-| 48 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
-| 49 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
+| 48 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
+| 49 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 | 50 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 | 51 | [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 |
 | 52 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 81 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
 | 82 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 |
 | 83 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
-| 84 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
-| 85 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
+| 84 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
+| 85 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 86 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 87 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
 | 88 | [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 92 | [Evergreen](https://open.spotify.com/track/5tP2NMeAOujUeK0w3C96nh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/51V6vLEvHhYyFZgUXGqVFI) | 3:01 |
 | 93 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
 | 94 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 |
-| 95 | [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 |
-| 96 | [You](https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha) | [You](https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt) | 3:16 |
+| 95 | [You](https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha) | [You](https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt) | 3:16 |
+| 96 | [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 |
 | 97 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 |
 | 98 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 |
 | 99 | [I Hope You Change Your Mind](https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q) | 2:52 |
 | 100 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGFmYjlkMjNkYWE1ZTc3NTkyYmQ4MDJiYmIyN2NmNTg4`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDFiZjUwYWIyZTQxNzZiYTEwOTJlYjdiMzdmZmNmM2I4`

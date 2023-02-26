@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,983 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,010 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 30 | [Violetas Imperiales](https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Las Canciones de Luis Mariano](https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR) | 3:31 |
 | 31 | [El Boogie de la Guitarra](https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 3:01 |
 | 32 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
-| 33 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
-| 34 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
+| 33 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
+| 34 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 35 | [Diana](https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:24 |
 | 36 | [Espinita](https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [La Música en la Radio](https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX) | 2:21 |
 | 37 | [Mil Besos](https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 49 | [Soy Feliz](https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:31 |
 | 50 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
 
-Snapshot ID: `MTY3NjY2NzM5NSwwMDAwMDAwMDc1MDI3NDczOWNiZGIyNmQ3OGY4ZmQ4NmUwN2JkOTc5`
+Snapshot ID: `MTY3NjY2NzM5NSwwMDAwMDAwMDVhZjM0MWE0ODBiMGMxMTA3NWI1YWJiZTk5MjM4Nzg0`

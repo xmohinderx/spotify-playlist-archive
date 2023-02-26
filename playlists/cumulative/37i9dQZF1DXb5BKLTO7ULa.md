@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-100 songs - 5 hr 12 min
+101 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Verblind](https://open.spotify.com/track/46OBejmjKbTvFv2MCLT3fH) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Verblind](https://open.spotify.com/album/1ixBDYTp7EuHYTJpiYoIFa) | 2:26 | 2023-02-24 |  |
 | [Verstoppertje](https://open.spotify.com/track/1anlPFtoqIqt80I5XVxauQ) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Verstoppertje](https://open.spotify.com/album/2sg26L0cngTtN5yVcSnOPy) | 3:01 | 2023-02-24 |  |
 | [What A Life](https://open.spotify.com/track/3EMQsMEtDmKF4qHFFpp987) | [Witness](https://open.spotify.com/artist/0Iw1OjYAQsM0RxEQVlhieu) | [What A Life](https://open.spotify.com/album/57FJhomwfSkunigm2f3u5k) | 3:34 | 2023-02-24 |  |
-| [What's That Sound](https://open.spotify.com/track/0FLvjeVDjRrKW3hwNDylT6) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [What's That Sound](https://open.spotify.com/album/5ApqUzToMYI5NG5EEfmRlP) | 3:20 | 2023-02-24 |  |
+| [What's That Sound](https://open.spotify.com/track/0FLvjeVDjRrKW3hwNDylT6) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [What's That Sound](https://open.spotify.com/album/5ApqUzToMYI5NG5EEfmRlP) | 3:20 | 2023-02-24 | 2023-02-26 |
+| [What's That Sound](https://open.spotify.com/track/7Gj0Z7AnSwDH85rg1wgSBX) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [What's That Sound](https://open.spotify.com/album/0qpZh1uOVHVnKBBibeTJiX) | 3:20 | 2023-02-24 |  |
 | [Wings](https://open.spotify.com/track/4l61TlfmTwxt7PdzEe28rz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Wings](https://open.spotify.com/album/1gZbP4bJhkyyompPUyfAdj) | 1:58 | 2023-02-24 |  |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-02-24 |  |
 | [Zilver](https://open.spotify.com/track/1kBqF2rRhxk6ho9lbU39e1) | [BARNSTEEN](https://open.spotify.com/artist/0OqM9K8DOCzx6dU8ZzIUcF) | [Zilver](https://open.spotify.com/album/70IsaZdOyxGPnCNKngX2jO) | 3:31 | 2023-02-24 |  |

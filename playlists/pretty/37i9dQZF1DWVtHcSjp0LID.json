@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 50897,
+  "num_followers": 50950,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGY0ZTA2NjU5ZGI2OGY5MzM5NzFhZTc4MWNlZjQwYzc5",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDU2NTgwNDg1MzMyNDUxMDc3OGMwMjk0NDRkMWIwNzI1",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 487868,
       "name": "Fading",
       "url": "https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "See You When You Get There",
+        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 364795,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "See You When You Get There",
-        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 364795,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Forward Escape",
         "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 236500,
       "name": "Gulch",
       "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "It's Just A Silly Phase I'm Going Through",
+        "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
+      },
+      "artists": [
+        {
+          "name": "Flabaire",
+          "url": "https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X"
+        }
+      ],
+      "duration_ms": 295592,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Miracle Of The Rose EP",
         "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "It's Just A Silly Phase I'm Going Through",
-        "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
-      },
-      "artists": [
-        {
-          "name": "Flabaire",
-          "url": "https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X"
-        }
-      ],
-      "duration_ms": 295592,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "like me",
         "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Passengers",
         "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vasudeva",
-        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 376720,
-      "name": "Vasudeva",
-      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Sky Float Sun",
         "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vasudeva",
+        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Vasudeva",
+      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
-        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
-      },
-      "artists": [
-        {
-          "name": "Da Vosk Docta",
-          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "VIEW FROM MY BALCONY AT NIGHT",
-      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 330145,
       "name": "Occasional Magic - Ulrich Schnauss Remix",
       "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
+        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
+      },
+      "artists": [
+        {
+          "name": "Da Vosk Docta",
+          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
+        }
+      ],
+      "duration_ms": 308576,
+      "name": "VIEW FROM MY BALCONY AT NIGHT",
+      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1339,8 +1339,8 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Two of Us",
-        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
         }
       ],
-      "duration_ms": 344978,
-      "name": "Trivia",
-      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
+      "duration_ms": 401084,
+      "name": "Godt Begyndt",
+      "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
     },
     {
       "added_at": "2022-07-15 17:34:15",

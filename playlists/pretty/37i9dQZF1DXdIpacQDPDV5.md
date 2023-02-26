@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,964 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,961 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

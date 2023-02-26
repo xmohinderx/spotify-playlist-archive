@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > Corridos viejitos pero perrones!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,431 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,534 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 60 | [Alma Enamorada](https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
 | 61 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 62 | [Chevrolet Cuatro por Cuatro](https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS) | [Los Dos Grandes De La Sierra](https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on) | [Chevrolet 4 X 4](https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6) | 3:07 |
-| 63 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
-| 64 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 |
+| 63 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 |
+| 64 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
 | 65 | [Chingon De Chingones](https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Quince Madrazos Con Sus Compas](https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2) | 3:29 |
 | 66 | [Laurita Garza](https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Corridos Bien Perrones](https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic) | 3:10 |
-| 67 | [La Fiesta De Los Perrones](https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 3:45 |
-| 68 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 |
+| 67 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 |
+| 68 | [La Fiesta De Los Perrones](https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 3:45 |
 | 69 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 |
 | 70 | [La Troca De Tres Colores](https://open.spotify.com/track/1At5H1Pyrx3sgaVvVHSzOG) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Alineando Cabritos](https://open.spotify.com/album/6MwbpboiKaGTcb3MubGa2A) | 3:20 |
 | 71 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 99 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
 | 100 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
 
-Snapshot ID: `MTY3NzAwMDg3MCwwMDAwMDAwMDgxZmRjNWVkZWI5OTNkYTU5NzZlOTFhZDY2YzI4MDdm`
+Snapshot ID: `MTY3NzAwMDg3MCwwMDAwMDAwMGRlMWUxYTBjZDViNjIwZDFmNWZkZTUxNDMyYmIyNjIz`

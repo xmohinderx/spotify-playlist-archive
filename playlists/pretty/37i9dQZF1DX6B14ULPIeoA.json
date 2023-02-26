@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 36812,
+  "num_followers": 36848,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMDc5ZjAzNjAwYTI3NjI1NTkyZmI5ODJjZjA5NTczZDQ0",
+  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMDdjMmQ3OTRiOGYwYTNlNjRjODYxMmVjZTRhMGIxMjBj",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -159,38 +159,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Por Debajo De La Mesa",
-        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
-      },
-      "artists": [
-        {
-          "name": "Serena Mendes",
-          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
-        }
-      ],
-      "duration_ms": 179838,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Por Debajo De La Mesa",
+        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
+      },
+      "artists": [
+        {
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+        }
+      ],
+      "duration_ms": 179838,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -375,8 +375,8 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
@@ -386,15 +386,11 @@
         {
           "name": "Roberto Aguilar",
           "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+      "duration_ms": 194931,
+      "name": "Como Una Flor Bolero",
+      "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -431,22 +427,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -463,6 +443,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
@@ -475,6 +471,62 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -503,42 +555,6 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Como Una Flor Bolero",
-      "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -595,22 +611,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
@@ -627,26 +627,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "Cerezo Rosa",
+        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+      "duration_ms": 184000,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -671,22 +663,6 @@
       "duration_ms": 175000,
       "name": "Cuando Me Lo Pidas",
       "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Cerezo Rosa",
-        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -739,6 +715,30 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Una Flor En La Laguna",
         "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 188894,
       "name": "Mi Negra Linda",
       "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Guitarras Mexicanas, Vol. 2",
-        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Duo: Ramos - Monterrubio",
-          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Serenata Campechana",
-      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -867,22 +847,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
-      },
-      "artists": [
-        {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Presentimiento",
         "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
       },
@@ -899,6 +863,42 @@
       "duration_ms": 180400,
       "name": "Presentimiento",
       "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+      },
+      "artists": [
+        {
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Guitarras Mexicanas, Vol. 2",
+        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Duo: Ramos - Monterrubio",
+          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Serenata Campechana",
+      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
-      },
-      "artists": [
-        {
-          "name": "Arturo Jimenes",
-          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 323164,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Me La Avente",
+        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
+      },
+      "artists": [
+        {
+          "name": "Arturo Jimenes",
+          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "A Traves Del Vaso",
         "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
       },
@@ -1579,6 +1595,22 @@
       "duration_ms": 204320,
       "name": "Cruz de olvido",
       "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Un Millon De Rosas",
+        "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
+      },
+      "artists": [
+        {
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Un Millon De Rosas",
+      "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1627,38 +1659,6 @@
       "duration_ms": 200721,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Me La Avente",
-        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Morenno",
-          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Un Millon De Rosas",
-        "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
-      },
-      "artists": [
-        {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Un Millon De Rosas",
-      "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Prometiste",
-        "url": "https://open.spotify.com/album/4qCrSxdCIWD2gJZ8PauY8S"
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
       "artists": [
         {
-          "name": "Nito Carval",
-          "url": "https://open.spotify.com/artist/1UO58vaW6Nrk9Db2Llr912"
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Prometiste",
-      "url": "https://open.spotify.com/track/2oKl1hb8wbIqs2a38mWy7g"
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     }
   ],
   "unique_name": "Caf\u00e9 de Olla",

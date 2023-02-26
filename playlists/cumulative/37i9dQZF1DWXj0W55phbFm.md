@@ -4,7 +4,7 @@
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-132 songs - 13 hr 21 min
+133 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 | 2022-08-12 |  |
 | [Weaver Of Dreams \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:35 | 2022-05-13 |  |
 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 | 2023-02-10 |  |
-| [West End Blues](https://open.spotify.com/track/2STqplYkSLD5ovON11dwcB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [This Is Jazz \#1](https://open.spotify.com/album/2xRcy7P8BrID3FSCWfD8nQ) | 3:15 | 2022-05-13 |  |
+| [West End Blues](https://open.spotify.com/track/2STqplYkSLD5ovON11dwcB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [This Is Jazz \#1](https://open.spotify.com/album/2xRcy7P8BrID3FSCWfD8nQ) | 3:15 | 2022-05-13 | 2023-02-26 |
+| [West End Blues](https://open.spotify.com/track/1yvkKwvTiQmq0Saw1quM9l) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:18 | 2023-02-10 |  |
 | [What Is This Thing Called Love](https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Clifford Brown And Max Roach At Basin Street \(Expanded Edition\)](https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV) | 7:33 | 2022-05-13 |  |
 | [What Reason Could I Give](https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Dona Nostra](https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N) | 3:47 | 2022-05-13 |  |
 | [When Your Lover Has Gone \- Instrumental](https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [2 Trumpets](https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN) | 5:10 | 2022-05-13 |  |

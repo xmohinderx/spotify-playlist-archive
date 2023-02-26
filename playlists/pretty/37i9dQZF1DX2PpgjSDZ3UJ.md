@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,788 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,793 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 52 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
 | 53 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
 | 54 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 |
-| 55 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
+| 55 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 56 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 |
-| 57 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
+| 57 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
 | 58 | [Cuando Quieres Jugar Conmigo](https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Verte Antes de Fin de Año](https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb) | 3:38 |
 | 59 | [Quédate Cerca](https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2) | 3:35 |
 | 60 | [Good Bad Times](https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx) | 3:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 65 | [Estar Aquí](https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Estar Aquí](https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM) | 3:18 |
 | 66 | [Santería](https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Santería](https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ) | 3:14 |
 | 67 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
-| 68 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
-| 69 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 |
+| 68 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 |
+| 69 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
 | 70 | [Cara De Idiota](https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Cara De Idiota](https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae) | 2:33 |
 | 71 | [Acción \- O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano](https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Acción \(O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano\)](https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj) | 4:08 |
 | 72 | [Y Ahora](https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:12 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 | 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGQ0Yjc4NjU5MGM0NmVkYWI1MTg0ODI0NDIwMWY2NGU1`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGFhZjRkZDk3ZTQyYzg1ZGJjNzNmMGIxNWZhNWY0YjU0`

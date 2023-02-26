@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-304 songs - 17 hr 53 min
+305 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,8 +284,9 @@
 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 | 2023-01-19 |  |
 | [Till Then](https://open.spotify.com/track/6cCdW3KSYyXf5RUMpYLRLI) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Daphne](https://open.spotify.com/album/6Cfk8r536eOg7neP6W3Pfl) | 3:16 | 2022-12-02 | 2023-02-18 |
 | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/album/6W3vlNqiYjKE5BEAKTmlpP) | 3:33 | 2021-12-16 | 2022-06-17 |
+| [Told you so](https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 4:49 | 2023-02-17 |  |
 | [Told you so](https://open.spotify.com/track/21X3h6KM8BfxqcrrHD7ybj) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Told you so](https://open.spotify.com/album/0NtlI4QSCeyq9S3LLLZVp1) | 4:49 | 2022-12-21 | 2023-01-16 |
-| [Told you so](https://open.spotify.com/track/2S5Ews7qHXfQTtbTPF7oB7) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 4:49 | 2022-12-29 |  |
+| [Told you so](https://open.spotify.com/track/2S5Ews7qHXfQTtbTPF7oB7) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 4:49 | 2022-12-29 | 2023-02-26 |
 | [Told you so](https://open.spotify.com/track/6pZpkqgCRWSDGfkZHRbP0e) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6) | 4:49 | 2022-12-29 | 2023-01-18 |
 | [Too Good](https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab) | 3:42 | 2021-12-16 | 2022-07-07 |
 | [Try](https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Try](https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7) | 4:22 | 2022-03-10 | 2023-02-18 |

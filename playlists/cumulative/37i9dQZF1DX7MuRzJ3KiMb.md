@@ -4,7 +4,7 @@
 
 > el amor es <3
 
-135 songs - 7 hr 42 min
+136 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Lo Nuestro](https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk) | [Sofía Trenti](https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU) | [Lo Nuestro](https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW) | 4:27 | 2022-02-25 | 2022-11-13 |
 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 | 2023-02-24 |  |
 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 | 2023-02-24 |  |
-| [Me Quieres Como Soy](https://open.spotify.com/track/79oGee7n59xU3CZr7fkK84) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Me Quieres Como Soy](https://open.spotify.com/album/2DubvBe51q1uMXO4LP6WqE) | 2:46 | 2023-02-14 |  |
+| [Me Quieres Como Soy](https://open.spotify.com/track/79oGee7n59xU3CZr7fkK84) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Me Quieres Como Soy](https://open.spotify.com/album/2DubvBe51q1uMXO4LP6WqE) | 2:46 | 2023-02-14 | 2023-02-26 |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-01-27 | 2023-02-25 |
 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 | 2023-02-18 | 2023-02-25 |
 | [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 | 2022-02-25 | 2023-01-28 |
@@ -109,6 +109,7 @@
 | [quiero que seas tú <3](https://open.spotify.com/track/4SSuBEqhW6CR8yOzmMxTyE) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [quiero que seas tú <3](https://open.spotify.com/album/15YdEPMDeS41taHKc8SVTV) | 3:35 | 2023-01-27 | 2023-02-25 |
 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 | 2022-02-25 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 | 2022-02-25 | 2023-02-15 |
+| [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 | 2023-02-24 |  |
 | [Sabes Bien](https://open.spotify.com/track/7fz2bdltfrlFRnhv6hpgTa) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Volver A](https://open.spotify.com/album/4T8bQZALNGcpVUXlBNKuYY) | 2:50 | 2023-02-18 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-06-24 |  |
 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 | 2022-02-25 |  |

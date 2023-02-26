@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,552 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,651 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 43 | [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 |
 | 44 | [Sehnsucht](https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ) | 2:32 |
 | 45 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 |
-| 46 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 |
-| 47 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 |
-| 48 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 |
-| 49 | [KISSENSCHLACHT](https://open.spotify.com/track/5s1EwpwmgQJ8Ti3ltrJdO8) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:51 |
+| 46 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 |
+| 47 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 |
+| 48 | [KISSENSCHLACHT](https://open.spotify.com/track/5s1EwpwmgQJ8Ti3ltrJdO8) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:51 |
+| 49 | [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 |
 | 50 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 
-Snapshot ID: `MTY3NzI1MzA4MCwwMDAwMDAwMDA0MWE3YmE5NzU1YmNkYWRjZWQyMjNlNWY3OWU0ZWYy`
+Snapshot ID: `MTY3NzI1MzA4MCwwMDAwMDAwMDg1ZDhmZjA4Y2IzMjc2OWYyN2ZmOTlkN2E4ZDQwZDAx`

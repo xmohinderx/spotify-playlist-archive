@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مصطفى حجاج
 
-352 songs - 20 hr 36 min
+353 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 | 2022-02-17 | 2022-05-19 |
 | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE), [Kareem Saleh](https://open.spotify.com/artist/4qe6Wv1Cjj0LyU0eWdde0Q) | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/album/6la9EzGFogBTcjm88alqTA) | 2:18 | 2022-04-07 | 2022-05-22 |
 | [Shakshaka](https://open.spotify.com/track/5Eq09G3fJGaKeWDPq1CeH9) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Shakshaka](https://open.spotify.com/album/5hdm0gJYmtCnQYd0gzOu4G) | 2:33 | 2021-12-23 | 2022-03-10 |
-| [Shokr Khas](https://open.spotify.com/track/1umEMxmOa7hn6XGjqggQ4q) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Shokr Khas](https://open.spotify.com/album/6SWL7U28mMRQOMsJSEGF2C) | 3:34 | 2023-02-23 |  |
+| [Shokr Khas](https://open.spotify.com/track/1umEMxmOa7hn6XGjqggQ4q) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Shokr Khas](https://open.spotify.com/album/6SWL7U28mMRQOMsJSEGF2C) | 3:34 | 2023-02-23 | 2023-02-26 |
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-03-31 | 2022-07-20 |
 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2021-12-29 | 2022-03-12 |
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-07 | 2022-09-02 |
@@ -320,6 +320,7 @@
 | [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
 | [سوكسيه](https://open.spotify.com/track/2e9tv43tcu7X9pqxvKkkRI) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [سوكسيه](https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa) | 3:27 | 2021-12-23 | 2022-03-10 |
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
+| [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 |  |
 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 | 2023-01-06 | 2023-02-17 |
 | [صدقونا](https://open.spotify.com/track/4PnLVm1FmAZtq0IWY5HYsA) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صدقونا](https://open.spotify.com/album/4SAXz6gJcUj3M0a9eZQbnS) | 3:01 | 2023-02-16 |  |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2021-12-23 | 2022-02-12 |

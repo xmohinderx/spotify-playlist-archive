@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,155,713 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,156,492 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 20 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 |
 | 21 | [White Hearts](https://open.spotify.com/track/1Et16oyOtQgq3KhMRIN8BZ) | [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [White Hearts](https://open.spotify.com/album/5WcMHMvIbLDbQuA0Fckqpo) | 2:27 |
 | 22 | [Free Your Mind \- Alex Stein Remix](https://open.spotify.com/track/4uU140mhIS8nZycSuW2QI1) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:43 |
-| 23 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 |
+| 23 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 |
 | 24 | [Make You Freak](https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Make You Freak](https://open.spotify.com/album/5NSptPSZRkY5uWJo7Hg0vg) | 3:48 |
 | 25 | [The Coldest Form](https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [CNTRBND](https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk) | [The Coldest Form](https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh) | 6:00 |
 | 26 | [Dark Way](https://open.spotify.com/track/1mftAIgBSA5SkRFIwml1Hd) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Dark Way](https://open.spotify.com/album/2aFfrO6zSpIDB6kz6xDH2I) | 6:32 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 57 | [Into the Night](https://open.spotify.com/track/0rRktaJzIA6OYB82s6r8jz) | [Slin Bourgh](https://open.spotify.com/artist/6Okn2ApUQv56TnYTOhCidM), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Into the Night](https://open.spotify.com/album/2XYrKWUIPFZFaAVcsYFDOM) | 5:02 |
 | 58 | [Delirium](https://open.spotify.com/track/19MYFJHlTK4bUn3wYEl3TO) | [MILLA LOU](https://open.spotify.com/artist/54SwMmuQHT1ZhCa3LMe3Ng), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Delirium](https://open.spotify.com/album/5hpp87ZHVaYJWzM5ysScBN) | 6:26 |
 | 59 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
-| 60 | [Rosso Profondo](https://open.spotify.com/track/6M9VBE2zlGQa3cT6VNzgeB) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5ABj3AqPtraY5zeMjymw0k) | 5:33 |
+| 60 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 |
 
-Snapshot ID: `MTY3NzIzNzAwMiwwMDAwMDAwMDRmNWFiMWM5NDc4M2Y1ZjM3NzQ3ZGQ1M2IyYWY5ZTE1`
+Snapshot ID: `MTY3NzIzNzAwMiwwMDAwMDAwMGI3ZmExMmQ3Mzg4MTliMDg1Nzg1NjBjMjg5NTY1MzFm`

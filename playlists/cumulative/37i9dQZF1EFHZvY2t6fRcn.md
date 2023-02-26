@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 5 hr 57 min
+106 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 | 2021-12-27 |  |
 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 | 2022-09-25 |  |
 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 | 2021-12-27 |  |
+| [flicker start](https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:40 | 2023-02-25 |  |
 | [Found](https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:06 | 2021-12-27 |  |
 | [Fuck Me Up](https://open.spotify.com/track/1VcwifrNRxSIkHtqy13vax) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/32NQLuqP0xjHSjjD9Peb4N) | 3:07 | 2022-10-13 |  |
 | [Fuck Me Up](https://open.spotify.com/track/2I6dXeG4yOmf4aztiXPjWE) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/7n3YiMbN91Cwc9amrzmjgo) | 3:07 | 2021-12-27 | 2022-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,205 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,298 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 29 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 |
 | 30 | [Cotton Candy](https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4) | 1:33 |
 | 31 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 |
-| 32 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
+| 32 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 |
 | 33 | [SWEET N SOUR](https://open.spotify.com/track/5mfTEJE7J0HoZslX1qRHIm) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [SWEET N SOUR](https://open.spotify.com/album/6DaE9DH0JnFWPcf1YRVcjS) | 2:17 |
-| 34 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 |
+| 34 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
 | 35 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 |
 | 36 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
 | 37 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 58 | [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 |
 | 59 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 60 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
-| 61 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
-| 62 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
-| 63 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
+| 61 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
+| 62 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
+| 63 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
 | 64 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 |
 | 65 | [That I Miss You](https://open.spotify.com/track/1qja4itnsquIxIofomg2PE) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb) | 2:20 |
 | 66 | [Waltzing Back](https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq) | 3:12 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 87 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 |
 | 88 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 |
 | 89 | [Flowers](https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:34 |
-| 90 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 |
-| 91 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 |
+| 90 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 |
+| 91 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 |
 | 92 | [Satellite](https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/3na3FupK0QfSArtzyBRmLs) | 3:11 |
 | 93 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
 | 94 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 |
-| 95 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
-| 96 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
+| 95 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
+| 96 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
 | 97 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
 | 98 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 99 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
 | 100 | [Honeycomb](https://open.spotify.com/track/2NFlLmWIusCPE5yrBUgRXO) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Honeycomb](https://open.spotify.com/album/7hEIQU3XSx8m7J58zZxL3C) | 2:54 |
 
-Snapshot ID: `MTY3NjA2NDc0MSwwMDAwMDAwMGZkNmYzNGMxNTFjNjI3Y2ExYTVkMzBiZGM4MDEzMmQy`
+Snapshot ID: `MTY3NjA2NDc0MSwwMDAwMDAwMDBkZTY3MzNlNjgxYWI2ODI3MjVjOTdkMWRhNDlhOGMw`

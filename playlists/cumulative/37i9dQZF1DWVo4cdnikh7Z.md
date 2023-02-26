@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Maaveeran
 
-509 songs - 1 day 7 hr 48 min
+510 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Theekari \(From "Dasara"\)](https://open.spotify.com/track/2lFyjxhw63wuKlFldeT6Jq) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Theekari \(From "Dasara"\) \- Single](https://open.spotify.com/album/3X1YtIXOQayUxLgDKDyMuI) | 3:43 | 2023-02-14 |  |
 | [Theeratha Rakkalam \- From "Vasantha Mullai"](https://open.spotify.com/track/7p9LVqDT4Lx0dN6i8wI18a) | [Rajesh Murugesan](https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Theeratha Rakkalam \(From "Vasantha Mullai"\)](https://open.spotify.com/album/4PBVJDCVIm1URRv4n1rsWG) | 4:26 | 2023-01-31 | 2023-02-11 |
 | [Theethiriyaai \(From "Brahmastra \(Tamil\)"\)](https://open.spotify.com/track/5XbHpOBN1vTU3hN1YzLqHL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Theethiriyaai \[From "Brahmastra \(Tamil\)"\]](https://open.spotify.com/album/64zZPIAQB8N3vCPfBvek0x) | 4:38 | 2022-07-17 | 2022-10-15 |
+| [Theevinai Aaraathaa](https://open.spotify.com/track/4T4qrhpNahHNVN1pBOPSo4) | [Rudhraavelu](https://open.spotify.com/artist/575du5IbinJ1jzRR3RAjQU), [Sam P\. Keerthan](https://open.spotify.com/artist/1Fv7udKq3x8NXfcdjb0Rcg) | [Theevinai Aaraathaa \(From "Iru Dhuruvam 2"\)](https://open.spotify.com/album/0ve9M4yMSLrTkb6xJDnBUU) | 2:24 | 2023-02-25 |  |
 | [Theeyaai Ododi \(From "Repeat Shoe"\)](https://open.spotify.com/track/6Ki4woLYLM25t6jspMXAXK) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Theeyaai Ododi \(From "Repeat Shoe"\)](https://open.spotify.com/album/3Gijun4ZAEboHd3fPSEGUk) | 2:18 | 2022-09-28 | 2022-10-11 |
 | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 | 2022-07-30 | 2023-01-11 |
 | [Thikatta Thikatta Kadhalippom \- From "Aneethi"](https://open.spotify.com/track/2H6mH6NcOyh5an0au8TVra) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0), [Na\. Muthukumar](https://open.spotify.com/artist/1FUjtmf6Kz6cLwFqNMXnmw) | [Thikatta Thikatta Kadhalippom \(From "Aneethi"\)](https://open.spotify.com/album/0oVy6Uwqg16BNb26nntdXX) | 4:45 | 2022-11-02 | 2022-11-22 |

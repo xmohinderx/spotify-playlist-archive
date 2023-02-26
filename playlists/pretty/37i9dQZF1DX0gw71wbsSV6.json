@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42832,
+  "num_followers": 42845,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIwOTk4NywwMDAwMDAwMDk2NWIzNTJlNzhjNTI1MDVjMDhmNWI2ZjRhMmU0M2Rk",
+  "snapshot_id": "MTY3NzIwOTk4NywwMDAwMDAwMGVkZjJhOWYzMTQ4OGQ4YzVhYTUzMmQyNDQxMTI0ODIz",
   "tracks": [
     {
       "added_at": "2023-02-23 15:00:00",
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
     },
     {
-      "added_at": "2023-02-25 09:44:12",
+      "added_at": "2023-02-26 01:06:02",
       "album": {
         "name": "Icicle",
         "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -667,54 +687,6 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
-        "name": "Ghost Notes",
-        "url": "https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 265056,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
-        "name": "\u706f\u706b",
-        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "\u706f\u706b",
-      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
-        "name": "306",
-        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "\u30df\u30a2\u30cd",
-      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -755,6 +727,38 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
+        "name": "Ghost Notes",
+        "url": "https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 265056,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
+        "name": "\u706f\u706b",
+        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "\u706f\u706b",
+      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
       },
@@ -767,6 +771,22 @@
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "added_at": "2023-02-23 15:00:00",
+      "album": {
+        "name": "306",
+        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "\u30df\u30a2\u30cd",
+      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -863,22 +883,6 @@
       "duration_ms": 109997,
       "name": "luv revolution",
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
-    },
-    {
-      "added_at": "2023-02-23 15:00:00",
-      "album": {
-        "name": "Rocket Science",
-        "url": "https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91"
-      },
-      "artists": [
-        {
-          "name": "Kenta Dedachi",
-          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "I can't seem to let you go",
-      "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,885 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,903 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 26 | [Montañas](https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Montañas](https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp) | 4:48 |
 | 27 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
 | 28 | [Recuerdos de Calahuayo \(Peru\)](https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq) | [Los Incas](https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG) | [Flutes Indiennes](https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF) | 2:05 |
-| 29 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
-| 30 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
+| 29 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
+| 30 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 | 31 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 32 | [Tiwanacu](https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN) | [Maya Andina](https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU) | [Amor Ardiente \(Bolivia y Su Folklore\)](https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c) | 3:35 |
 | 33 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
 | 50 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 
-Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMDc4NGUyMjVjYmQ0ZWRhMTc4OTVjZjAzOWZhYmNlZDM2`
+Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGU5ZjczODZkMjZkZDllYjcxOGEzMTg0NjA2ZWI1ZDcx`

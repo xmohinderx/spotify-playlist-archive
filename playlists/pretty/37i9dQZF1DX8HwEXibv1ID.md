@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,565 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,578 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 11 | [So In Love](https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Tears And Laughter](https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD) | 4:27 |
 | 12 | [C'est Magnifique](https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:36 |
 | 13 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 |
-| 14 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
-| 15 | [Night and Day \- Take 1](https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:57 |
+| 14 | [Night and Day \- Take 1](https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:57 |
+| 15 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
 | 16 | [What Is This Thing Called Love](https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:36 |
 | 17 | [Begin The Beguine \- Alternate Take](https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:15 |
 | 18 | [Experiment](https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:32 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 45 | [Rosalie](https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:49 |
 | 46 | [I Concentrate On You](https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 2:44 |
 | 47 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
-| 48 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
-| 49 | [Always True To You \(In My Fashion\)](https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Whatever Julie Wants](https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k) | 2:31 |
+| 48 | [Always True To You \(In My Fashion\)](https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Whatever Julie Wants](https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k) | 2:31 |
+| 49 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
 | 50 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
 | 51 | [True Love](https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 3:23 |
 | 52 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 75 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 
-Snapshot ID: `MTY3NjU0MjU4OCwwMDAwMDAwMDBiZmY5ZGY4Mjc5YzI4ZmYzMGU0MDA1ZTkzOTBjZTNi`
+Snapshot ID: `MTY3NjU0MjU4OCwwMDAwMDAwMDVjZjFlNTJjYWRlNzkyMTZhZjI4YWUxMzkzMWVkNjNi`

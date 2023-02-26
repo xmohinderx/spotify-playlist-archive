@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-141 songs - 10 hr 54 min
+142 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2022-12-21 |  |
 | [Altar of Tammy](https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Altar of Tammy](https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc) | 7:58 | 2022-03-30 | 2022-07-28 |
 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 | 2021-09-10 |  |
-| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 | 2023-02-23 |
+| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 |  |
 | [AT THE RIVERS EDGE](https://open.spotify.com/track/3Cf908nBvfqqH7rzAi8KbM) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 4:31 | 2021-09-10 | 2022-07-29 |
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-09-10 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/1dUJSg35YhhEeG9potM4Cv) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/3VT8eoRaoFsqjVcSu1GFfB) | 6:16 | 2021-09-10 | 2022-04-20 |
@@ -83,14 +83,15 @@
 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 | 2022-07-15 |  |
 | [La Tierra de la Culebra](https://open.spotify.com/track/3oV2LIPGCNA2HlygO7oivy) | [Matthewdavid](https://open.spotify.com/artist/4KKx8fVJ0y7EcpmYZ42jPc) | [La Tierra de la Culebra](https://open.spotify.com/album/0x0QHB165KbmxHTJFdj8GB) | 2:04 | 2021-09-10 | 2022-07-27 |
 | [Le jardin](https://open.spotify.com/track/3Ns59TJVP7nnhlQqfMOAkc) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7HZ7EZCstniARXO3CcAMxt) | 4:28 | 2021-09-10 | 2022-07-29 |
-| [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2021-09-10 |  |
+| [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2021-09-10 | 2023-02-26 |
 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 | 2021-09-10 |  |
 | [Limerence](https://open.spotify.com/track/7KWhn1J1ALqw2grLMgZoy7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/3fHY1FPrS7L6ecZtBcEaj0) | 5:29 | 2021-09-10 | 2022-04-18 |
 | [Lost in Buenos Aires](https://open.spotify.com/track/3Q3sGHjw1FHPiIV5aNyAuX) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [The Sound of Living Things](https://open.spotify.com/album/63KvbVADYi7wwExsu2lUxe) | 4:25 | 2022-03-30 | 2022-07-29 |
 | [Lumina](https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:12 | 2021-09-10 | 2022-07-29 |
+| [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 | 2021-11-12 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2021-11-12 | 2023-02-18 |
 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-30 | 2022-07-29 |
-| [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 | 2022-05-18 |  |
+| [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 | 2022-05-18 | 2023-02-26 |
 | [Morning Sun](https://open.spotify.com/track/1Si3jjKdNox3btMEcfRx0V) | [Below Clouds](https://open.spotify.com/artist/28Ml3ItdZ6mbi1q7X8hvfw) | [Morning Sun](https://open.spotify.com/album/3RRzxZkIeB5CLtTm7Fl2Lv) | 5:42 | 2022-04-12 | 2022-07-29 |
 | [Moss](https://open.spotify.com/track/5GNpU0QAAWXQ8KT2jVRazX) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours \(Expanded\)](https://open.spotify.com/album/7IPh831tMAre1SRBWzp5Vz) | 3:20 | 2021-09-10 | 2022-07-29 |
 | [Nami](https://open.spotify.com/track/31RgdmIsnmQwgFgF2qA8yB) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 3:56 | 2021-09-10 | 2022-07-29 |

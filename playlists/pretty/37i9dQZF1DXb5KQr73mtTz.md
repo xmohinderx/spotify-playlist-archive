@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,891 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,902 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 12 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 |
 | 13 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 |
 | 14 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 |
-| 15 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
-| 16 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
-| 17 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
+| 15 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
+| 16 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
+| 17 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
 | 18 | [Go Back 집에](https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Go Back 집에](https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ) | 3:47 |
 | 19 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 | 20 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 21 | [Love Alone](https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:41 |
 | 22 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
 | 23 | [The Road](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:15 |
-| 24 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
-| 25 | [Thank you for Goodbye](https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Thank you for Goodbye](https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3) | 4:13 |
+| 24 | [Thank you for Goodbye](https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Thank you for Goodbye](https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3) | 4:13 |
+| 25 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
 | 26 | [lie](https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 3:48 |
 | 27 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
 | 28 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
 | 50 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
 
-Snapshot ID: `MTY3NzIzNDkwNCwwMDAwMDAwMGQ0MzU4YzNlMGRhY2ZjOTRlNmZiYmQ5YTJiMGIyY2I3`
+Snapshot ID: `MTY3NzIzNDkwNCwwMDAwMDAwMDRjNWRiZmNjOWFkZDAwMGEzNzZjZDJjYjcwODFlZTFl`

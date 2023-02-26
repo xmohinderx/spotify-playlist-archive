@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 184000,
       "name": "DADA BA",
       "url": "https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 205090,
       "name": "FINGERS",
       "url": "https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 196000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol"
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205531,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -1682,6 +1700,24 @@
       "duration_ms": 272901,
       "name": "Sudwe Remix",
       "url": "https://open.spotify.com/track/5WruQLyuTbbGbu5VXZVT5W"
+    },
+    {
+      "album": {
+        "name": "Suffer Suffer",
+        "url": "https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq"
+      },
+      "artists": [
+        {
+          "name": "Mike Akox",
+          "url": "https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170504,
+      "name": "Suffer Suffer",
+      "url": "https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao"
     },
     {
       "album": {
@@ -2058,6 +2094,28 @@
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP"

@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 188287,
       "name": "Another Level",
       "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
@@ -4040,7 +4040,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 127797,
       "name": "Joker",
       "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
@@ -4248,10 +4248,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 150761,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/3cOpv6dg4JYT2ZegTxw5XF"
+    },
+    {
+      "album": {
+        "name": "Operators Vol. 1",
+        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150761,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
     },
     {
       "album": {
@@ -6537,6 +6559,36 @@
     },
     {
       "album": {
+        "name": "\u00a5\u20ac$",
+        "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Almondmilkhunni",
+          "url": "https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255234,
+      "name": "Six Figures",
+      "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
+    },
+    {
+      "album": {
         "name": "Slang Bang",
         "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
       },
@@ -8026,7 +8078,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 138537,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"

@@ -1,12 +1,12 @@
 {
   "description": "dif\u00edcil \u00e9 fazer o malote, sim",
-  "num_followers": 1072449,
+  "num_followers": 1072978,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI0ODYwMywwMDAwMDAwMGVmNWRiMTljOGFlMGI1YWM3YjQxODY4NTI1ZDBkOTI0",
+  "snapshot_id": "MTY3NzI0ODYwMywwMDAwMDAwMGJkNTNlNmM2N2FjNWExMGI3Mjc0MGJkNjQ2OTgwZWE0",
   "tracks": [
     {
       "added_at": "2023-02-24 14:23:23",
@@ -507,30 +507,6 @@
     {
       "added_at": "2023-02-24 14:23:23",
       "album": {
-        "name": "Baile no Morro",
-        "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        },
-        {
-          "name": "Mc Vitin Da Igrejinha",
-          "url": "https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a"
-        },
-        {
-          "name": "Dj Win",
-          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Baile no Morro",
-      "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
-    },
-    {
-      "added_at": "2023-02-24 14:23:23",
-      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": "2023-02-24 14:23:23",
+      "album": {
+        "name": "Baile no Morro",
+        "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        },
+        {
+          "name": "Mc Vitin Da Igrejinha",
+          "url": "https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Baile no Morro",
+      "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
     },
     {
       "added_at": "2023-02-24 14:23:23",
@@ -699,22 +699,30 @@
     {
       "added_at": "2023-02-24 14:23:23",
       "album": {
-        "name": "Modo Repeat",
-        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
         },
         {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         }
       ],
-      "duration_ms": 197647,
-      "name": "M\u00f3 Viagem",
-      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
+      "duration_ms": 177000,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
       "added_at": "2023-02-24 14:23:23",
@@ -743,30 +751,22 @@
     {
       "added_at": "2023-02-24 14:23:23",
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
+        "name": "Modo Repeat",
+        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
       },
       "artists": [
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
+      "duration_ms": 197647,
+      "name": "M\u00f3 Viagem",
+      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
     },
     {
       "added_at": "2023-02-24 14:23:23",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-02-24 14:23:23",
       "album": {
-        "name": "Mateca x Teto",
-        "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "Balazul",
-      "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
-    },
-    {
-      "added_at": "2023-02-24 14:23:23",
-      "album": {
         "name": "Pagodeiro",
         "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 458666,
       "name": "Pagodeiro",
       "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
+    },
+    {
+      "added_at": "2023-02-24 14:23:23",
+      "album": {
+        "name": "Mateca x Teto",
+        "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "Balazul",
+      "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
     },
     {
       "added_at": "2023-02-24 14:23:23",

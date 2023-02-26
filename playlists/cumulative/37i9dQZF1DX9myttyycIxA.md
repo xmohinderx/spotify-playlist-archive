@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-807 songs - 1 day 22 hr 10 min
+808 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Car Crash](https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [IT IS A PLEASURE TO BE HERE](https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK) | 3:30 | 2022-08-05 | 2022-12-15 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2021-03-05 | 2022-07-09 |
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-04-02 | 2022-03-27 |
+| [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 | 2023-02-17 |  |
 | [Caviar](https://open.spotify.com/track/2W0Jv4zgTdHVrT4VtnoycW) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Hideaway](https://open.spotify.com/album/2Sq7Bt3s2vPY9HgWYlTbEX) | 3:47 | 2022-04-29 | 2022-06-25 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-09-10 | 2022-04-29 |
 | [Chainsaw the Door](https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Chainsaw the Door](https://open.spotify.com/album/4QSb6tII3D5Y9BIW2sTMi9) | 2:28 | 2022-08-12 | 2022-12-03 |
@@ -214,7 +215,7 @@
 | [Dizzy](https://open.spotify.com/track/3z9BIZNLWWGlta78pY2kd2) | [Tennis System](https://open.spotify.com/artist/2ChSBG1Njjt2SQ2Lt5dziF) | [Autophobia](https://open.spotify.com/album/4GJULEg4ykZYEt5lfq6Fdp) | 3:37 | 2022-05-06 | 2022-07-09 |
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-02 | 2022-10-14 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-03-05 | 2022-04-29 |
-| [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-13 |  |
+| [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-13 | 2023-02-26 |
 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 | 2022-08-17 |  |
 | [Dog Song 2](https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:10 | 2022-10-28 |  |
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-04-26 | 2022-06-25 |

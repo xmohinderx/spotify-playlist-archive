@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,719,656 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,720,198 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 71 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 | 72 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 73 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
-| 74 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |
+| 74 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 |
 | 75 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDAzOTlhMmY1Y2E0NmRmZTkzMGE4YWIxMGI2YzYzODcw`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDQ0YjYyNGE0YzE2MjA5ODA3N2QyZDUyZDQyMTRmZTBj`

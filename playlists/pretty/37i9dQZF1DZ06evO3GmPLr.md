@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,209 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,254 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 17 | [you should call mum](https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:15 |
 | 18 | [Silhouette](https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 6:33 |
 | 19 | [Little Q, Pt\. 1 \- Interlude](https://open.spotify.com/track/0rq8WqfI2FMHYp84xNd53M) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 1:08 |
-| 20 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
-| 21 | [Flowers](https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:45 |
+| 20 | [Flowers](https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:45 |
+| 21 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 22 | [X](https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 6:04 |
 | 23 | [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 |
-| 24 | [Abracadabra](https://open.spotify.com/track/4sDvfEUH3NMH6Yet8V5rAD) | [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [As If It Were Forever](https://open.spotify.com/album/1N0M6NcjwI8CNXv8yGuBvZ) | 4:06 |
-| 25 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 |
+| 24 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 |
+| 25 | [Abracadabra](https://open.spotify.com/track/4sDvfEUH3NMH6Yet8V5rAD) | [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [As If It Were Forever](https://open.spotify.com/album/1N0M6NcjwI8CNXv8yGuBvZ) | 4:06 |
 | 26 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
 | 27 | [where’s my lighter](https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 3:53 |
 | 28 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 32 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 | 33 | [Blank Canvas \(Interlude\)](https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 1:35 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDA0M2MyZmNhNjljN2ViYTE4MzAwOTMxNTYxYjlmNGM5Zg==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDA4OWRhNjZhYWUzMDBiNzU5NWIxZmMzYWNjY2Y5ZDM4Yw==`

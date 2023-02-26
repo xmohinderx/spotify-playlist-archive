@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Play Your Part\. <br/>Don't forget to Vote\. <br/><br/><br/>Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FsN9h4j\-RjC56CRz6HEvpA"> Rema </a>
+> Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FsN9h4j\-RjC56CRz6HEvpA"> Rema </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,124 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,473 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 79 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 80 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 |
 
-Snapshot ID: `MTY3NzE4OTMxMCwwMDAwMDAwMGI5ZDczMjBiNmQ5ZDlkNmY2NWFhODkwNzVjM2EwY2Vh`
+Snapshot ID: `MTY3NzMyOTk0MCwwMDAwMDAwMDNkNTE1NzExODhkMDEwNDMxZTZkZGYxNTIyMzMxZDMx`

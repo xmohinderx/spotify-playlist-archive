@@ -1009,6 +1009,32 @@
     },
     {
       "album": {
+        "name": "ASI",
+        "url": "https://open.spotify.com/album/3vUOKoLXP4CWVDE8s6juFH"
+      },
+      "artists": [
+        {
+          "name": "OSKAR",
+          "url": "https://open.spotify.com/artist/5Z8jNr8WZoF7FnfHt9UPP4"
+        },
+        {
+          "name": "Rikko",
+          "url": "https://open.spotify.com/artist/6aCbJQKHvunClgSkhGWcUE"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "ASI",
+      "url": "https://open.spotify.com/track/0uzg5TTKteL3Id1SDZbLF0"
+    },
+    {
+      "album": {
         "name": "PROTOTYPES",
         "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
       },
@@ -3704,7 +3730,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 168813,
       "name": "Classy",
       "url": "https://open.spotify.com/track/2gabYQpZMiMuujoHreQw2o"
@@ -4574,6 +4600,28 @@
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
+    },
+    {
+      "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
       "album": {
@@ -5470,7 +5518,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 188709,
       "name": "DREME (feat. Rytmus)",
       "url": "https://open.spotify.com/track/4WHvsDDIHyvuPeTmQxl4oQ"
@@ -7802,7 +7850,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 224062,
       "name": "High speed",
       "url": "https://open.spotify.com/track/0lh2ff6BeCP2L05kDUkEjo"
@@ -9626,7 +9674,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 212369,
       "name": "Je\u0161t\u011b chv\u00edli",
       "url": "https://open.spotify.com/track/4azuIRlW1atR3AYWrR3wlo"
@@ -14086,7 +14134,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 139080,
       "name": "Neviem \u010do som mal",
       "url": "https://open.spotify.com/track/4Fr0vY8vcyn4nSf4b1OTR9"
@@ -14426,6 +14474,24 @@
       "duration_ms": 162909,
       "name": "No Hands",
       "url": "https://open.spotify.com/track/1gg4RBSGvCOvxpajAulLa0"
+    },
+    {
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "No mor\u00eb talk",
+      "url": "https://open.spotify.com/track/7qPiAhk71D2RqLRtnjDL76"
     },
     {
       "album": {
@@ -16407,6 +16473,36 @@
     },
     {
       "album": {
+        "name": "PUMPA (ORIGINAL VERSION)",
+        "url": "https://open.spotify.com/album/7dkS2r9ZWvgPXmJFpZe9B6"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Nuri",
+          "url": "https://open.spotify.com/artist/5oSkPEVFq2AQnJPVgFgdv5"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188562,
+      "name": "PUMPA - ORIGINAL VERSION",
+      "url": "https://open.spotify.com/track/5n6mPIGaKf87Gp2HZ2LNil"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -17432,7 +17528,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 145160,
       "name": "S l\u00e1skou, Luk\u00e1\u0161",
       "url": "https://open.spotify.com/track/1ke6pjpooJymwb1AXoPwhG"

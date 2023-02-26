@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
-  "num_followers": 526437,
+  "num_followers": 526658,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDQ0YzkzOWU0MDYyZjgxOWI2MDYzMmExZGNmZjQxMGM0",
+  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDg1YjRkZDc4MDFiNGIwYTQwN2M1YjUxZDBjYmQ1YmFj",
   "tracks": [
     {
       "added_at": "2022-07-29 21:53:17",
@@ -59,18 +59,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+      "duration_ms": 167480,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -187,22 +191,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 180906,
       "name": "1, 2 Many",
       "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Out in the Middle",
         "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 166300,
       "name": "Out In The Middle",
       "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 192053,
       "name": "Good as You",
       "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Ol' Red",
-      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Changes In Latitudes, Changes In Attitudes",
         "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 250933,
       "name": "Margaritaville",
       "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Ol' Red",
+      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Memory I Don't Mess With",
-        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 180616,
-      "name": "Memory I Don't Mess With",
-      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Memory I Don't Mess With",
+        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 180616,
+      "name": "Memory I Don't Mess With",
+      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
     },
     {
       "added_at": "2022-07-29 21:53:17",

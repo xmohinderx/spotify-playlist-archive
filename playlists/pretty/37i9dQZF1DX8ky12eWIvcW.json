@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
-  "num_followers": 2424383,
+  "num_followers": 2425074,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA1OTA0OSwwMDAwMDAwMGEwMzI0MDg3ZmM3YTRkMTg4M2Q5MTNjMThlMmEzYWUz",
+  "snapshot_id": "MTY3NjA1OTA0OSwwMDAwMDAwMDkxMWVkNmNmYzJlYWEyOTM5NjBhOTUxMDExOWMwZThl",
   "tracks": [
     {
       "added_at": "2022-12-30 17:23:40",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
-        "name": "Dutty Rock (20th Anniversary)",
-        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "The Definition Of X: Pick Of The Litter",
-        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 217586,
-      "name": "X Gon' Give It To Ya",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1099,6 +1083,22 @@
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
+        "name": "The Definition Of X: Pick Of The Litter",
+        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "X Gon' Give It To Ya",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
         "name": "Street Love",
         "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 273133,
       "name": "You",
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
-        "name": "93 'til Infinity",
-        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Mischief",
-          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "93 'Til Infinity",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 303493,
       "name": "Passin' Me By",
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1671,18 +1671,22 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+        "name": "The Sound of Revenge",
+        "url": "https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Chamillionaire",
+          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
         }
       ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+      "duration_ms": 303053,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9"
     }
   ],
   "unique_name": "Throwback Jams",

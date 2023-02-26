@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-375 songs - 21 hr 18 min
+376 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Outro Mar](https://open.spotify.com/track/6EQhn0ZYXVi8IPBS4cA5ku) | [Brisa](https://open.spotify.com/artist/0h86oLtyPHlFgPyr7AcAtC) | [Outro Mar](https://open.spotify.com/album/3skOTwzTRlaHveWwNcol3l) | 3:35 | 2022-02-02 | 2023-02-03 |
 | [Outros Planos](https://open.spotify.com/track/30t2xt3amQEfMIbvI15054) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Outros Planos](https://open.spotify.com/album/7GMXmkE4g6yWf0BlZLahhQ) | 3:41 | 2023-01-04 |  |
 | [Overthinking](https://open.spotify.com/track/64lehEwmtmiB607vXFShyn) | [Melyah](https://open.spotify.com/artist/7M3xFnNddpYffPgjzpt7f1) | [Overthinking](https://open.spotify.com/album/3Q8Yoh0bEjDauYjmDYkUjV) | 3:42 | 2023-02-03 |  |
-| [oxalá](https://open.spotify.com/track/1V51LGS9nZroBDzYZnTsMG) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:30 | 2023-02-03 |  |
+| [oxalá](https://open.spotify.com/track/1UbsdHbelOKpiGjMJwOh0x) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:30 | 2023-02-03 |  |
+| [oxalá](https://open.spotify.com/track/1V51LGS9nZroBDzYZnTsMG) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:30 | 2023-02-03 | 2023-02-26 |
 | [oxalá](https://open.spotify.com/track/32ufWfmHa4z61ycWzP3L7P) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3RlHbp1yJFvvBnJWZQyd3n) | 4:30 | 2023-02-03 | 2023-02-19 |
 | [oxalá](https://open.spotify.com/track/65yHOhKHCQ9AIJw4ZAPgS3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [oxalá](https://open.spotify.com/album/7bmqrprnXd6k06srmXagPF) | 4:31 | 2023-02-03 | 2023-02-12 |
 | [Paraíso](https://open.spotify.com/track/2aqjj2C8ZWnHbw31TIkZcQ) | [Tasman Edge](https://open.spotify.com/artist/50caqmkFJTqVSKMYvjmEK7), [Rita Senhor](https://open.spotify.com/artist/76YPktW3HuXfS1ls2vcswZ) | [Paraíso](https://open.spotify.com/album/25TldDXVcA50rwT7IF7dSm) | 3:21 | 2022-09-06 | 2022-11-02 |

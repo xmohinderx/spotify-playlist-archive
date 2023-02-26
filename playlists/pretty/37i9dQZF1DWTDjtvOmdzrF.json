@@ -1,12 +1,12 @@
 {
   "description": "Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.",
-  "num_followers": 541933,
+  "num_followers": 542027,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2NDkyMSwwMDAwMDAwMDdjMTUxNzExMDAzNzBmYzNjNzZkODFiMTMyZWViNTRk",
+  "snapshot_id": "MTY3NzE2NDkyMSwwMDAwMDAwMDlkMTUxZjNkMzZhNGYyYjQ0ZWYyNWI5ZmUwYjU0NGYz",
   "tracks": [
     {
       "added_at": "2023-02-23 15:08:41",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "8 Tahun",
-        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
-      },
-      "artists": [
-        {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "Sesuatu Di Jogja",
-      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
         "name": "Lelaku",
         "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 229986,
       "name": "Aku Tenang",
       "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
+        "name": "8 Tahun",
+        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
+      },
+      "artists": [
+        {
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "Sesuatu Di Jogja",
+      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "Putus Atau Terus",
-        "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 248823,
-      "name": "Putus Atau Terus",
-      "url": "https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
         "name": "1st Special Edition",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 245400,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
+        "name": "Putus Atau Terus",
+        "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 248823,
+      "name": "Putus Atau Terus",
+      "url": "https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL"
     },
     {
       "added_at": "2023-02-23 15:08:41",

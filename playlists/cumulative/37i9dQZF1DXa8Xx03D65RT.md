@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-547 songs - 23 hr 23 min
+548 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [The Parchment Moon](https://open.spotify.com/track/7J3lkfbNJGpJQZOq4xZv4t) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [The Parchment Moon](https://open.spotify.com/album/7rcZ78F9uYe9xFeiLNi9Rs) | 2:12 | 2023-02-20 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-05-27 |  |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2022-05-27 | 2022-07-21 |
+| [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-05-27 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-05-27 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-05-27 |  |
@@ -502,7 +503,7 @@
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-05-27 | 2023-01-21 |
 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 | 2022-08-09 | 2023-01-21 |
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 |  |
+| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 | 2023-02-26 |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-05-27 | 2023-02-15 |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-05-27 | 2022-09-24 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-05-27 |  |

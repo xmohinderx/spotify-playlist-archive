@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 252093,
+  "num_followers": 252208,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMGE1YmM1MGY3ZDY1ZmMxNGFlMDkwMTNlYmEzZTM2Yjhk",
+  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMGJhYjJiMDQ2Y2RhZjk1YjAzOTIwMTE0NmIxZWQ5NjFk",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Under Your Spell Again",
-      "url": "https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Pure... Country",
         "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 169573,
       "name": "The Three Bells",
       "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Under Your Spell Again",
+      "url": "https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 154440,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Four Walls",
-      "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
+      "duration_ms": 154440,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Decca Singles 1952-1953",
-        "url": "https://open.spotify.com/album/3i4OTQnJVagBNrNYnuaiuc"
-      },
-      "artists": [
-        {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
       },
@@ -1195,18 +1163,34 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "The Decca Singles 1952-1953",
+        "url": "https://open.spotify.com/album/3i4OTQnJVagBNrNYnuaiuc"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
         }
       ],
-      "duration_ms": 113240,
-      "name": "Blue, Blue Day",
-      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
+      "duration_ms": 159453,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Four Walls",
+      "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1223,6 +1207,22 @@
       "duration_ms": 161440,
       "name": "Fraulein",
       "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 113240,
+      "name": "Blue, Blue Day",
+      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
     },
     {
       "added_at": "2023-01-02 21:32:07",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-603 songs - 1 day 6 hr 33 min
+604 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [hatırla](https://open.spotify.com/track/2XruYLgVQP1cgTO4QpH8pJ) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [hatırla](https://open.spotify.com/album/5N6QI8kqqWnA9VkhGOnVtv) | 2:36 | 2021-05-13 | 2021-06-20 |
 | [Hay Hay](https://open.spotify.com/track/0awjgmoviztbv4tnHUUzUE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hay Hay](https://open.spotify.com/album/2Ziw3fTldn7Q0HHUFTXYpe) | 3:38 | 2021-06-20 | 2021-09-12 |
 | [Hayatım Kaymış](https://open.spotify.com/track/7dxlHPdMeGZQDX70TK0jB5) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Hayatım Kaymış](https://open.spotify.com/album/0glBp4JJvAthxFRfklMOde) | 4:06 | 2021-08-16 | 2022-01-15 |
-| [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-28 |  |
+| [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-28 | 2023-02-26 |
 | [Hayrola](https://open.spotify.com/track/7HgEjJCh0hQ0GO7PjQvEF3) | [Artz](https://open.spotify.com/artist/2QU0UNvQvEZ2fuRUhkUNq4), [Bugy](https://open.spotify.com/artist/1XxdJaLo6jXdFbgR1zKJ3x), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Hayrola](https://open.spotify.com/album/5nEbYpL2jivoHAmYEG5bbD) | 3:37 | 2021-10-23 | 2022-04-19 |
 | [Hep De Yorgun](https://open.spotify.com/track/0ywlnV6QEZneCbbqLev6qL) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Keşke Herkes](https://open.spotify.com/album/38U7toi0UImOfSe76qxQtE) | 3:05 | 2022-11-28 | 2023-02-24 |
 | [Hep Mi Ben](https://open.spotify.com/track/4eDT9NP6B0OJnd5nKuBseL) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA) | [Hep Mi Ben](https://open.spotify.com/album/2Ry7nIEn65HRl8jlxJNP1G) | 3:38 | 2022-04-03 | 2022-09-11 |
@@ -411,6 +411,7 @@
 | [Nerdesin](https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q) | 2:56 | 2022-07-23 | 2023-02-05 |
 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 | 2021-06-13 | 2021-06-14 |
 | [NERDESİN](https://open.spotify.com/track/3YHvDD4kOmU0aNyq9QH5tW) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [NERDESİN](https://open.spotify.com/album/0fE1B7BGyBGXQsKUKXmlcV) | 3:45 | 2021-04-26 | 2021-05-10 |
+| [NEY LAN](https://open.spotify.com/track/0SpLI3mIFEvaVyrmPT56s3) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [NEY LAN](https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc) | 2:10 | 2023-02-25 |  |
 | [Neyse Ne](https://open.spotify.com/track/1sLJtaMAbXGdvHDiPjg0eq) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Neyse Ne](https://open.spotify.com/album/395nlaZJns6xnreX5HdExs) | 2:56 | 2021-04-04 | 2021-04-11 |
 | [NKBİ](https://open.spotify.com/track/52KeXv6Ha1ndWru3WzdNkQ) | [Ali](https://open.spotify.com/artist/6PxZyYu4CsSp2TUaYTmmUx) | [NKBİ](https://open.spotify.com/album/41xu1RICTXRwblCxCC8wyK) | 2:58 | 2022-12-09 | 2022-12-11 |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |

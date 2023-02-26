@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,577 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,855 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 24 | [Fragil](https://open.spotify.com/track/0k1akQtVHZ7PWqjxqazJoV) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [wie es ist](https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539) | 3:24 |
 | 25 | [lost](https://open.spotify.com/track/38UXs833I3BFuLT9Sq31KZ) | [Apollo Sissi](https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ) | [lost](https://open.spotify.com/album/5fhETrRmzcp29kd6ey26EW) | 2:13 |
 | 26 | [Bleib doch noch](https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Bleib doch noch](https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS) | 2:41 |
-| 27 | [Unsere Stadt](https://open.spotify.com/track/0ZnZkTH96LfKfHhn4cOUjk) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Unsere Stadt](https://open.spotify.com/album/2swQqkbjqMKNi0LyEm1ZS6) | 3:33 |
+| 27 | [Unsere Stadt](https://open.spotify.com/track/3EnPa26fIejr2zmzbK9D6U) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Endlich Wieder Sommer](https://open.spotify.com/album/6J7ed0Og9sVNB9V3TAuCmS) | 3:33 |
 | 28 | [1000 songs](https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [1000 songs](https://open.spotify.com/album/6QQiiBlobTDUx9bRMjpky6) | 2:39 |
 | 29 | [König der Nachbarschaft](https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:31 |
 | 30 | [Mit dir](https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mit dir](https://open.spotify.com/album/11u7e1gAYl8HXOJ3YAkg4n) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [Autofensterkurbel](https://open.spotify.com/track/17AbXvzl1XQi9beTioB6uV) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Autofensterkurbel](https://open.spotify.com/album/0ejDLlPc6pB1gbrSdgQvLR) | 3:21 |
 | 80 | [ZuuuUuuu](https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB) | [COBEE](https://open.spotify.com/artist/7dcsTtASWT3hrWnqYbQkw8) | [ZuuuUuuu](https://open.spotify.com/album/3ytI82d89aDnCNwBCAxN6X) | 2:33 |
 
-Snapshot ID: `MTY3NzIwMDY3NCwwMDAwMDAwMGQ3OTlhNjFjOTUzYTA4ODk3MDVhZmZjNjhjNDNkYjZm`
+Snapshot ID: `MTY3NzIwMDY3NCwwMDAwMDAwMDBjNDA3ZDU5OTU3MzcyMjFhNGVjMTE3YTEyYjI5ZTQy`

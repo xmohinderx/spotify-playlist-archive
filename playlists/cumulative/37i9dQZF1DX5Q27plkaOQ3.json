@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 185378,
       "name": "FUNNYFACE",
       "url": "https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba"
@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 222861,
       "name": "Invane",
       "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 214795,
       "name": "LOST IN YOU",
       "url": "https://open.spotify.com/track/4TMtydweRFufJuukwDH48j"
@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 181098,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/5fRv7CHYesjbCTrqmwyAGw"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 130100,
       "name": "No Rules",
       "url": "https://open.spotify.com/track/6HYx52WlKFIQxiOJg1eY2n"
@@ -4274,7 +4274,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 200857,
       "name": "Prayers",
       "url": "https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 150987,
       "name": "Raveyard",
       "url": "https://open.spotify.com/track/47Azb1Ud85D0xD9TIiLY4H"
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 143673,
       "name": "Restraint",
       "url": "https://open.spotify.com/track/27GuBokZqZ72HfLYvqmJrf"
@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 214285,
       "name": "Riding",
       "url": "https://open.spotify.com/track/6Gr5tygcL4snC03AWPCOQp"
@@ -4998,7 +4998,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 264000,
       "name": "Shank",
       "url": "https://open.spotify.com/track/6NrvGvEN9o6LutTMfvjNCQ"
@@ -5016,7 +5016,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 223448,
       "name": "Sharp Shooter",
       "url": "https://open.spotify.com/track/0ViI8m9JgQlADPjsP0Nxo2"
@@ -5268,6 +5268,28 @@
       "duration_ms": 185600,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX"
+    },
+    {
+      "album": {
+        "name": "Song Of The Year",
+        "url": "https://open.spotify.com/album/7LDZEuBiE6mViMQm7m4e02"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Song Of The Year",
+      "url": "https://open.spotify.com/track/0lwjrh66nXwlyfsHtoA0Xe"
     },
     {
       "album": {

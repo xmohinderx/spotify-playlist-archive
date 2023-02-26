@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,158 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,324 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 52 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 |
 | 53 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
 | 54 | [Calaveras y Diablitos](https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Eureka](https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf) | 3:55 |
-| 55 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [The Rico Mambo Orchestra](https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 |
-| 56 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 |
+| 55 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 |
+| 56 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [The Rico Mambo Orchestra](https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 |
 | 57 | [Dame un Besito](https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Disco Popular](https://open.spotify.com/album/1awEp9l62JJYlas31ytrAK) | 2:13 |
 | 58 | [Electric Soul](https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Mettavolution](https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q) | 3:58 |
 | 59 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 62 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Em Casa](https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0) | 4:35 |
 | 63 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 |
 | 64 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
-| 65 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
-| 66 | [Tranquilito](https://open.spotify.com/track/18raESmvANegtffrhwSnP4) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda 2](https://open.spotify.com/album/4zbTjGo8oXeLgPSO2PdsWe) | 5:46 |
+| 65 | [Tranquilito](https://open.spotify.com/track/18raESmvANegtffrhwSnP4) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda 2](https://open.spotify.com/album/4zbTjGo8oXeLgPSO2PdsWe) | 5:46 |
+| 66 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 67 | [Mar Y Cielo](https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 3:05 |
 | 68 | [Kumbayeo](https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo](https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q) | 3:34 |
 | 69 | [Curita](https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Curita](https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF) | 3:26 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 85 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
 | 86 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
 | 87 | [Una Música Brutal](https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 4:11 |
-| 88 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
-| 89 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 88 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 89 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
 | 90 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
 | 91 | [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [Lof](https://open.spotify.com/artist/4TrbIX2ppmaAvqO5IYcSH0) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 |
 | 92 | [El Extranjero](https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd) | 5:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 |
 | 100 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 |
 
-Snapshot ID: `MTY3NzI2MjA4MCwwMDAwMDAwMDQ5MTc3NGQ0MGQ3MTIzZDZlZjYxNWNjNTE0NDMxYmNl`
+Snapshot ID: `MTY3NzI2MjA4MCwwMDAwMDAwMDZkZTkxNDBhMDI5ZTQxNDE5NzcyYTViMjlmNjk2MDk2`

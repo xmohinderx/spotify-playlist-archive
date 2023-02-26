@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,187 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,197 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 64 | [Heater](https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [RTRN II JUNGLE](https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU) | 3:15 |
 | 65 | [My Love \(feat\. Jess Glynne\) \- Sigma Remix](https://open.spotify.com/track/4gjTpaz6WRV9nX7q4fHwRp) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [My Love \(feat\. Jess Glynne\) \[Remixes\]](https://open.spotify.com/album/4zQRCFEwZX7qvPij5qWlVW) | 4:30 |
 | 66 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
-| 67 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
-| 68 | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/track/6gs7Dy6ayB5PXEHpQxzaaZ) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/album/3W0HtxZIUVjn04YaW4T5x0) | 4:48 |
+| 67 | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/track/6gs7Dy6ayB5PXEHpQxzaaZ) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/album/3W0HtxZIUVjn04YaW4T5x0) | 4:48 |
+| 68 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 69 | [Questions](https://open.spotify.com/track/2yVyBp91pt3dmsaZ8nz7S3) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:02 |
 | 70 | [Sweet Harmony](https://open.spotify.com/track/6RDkBlNaNqhHBiS7bxUo3D) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Liquid](https://open.spotify.com/artist/3Hg4YYMKR6fMvkBj6SBuPo) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/6l4XPeThEaqucO0F00lUuc) | 6:08 |
 | 71 | [Summer Sun](https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Summer Sun](https://open.spotify.com/album/6lnZT31iC2GgoBswi0aBJF) | 3:00 |
 | 72 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 |
 | 73 | [Tides](https://open.spotify.com/track/7A99JonAe94FLm6DqNIpS8) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Lea Lea](https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb) | [Future History](https://open.spotify.com/album/2vNhhg37RTwKA66V8yyk0q) | 5:43 |
 | 74 | [Hold On \- Extended Mix](https://open.spotify.com/track/3PjEGu42RJ2sCWVWovlOGV) | [Matrix](https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Hold On \[UKF10\] \(Extended Mix\)](https://open.spotify.com/album/7fmARIqEp8YsMMWm2J7QXC) | 3:54 |
-| 75 | [Devil's Night](https://open.spotify.com/track/6JRzMirHyMNFOezS9kbtcl) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Devil's Night EP](https://open.spotify.com/album/7GhVfkNBfwR8cmbIC6qjMa) | 4:45 |
+| 75 | [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 |
 
-Snapshot ID: `MTY3MzU5MDg2MCwwMDAwMDAwMGNiZjkwYjU2MjU3ZmJjOTUwYTNjMmVmYjg3YjQzN2Fh`
+Snapshot ID: `MTY3MzU5MDg2MCwwMDAwMDAwMGNiNDJiODgxYzNmMjUzYmNiN2FjMjRjOGVmZWU3MjY2`

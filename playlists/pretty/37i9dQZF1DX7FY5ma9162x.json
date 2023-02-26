@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Beyonc\u00e9",
-  "num_followers": 198488,
+  "num_followers": 198657,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDQyNTZiYWIwMjQxMTRkNTQwMjNjOTYyNTYxNDBkNDYw",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGQ4N2E3ODQ4Y2Q3N2Y5MDVkNWUwMzg4MGNjYjZhMzBk",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+      "duration_ms": 186173,
+      "name": "You Right",
+      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -187,22 +191,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 186173,
-      "name": "You Right",
-      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 140068,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 140068,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "A N N I V E R S A R Y (Deluxe)",
-        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "7:00",
-      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Hate Our Love (with Big Sean)",
         "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+        "name": "A N N I V E R S A R Y (Deluxe)",
+        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 147539,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
+      "duration_ms": 188293,
+      "name": "7:00",
+      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1811,6 +1795,22 @@
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 147539,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
     },
     {
       "added_at": "2023-02-24 05:00:00",

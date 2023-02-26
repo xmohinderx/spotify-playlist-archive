@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 115444,
+  "num_followers": 115613,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5NjYwNiwwMDAwMDAwMGI4ZDU5ODhmNGI1YTU2ZmE0ODY2Nzk5YTVjODVkMmY0",
+  "snapshot_id": "MTY3NzE5NjYwNiwwMDAwMDAwMDhlMzg3ZmVhOTI2YjA2M2E5N2Q2YTQ2Mjk2MWQxMTQz",
   "tracks": [
     {
       "added_at": "2022-06-07 22:01:28",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "El Campesino y el Sol",
         "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "Para Vivir Contigo",
         "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
@@ -639,22 +639,6 @@
       "duration_ms": 155144,
       "name": "En La Barra",
       "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Nada Nuevo",
-      "url": "https://open.spotify.com/track/4uhcQhTqjG3MJJMUDPVVC9"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -675,18 +659,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 129560,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/4zLVaH8HnWApTsEwCBRYxM"
+      "duration_ms": 194946,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/4uhcQhTqjG3MJJMUDPVVC9"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -703,6 +687,22 @@
       "duration_ms": 211773,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 129560,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/4zLVaH8HnWApTsEwCBRYxM"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 139691,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
     },
     {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa"
-    },
-    {
       "added_at": "2022-06-17 05:00:00",
       "album": {
         "name": "El Hombre Que M\u00e1s Te Amo",
@@ -959,6 +943,22 @@
       "duration_ms": 196733,
       "name": "El Hombre Que M\u00e1s Te Am\u00f3",
       "url": "https://open.spotify.com/track/2yGA0E2SvFEKz17nAjWo1w"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "15 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 165405,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab"
-    },
-    {
       "added_at": "2022-06-28 17:55:57",
       "album": {
         "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
@@ -1041,6 +1025,38 @@
       "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
     },
     {
+      "added_at": "2022-06-17 05:00:00",
+      "album": {
+        "name": "15 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 165405,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab"
+    },
+    {
+      "added_at": "2023-02-26 01:05:40",
+      "album": {
+        "name": "El Rey Del Jaripeo",
+        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 194362,
+      "name": "Como Perro Con Rabia",
+      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
+    },
+    {
       "added_at": "2022-06-07 22:01:28",
       "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
@@ -1055,22 +1071,6 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
-    },
-    {
-      "added_at": "2023-02-25 09:42:54",
-      "album": {
-        "name": "El Rey Del Jaripeo",
-        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 194362,
-      "name": "Como Perro Con Rabia",
-      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Cari\u00f1o Santo",
         "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 200213,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
       },
       "artists": [
         {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 131066,
-      "name": "Cama de Piedra",
-      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
+      "duration_ms": 131066,
+      "name": "Cama de Piedra",
+      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
-      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 210279,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
         }
       ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
+      "duration_ms": 169640,
+      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
+      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1605,7 +1605,7 @@
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
@@ -1845,7 +1845,7 @@
       "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
@@ -1989,7 +1989,7 @@
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
     },
     {
-      "added_at": "2023-02-25 09:42:54",
+      "added_at": "2023-02-26 01:05:40",
       "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Styx
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,125 likes - 120 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,276 likes - 120 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 92 | [Showdown](https://open.spotify.com/track/25fOmfH1Kq6RmQrWgKFgvV) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB) | 4:08 |
 | 93 | [With A Little Luck \- Remastered 1993](https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [London Town \(Expanded Edition\)](https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk) | 5:44 |
 | 94 | [He Ain't Heavy, He's My Brother](https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Super Hits](https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ) | 4:17 |
-| 95 | [Meet Me in the Morning](https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:18 |
-| 96 | [Love Ain't For Keeping](https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 2:10 |
-| 97 | [Give Me Love \(Give Me Peace on Earth\) \- 2014 Remaster](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 |
+| 95 | [Give Me Love \(Give Me Peace on Earth\) \- 2014 Remaster](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 |
+| 96 | [Meet Me in the Morning](https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:18 |
+| 97 | [Love Ain't For Keeping](https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 2:10 |
 | 98 | [All I Can Do Is Write About It](https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 4:16 |
 | 99 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
 | 100 | [Till It Shines](https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:54 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 119 | [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 |
 | 120 | [I Found a Reason \- 2015 Remaster](https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:15 |
 
-Snapshot ID: `MTY3NDA3OTI5NywwMDAwMDAwMDdmYWQ2ODcyZGY5OWMyMzllMWRlMjRmYzE5MTNhY2Yz`
+Snapshot ID: `MTY3NDA3OTI5NywwMDAwMDAwMDE3MDU5NTZkY2U0MDA1OTdhYjBlZTAwY2UwYmI0YmQ2`

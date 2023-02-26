@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: GALE
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,550 likes - 432 songs - 23 hr 29 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,546 likes - 432 songs - 23 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

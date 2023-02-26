@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,372 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,447 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 69 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
 | 70 | [Brickyard Road \- l](https://open.spotify.com/track/7G0hwJmqqFJmaM2h1HxRZZ) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 6:40 |
 | 71 | [Shake 'Em On Down](https://open.spotify.com/track/5yEvspRUWC6YaJqwbB28bI) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/4i4ExrDUBLGaPT8Kvbo3f1) | 4:08 |
-| 72 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
-| 73 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
+| 72 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
+| 73 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
 | 74 | [Warrior](https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe) | [The Bean Pickers Union](https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT) | [Potlatch](https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq) | 4:40 |
 | 75 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
 | 76 | [Travelin' Shoes](https://open.spotify.com/track/4pxj2nEkmypTXihGBv6gB1) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Let It Flow](https://open.spotify.com/album/51KKT6XplZzoUF4h2uWV29) | 7:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
 | 100 | [Mind Bender](https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 4:16 |
 
-Snapshot ID: `MTY3NDA3ODc3NSwwMDAwMDAwMGQ3YmMxZDkwMmZmMWNhZDg1ZDkyOTJlNDFkYTYzY2M1`
+Snapshot ID: `MTY3NDA3ODc3NSwwMDAwMDAwMGExMjA2ZGY3NDZjMjBhZmRlYWMzZWRjNDAxZTRjZjhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,163 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,347 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 24 | [Andar com fé](https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 3:20 |
 | 25 | [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 |
 | 26 | [Beija Eu](https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 3:14 |
-| 27 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
-| 28 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
+| 27 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
+| 28 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
 | 29 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 30 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 |
 | 31 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 45 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
 | 46 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 47 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
-| 48 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
-| 49 | [Pra Melhorar](https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Pra Melhorar](https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv) | 4:16 |
-| 50 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 |
-| 51 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
+| 48 | [Pra Melhorar](https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Pra Melhorar](https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv) | 4:16 |
+| 49 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
+| 50 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
+| 51 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 |
 | 52 | [Samba](https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Samba](https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT) | 2:40 |
 | 53 | [Eu sei que vou te amar](https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 3:49 |
 | 54 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Ciumeira](https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Ciumeira](https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9) | 2:31 |
 | 70 | [Palavras No Corpo](https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Palavras No Corpo](https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM) | 4:02 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDdhMWI1ZDRhNTUxMWFkNTFjN2RkZDQzZWQ1MzQ0ZWJk`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDFhYTE3M2I4ZTcxMGIzODBkZjI2ZjIyNTIzYTU1YWRk`

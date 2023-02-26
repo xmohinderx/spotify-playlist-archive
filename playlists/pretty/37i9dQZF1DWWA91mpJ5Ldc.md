@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,961 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,010 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 9 | [Soprou](https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Cinco](https://open.spotify.com/album/6DqXBagxY611pulprabgLw) | 5:02 |
 | 10 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 |
 | 11 | [Quem Não Quer Sou Eu](https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 1](https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg) | 5:26 |
-| 12 | [O Jeito](https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:10 |
-| 13 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 |
+| 12 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 |
+| 13 | [O Jeito](https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:10 |
 | 14 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 |
 | 15 | [Pra Melhorar](https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 4:16 |
 | 16 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 18 | [Clima](https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Clima](https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G) | 3:36 |
 | 19 | [Bem Bom](https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Goela Abaixo](https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo) | 3:50 |
 | 20 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
-| 21 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
-| 22 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 |
+| 21 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 |
+| 22 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 | 23 | [Argumento \- Spotify Singles](https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \- Spotify Singles](https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w) | 3:23 |
 | 24 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 |
 | 25 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 35 | [Minha Menina Bonita](https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs) | 3:58 |
 | 36 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
 | 37 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
-| 38 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
+| 38 | [Besteira](https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Besteira](https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC) | 3:33 |
 | 39 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 |
-| 40 | [Besteira](https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Besteira](https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC) | 3:33 |
+| 40 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
 | 41 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
 | 42 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 |
 | 43 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
 | 60 | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 |
 
-Snapshot ID: `MTY3MzU4NDY0NiwwMDAwMDAwMDc2OTY2MTc3MmJjYzY5MDI0NzBiNDA4Y2QzMjI5YjFi`
+Snapshot ID: `MTY3MzU4NDY0NiwwMDAwMDAwMDg4MzVhNjFmNWE4ZDA5ZmUzYjI3NDQ4M2Q4ZTZlMTNh`

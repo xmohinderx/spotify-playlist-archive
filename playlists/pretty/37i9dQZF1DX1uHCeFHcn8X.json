@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s. Cover: Niall Horan.",
-  "num_followers": 877811,
+  "num_followers": 878120,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4MTgzMCwwMDAwMDAwMDk1NTE0YWE4MmY5YTAzYzBkYjlkN2MxZGZjMjdmNmEx",
+  "snapshot_id": "MTY3NjI4MTgzMCwwMDAwMDAwMGM0MzRkYWE5YWZhZTI3ZjJmMzNhYTk0Nzc2NGQ1NTll",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 223186,
       "name": "Stole the Show",
       "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 213993,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 246587,
-      "name": "Jar of Hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 246587,
+      "name": "Jar of Hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -2289,7 +2289,7 @@
       "url": "https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt"
     },
     {
-      "added_at": "2023-02-25 09:54:33",
+      "added_at": "2023-02-26 01:05:08",
       "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
@@ -3015,22 +3015,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Some Say",
         "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
       },
@@ -3047,6 +3031,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Outnumbered",
         "url": "https://open.spotify.com/album/4BQVnx1yJrDa1tcky9D9N6"
       },
@@ -3059,38 +3059,6 @@
       "duration_ms": 245699,
       "name": "Outnumbered",
       "url": "https://open.spotify.com/track/6UjZ2Yx2g2a52XxiA8ONxZ"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Me Before You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 261079,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -3115,18 +3083,34 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 222467,
-      "name": "Trying My Best",
-      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Me Before You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 261079,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -3147,18 +3131,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+      "duration_ms": 222467,
+      "name": "Trying My Best",
+      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -3175,6 +3159,22 @@
       "duration_ms": 214801,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/7i2DJ88J7jQ8K7zqFX2fW8"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 176078,
       "name": "Just a Cloud Away",
       "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -3271,22 +3271,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "1989 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/4bXCcoesMt8u99xMsbLr9U"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Selfless",
         "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
       },
@@ -3299,6 +3283,22 @@
       "duration_ms": 222386,
       "name": "EX",
       "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "1989 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/4bXCcoesMt8u99xMsbLr9U"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -3419,22 +3419,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "How Far I'll Go - Alessia Cara Version",
-      "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1JrRrStvJ9LpCYgYaMUOMH"
       },
@@ -3447,6 +3431,22 @@
       "duration_ms": 194746,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/5G2Q4Vx9zwBAdQoEWgM8uX"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "How Far I'll Go - Alessia Cara Version",
+      "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
     },
     {
       "added_at": "2023-01-12 23:00:00",

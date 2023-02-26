@@ -4,7 +4,7 @@
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-233 songs - 12 hr 32 min
+234 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-12-01 | 2022-12-01 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-11-30 |  |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/6x8to58oCuyPyuXIe5Imak) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:52 | 2022-11-30 |  |
-| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-11-30 |  |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2022-11-30 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-11-30 | 2023-02-26 |
 | [Shadows](https://open.spotify.com/track/3UTnoLehZjISbFueAmhGvY) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy), [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT) | [Shadows](https://open.spotify.com/album/4TEmyBI34m3wkoLNvy95aZ) | 3:06 | 2021-12-01 | 2022-12-01 |
 | [Sicko Drop](https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS) | 2:27 | 2021-12-01 | 2022-07-29 |
 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 | 2021-12-01 | 2022-12-01 |

@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-801 songs - 1 day 22 hr 17 min
+803 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Energy](https://open.spotify.com/track/29RJGSjNyTmqpwYXsXHcg7) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [Chyra](https://open.spotify.com/artist/0O6GiRrnADewkp91ELz39s) | [Energy/Flashing Lights](https://open.spotify.com/album/1YEirokqhDyTsI2ROTBnqA) | 4:22 | 2022-05-29 | 2022-06-04 |
 | [Enter the Club](https://open.spotify.com/track/335qIrq05dY4ZwMurOb2Wq) | [Catsinka](https://open.spotify.com/artist/2Ynro8ElWjD3skhoMLjJTh) | [Enter](https://open.spotify.com/album/4vtqvsd94cIjsgLOjQ3VUU) | 6:30 | 2022-06-24 | 2022-07-02 |
 | [Escape \(feat\. Hayla\) \- John Summit Remix](https://open.spotify.com/track/0UvddYrJK4x5OWfxpSAZNj) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[John Summit Remix\]](https://open.spotify.com/album/6LlmEKcwDAjYTqr5lu0W6v) | 3:46 | 2022-06-03 | 2022-06-11 |
+| [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 | 2023-02-25 |  |
 | [ESPIRITU](https://open.spotify.com/track/6YSt6yEYqTyzJEJ99cedmX) | [ZHOU](https://open.spotify.com/artist/6NVK5CqSzZmarjxqOf3HxX) | [ESPIRITU](https://open.spotify.com/album/609BHfosE3offjxwdRzD1Z) | 2:19 | 2022-09-23 | 2022-10-01 |
 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 | 2022-11-11 | 2022-11-19 |
 | [Everybody Everybody](https://open.spotify.com/track/0jFA5OQVrpRfBt9hTKQxv7) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Everybody Everybody](https://open.spotify.com/album/7kLFiZyNmWIH5F3cswDX6M) | 2:41 | 2022-07-09 | 2022-07-16 |
@@ -530,6 +531,7 @@
 | [Overdrive](https://open.spotify.com/track/3SR4UulC7VrZpWcuuyYxOu) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Overdrive](https://open.spotify.com/album/63Rd61Zo80nbIVo7u8i6G9) | 4:02 | 2022-04-29 | 2022-05-14 |
 | [Oye](https://open.spotify.com/track/7LrNUnWXx7ypK8jdQPH3SN) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Oye](https://open.spotify.com/album/36lGytf8UzOqkxCjxgf7Wv) | 2:45 | 2023-01-21 | 2023-01-29 |
 | [Pa Lante](https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9) | [Pa Lante](https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC) | 2:10 | 2023-02-17 | 2023-02-25 |
+| [Pam Pam](https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pam Pam](https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h) | 3:33 | 2023-02-25 |  |
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2022-07-29 | 2022-08-06 |
 | [Papi](https://open.spotify.com/track/0ku6jfwJvvtXgoZcpubwy7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Papi](https://open.spotify.com/album/7FWsxMMsncsXOGM2inA8xY) | 2:53 | 2022-10-07 | 2022-10-15 |
 | [Paranoid](https://open.spotify.com/track/1mgTKabm2LbaTW3TipyFQl) | [Taf Athorik](https://open.spotify.com/artist/1NtvUAc3VxaD0WPbBjrdhC), [ZDX](https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA) | [Paranoid](https://open.spotify.com/album/5ckYy3kDY16UdM2ovvvD0a) | 2:47 | 2022-10-07 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,947 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,005 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 17 | [Que pena](https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Beto Villa](https://open.spotify.com/artist/2xScahn880efYSHWp8SpsC) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 5:33 |
 | 18 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
 | 19 | [Esa Mujer](https://open.spotify.com/track/4CELILzlKVURLFDPtG7bVW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [No Me Compares Con Nadie](https://open.spotify.com/album/79GlGXtGZlOLBnxpKUap1h) | 3:11 |
-| 20 | [Quiero Saber De Ti](https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:57 |
+| 20 | [Entregame Tu Amor](https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:17 |
 | 21 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
 | 22 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 |
 | 23 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 |
 | 24 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 |
-| 25 | [Entregame Tu Amor](https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:17 |
+| 25 | [Quiero Saber De Ti](https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:57 |
 | 26 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
 | 27 | [Dime que me quieres](https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 5:16 |
 | 28 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
 | 50 | [Enseñame a olvidar](https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:17 |
 
-Snapshot ID: `MTY3NjMzMDIzNSwwMDAwMDAwMDM3YTY0N2Y5YTNlZDg0MDcxOGE4NzRhZGE0ZTliODQz`
+Snapshot ID: `MTY3NjMzMDIzNSwwMDAwMDAwMGZiNTg1ZTQyMTUwOWQxZTg4ZGNlNGQzYmNiZjFiMTJk`

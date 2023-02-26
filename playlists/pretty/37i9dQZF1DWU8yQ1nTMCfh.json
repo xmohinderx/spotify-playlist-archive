@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Los Mesoneros",
-  "num_followers": 278972,
+  "num_followers": 278998,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MTg0MiwwMDAwMDAwMGZkYWE2ZjAyNjY3NTNlZjc1ZTVmZmQ5ZWU4MzU0NTkw",
+  "snapshot_id": "MTY3NzI2MTg0MiwwMDAwMDAwMDJhZTk4MzcxYjZiNWIwMDhiMGRjNDc4OTMxYzM5ZDZi",
   "tracks": [
     {
       "added_at": "2023-02-24 18:04:02",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-02-24 18:04:02",
       "album": {
-        "name": "Plaza en el cielo",
-        "url": "https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 206615,
-      "name": "Plaza en el cielo",
-      "url": "https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo"
-    },
-    {
-      "added_at": "2023-02-24 18:04:02",
-      "album": {
         "name": "No me preguntes por qu\u00e9",
         "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
@@ -215,18 +199,34 @@
     {
       "added_at": "2023-02-24 18:04:02",
       "album": {
-        "name": "Todo cambi\u00f3",
-        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
+        "name": "Plaza en el cielo",
+        "url": "https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT"
       },
       "artists": [
         {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 188951,
-      "name": "Todo cambi\u00f3",
-      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
+      "duration_ms": 206615,
+      "name": "Plaza en el cielo",
+      "url": "https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo"
+    },
+    {
+      "added_at": "2023-02-24 18:04:02",
+      "album": {
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-02-24 18:04:02",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-02-24 18:04:02",
       "album": {
+        "name": "Todo cambi\u00f3",
+        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 188951,
+      "name": "Todo cambi\u00f3",
+      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
+    },
+    {
+      "added_at": "2023-02-24 18:04:02",
+      "album": {
         "name": "La Tormenta",
         "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 180428,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
-    },
-    {
-      "added_at": "2023-02-24 18:04:02",
-      "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-02-24 18:04:02",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-02-24 18:04:02",
       "album": {
+        "name": "Con los Pies en el Techo",
+        "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 207645,
+      "name": "Con los Pies en el Techo",
+      "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
+    },
+    {
+      "added_at": "2023-02-24 18:04:02",
+      "album": {
         "name": "Divergencia",
         "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 184838,
       "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
-    },
-    {
-      "added_at": "2023-02-24 18:04:02",
-      "album": {
-        "name": "Con los Pies en el Techo",
-        "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 207645,
-      "name": "Con los Pies en el Techo",
-      "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
     },
     {
       "added_at": "2023-02-24 18:04:02",
@@ -555,6 +555,22 @@
       "duration_ms": 192124,
       "name": "Desp\u00eddete Bien",
       "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2023-02-24 18:04:02",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2023-02-24 18:04:02",
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-02-24 18:04:02",
       "album": {
-        "name": "El mundo no se hizo en dos d\u00edas",
-        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
       "artists": [
         {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 245706,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-02-24 18:04:02",
@@ -815,34 +831,18 @@
     {
       "added_at": "2023-02-24 18:04:02",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+        "name": "El mundo no se hizo en dos d\u00edas",
+        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 285440,
-      "name": "Los \u00c1ngeles, California",
-      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
-    },
-    {
-      "added_at": "2023-02-24 18:04:02",
-      "album": {
-        "name": "FREESSR",
-        "url": "https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur"
+      "duration_ms": 245706,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
     }
   ],
   "unique_name": "Rock Total",

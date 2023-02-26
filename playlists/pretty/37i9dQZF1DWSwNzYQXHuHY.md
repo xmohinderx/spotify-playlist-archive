@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,566 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,575 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 18 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
 | 19 | [Lovey Dovey](https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Love to Hate You, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3) | 3:24 |
 | 20 | [Where Is Dream](https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B) | 3:03 |
-| 21 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
-| 22 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 |
+| 21 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 |
+| 22 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
 | 23 | [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 |
 | 24 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
 | 25 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 50 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 
-Snapshot ID: `MTY3NzIzNDg4MiwwMDAwMDAwMGNjZjgxNWQ1ZGEwZGQwMmVlNWEwODlhMzZiMjc1NzVm`
+Snapshot ID: `MTY3NzIzNDg4MiwwMDAwMDAwMDJkYmQ0NzkzNTMxZGRmOGNjZGUyMmRiZjAzOGRkM2Jk`

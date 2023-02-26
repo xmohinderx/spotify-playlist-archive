@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 202191,
       "name": "ABISSALE",
       "url": "https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f"
@@ -6073,6 +6073,28 @@
     },
     {
       "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
         "name": "Nuda10 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3oz5WsYXsqTN6H7H3M46LW"
       },
@@ -8695,6 +8717,36 @@
     },
     {
       "album": {
+        "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
+        "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
+      },
+      "artists": [
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181611,
+      "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
+    },
+    {
+      "album": {
         "name": "GENNARO & CIRO (feat. Baby Gang, Lacrim, Nko)",
         "url": "https://open.spotify.com/album/6PYhY0xhRsF2qy2LOmBhwF"
       },
@@ -11144,7 +11196,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 194571,
       "name": "La Bellavita (feat. Jul)",
       "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
@@ -14652,7 +14704,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 160204,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/6SQmh0L5icrThwGDTeLkg1"
@@ -16868,6 +16920,54 @@
       "duration_ms": 218486,
       "name": "ORA E QUI",
       "url": "https://open.spotify.com/track/7zNETJfblL6s91QGKeIbuM"
+    },
+    {
+      "album": {
+        "name": "ORIGAMI ALL'ALBA",
+        "url": "https://open.spotify.com/album/282p191UnQOp3i5NREMfYL"
+      },
+      "artists": [
+        {
+          "name": "Matteo Paolillo - Icaro",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        },
+        {
+          "name": "Lolloflow",
+          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153758,
+      "name": "ORIGAMI ALL'ALBA - CLARA",
+      "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
+    },
+    {
+      "album": {
+        "name": "ORIGAMI ALL'ALBA",
+        "url": "https://open.spotify.com/album/282p191UnQOp3i5NREMfYL"
+      },
+      "artists": [
+        {
+          "name": "Matteo Paolillo - Icaro",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        },
+        {
+          "name": "Lolloflow",
+          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156744,
+      "name": "ORIGAMI ALL'ALBA - MATTEO & LOLLOFLOW",
+      "url": "https://open.spotify.com/track/3LQvmsjDPQH5jpqRRx5fAe"
     },
     {
       "album": {
@@ -19734,7 +19834,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 208893,
       "name": "Se poi domani",
       "url": "https://open.spotify.com/track/2IyIs4oNWfQMihZ2Dra4Qp"

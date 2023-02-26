@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "25 Mann",
+        "url": "https://open.spotify.com/album/2FhHVeeDMN6VB6vTBecEos"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "25 Mann",
+      "url": "https://open.spotify.com/track/7gC8OO5ORfuqX4OrE9EQtE"
+    },
+    {
+      "album": {
         "name": "Zukunft 1 & 2",
         "url": "https://open.spotify.com/album/6npdmy45COickvaNIV5obJ"
       },
@@ -4551,6 +4569,28 @@
     },
     {
       "album": {
+        "name": "OOPS!",
+        "url": "https://open.spotify.com/album/3Bu40pauBLhEEMGHxMRDoe"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "City nach City",
+      "url": "https://open.spotify.com/track/2zNZyica9PueXijVVx1cEr"
+    },
+    {
+      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc"
       },
@@ -5517,6 +5557,28 @@
     },
     {
       "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -5898,7 +5960,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 134478,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/3giuo1sDdkKHIPJbsvLQhS"
@@ -9882,7 +9944,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
@@ -10268,7 +10330,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
@@ -10903,6 +10965,28 @@
     },
     {
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175554,
+      "name": "Ich glaub ich will heut nicht mehr gehen",
+      "url": "https://open.spotify.com/track/4zLCLlqLivpZXvYfQCqTWh"
+    },
+    {
+      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -10940,6 +11024,28 @@
       "duration_ms": 173916,
       "name": "Ich kenne meinen Wert",
       "url": "https://open.spotify.com/track/4WEMaxBdwazXxfdDSwVx6Z"
+    },
+    {
+      "album": {
+        "name": "Ich Liebe Dich",
+        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155152,
+      "name": "Ich Liebe Dich",
+      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
     },
     {
       "album": {
@@ -11500,6 +11606,24 @@
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+    },
+    {
+      "album": {
+        "name": "Jeden Tag mehr",
+        "url": "https://open.spotify.com/album/5eGek1JszhxfCliJx5LsnQ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164936,
+      "name": "Jeden Tag mehr",
+      "url": "https://open.spotify.com/track/6y5LixQNwrWROFebIKQfFN"
     },
     {
       "album": {
@@ -13532,7 +13656,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -14222,10 +14346,28 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
+    },
+    {
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/7AyE8MRf4dIK75mqqpks9S"
     },
     {
       "album": {
@@ -14984,7 +15126,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -17284,7 +17426,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
@@ -17788,7 +17930,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 137647,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/3JOV6IFlO4cviGK2cqeTVQ"
@@ -17818,6 +17960,32 @@
       "duration_ms": 137647,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q"
+    },
+    {
+      "album": {
+        "name": "2022 war film gewesen",
+        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137847,
+      "name": "Party Sahne",
+      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
     },
     {
       "album": {
@@ -18178,7 +18346,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -21134,7 +21302,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -25303,6 +25471,24 @@
     },
     {
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131999,
+      "name": "Wildberry Lillet",
+      "url": "https://open.spotify.com/track/6LBmaJYwbLHfQwIreMCLlw"
+    },
+    {
+      "album": {
         "name": "Wildberry Lillet",
         "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
       },
@@ -25314,7 +25500,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 132000,
       "name": "Wildberry Lillet",
       "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"

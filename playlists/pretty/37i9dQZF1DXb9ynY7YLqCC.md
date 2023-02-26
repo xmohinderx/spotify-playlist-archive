@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,427 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,480 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 28 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
 | 29 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
 | 30 | [Vas a Bailar](https://open.spotify.com/track/6Ew4raE2TqVLWjWspybOFt) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:00 |
-| 31 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
-| 32 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
+| 31 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
+| 32 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
 | 33 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
 | 34 | [Beatle](https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Radio Insomnio](https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3) | 3:29 |
 | 35 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
 | 36 | [Otra Vuelta de Tuerca](https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:21 |
 | 37 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 38 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
-| 39 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
-| 40 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
+| 39 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
+| 40 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
 | 41 | [Terminales](https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:21 |
 | 42 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
 | 43 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 70 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 |
 | 71 | [Amor de Contramano](https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy) | 5:57 |
 | 72 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
-| 73 | [Solito](https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X) | 3:56 |
-| 74 | [Hasta La Victoria](https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Perfecto](https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC) | 3:48 |
+| 73 | [Hasta La Victoria](https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Perfecto](https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC) | 3:48 |
+| 74 | [Solito](https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X) | 3:56 |
 | 75 | [100 Años](https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:01 |
 | 76 | [El Balneario de los Doctores Crotos](https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:04 |
 | 77 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
 | 78 | [Viejo](https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:24 |
 | 79 | [Amando A Mi Guitarra](https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Fiesta Sudaka \(Parte 1\)](https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu) | 5:35 |
-| 80 | [El Templo de Momo](https://open.spotify.com/track/0v1Y8sDNSPC7FAgdVlDGAQ) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48) | 3:21 |
+| 80 | [Chico Común](https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Asi Es el Rock And Roll](https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F) | 4:31 |
 
-Snapshot ID: `MTY3MjM2OTIwMCwwMDAwMDAwMDc1ZWQ3Mzk1NjY0YWZhNGZjMzg5ZTdkYzY5NTMwNDgx`
+Snapshot ID: `MTY3MjM2OTIwMCwwMDAwMDAwMDA0OGM1M2M0NGQzNDBhYjRiN2YxYmJjMDIzOWYzNmU0`

@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 287742,
+  "num_followers": 287831,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NzI2MiwwMDAwMDAwMDFkMTU5NDk0NjM1MDM5NzkwOGQzMjlkNmI2YzI1OGFk",
+  "snapshot_id": "MTY3NzI1NzI2MiwwMDAwMDAwMGE5ZjYwMWEwZjU5OTY3YzNkYzc5YTg5YzgwMzYwYTFm",
   "tracks": [
     {
       "added_at": "2023-02-24 16:47:42",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-24 16:47:42",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
-    },
-    {
-      "added_at": "2023-02-24 16:47:42",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
+    },
+    {
+      "added_at": "2023-02-24 16:47:42",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
     },
     {
       "added_at": "2023-02-24 16:47:42",
@@ -679,22 +679,18 @@
     {
       "added_at": "2023-02-24 16:47:42",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+        "name": "Entre t\u00fa y mil mares",
+        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 274773,
-      "name": "Corazon Espinado (feat. Mana)",
-      "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+      "duration_ms": 228493,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
     },
     {
       "added_at": "2023-02-24 16:47:42",
@@ -715,18 +711,22 @@
     {
       "added_at": "2023-02-24 16:47:42",
       "album": {
-        "name": "Entre t\u00fa y mil mares",
-        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
+      "duration_ms": 274773,
+      "name": "Corazon Espinado (feat. Mana)",
+      "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
     },
     {
       "added_at": "2023-02-24 16:47:42",

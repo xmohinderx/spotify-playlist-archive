@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-992 songs - 2 day 6 hr 49 min
+993 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Diamond](https://open.spotify.com/track/5ZWTPl9SNP5HG7eZZxV8qK) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/4TmNR3ZS70JdZCrCX6QyNr) | 2:57 | 2022-05-07 | 2022-05-11 |
 | [Diamond](https://open.spotify.com/track/5qMtuivmlLWhyMc9Ez1MEu) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/6ZD7JqXlhqJ7ffrOEoVTIq) | 2:57 | 2021-11-11 | 2021-11-19 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-17 | 2022-11-19 |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-27 |
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-15 | 2023-02-24 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-28 | 2021-07-20 |
@@ -407,13 +408,13 @@
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
 | [Intro](https://open.spotify.com/track/7juHEjdRiTaXRqCN7yTwj1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 1:56 | 2022-05-28 | 2022-06-04 |
 | [Intro](https://open.spotify.com/track/1xYzN6PXSwoOChUJnq8eJU) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:01 | 2021-12-05 | 2021-12-07 |
-| [INTRO](https://open.spotify.com/track/2oDVKXxXSUVNTXepouVLen) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [METAMORPHOSE](https://open.spotify.com/album/7vef7odtEo16WahTWsZSeY) | 1:03 | 2023-02-23 |  |
+| [INTRO](https://open.spotify.com/track/2oDVKXxXSUVNTXepouVLen) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [METAMORPHOSE](https://open.spotify.com/album/7vef7odtEo16WahTWsZSeY) | 1:03 | 2023-02-23 | 2023-02-26 |
 | [Intro](https://open.spotify.com/track/3X1MX1CndIuTxV9OgA51EE) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 1:39 | 2021-03-29 | 2021-03-30 |
 | [Intro : Persona](https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 2:51 | 2022-02-23 | 2022-09-17 |
 | [Intro: Singularity](https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:16 | 2021-12-28 | 2022-12-12 |
 | [Introduction](https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Introduction](https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ) | 1:34 | 2023-02-18 | 2023-02-20 |
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-01-08 | 2022-03-18 |
-| [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-24 |  |
+| [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-24 | 2023-02-26 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [It's on you](https://open.spotify.com/track/5oFiR2mnkw77K9Nugz9IrR) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [Lo\-Fights](https://open.spotify.com/album/3CvCF4jbyPsewmZYhZbRva) | 2:38 | 2022-06-19 | 2022-06-21 |
 | [IVERSON](https://open.spotify.com/track/5ZjEm81TYFPfE6Ddc0memq) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 2:45 | 2021-07-18 | 2021-07-19 |
@@ -655,7 +656,7 @@
 | [NO MERCY](https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 4:19 | 2022-08-13 | 2022-10-09 |
 | [No More Dream](https://open.spotify.com/track/6GoFIkTKX9CIGgM9APx5UB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:43 | 2022-02-28 | 2022-03-02 |
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-05-11 | 2022-07-06 |
-| [Nocif](https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 | 2023-02-18 | 2023-02-24 |
+| [Nocif](https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 | 2023-02-18 |  |
 | [Nog3a \- Freestyle](https://open.spotify.com/track/2eh1rMpNbUA2xB50otkqET) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 0:54 | 2021-04-13 | 2021-04-14 |
 | [Noir O Cloppe](https://open.spotify.com/track/0eoGmtKxA9gHaO1pBsOMlP) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:46 | 2021-10-03 | 2021-10-31 |
 | [Non Stop](https://open.spotify.com/track/31s1MnzTdEpewYIP6Wc0Qv) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 2:15 | 2022-07-16 | 2022-07-25 |

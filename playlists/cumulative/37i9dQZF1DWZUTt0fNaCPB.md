@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-190 songs - 12 hr 6 min
+191 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Enemies](https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:08 | 2021-12-15 |  |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2021-12-15 | 2022-07-29 |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2022-07-05 |  |
+| [Eyes Of A Panther](https://open.spotify.com/track/1iWLoUrmSLht6keK0436jK) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84) | 3:36 | 2023-01-27 |  |
 | [Eyes Of A Panther](https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 3:36 | 2021-12-15 | 2022-11-17 |
 | [Face Of Pain](https://open.spotify.com/track/1J3gUPtXJuTGxUKbAmctKZ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Face Of Pain](https://open.spotify.com/album/7lHR2vsp9Hzu0Xy7docXJq) | 3:43 | 2022-04-01 | 2022-04-21 |
 | [Fake](https://open.spotify.com/track/36Aa21IPeeNE3IU1zLQo5g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Fake](https://open.spotify.com/album/0gdStv72Ej1fxyiv4SlFHd) | 3:30 | 2022-04-01 | 2022-04-21 |
@@ -192,7 +193,7 @@
 | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/track/1FAjobOtbsZE56OIDFXruG) | [Them Evils](https://open.spotify.com/artist/3ASZko2LtiqddApAlKF7Cf) | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/album/1IaElXsP0iP6lLwaEyCeL7) | 2:51 | 2021-12-15 | 2022-07-29 |
 | [Who Do You Trust?](https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/7HL8ZuakXsPF3XxmKaxIoz) | 3:16 | 2021-12-15 | 2022-07-29 |
 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 | 2022-04-01 | 2022-04-20 |
-| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 |  |
+| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 | 2023-02-26 |
 | [World On Fire](https://open.spotify.com/track/0GnU2sNVI6uP1tlmkVfiEt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:31 | 2021-12-15 | 2022-07-29 |
 | [Wrong Direction](https://open.spotify.com/track/4hpTKkNF9yvip5ZE8BleO7) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Wrong Direction](https://open.spotify.com/album/7B3s7P5424vohP5T8cZxTW) | 5:09 | 2021-12-15 | 2022-07-13 |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 | 2021-12-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,213 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,226 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 29 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 |
 | 30 | [Sal de Mar](https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/5jDsT9P0V42MMYlJ9gI1jl) | 3:26 |
 | 31 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
-| 32 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
-| 33 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
+| 32 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
+| 33 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
 | 34 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 |
 | 35 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 36 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 |
 | 37 | [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 |
 | 38 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5) | 4:15 |
 | 39 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
-| 40 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 |
-| 41 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 |
+| 40 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 |
+| 41 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 |
 | 42 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 |
 | 43 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 |
 | 44 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 82 | [El Cabrón \- Radio Edit](https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Carlo Maver](https://open.spotify.com/artist/2RgKeXFc9O23jlpLmAYbnA) | [El Cabrón](https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq) | 3:42 |
 | 83 | [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 |
 | 84 | [Humedad](https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:17 |
-| 85 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 |
-| 86 | [No la Controles](https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy) | 3:25 |
+| 85 | [No la Controles](https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy) | 3:25 |
+| 86 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 |
 | 87 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 |
 | 88 | [Frutas](https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw) | [Sin Color](https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop) | [Frutas](https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD) | 4:19 |
 | 89 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 99 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Los Tiempos Inciertos \(feat\. Raag\)](https://open.spotify.com/album/2js6vsGGCBlLpdrkRVcfJK) | 4:57 |
 | 100 | [Sal de Maras](https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb) | [Martin Guerra](https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM) | [Temporada de Pesca](https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O) | 4:22 |
 
-Snapshot ID: `MTY3Njk0NDA1NywwMDAwMDAwMDg3YTc4YWE0NWJjNDNmNTQyMTFkOTU1OWU5YmI3ZWNk`
+Snapshot ID: `MTY3Njk0NDA1NywwMDAwMDAwMDcwZjRlOWQ0ZGNiN2U1MTNjYjI3ZTAxZTU0NjM4ODZl`

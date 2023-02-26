@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 86570,
+  "num_followers": 86614,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMDUzYzdiNTJjN2Y5YzZjOTYwNWI1NzJkZDRmN2IxYjhk",
+  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMDM1MzVmMGYwMDhjZGZhNGI3YWQ1NDlmOTA5MWQ1ZGE5",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 216506,
       "name": "One Evening",
       "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "A Journey to You",
         "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 274285,
       "name": "AO Longo Do Rio",
       "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -899,6 +899,38 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Old Graffiti",
+      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -951,38 +983,6 @@
       "duration_ms": 270000,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Old Graffiti",
-      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Mutual Feelin' (Edit)",
         "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
         }
       ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer - Edit",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 311413,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer - Edit",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-02-02 23:01:00",

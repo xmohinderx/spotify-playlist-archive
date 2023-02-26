@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 480538,
+  "num_followers": 480639,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMGU5NGE5YzYyOGIzYWJiZWM5ODE3MWIyZmVlMjUwNDg5",
+  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMDcwYjUxOGMwYTAwMDM3NWNiMTEyYjY4MDA0MDcyYzNh",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Drew Barrymore",
+      "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Drew Barrymore",
-      "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Love Affair",
+      "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "ERYS (Deluxe)",
         "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 270960,
       "name": "Summertime In Paris",
       "url": "https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Love Affair",
-      "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 153871,
       "name": "Habit",
       "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Three. Two. One.",
-        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Three. Two. One.",
+        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
     }
   ],
   "unique_name": "text me back",

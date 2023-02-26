@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 427443,
+  "num_followers": 427884,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4MjAyOCwwMDAwMDAwMDQ1M2U1NWRhODY1ZTA1NjhjYzkxY2RiM2VhMTEzNWVk",
+  "snapshot_id": "MTY3NjI4MjAyOCwwMDAwMDAwMDBhOWNmZmEzOWIxNzUyMDg5M2Y0NGUxOWFiZDgwMzAw",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Now & Then (Reissue)",
         "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 233533,
       "name": "Yesterday Once More",
       "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1019,6 +1003,22 @@
       "duration_ms": 256666,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Third Album",
-        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 308853,
       "name": "Take The Long Way Home - 2010 Remastered",
       "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
         }
       ],
-      "duration_ms": 276000,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+      "duration_ms": 324440,
+      "name": "Two Out of Three Ain't Bad",
+      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
       "artists": [
         {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 324440,
-      "name": "Two Out of Three Ain't Bad",
-      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 237826,
       "name": "How Can You Mend A Broken Heart",
       "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "First Under The Wire (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 316218,
+      "name": "Cool Change - Remastered 2022",
+      "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 165666,
       "name": "Beth",
       "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2043,34 +2043,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "First Under The Wire (Remastered 2022)",
-        "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 316218,
-      "name": "Cool Change - Remastered 2022",
-      "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2087,6 +2071,22 @@
       "duration_ms": 228333,
       "name": "Sylvia's Mother",
       "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 264266,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
     },
     {
       "added_at": "2022-09-23 05:26:33",

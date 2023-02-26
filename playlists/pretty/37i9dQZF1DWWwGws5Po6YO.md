@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,387 likes - 59 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,396 likes - 59 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 24 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
 | 25 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
 | 26 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
-| 27 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
-| 28 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
+| 27 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
+| 28 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 29 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 |
 | 30 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
 | 31 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 35 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
 | 36 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 37 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
-| 38 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
+| 38 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 |
 | 39 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 40 | [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 |
 | 41 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 44 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
 | 45 | [a path between the clouds](https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Frozen Passages](https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R) | 5:42 |
 | 46 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
-| 47 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 |
+| 47 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
 | 48 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
 | 49 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 |
 | 50 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 59 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
 
-Snapshot ID: `MTY3MTU1ODc2MCwwMDAwMDAwMDVhZTk1MzYzYmY2NjA2NGMwMTgxYWYyYTcxZjlkNmE4`
+Snapshot ID: `MTY3MTU1ODc2MCwwMDAwMDAwMDUwODY4NjA4YzlmNzJiNWIxYTEzMDFkZDE5ZGY1YjJi`

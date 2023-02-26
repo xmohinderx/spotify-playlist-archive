@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sogumm\(소금\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,927 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,012 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 15 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 |
 | 16 | [Insomnia \(Feat\. YAYYOUNG\)](https://open.spotify.com/track/7tr6WuxHOWyWQl0W8YfBtq) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [Yayyoung](https://open.spotify.com/artist/1mefU9eSDsjTwOJK0gn7xZ) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:30 |
 | 17 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
-| 18 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
-| 19 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
+| 18 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
+| 19 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
 | 20 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
 | 21 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
 | 22 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
 | 50 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
 
-Snapshot ID: `MTY3NjQzMjc2NSwwMDAwMDAwMGJjZGNhZDEzNzMxZDc0MGI4ZWFhYWU3ZDdiMDJhYWZh`
+Snapshot ID: `MTY3NjQzMjc2NSwwMDAwMDAwMDczMzY2NzAxOWUxZWUxNTU4OWEzYjQ1NDVjZmEzYTQ0`

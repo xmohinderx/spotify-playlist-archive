@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: LIT Killah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,712 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736,687 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 38 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 |
 | 39 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 | 40 | [MAMIII \- kryptogram Remix](https://open.spotify.com/track/46Lqs8FqqomRGmRmpm1Adx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [MAMIII \(kryptogram Remix\)](https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz) | 3:29 |
-| 41 | [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 |
+| 41 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
 | 42 | [Esperare](https://open.spotify.com/track/6LDrO6oVhyL64YUcWCRJkV) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [Esperare](https://open.spotify.com/album/19RbGJQC073xwxlvFhbkue) | 2:26 |
 | 43 | [Pa Ti Ya !](https://open.spotify.com/track/24ZWoKxAmcG06vBfv2yARt) | [Carlos Montesquieu](https://open.spotify.com/artist/6aUadgc3VIt06htkgXEMIA) | [Pa Ti Ya !](https://open.spotify.com/album/5Heeh3NtSDw5Wq73kiorub) | 2:43 |
 | 44 | [Sweet Potato](https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg) | 2:46 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 68 | [Hace Calor \- Remix](https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Hace Calor \(Remix\)](https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP) | 3:17 |
 | 69 | [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 |
 | 70 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
-| 71 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 |
+| 71 | [La Luz](https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r) | 3:48 |
 | 72 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
 | 73 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 |
 | 74 | [Cheke \(Spanish Version\)](https://open.spotify.com/track/4DDzgjfANSHudWS56LQJkU) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm) | [Cheke \(The Remixes\)](https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 79 | [Flex](https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 4:00 |
 | 80 | [Cucu](https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Cucu](https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd) | 3:05 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGM1OTY4NDQ3YjYwYjg3YjQxOTRhNjM1NTM0MWI1NDJl`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDBjYzkxNjk5N2IxYWQ3MGE5NTFhNzRhMjUzMDYzMmUz`

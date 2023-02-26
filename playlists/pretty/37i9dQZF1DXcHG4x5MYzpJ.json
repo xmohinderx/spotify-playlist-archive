@@ -1,12 +1,12 @@
 {
   "description": "Mientras no dejes de cantar, la playlist no deja de sonar. Alfredo Olivas en portada. ",
-  "num_followers": 142810,
+  "num_followers": 142893,
   "original_name": "Karaoke Regional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcxMTQwNywwMDAwMDAwMGMzMTRmOWNlZTQ1NTkzYTEwYTdlZDc5YWUzOTBkZTQy",
+  "snapshot_id": "MTY2MzcxMTQwNywwMDAwMDAwMGNjOGI3Nzg1YzY5ZmFiZWY3ODEwZTcxNGI5ZGMxODU5",
   "tracks": [
     {
       "added_at": "2022-09-20 22:03:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 217213,
       "name": "200 COPAS",
       "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -915,30 +915,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Se Acabo (En Vivo)",
-        "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Se Acabo - En Vivo",
-      "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "Se Acabo (En Vivo)",
+        "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Se Acabo - En Vivo",
+      "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -1503,6 +1519,38 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "Poco",
         "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
       },
@@ -1523,38 +1571,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199482,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Calidad Y Cantidad",
         "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
@@ -1567,26 +1583,6 @@
       "duration_ms": 182306,
       "name": "Entre Beso Y Beso",
       "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1607,18 +1603,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
         }
       ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -1719,38 +1735,6 @@
       "duration_ms": 200480,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "A Trav\u00e9s del Vaso",
-        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arranke",
-          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
-        }
-      ],
-      "duration_ms": 188661,
-      "name": "A Trav\u00e9s del Vaso",
-      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1771,18 +1755,34 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "A Trav\u00e9s del Vaso",
+        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arranke",
+          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
+        }
+      ],
+      "duration_ms": 188661,
+      "name": "A Trav\u00e9s del Vaso",
+      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -2131,22 +2131,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
         },
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
     }
   ],
   "unique_name": "Karaoke Regional Mexicano",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=ZjgNEgYXSzqquSyDO8Ak7g\" > Rema </a> ",
-  "num_followers": 15902,
+  "num_followers": 15925,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MDY5MCwwMDAwMDAwMDMwOTdhMTU3YTAzMjQzNjU5NTY3Y2NjZjFiYmM3NjRl",
+  "snapshot_id": "MTY3NzE5MDY5MCwwMDAwMDAwMGM4Mzc4ODVmZmRlNDY1MDk0YTgzMjBiYmFlZTg2ODYy",
   "tracks": [
     {
       "added_at": "2023-01-27 09:16:17",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
@@ -567,18 +583,22 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -599,26 +619,6 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 221399,
-      "name": "Live Life",
-      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -671,6 +671,42 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -707,22 +743,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "BBO (Bad Bxtches Only)",
         "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 163976,
       "name": "BBO (Bad Bxtches Only)",
       "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -813,6 +813,26 @@
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
     },
     {
+      "added_at": "2023-02-26 00:25:54",
+      "album": {
+        "name": "Owa",
+        "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 173569,
+      "name": "Owa",
+      "url": "https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H"
+    },
+    {
       "added_at": "2023-01-27 09:16:17",
       "album": {
         "name": "LITTLE & LEGENDARY",
@@ -827,6 +847,26 @@
       "duration_ms": 147428,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -871,26 +911,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -931,18 +951,18 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
       "artists": [
         {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -963,6 +983,22 @@
       "duration_ms": 175000,
       "name": "Mama Maradona",
       "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1047,22 +1083,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Symbiosis",
         "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
       },
@@ -1081,24 +1101,24 @@
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
-      "added_at": "2023-02-25 09:19:40",
+      "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Owa",
-        "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
       },
       "artists": [
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 173569,
-      "name": "Owa",
-      "url": "https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H"
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1127,42 +1147,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Suliya",
-        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Suliya",
-      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Suliya",
+        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Suliya",
+      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Barawo",
-        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "Barawo",
-      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "All I Please",
         "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
       },
@@ -1265,6 +1249,22 @@
       "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+    },
+    {
       "added_at": "2023-02-10 09:35:13",
       "album": {
         "name": "Move",
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq"
     },
     {
-      "added_at": "2023-02-25 09:19:40",
+      "added_at": "2023-02-26 00:25:54",
       "album": {
         "name": "Bitter Sweet",
         "url": "https://open.spotify.com/album/6ya5x6gzZDVwVD0rxh8DZO"

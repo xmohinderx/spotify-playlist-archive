@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 365760,
+  "num_followers": 365862,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1Nzc5NSwwMDAwMDAwMDU2ZGYzYjQ4ODU2MzZiNmI3ZGNmM2NhMjMwYzc4NTYw",
+  "snapshot_id": "MTY3NzI1Nzc5NSwwMDAwMDAwMGUwY2JmYzhlZjIzZTVkYTIwMjFhYjkxNWU0ZDEyNmM0",
   "tracks": [
     {
       "added_at": "2023-02-24 16:56:35",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-02-24 16:56:35",
       "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
-    },
-    {
-      "added_at": "2023-02-24 16:56:35",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1811,22 +1795,18 @@
     {
       "added_at": "2023-02-24 16:56:35",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
         }
       ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2023-02-24 16:56:35",
@@ -1847,6 +1827,26 @@
       "duration_ms": 262200,
       "name": "Desnudarte",
       "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
+    },
+    {
+      "added_at": "2023-02-24 16:56:35",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2023-02-24 16:56:35",

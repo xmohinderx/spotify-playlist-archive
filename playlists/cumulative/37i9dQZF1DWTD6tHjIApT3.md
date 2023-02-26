@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-1,136 songs - 3 day 2 hr 24 min
+1,138 songs - 3 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Honesty](https://open.spotify.com/track/1GX4PBTaAIAN0tIvY8PpIO) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 3:48 | 2022-05-29 | 2022-06-01 |
 | [How many](https://open.spotify.com/track/7CmtawzgtZW0iz0liC3F34) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [How many](https://open.spotify.com/album/4tVyhqGUAQARU5NsQ7AAXC) | 4:04 | 2022-06-30 | 2022-07-14 |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-02-15 |
+| [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-23 |  |
 | [hunch\_A](https://open.spotify.com/track/7ci4GaBkmUd33D2JR7AhdT) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [hunch\_A](https://open.spotify.com/album/0DpmjX5wqSs3MHthH7ok7T) | 2:42 | 2022-06-07 | 2022-07-26 |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2022-09-13 | 2023-02-01 |
 | [HUSH\-HUSH](https://open.spotify.com/track/03mTAqRHHalhuMBbYADwUM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [HUSH\-HUSH](https://open.spotify.com/album/1ophSwGVohLkMzHr4v7QF4) | 2:39 | 2022-12-06 | 2022-12-14 |
@@ -459,7 +460,7 @@
 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 | 2023-01-25 |
 | [Rooftop Rhapsody](https://open.spotify.com/track/7fkcgIVRFJHYJeir9e8e7p) | [TWEEDEES](https://open.spotify.com/artist/1LlXc0olPO5z5GbX61yK3C) | [Rooftop Rhapsody](https://open.spotify.com/album/0SEeaTLdugL0UPr46I7RXl) | 3:27 | 2022-09-13 | 2022-09-21 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-06-21 | 2022-07-20 |
-| [rubble pile](https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh) | 3:58 | 2022-12-27 |  |
+| [rubble pile](https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh) | 3:58 | 2022-12-27 | 2023-02-26 |
 | [Runnin'](https://open.spotify.com/track/1jXTddZprrt32F0EncQAml) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Runnin'](https://open.spotify.com/album/3bWapohKNAU2XCDegJ0LCO) | 3:34 | 2023-01-24 | 2023-02-01 |
 | [Runnin'](https://open.spotify.com/track/2NdsQs90VT8lUUqI84LGef) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Runnin'](https://open.spotify.com/album/2p5uVg4qhGpKRrJHbGrYmz) | 3:34 | 2023-01-24 | 2023-01-26 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-02 | 2022-10-26 |
@@ -542,6 +543,7 @@
 | [tell me i'm broken](https://open.spotify.com/track/70k7jPLzz9WLt7E7JhNjga) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [BOUNDARIES \-SET B\-](https://open.spotify.com/album/2Hku8f8GdngBF4n6rId888) | 3:21 | 2022-06-14 | 2022-07-17 |
 | [TENGOKU](https://open.spotify.com/track/1mU4zfQJTNJJJU90baNDfD) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [TENGOKU](https://open.spotify.com/album/4RXgLhks8mBD5T1tcx6xGX) | 4:11 | 2022-09-08 | 2022-09-15 |
 | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/track/01sMxK887hTEwMEenV61pg) | [Mickie Yoshino](https://open.spotify.com/artist/6YtshtTc8bUPwvUcT8bkvw), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/album/0BnmyBenolTJYIrp2MetHm) | 4:15 | 2022-05-31 | 2022-07-19 |
+| [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-02-23 |  |
 | [The Memory of Persona](https://open.spotify.com/track/79wjyH8GhWosLYAlcBZWca) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:20 | 2022-08-18 | 2022-08-24 |
 | [The Moon × 星なんて言わず](https://open.spotify.com/track/0d7SVjLgnPByAyPNR0NvPf) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC), [藤原さくら](https://open.spotify.com/artist/5ciduzWXdsgIJYfJVkoEEa) | [The Moon × 星なんて言わず](https://open.spotify.com/album/2aMZjasuLppWmJiFE7g8MN) | 5:23 | 2022-09-15 | 2022-09-28 |
 | [The Sun](https://open.spotify.com/track/11Gi13v5tOergV1LjEbbDT) | [Ako](https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz) | [The Sun](https://open.spotify.com/album/4U9TfKHxuKyPdFO5emYrfH) | 3:29 | 2022-08-23 | 2022-09-07 |
@@ -1066,7 +1068,7 @@
 | [私は貴方](https://open.spotify.com/track/6jskP6tIaB2tsussck2mWN) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [私は貴方](https://open.spotify.com/album/6RYebK7BAaT9MJIs85A1eJ) | 3:40 | 2022-05-29 | 2022-07-27 |
 | [秘密](https://open.spotify.com/track/3xAdEKillxmWDnaUbWx6xY) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [秘密](https://open.spotify.com/album/1gi3y5Okb1ictQ2knPgg3N) | 4:01 | 2022-05-29 | 2022-07-12 |
 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 | 2022-05-29 | 2022-10-26 |
-| [空っぽ](https://open.spotify.com/track/2YB0gHEctXCJ4U7aKEtWj2) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [空っぽ](https://open.spotify.com/album/7J4oX6OxrWpHYfyDstNl7g) | 3:03 | 2023-02-16 |  |
+| [空っぽ](https://open.spotify.com/track/2YB0gHEctXCJ4U7aKEtWj2) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [空っぽ](https://open.spotify.com/album/7J4oX6OxrWpHYfyDstNl7g) | 3:03 | 2023-02-16 | 2023-02-26 |
 | [空白の居場所](https://open.spotify.com/track/4CrPB6keI8Msl5uovASijx) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [空白の居場所](https://open.spotify.com/album/3pt6Af59UWQmDJXjBmmAVp) | 4:20 | 2022-10-11 | 2022-10-26 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-06-28 | 2022-07-22 |
 | [素っ頓狂 \- tofubeats extended mix](https://open.spotify.com/track/6TMMLXMMgpNKomGkHJA7l8) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [素っ頓狂 \(tofubeats extended mix\)](https://open.spotify.com/album/4FkqzpWV1TRBYX0vdyOdYH) | 7:38 | 2022-07-12 | 2022-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,121 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,140 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 46 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 |
 | 47 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 48 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
-| 49 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
-| 50 | [Revolver](https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Revolver](https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb) | 3:40 |
+| 49 | [Revolver](https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Revolver](https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb) | 3:40 |
+| 50 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
 
-Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMDk1MWM5ZDY4NzU2OGU1YzdlMTM5M2U1YmRmNGIzZTI0`
+Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMDJlNzk0NGE3Y2NmNjg5ZjY5M2JlZmU0MmM1MTUxZTFh`

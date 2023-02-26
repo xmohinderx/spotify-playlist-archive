@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 216420,
       "name": "Peaceful Rains",
       "url": "https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI"
@@ -794,6 +794,24 @@
       "duration_ms": 178338,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n"
+    },
+    {
+      "album": {
+        "name": "The Enchanted Forest",
+        "url": "https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU"
+      },
+      "artists": [
+        {
+          "name": "Light Channel",
+          "url": "https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Enchanted Forest",
+      "url": "https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv"
     },
     {
       "album": {

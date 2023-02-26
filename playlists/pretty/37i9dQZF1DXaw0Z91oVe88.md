@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 37 | [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 |
 | 38 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 |
 | 39 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 |
-| 40 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
-| 41 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
+| 40 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
+| 41 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
 | 42 | [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 |
 | 43 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 |
 | 44 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 |
 | 50 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
 
-Snapshot ID: `MTY3NzIzNTA4MywwMDAwMDAwMDk4NmFkYzRjYmRkYTJmYjZhOGVjNDMyOGViNTYzM2M2`
+Snapshot ID: `MTY3NzIzNTA4MywwMDAwMDAwMGZiZTYzOGQwODA3ZDRjMGE2OGU0ZWI2NmQ0NWI3NmZm`

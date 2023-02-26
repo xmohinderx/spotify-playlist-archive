@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,476 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,640 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:28 |
 | 51 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 |
 
-Snapshot ID: `Mjc5NTQwNzUsMDAwMDAwMDBhZWQ5ZGY1MzVkNzg1OGIzZGY3ZDAzODY2MDZlMWZlMA==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAwZDRlMWY2ODNkZTBjODI1M2ZkNDNkYWRkYmE5OWQ2Yw==`

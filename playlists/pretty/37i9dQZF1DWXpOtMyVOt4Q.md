@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,087 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,137 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 5 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
 | 6 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 7 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
-| 8 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
-| 9 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 8 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 9 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
 | 10 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
 | 11 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 12 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 46 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
 | 47 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
 | 48 | [Fast Coupe](https://open.spotify.com/track/6tc7zWJVIIriVePVQNtLxA) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6sAtDkgwuXjdoyg3cyYE9f) | 2:14 |
-| 49 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
-| 50 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
+| 49 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
+| 50 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 
-Snapshot ID: `MTY3NTk3NjM5NCwwMDAwMDAwMDNlYWZmYTY1ZmI0YzMwZTVhOTRmOTdjMjUxNzQxY2Yx`
+Snapshot ID: `MTY3NTk3NjM5NCwwMDAwMDAwMDViNWYwNTIxNzhiNTMyYzMzMTE3NjMyOWVlMDgxZDVj`

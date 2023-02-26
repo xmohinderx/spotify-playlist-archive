@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-226 songs - 12 hr 4 min
+227 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 | 2022-11-26 |
 | [CHAMPAGNE GIRL](https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [CHAMPAGNE GIRL](https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S) | 2:20 | 2022-10-07 |  |
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2023-02-24 |  |
-| [Citrus Tears](https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:49 | 2022-11-25 |  |
+| [Citrus Tears](https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:49 | 2022-11-25 | 2023-02-26 |
 | [Clout Chaser](https://open.spotify.com/track/753lMBAbrX5fgX0N8ZcDAA) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Jojo SK](https://open.spotify.com/artist/3keXwyX1v81VvVXzBZIcvq) | [Clout Chaser](https://open.spotify.com/album/3QEYT46N9Wr5tlLp9Fx7s4) | 3:26 | 2022-09-19 |  |
 | [Collide \(Solo Version\)](https://open.spotify.com/track/6FscsacxYI5HCHPOv2KtBG) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:22 | 2023-02-03 | 2023-02-24 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 | 2023-02-11 |
@@ -137,6 +137,7 @@
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 |  |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-26 |  |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-02-24 |
+| [Mine \(feat\. Boslen\)](https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Mine \(feat\. Boslen\)](https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll) | 3:10 | 2023-02-26 |  |
 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2022-09-19 | 2023-02-24 |
 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2022-09-23 | 2023-02-24 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 | 2023-01-27 |

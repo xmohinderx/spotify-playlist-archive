@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-851 songs - 1 day 22 hr 58 min
+852 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Marching Band](https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Marching Band](https://open.spotify.com/album/0dLUc1NOmR5ka8tqnaFYJk) | 3:13 | 2022-04-01 | 2022-07-29 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-03-08 | 2022-12-15 |
 | [Maria Maria](https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G) | 2:41 | 2023-01-06 | 2023-02-18 |
+| [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 | 2023-02-24 |  |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2022-12-30 |  |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-14 |  |
 | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/track/45iBqrcycpuwrqxbTEyLGa) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/album/28LlrkMOdET1kQfi6RP7HO) | 3:30 | 2020-12-29 | 2021-01-07 |
@@ -672,7 +673,7 @@
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-18 |  |
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-02-07 |  |
 | [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 | 2022-02-18 | 2023-01-19 |
-| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-01 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-01 | 2023-02-26 |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2020-12-12 | 2021-08-14 |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-04-01 | 2022-04-17 |
 | [SEXUAL](https://open.spotify.com/track/4PZunWMdRDz63eZHAzoeD2) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [SEXUAL](https://open.spotify.com/album/3h1FyQdZSsIeel16epLcn1) | 3:19 | 2022-04-01 | 2022-07-29 |

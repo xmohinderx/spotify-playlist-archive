@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring Lovejoy.
 
-803 songs - 1 day 19 hr 41 min
+804 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Nevermind](https://open.spotify.com/track/16cfhCwNCVTmmSoLYxb2z3) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/4rqjnLn0qJ57y4WIc5aBWb) | 2:21 | 2021-06-07 | 2022-04-18 |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-09-02 |  |
 | [New Miss America](https://open.spotify.com/track/0NLYcYQzBNZF6FEEOT9HPh) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [New Miss America](https://open.spotify.com/album/27X74ztJTTyJ1GSXtgEFou) | 1:44 | 2021-06-18 | 2022-02-11 |
+| [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-02-24 |  |
 | [Nice](https://open.spotify.com/track/0dMIDyuC4EjrXxMTGArX4A) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Nice](https://open.spotify.com/album/3mKtcDJnJJatWsHKKaA9WR) | 3:15 | 2022-04-15 | 2022-04-20 |
 | [Nicotine](https://open.spotify.com/track/73CLiwzz9AopgAv3jnngyA) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Nicotine](https://open.spotify.com/album/7mUy0fH5Ad2Fg5KnCKRp9N) | 2:50 | 2022-06-10 | 2022-08-27 |
 | [Nightlight](https://open.spotify.com/track/1ydoX3Oa8caQOrbQatbATa) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Nightlight](https://open.spotify.com/album/2noUvSaD3LsoZAiWdPy9vK) | 3:24 | 2022-11-11 | 2022-11-15 |
@@ -799,7 +800,7 @@
 | [Woman on the Move](https://open.spotify.com/track/6bGqWdZiKHTPXkjauf9Xdh) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [Woman on the Move](https://open.spotify.com/album/68245SIshFy4WiKyqifoLz) | 3:29 | 2022-05-06 | 2022-07-09 |
 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 | 2022-08-16 | 2022-11-19 |
 | [Words and Guitar](https://open.spotify.com/track/0Bcpp4FkZWscayqYaGVRxW) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Words and Guitar](https://open.spotify.com/album/65xHh3Xt6eB7NhIFeEHwLA) | 2:23 | 2022-09-23 | 2022-12-03 |
-| [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-13 |  |
+| [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-13 | 2023-02-26 |
 | [Worth It](https://open.spotify.com/track/6O2n6dzWaaH4mAWbq0tMWu) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Worth It](https://open.spotify.com/album/4hcOMat5yK68nRsEuCd4g4) | 3:08 | 2022-08-26 | 2022-10-01 |
 | [Wrong Idea](https://open.spotify.com/track/7bl1wF17Dtd0LgODvxv6LO) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Wrong Idea](https://open.spotify.com/album/2j3MzEtEUYHHKnEwZEx3YN) | 4:45 | 2022-03-25 | 2022-04-21 |
 | [Yeah!](https://open.spotify.com/track/3XNWfquRRvnaCSU2low3ez) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Yeah!](https://open.spotify.com/album/0Ja4rfpa2qWvijmcTuAk2y) | 2:48 | 2021-08-13 | 2022-06-08 |

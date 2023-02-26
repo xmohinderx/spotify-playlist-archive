@@ -4,7 +4,7 @@
 
 > Ruby Red makes anti pop
 
-1,267 songs - 2 day 13 hr 10 min
+1,268 songs - 2 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [On Me](https://open.spotify.com/track/6I50jyqSlDnzL74mIdsUc2) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Parallel World](https://open.spotify.com/album/1Mo1cqa1k11rCtSSm4iUhR) | 2:56 | 2021-05-08 | 2021-10-16 |
 | [On My Own](https://open.spotify.com/track/4g83PCfbuS7n8QqOGnhGTC) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ERYS](https://open.spotify.com/album/63ipjhu8XSx8se8X3XYlJZ) | 4:04 | 2020-10-13\* | 2020-11-03 |
 | [ON SOME HIGH](https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [BOY OH BOY](https://open.spotify.com/album/2cvDgtZ73sgnsXJNUrYqsO) | 3:59 | 2020-10-13\* | 2021-01-23 |
+| [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 | 2023-02-24 |  |
 | [ONE PUNCH](https://open.spotify.com/track/4URdynWUR50mXggi06ilrJ) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:25 | 2022-04-28 | 2022-04-29 |
 | [ONE PUNCH](https://open.spotify.com/track/6LN15vwkSE1ZiA8IdBjl7k) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [ONE PUNCH](https://open.spotify.com/album/06qAr8048ptTbaxUNvWHOz) | 2:25 | 2021-10-22 | 2021-12-22 |
 | [Only in the West](https://open.spotify.com/track/6cLxofxCjrFpQYtifjK5Vf) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Sebastian](https://open.spotify.com/album/75DC1IAUH9Ep9YctfsN6CG) | 3:16 | 2022-05-09 | 2022-07-23 |
@@ -1160,7 +1161,7 @@
 | [triple check](https://open.spotify.com/track/63MY8NhFCU4W9fTkSRRL22) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [triple check](https://open.spotify.com/album/2xo6NArAUKDAsjpZzW8LKZ) | 2:22 | 2021-07-04 | 2021-10-11 |
 | [Triple Double](https://open.spotify.com/track/4QCYm5VF70vcx5Ua15aTSN) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 3:42 | 2022-08-27 | 2022-10-05 |
 | [Triple Double](https://open.spotify.com/track/4VsPMNoTStZSShv1bJwrv5) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Pixel Bath](https://open.spotify.com/album/0j4s8goMrRPZWjG3v0UblY) | 3:42 | 2020-10-23 | 2021-10-16 |
-| [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-10-13\* |  |
+| [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-10-13\* | 2023-02-26 |
 | [TROJAN HORSE](https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [TROJAN HORSE](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB) | 4:26 | 2021-02-04 |  |
 | [TROY BOLTON](https://open.spotify.com/track/62fpf6w40yy6htlkrGWcXS) | [Tino Sutra](https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV) | [TROY BOLTON](https://open.spotify.com/album/6jp0lwK5M3CsYMd6X9LeDV) | 2:20 | 2021-05-08 | 2022-02-05 |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-20 |  |

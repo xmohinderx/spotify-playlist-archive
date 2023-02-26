@@ -1,15 +1,15 @@
 {
   "description": "Fresh Latin Indie. Cover: Mola Mola",
-  "num_followers": 508385,
+  "num_followers": 508396,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDYyMjBlY2FiODg1OWM3NWQ1NTU0MGE4NjMzZWFmZTQ4",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDc3NWE3ZTU1NzJjNjdiOTY5ZWY5MDIxNWE5N2Q3NmVk",
   "tracks": [
     {
-      "added_at": "2023-02-25 09:43:25",
+      "added_at": "2023-02-26 00:45:13",
       "album": {
         "name": "TQD",
         "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
-      "added_at": "2023-02-25 09:43:25",
+      "added_at": "2023-02-26 00:45:13",
       "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
@@ -375,34 +375,18 @@
     {
       "added_at": "2023-02-17 16:13:05",
       "album": {
-        "name": "Todo est\u00e1 bien",
-        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
       "artists": [
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 376123,
-      "name": "Todo est\u00e1 bien",
-      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
-    },
-    {
-      "added_at": "2023-02-17 16:13:05",
-      "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2023-02-17 16:13:05",
@@ -427,18 +411,34 @@
     {
       "added_at": "2023-02-17 16:13:05",
       "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-02-17 16:13:05",
+      "album": {
+        "name": "Todo est\u00e1 bien",
+        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 376123,
+      "name": "Todo est\u00e1 bien",
+      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
     },
     {
       "added_at": "2023-02-17 16:13:05",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-02-17 16:13:05",
       "album": {
+        "name": "Dibujos De Mi Alma",
+        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
+    },
+    {
+      "added_at": "2023-02-17 16:13:05",
+      "album": {
         "name": "DAMALEONA, VOL.3",
         "url": "https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 196606,
       "name": "Zoriontasuna (La vida es de verdad)",
       "url": "https://open.spotify.com/track/1DrFtxkulZZnuEHOVdWCJC"
-    },
-    {
-      "added_at": "2023-02-17 16:13:05",
-      "album": {
-        "name": "Dibujos De Mi Alma",
-        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
       "added_at": "2023-02-17 16:13:05",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-17 16:13:05",
       "album": {
-        "name": "Algo Me Pasa",
-        "url": "https://open.spotify.com/album/2dhVZS72T4n6KfI71hnSXb"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Algo Me Pasa",
-      "url": "https://open.spotify.com/track/1tZU2osSQKZ4VsAcmszltK"
-    },
-    {
-      "added_at": "2023-02-17 16:13:05",
-      "album": {
         "name": "Bamb\u00fa",
         "url": "https://open.spotify.com/album/13P2vro0zuzYaa2riIdvx3"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 199090,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/501IpqWgmxPZFS3V42cPQn"
+    },
+    {
+      "added_at": "2023-02-17 16:13:05",
+      "album": {
+        "name": "Algo Me Pasa",
+        "url": "https://open.spotify.com/album/2dhVZS72T4n6KfI71hnSXb"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Algo Me Pasa",
+      "url": "https://open.spotify.com/track/1tZU2osSQKZ4VsAcmszltK"
     },
     {
       "added_at": "2023-02-17 16:13:05",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-17 16:13:05",
       "album": {
-        "name": "OTRAS MUJERES",
-        "url": "https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF"
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
       "artists": [
         {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 180026,
-      "name": "OTRAS MUJERES",
-      "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
+      "duration_ms": 182470,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
       "added_at": "2023-02-17 16:13:05",
@@ -811,6 +811,22 @@
       "duration_ms": 153593,
       "name": "Ms. Moon",
       "url": "https://open.spotify.com/track/3HFDfyuMD3UU51G0AIfeTa"
+    },
+    {
+      "added_at": "2023-02-17 16:13:05",
+      "album": {
+        "name": "OTRAS MUJERES",
+        "url": "https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "OTRAS MUJERES",
+      "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
     },
     {
       "added_at": "2023-02-17 16:13:05",
@@ -847,22 +863,6 @@
       "duration_ms": 172200,
       "name": "Aquel Bolero",
       "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
-    },
-    {
-      "added_at": "2023-02-17 16:13:05",
-      "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 182470,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     }
   ],
   "unique_name": "el nuevo indie",

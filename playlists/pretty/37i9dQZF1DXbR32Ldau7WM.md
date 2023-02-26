@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: くるり
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,572 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,626 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 42 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 |
 | 43 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 44 | [涅槃](https://open.spotify.com/track/1rvbAtrJ2FBUBeLbES41qV) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [PAIN KILLER](https://open.spotify.com/album/3BETwNVDIswbCpCS4M8wxz) | 4:15 |
-| 45 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 |
+| 45 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
 | 46 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 |
 | 47 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 48 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
 | 49 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 50 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
 
-Snapshot ID: `MTY3NzE2NDQwMCwwMDAwMDAwMGNmYjM4YjVlNjQwY2NiYWQ5ZDIzMjM0N2RkMGM1ZjZj`
+Snapshot ID: `MTY3NzE2NDQwMCwwMDAwMDAwMDExNWRlOWVhZTg5MjdkMDNkM2Y5YjkzZWQ4YTUzNDgw`

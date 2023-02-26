@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,218 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,266 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 13 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 |
 | 14 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 | 15 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
-| 16 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 17 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 16 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 17 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 18 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 |
 | 19 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
 | 20 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 35 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
 | 36 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
 | 37 | [Pra Me Refazer](https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Nós VOZ Eles](https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK) | 3:35 |
-| 38 | [Céu Azul](https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs) | [Céu Azul](https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD) | 3:24 |
-| 39 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 |
+| 38 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 |
+| 39 | [Céu Azul](https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs) | [Céu Azul](https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD) | 3:24 |
 | 40 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 |
 | 41 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
 | 42 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 57 | [Água na Boca](https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Água na Boca](https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg) | 3:05 |
 | 58 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
 | 59 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 |
-| 60 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
-| 61 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
+| 60 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
+| 61 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
 | 62 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
 | 63 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 64 | [Maria, Maria](https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Por Ela](https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE) | 2:44 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 93 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
 | 94 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 95 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 |
-| 96 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
-| 97 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 |
+| 96 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 |
+| 97 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 | 98 | [Essa Vista](https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:52 |
 | 99 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 |
 | 100 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 |
 
-Snapshot ID: `MTY2NTcyMDg1NywwMDAwMDAwMGI2ZDk1ZWEzYWIwM2RmZjY1ODZiOTQ1NWQ4M2IwM2M2`
+Snapshot ID: `MTY2NTcyMDg1NywwMDAwMDAwMDdiNzQyMmJkYzAxNjRjN2I4N2MxMGYwMGViNTgyY2Q5`

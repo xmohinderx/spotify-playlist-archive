@@ -4,11 +4,12 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-136 songs - 7 hr 15 min
+137 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Minutos](https://open.spotify.com/track/7EbZqc1rELPFw89Y4uhpYK) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [10 Minutos](https://open.spotify.com/album/5S9iQ1vKSkrToyFKS9INLM) | 2:43 | 2022-02-26 | 2022-07-03 |
+| [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-02-25 |  |
 | [360](https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [360](https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T) | 3:15 | 2022-02-19 | 2022-07-24 |
 | [A Contracorriente](https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [A Contracorriente](https://open.spotify.com/album/1A30cr9RFN6VDgsqMdFqg4) | 3:14 | 2022-01-22 | 2022-05-15 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-15 | 2022-07-31 |
@@ -42,7 +43,7 @@
 | [De Perreo](https://open.spotify.com/track/7Men0McTVqAHxfVrRCzb41) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [De Perreo](https://open.spotify.com/album/07o7LzZmecQhaGtVV239OB) | 2:53 | 2022-03-05 | 2022-06-12 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-13 |  |
 | [Dile a los demás](https://open.spotify.com/track/4iK6NFBfZ94xd6UJ0dHVoh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Dile a los demás](https://open.spotify.com/album/2aUw6q2WS0r9QeOGdfOOCP) | 3:29 | 2022-01-29 | 2022-11-20 |
-| [Dime Que No Duele](https://open.spotify.com/track/6CJeY0eReqzM0w77m3F7fR) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Dime Que No Duele](https://open.spotify.com/album/1IuSFs7Kf4omdCzwem3fr7) | 3:02 | 2022-11-05 |  |
+| [Dime Que No Duele](https://open.spotify.com/track/6CJeY0eReqzM0w77m3F7fR) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Dime Que No Duele](https://open.spotify.com/album/1IuSFs7Kf4omdCzwem3fr7) | 3:02 | 2022-11-05 | 2023-02-26 |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-10-15 | 2023-01-22 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-01-15 | 2022-08-14 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2022-01-15 | 2022-04-30 |

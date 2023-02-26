@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 29039,
+  "num_followers": 29053,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDAyMmZiZGQ5YmEzZWI2Yjc2MzNhYWZlNDFlZTAxMGU4",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDI5Mzg2MTRkNWJjOTUxM2E3NzMwOTc3NzliZGQ0OWU3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -515,6 +515,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 381466,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: II. Allegretto grazioso",
+      "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
         "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 362716,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: II. Allegretto espressivo alla romanza",
       "url": "https://open.spotify.com/track/26IsOkbxM5eh9CTS2FvxTm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 381466,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: II. Allegretto grazioso",
-      "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -699,6 +699,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Music for String Orchestra",
+        "url": "https://open.spotify.com/album/7c910A4HfOMLizy0El6vjc"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",
+      "url": "https://open.spotify.com/track/43fd9XWup3L9E2PtH3k5EK"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Songs",
         "url": "https://open.spotify.com/album/77ECwA3RIFptg5sTjz21Sb"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 379693,
       "name": "The Mountain Thrall, Op. 32",
       "url": "https://open.spotify.com/track/5fBUHjqqtBwX36qabYf8Ep"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Music for String Orchestra",
-        "url": "https://open.spotify.com/album/7c910A4HfOMLizy0El6vjc"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Malm\u00f6 Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
-        },
-        {
-          "name": "Bjarte Engeset",
-          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",
-      "url": "https://open.spotify.com/track/43fd9XWup3L9E2PtH3k5EK"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -903,6 +903,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 429933,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
+      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
         "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
       },
@@ -955,30 +979,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 429933,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
-      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Lyric Pieces",
         "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
       },
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Best of Grieg",
-        "url": "https://open.spotify.com/album/2h6NFBOLseZmvXlQWZkWC0"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Lyric Pieces III, Op. 43: 4. Little Bird",
-      "url": "https://open.spotify.com/track/1QIxNcM4KHTIJ1GXeo6aIN"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "The Best of Grieg",
+        "url": "https://open.spotify.com/album/2h6NFBOLseZmvXlQWZkWC0"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Lyric Pieces III, Op. 43: 4. Little Bird",
+      "url": "https://open.spotify.com/track/1QIxNcM4KHTIJ1GXeo6aIN"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -1083,6 +1083,30 @@
       "duration_ms": 604400,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
       "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Orchestral Music, Vol. 3: Symphony in C Minor - Old Norwegian Romance With Variations",
+        "url": "https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "duration_ms": 440133,
+      "name": "Symphony in C Minor, EG 119: II. Adagio espressivo",
+      "url": "https://open.spotify.com/track/5fcDG7g1ZyUfxJ6X9c0H2i"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1123,30 +1147,6 @@
       "duration_ms": 179333,
       "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
       "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Orchestral Music, Vol. 3: Symphony in C Minor - Old Norwegian Romance With Variations",
-        "url": "https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Malm\u00f6 Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
-        },
-        {
-          "name": "Bjarte Engeset",
-          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
-        }
-      ],
-      "duration_ms": 440133,
-      "name": "Symphony in C Minor, EG 119: II. Adagio espressivo",
-      "url": "https://open.spotify.com/track/5fcDG7g1ZyUfxJ6X9c0H2i"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Complete Solo Piano Music",
-        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
-      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 390200,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Complete Solo Piano Music",
+        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
+      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
     },
     {
       "added_at": "2022-09-30 04:01:00",

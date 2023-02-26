@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 370773,
+  "num_followers": 370812,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA1ODM2OCwwMDAwMDAwMDIwODc4NDA3NWI1MWQzOWZiNDljNTlmNmIzYTU5NGZj",
+  "snapshot_id": "MTY3NzA1ODM2OCwwMDAwMDAwMGVkMWNhNzgzZjAyZjhiOWUzYzA2YmEzMGQ2M2JjNzRi",
   "tracks": [
     {
       "added_at": "2023-02-16 23:00:00",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        }
+      ],
+      "duration_ms": 259073,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Live At Bird's Eye",
         "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 672520,
       "name": "Together - Special Edition",
       "url": "https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Michael Blicher",
-          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
-        }
-      ],
-      "duration_ms": 259073,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Flotten",
-        "url": "https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 288664,
-      "name": "Flotten",
-      "url": "https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Flotten",
+        "url": "https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 288664,
+      "name": "Flotten",
+      "url": "https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -887,6 +887,22 @@
       "duration_ms": 272794,
       "name": "On The Second Day",
       "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -935,38 +951,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Cloud 10",
-        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        }
-      ],
-      "duration_ms": 513373,
-      "name": "Tubby Chaser",
-      "url": "https://open.spotify.com/track/4PrgpZoUYGKBqhyGpVYJMX"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Relations",
         "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Cloud 10",
+        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "duration_ms": 513373,
+      "name": "Tubby Chaser",
+      "url": "https://open.spotify.com/track/4PrgpZoUYGKBqhyGpVYJMX"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
         "name": "Little Bird of Passage",
         "url": "https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
-      },
-      "artists": [
-        {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 230337,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
         }
       ],
-      "duration_ms": 230337,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
-      },
-      "artists": [
-        {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Pannonica",
         "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
       },
@@ -1171,6 +1171,38 @@
       "duration_ms": 403285,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Lead Belly Reimagined",
+        "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
+      },
+      "artists": [
+        {
+          "name": "Adam Nussbaum",
+          "url": "https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1195,34 +1227,18 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Lead Belly Reimagined",
-        "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
       "artists": [
         {
-          "name": "Adam Nussbaum",
-          "url": "https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 287666,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 290506,
       "name": "First Day",
       "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Best of 1965-76",
-        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
-      },
-      "artists": [
-        {
-          "name": "Nathan Davis",
-          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Sconsolato",
-      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "The Rumor",
         "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 270613,
       "name": "The Rumor",
       "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Best of 1965-76",
+        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Davis",
+          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Sconsolato",
+      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
     },
     {
       "added_at": "2023-02-16 23:00:00",
@@ -1795,34 +1795,6 @@
     {
       "added_at": "2023-02-16 23:00:00",
       "album": {
-        "name": "Elisian/Inutil Paisagem",
-        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
-      },
-      "artists": [
-        {
-          "name": "Michel Benita",
-          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
-        },
-        {
-          "name": "Matthieu Michel",
-          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
-        },
-        {
-          "name": "Jozef Dumoulin",
-          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
-        },
-        {
-          "name": "Philippe Garcia",
-          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
-        }
-      ],
-      "duration_ms": 296253,
-      "name": "Elisian/Inutil Paisagem",
-      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2023-02-16 23:00:00",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
       },
@@ -1851,6 +1823,34 @@
       "duration_ms": 228181,
       "name": "Loose Caboose",
       "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
+    },
+    {
+      "added_at": "2023-02-16 23:00:00",
+      "album": {
+        "name": "Elisian/Inutil Paisagem",
+        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
+      },
+      "artists": [
+        {
+          "name": "Michel Benita",
+          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
+        },
+        {
+          "name": "Matthieu Michel",
+          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
+        },
+        {
+          "name": "Jozef Dumoulin",
+          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
+        },
+        {
+          "name": "Philippe Garcia",
+          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
+        }
+      ],
+      "duration_ms": 296253,
+      "name": "Elisian/Inutil Paisagem",
+      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
     },
     {
       "added_at": "2023-02-16 23:00:00",

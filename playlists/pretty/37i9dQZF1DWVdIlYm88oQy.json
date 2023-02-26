@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 33791,
+  "num_followers": 33842,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NzU3MSwwMDAwMDAwMDZlZjQ1OGQ1ODgyNGZkYTg1ZWJmMzU3N2EwMWI2OTVh",
+  "snapshot_id": "MTY3NjY2NzU3MSwwMDAwMDAwMDU1NjFiMWEwN2JiOTUxZjhlNzBhZWYwZTExOTg0OWQw",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
+      "duration_ms": 626880,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 626880,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2023-02-17 20:59:31",

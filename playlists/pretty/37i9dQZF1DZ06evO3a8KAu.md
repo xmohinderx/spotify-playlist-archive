@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,014 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,032 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Del Barrio](https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio](https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8) | 3:03 |
 | 51 | [Se Termino](https://open.spotify.com/track/7pZarDLH0d0ZKaj31PnPUC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:40 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDA4NWYwNTEyN2VlNDE4NTVlNjllYWNlYmQ3ODUzNjQwOA==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAzMmRjYWNmMmI1YTcwNzkyZThiMTMyM2ZhODU5MWVlMw==`

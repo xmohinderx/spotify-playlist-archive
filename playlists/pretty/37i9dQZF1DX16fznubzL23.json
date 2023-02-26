@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 6047,
+  "num_followers": 6065,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDM5YzllMjRhNjUwY2ZkYWExMTc0NzA5MDJjYTg4NTRi",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDY0YjI5Mjc5MmY3ZjU0MDE2YjU5NWQ2NDcxNzgwZjNk",
   "tracks": [
     {
       "added_at": "2023-02-03 05:06:11",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-02-03 05:06:11",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ"
+      },
+      "artists": [
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        }
+      ],
+      "duration_ms": 224807,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
+    },
+    {
+      "added_at": "2023-02-03 05:06:11",
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 181348,
       "name": "Blues",
       "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
-    },
-    {
-      "added_at": "2023-02-03 05:06:11",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ"
-      },
-      "artists": [
-        {
-          "name": "GoodGirl LA",
-          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
-        }
-      ],
-      "duration_ms": 224807,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
     },
     {
       "added_at": "2023-02-03 05:06:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,429 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,470 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 38 | [Young Alexander](https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 1:35 |
 | 39 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:26 |
 | 40 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 |
-| 41 | [Memories of Blue](https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 5:40 |
-| 42 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
+| 41 | [El Greco \- Part 1](https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj) | 3:58 |
+| 42 | [Memories of Blue](https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 5:40 |
 | 43 | [Moonlight Reflections](https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:10 |
-| 44 | [El Greco \- Part 1](https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj) | 3:58 |
-| 45 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
-| 46 | [Eternal Alexander](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 |
+| 44 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
+| 45 | [Eternal Alexander](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 |
+| 46 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 47 | [Nocturnal Promenade](https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:51 |
 | 48 | [Création du monde \- Remastered](https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 10:01 |
 | 49 | [Dream in an Open Place](https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 5:56 |
 | 50 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDBmMmJmZDA3MWJmYzVjZGFlZTIwZDY4YjI3NjQ5MGJkMQ==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDBiNDFjMWNlNmQ5ZWM5MmMzMDYxOGVkMGYyNzVkMDM1NA==`

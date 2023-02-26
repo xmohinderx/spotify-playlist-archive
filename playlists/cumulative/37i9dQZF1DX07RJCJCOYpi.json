@@ -1540,6 +1540,28 @@
     {
       "album": {
         "name": "La Luz",
+        "url": "https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r"
+      },
+      "artists": [
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228371,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr"
+    },
+    {
+      "album": {
+        "name": "La Luz",
         "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
       },
       "artists": [
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 228371,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
@@ -2816,10 +2838,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 196750,
       "name": "Se Va",
       "url": "https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l"
+    },
+    {
+      "album": {
+        "name": "Se Va",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "album": {

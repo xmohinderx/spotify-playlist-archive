@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,541 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,602 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 49 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 |
 | 50 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 |
 | 51 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
-| 52 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
-| 53 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
+| 52 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
+| 53 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
 | 54 | [Zeven](https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [Be Here Soon](https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW) | 3:36 |
 | 55 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
 | 56 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 |
 | 60 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
 
-Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMDIzYjRlYWU5N2Y0NmM5YWUzMTc5MTI0NTJlNjA0NWJj`
+Snapshot ID: `MTY3NjU4ODQ2MCwwMDAwMDAwMGU4NGIwMzJhODU2OGFkZDQ0YTE2Y2I4YTVlODRkODYw`

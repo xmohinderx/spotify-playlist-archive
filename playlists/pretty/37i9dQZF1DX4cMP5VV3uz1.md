@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,374 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,480 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 59 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 | 60 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 61 | [Moments](https://open.spotify.com/track/6fdr24Ns8PoBQ8wGwuupRr) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Moments](https://open.spotify.com/album/2Qkuca2YzJW0cSPiGrPXmR) | 3:47 |
-| 62 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 |
-| 63 | [Figure It Out](https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Anna Rickards](https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz) | [Figure It Out](https://open.spotify.com/album/1GbLtUextuxcVZbondHylL) | 4:59 |
+| 62 | [Figure It Out](https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Anna Rickards](https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz) | [Figure It Out](https://open.spotify.com/album/1GbLtUextuxcVZbondHylL) | 4:59 |
+| 63 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 |
 | 64 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
 | 65 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 |
 | 66 | [Daga Da](https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [We'll Be Alright EP](https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61) | 3:48 |
 | 67 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 |
 | 68 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 |
 | 69 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
-| 70 | [Cancelled](https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Cancelled](https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT) | 3:33 |
-| 71 | [The Damn Guy](https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [The Damn Guy](https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7) | 5:44 |
+| 70 | [The Damn Guy](https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [The Damn Guy](https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7) | 5:44 |
+| 71 | [Cancelled](https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Cancelled](https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT) | 3:33 |
 | 72 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
-| 73 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 |
-| 74 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG) | 2:57 |
+| 73 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG) | 2:57 |
+| 74 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 |
 | 75 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 
-Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMDIzYzBjN2M5YzJiMDZkNDU0OGRhNjdkZTk3YWVmZDRm`
+Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMGY1NzE3ZTQ2N2RhNWJjZTQ1ZGFjNjk3NWJiZmI0NjJk`

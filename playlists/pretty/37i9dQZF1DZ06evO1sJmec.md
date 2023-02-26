@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,353 likes - 51 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,793 likes - 51 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 32 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
 | 33 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
 | 34 | [Hero Of The Day](https://open.spotify.com/track/0rDPQzWWmLTv9deHn4ulG7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:21 |
-| 35 | [Creeping Death \- Creeping Death EP Version / Remastered](https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:35 |
-| 36 | [Blackened](https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:40 |
+| 35 | [Blackened](https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:40 |
+| 36 | [Creeping Death \- Creeping Death EP Version / Remastered](https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:35 |
 | 37 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 4:44 |
 | 38 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 |
 | 39 | [The Four Horsemen \- Remastered](https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe / Remastered\)](https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n) | 7:12 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 48 | [Devil's Dance](https://open.spotify.com/track/3IHyDrQOASm7R0WBamMJO8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 5:18 |
 | 49 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
 | 50 | [Orion \- Remastered](https://open.spotify.com/track/3z9e5b0P7zoIeV6I3iyX8O) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 8:27 |
-| 51 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 |
+| 51 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDBhNTUwMzdiNTc1ZGM3MmJkNjJhNDM4YmZjMDg5N2E0Mw==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAyMTZjNWMwZDRiMGQ4OTFlYTk0NmRmYWJlMDk2YmY1ZQ==`

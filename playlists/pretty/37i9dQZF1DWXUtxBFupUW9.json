@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 278095,
+  "num_followers": 278230,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5NDY3MSwwMDAwMDAwMDU2M2Y0OWMzYTg2M2Q1MTdhMmU5NDc2YWNmNzVlNTNj",
+  "snapshot_id": "MTY3Njk5NDY3MSwwMDAwMDAwMDI0MTRlY2I0MWJkY2ExOGYyMWJmNmE4MmZkN2Y0OTNk",
   "tracks": [
     {
       "added_at": "2023-02-21 15:51:11",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2023-02-21 15:51:11",
+      "album": {
         "name": "Soul Manifesto: 1964-1970",
         "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
-    },
-    {
-      "added_at": "2023-02-21 15:51:11",
-      "album": {
-        "name": "Machine Gun",
-        "url": "https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Machine Gun",
-      "url": "https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff"
     }
   ],
   "unique_name": "Body & Soul",

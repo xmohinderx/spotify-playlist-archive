@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 472791,
+  "num_followers": 472946,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzExODA1NCwwMDAwMDAwMDNmNmY2NWQxZDAzNjFlZTk1NzI5ZTk2NTE0MjY1Njgy",
+  "snapshot_id": "MTY3NzExODA1NCwwMDAwMDAwMDg1Mjg1MzNiNjI1MTdhNGFmYjliMThmZDdhYzI2NGQ2",
   "tracks": [
     {
       "added_at": "2023-02-17 16:27:29",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
     },
     {
-      "added_at": "2023-02-25 09:04:44",
+      "added_at": "2023-02-26 00:51:05",
       "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 250106,
       "name": "Rayando El Sol",
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
@@ -435,26 +451,6 @@
       "duration_ms": 163333,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+        "name": "Los Tragos",
+        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 211373,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+      "duration_ms": 171000,
+      "name": "Los Tragos",
+      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -611,22 +611,22 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Los Tragos",
-        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Los Tragos",
-      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 216000,
       "name": "Te Esper\u00e9",
       "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
+        "name": "Una Lady Como T\u00fa",
+        "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
         "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
         "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Una Lady Como T\u00fa",
-        "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
+      "duration_ms": 223200,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -963,22 +979,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -1119,22 +1103,18 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+      "duration_ms": 211906,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1151,6 +1131,26 @@
       "duration_ms": 226480,
       "name": "Supongo Que Lo Sabes",
       "url": "https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Un Viaje a Todas Partes",
-        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 203836,
-      "name": "Un Viaje a Todas Partes",
-      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
+        "name": "Un Viaje a Todas Partes",
+        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 203836,
+      "name": "Un Viaje a Todas Partes",
+      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2023-02-17 16:27:29",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2023-02-17 16:27:29",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Amor Ordinario",
-      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-02-17 16:27:29",
@@ -1719,22 +1735,6 @@
       "duration_ms": 199656,
       "name": "Felices x Siempre",
       "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
-    },
-    {
-      "added_at": "2023-02-17 16:27:29",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-02-17 16:27:29",

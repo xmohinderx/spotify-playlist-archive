@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,909 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,058 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 75 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
 | 76 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
 | 77 | [Elephant Gun](https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Elephant Gun](https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20) | 5:48 |
-| 78 | [Cinnamon](https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 4:12 |
+| 78 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
 | 79 | [With Arms Outstretched](https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 3:43 |
-| 80 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
+| 80 | [Cinnamon](https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 4:12 |
 | 81 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 |
 | 82 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
 | 83 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Hallways](https://open.spotify.com/track/4FzQApCNgoI2HAaBrdmkox) | [Islands](https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n) | [A Sleep & A Forgetting](https://open.spotify.com/album/36GHC6uosFJ1nR4M7qIo90) | 2:53 |
 | 100 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:50 |
 
-Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDJmODAwNmMxOWUxNDE1MjljYTliMTI0Mzk5NjE5Yjk2`
+Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMGNhZjI2MDRjZDcxZTBlYjEwMTYyMmZlYTBiYzZhMjEw`

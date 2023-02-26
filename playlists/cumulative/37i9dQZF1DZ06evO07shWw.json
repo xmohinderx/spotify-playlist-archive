@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Treated Me Good",
+        "url": "https://open.spotify.com/album/7xdKctABSF6i9zKy9B5wHB"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200557,
+      "name": "Treated Me Good",
+      "url": "https://open.spotify.com/track/0WlenzbcPClIkMc9lwzXdP"
+    },
+    {
+      "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
       },

@@ -998,7 +998,7 @@
     {
       "album": {
         "name": "Active",
-        "url": "https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu"
+        "url": "https://open.spotify.com/album/1jXOTR9fYQgJDflrfAWySM"
       },
       "artists": [
         {
@@ -1009,6 +1009,24 @@
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Ride That Thing",
+      "url": "https://open.spotify.com/track/1xize7v0QtfP7rAv8ThWFq"
+    },
+    {
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
       "duration_ms": 189374,
       "name": "Ride That Thing",
       "url": "https://open.spotify.com/track/7CGfYF9Gb3a7GGUZtbQolR"

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 446569,
+  "num_followers": 446612,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMDk4ZWI0OGQ0MzY2ZDRmNWUxNDhjNmNlMzA1NjE5NjEx",
+  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGI4Y2JjZTM4ZGZhNWUwOWRhZTVjZGU5MTAzNDQwODVk",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:25",
@@ -453,6 +453,26 @@
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
+      "added_at": "2023-02-26 01:06:38",
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Order In Decline",
@@ -501,26 +521,6 @@
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
     },
     {
-      "added_at": "2023-02-25 09:41:43",
-      "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Artificial Selection",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Do You Feel O.K?",
         "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 209720,
       "name": "Holding Me Down",
       "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -669,23 +669,7 @@
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
     },
     {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 196464,
-      "name": "Down To Hell",
-      "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
-    },
-    {
-      "added_at": "2023-02-25 09:41:43",
+      "added_at": "2023-02-26 01:06:38",
       "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
+      "duration_ms": 196464,
+      "name": "Down To Hell",
+      "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -731,6 +715,22 @@
       "duration_ms": 184893,
       "name": "Degenerates",
       "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
     },
     {
-      "added_at": "2023-02-25 09:41:43",
+      "added_at": "2023-02-26 01:06:38",
       "album": {
         "name": "Evil Finds Light",
         "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "wet milk",
         "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 136666,
       "name": "myfeelingshavefeelings",
       "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 190783,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
     },
     {
       "added_at": "2023-01-27 16:27:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Euthanasia",
         "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 216693,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 229896,
-      "name": "Hypochondria",
-      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 207106,
       "name": "Stars Before The Sun",
       "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 229896,
+      "name": "Hypochondria",
+      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Brutalism",
-        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Low Budget Horror",
         "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 181631,
       "name": "Low Budget Horror",
       "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
     },
     {
-      "added_at": "2023-02-25 09:41:43",
+      "added_at": "2023-02-26 01:06:38",
       "album": {
         "name": "Attainable",
         "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Devastation",
         "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 221748,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
     },
     {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "Dark Blue",
-        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Stand Up",
@@ -1411,6 +1395,22 @@
       "duration_ms": 228299,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Reverberating Silence",
         "url": "https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 236793,
       "name": "Closer to Comfort",
       "url": "https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2022-12-13 20:10:17",

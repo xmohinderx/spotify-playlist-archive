@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Na8xJd70B204c85CX7s7K">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,20 +14,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 4 | [farfalle](https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 2:44 |
 | 5 | [INSUPERABILE](https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z) | 2:52 |
 | 6 | [Virale](https://open.spotify.com/track/2UaTiaxdp9uaRb6fMy8qpR) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Virale](https://open.spotify.com/album/0rSZMkAo12juM5issAjerT) | 3:04 |
-| 7 | [SaN LoREnZo \(feat\. Annalisa\) \- prod\. Yanomi](https://open.spotify.com/track/7yGaVzGU1qKp92Xd4zV94i) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [NoRd](https://open.spotify.com/album/4LDkteS52GRbR6rjrbhFkV) | 3:22 |
+| 7 | [SaN LoREnZo \(feat\. Annalisa\)](https://open.spotify.com/track/2n6ZWiGk5VLYhHZUBc0SiI) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [NoRd](https://open.spotify.com/album/1F0O90sZiD6E1iKVizRn2s) | 3:22 |
 | 8 | [scossa](https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT) | 3:01 |
 | 9 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 |
 | 10 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 |
 | 11 | [raggi gamma](https://open.spotify.com/track/6UEPZv9ZGcoZRxnkCq5C2p) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/7oMyjqYnpRhVYQKwjHrnFd) | 3:15 |
-| 12 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
-| 13 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 |
+| 12 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 |
+| 13 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 14 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
 | 15 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
 | 16 | [6 PM](https://open.spotify.com/track/5Lh0AgBMU1xRNLZ8iPW4bS) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [6 PM](https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5) | 3:08 |
 | 17 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 |
 | 18 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 |
 | 19 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
-| 20 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/6jm6xEF89GMviLo8GILp6z) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/4m56Ae5dOv24XbtQLYtXKp) | 2:52 |
+| 20 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA) | 2:52 |
 | 21 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 |
 | 22 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 |
 | 23 | [malibu \(with Trevor Daniel\)](https://open.spotify.com/track/31cxJ8JDVyYM1Ybqppmi9s) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 33 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 34 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 
-Snapshot ID: `Mjc5NTUyODIsMDAwMDAwMDA1ZWVjNWYzODhhNzY3ZDYzZWQ5YWJhMTFiODAxM2UxMQ==`
+Snapshot ID: `Mjc5NTYxODIsMDAwMDAwMDA2NjhmNTBiZWIxYWY4OTk5OGMwODQyZWFmMWMyYmEzZg==`

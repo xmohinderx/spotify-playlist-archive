@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 91051,
+  "num_followers": 91044,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0MjI4MywwMDAwMDAwMGE5MDM5YWQ4N2M5N2VhZWY1YjczMTlmYWQwMjkxZGVj",
+  "snapshot_id": "MTY3NDE0MjI4MywwMDAwMDAwMGU4MzVmOTY2NDU4ZTRmZmQ2ZGUxYjlhMWY4ZmQ5ZTRi",
   "tracks": [
     {
       "added_at": "2023-01-19 15:31:23",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Bandito",
-        "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Nardi",
-          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Bandito",
-      "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
+        "name": "Bandito",
+        "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Soldi Puliti",
-        "url": "https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Soldi Puliti",
-      "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 122373,
       "name": "No wallet (feat. Marracash)",
       "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
+        "name": "Soldi Puliti",
+        "url": "https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Soldi Puliti",
+      "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
     },
     {
       "added_at": "2023-01-19 15:31:23",

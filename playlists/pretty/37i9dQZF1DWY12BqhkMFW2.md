@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,926 likes - 35 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,016 likes - 35 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 19 | [Love's In Need Of Love Today](https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Sonna](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Love's In Need Of Love Today](https://open.spotify.com/album/067timXrQdiROAy7dHLpIP) | 4:12 |
 | 20 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
 | 21 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
-| 22 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
-| 23 | [Yearning For Your Love](https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 4:56 |
+| 22 | [Yearning For Your Love](https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 4:56 |
+| 23 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
 | 24 | [So Amazing](https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:10 |
 | 25 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
 | 26 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Zoom](https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr) | [Big Bub](https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4) | [Timeless](https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD) | 5:55 |
 | 35 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDgwMDdlOGYwNmJhMDk1NDU1OGQwMDQ0Y2Q0N2M5NmIz`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDkzODU1NjY3NTU2Y2Q3OTZmMjBlNTc2MjFmNmY1Mzdj`

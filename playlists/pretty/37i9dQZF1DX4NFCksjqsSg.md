@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,654 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,669 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 69 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
 | 70 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 71 | [Je survivrai](https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa) | [Michèle Richard](https://open.spotify.com/artist/2fLojwlojepWCZdtsAZVi0) | [Les années 70](https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk) | 3:30 |
-| 72 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
+| 72 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
 | 73 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
-| 74 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
+| 74 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 75 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDIwODU4ZjQ5M2YzNWY5ZTg3Y2QzN2IzOWM5NTg5Yzlm`
+Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDdlNzU1YWYyYjllYmVlMGFmNmJhYzE0NWRiYzYzZmEx`

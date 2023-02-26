@@ -4,14 +4,14 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-538 songs - 1 day 17 hr 36 min
+540 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 | 2022-04-14 | 2022-07-29 |
 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 | 2022-06-30 | 2022-11-11 |
 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 | 2022-04-14 | 2022-11-11 |
-| [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 |  |
+| [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 | 2023-02-26 |
 | [A Foggy Day](https://open.spotify.com/track/2ntBZKDYj8NgS4nS15gnZe) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 9:04 | 2022-04-14 | 2022-10-03 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-04-14 | 2022-07-29 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 | 2022-06-30 | 2023-02-03 |
@@ -40,7 +40,7 @@
 | [April In Paris](https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [April In Paris](https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl) | 2:31 | 2022-09-29 | 2023-02-03 |
 | [April In Paris \- 2007 Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 6:43 | 2022-04-14 | 2022-05-25 |
 | [April Sun](https://open.spotify.com/track/3yOz7TaRPisAzcZN8rVV2a) | [Beyond the Seasons](https://open.spotify.com/artist/4WRpr2P8GeFhThBTdk5Qb0) | [April Sun](https://open.spotify.com/album/0J0va02C0WsrxBkoSFNX2C) | 3:43 | 2022-04-14 | 2022-04-28 |
-| [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 |  |
+| [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-02-26 |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-11 |  |
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2022-04-14 | 2022-09-23 |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2022-11-25 |
@@ -439,6 +439,7 @@
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-06-30 | 2022-11-11 |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-16 |  |
 | [Strange Fruit](https://open.spotify.com/track/0iYWtWNtQRUlSZDESD5cnK) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore/Decca Masters](https://open.spotify.com/album/1LTW62zneyklPRBYWq6ZHz) | 3:12 | 2022-04-14 | 2022-04-27 |
+| [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-23 |  |
 | [Summer In Central Park](https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 6:41 | 2022-04-14 | 2022-09-23 |
 | [Summer Wind](https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 4:37 | 2022-04-14 | 2022-09-23 |
 | [Summertime](https://open.spotify.com/track/5adNkxFBgFYu3N6m8J6muG) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Beegie Adair Trio](https://open.spotify.com/artist/7tAni5NIpM2GBzOQMDSgVa), [The Jeff Steinberg Orchestra](https://open.spotify.com/artist/3rw5T4cOHin6M1Jaf912oJ) | [Gershwin on Sax](https://open.spotify.com/album/2RefaWeQAFf7DIUlyDHFCh) | 4:52 | 2022-04-14 | 2022-09-16 |
@@ -457,6 +458,7 @@
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-12 |  |
 | [The Boy From Ipanema](https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:14 | 2022-06-30 | 2022-09-16 |
 | [The Boy From Ipanema](https://open.spotify.com/track/7L2n068PidY6cnNdyTfeRb) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad Am I / Gentle Is My Love](https://open.spotify.com/album/3gC2NduPE3x2N4Nd90ytsj) | 2:14 | 2022-04-14 | 2022-07-29 |
+| [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-23 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/7K0RtjPEyD4djyUJUQUiNG) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Soon](https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu) | 6:17 | 2022-04-14 | 2022-10-08 |
 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 | 2023-01-20 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-09-29 | 2023-02-03 |

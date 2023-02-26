@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,815 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,828 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 26 | [a woman is a god \- BIA Remix](https://open.spotify.com/track/1bjKLAHQUcSOK6zBr9ZgDv) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [a woman is a god \(BIA Remix\)](https://open.spotify.com/album/1GM7yBzzTnJ7TvTysxvaQj) | 2:58 |
 | 27 | [Vamos](https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Distrito Federal](https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt) | 2:52 |
 | 28 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
-| 29 | [Nasty Girl](https://open.spotify.com/track/7AieOtwbgEHjfVLh8d1iit) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
-| 30 | [FREAK IN THE NIGHT](https://open.spotify.com/track/3gf0CqnyjYb2IoyZSaDa9h) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:40 |
+| 29 | [FREAK IN THE NIGHT](https://open.spotify.com/track/3gf0CqnyjYb2IoyZSaDa9h) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:40 |
+| 30 | [Nasty Girl](https://open.spotify.com/track/7AieOtwbgEHjfVLh8d1iit) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
 | 31 | [YAKWTFGO \(feat\. Kali Uchis\)](https://open.spotify.com/track/6rrP1mBTbBkJCP7FsBe0SM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:42 |
 | 32 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
-| 33 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 |
-| 34 | [MOTIONLESS](https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:27 |
+| 33 | [MOTIONLESS](https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:27 |
+| 34 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 |
 | 35 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
 | 36 | [FREE BIA \(1ST DAY OUT\)](https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 1:54 |
 | 37 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [BADSIDE](https://open.spotify.com/track/4i52IhZoFDXVxKhJewywbs) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BADSIDE](https://open.spotify.com/album/3j7poPDs9oT3VEMtPdw8jf) | 3:44 |
 | 50 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDA0YTFjZmM5YjZhYWVkM2I0YWJkYjNkMGRkN2Q4MGEwMw==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDBlZGM5MmY4YWUwMjY4MmU5ZjI2ZDE5ZjQ0ZjI1NTQ1ZA==`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-89 songs - 9 hr 27 min
+90 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Roc](https://open.spotify.com/track/5e063bYxq533JpgRCHBpt5) | [Rimbu\(CH\)](https://open.spotify.com/artist/5X1mbOzivdPgJ8SVEDRFtF), [Gana Congas](https://open.spotify.com/artist/4AEwlGEW0QOEk7QxhyLCff), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Anka](https://open.spotify.com/album/6lfcXtau5zMyV2jpqD0cfH) | 7:57 | 2022-08-24 | 2023-02-04 |
 | [Rouhi](https://open.spotify.com/track/55LgHMrNjkPR4GH2JrNo6A) | [Dennis Allen](https://open.spotify.com/artist/6DZmEIUpqFHuWWgytDvnF3), [Jerry Spoon](https://open.spotify.com/artist/0m6eNLtH4LgmXWq9Sz5d0j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Rouhi](https://open.spotify.com/album/6DvjdqPz3PSSCePEeuDOBl) | 5:51 | 2022-08-24 | 2023-02-04 |
 | [Rumor](https://open.spotify.com/track/0IyZ6gCFUyGs3zP2ItaTo1) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Timeless](https://open.spotify.com/album/6HMZO1TTb8HuJE61QP0MPz) | 7:00 | 2022-10-13 |  |
-| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-08-24 |  |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2023-02-03 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-08-24 | 2023-02-26 |
 | [Silence & Secrets \(Black Coffee Remix\) \[Mixed\]](https://open.spotify.com/track/7yr19oQ20Uo2Zq4eOzn2F6) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Angelos Rebirth Mix](https://open.spotify.com/album/2KvL2S5zjJpn72vYEouq6B) | 6:35 | 2022-08-24 |  |
 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 | 2022-08-24 |  |
 | [Skabtellak](https://open.spotify.com/track/6pdiGuujygwdhM46YbYj0H) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Toufic Hatem](https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH) | [Skabtellak](https://open.spotify.com/album/44mCFD1ezFhPpLzS1kXII1) | 6:14 | 2022-11-28 |  |

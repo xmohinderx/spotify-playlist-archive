@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: ماجد المهندس
 
-198 songs - 13 hr 31 min
+199 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-03-17 | 2022-09-09 |
 | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/track/6FBNoAauIeKCOtR4xkFtGx) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/album/6WWGzDlSphKk5lDurfAM6l) | 2:32 | 2021-12-23 | 2022-04-05 |
 | [Bayn Alayadi](https://open.spotify.com/track/1hIdUbUeGqJ5MXbKEU6Uqf) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Bayn Alayadi](https://open.spotify.com/album/6xcQSKxoyNQAkUcImgTNWa) | 3:49 | 2022-01-20 | 2022-06-21 |
-| [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 | 2023-02-24 |  |
+| [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 | 2023-02-24 | 2023-02-26 |
 | [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-02-21 |  |
 | [Belmethl](https://open.spotify.com/track/0Ad46USTFLwOe2D4Rwqeue) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Belmethl](https://open.spotify.com/album/4PqHIDZW2fnepJ1kUVMfqP) | 3:25 | 2021-12-23 | 2022-03-02 |
 | [Chabihi](https://open.spotify.com/track/1WDXQ8wUtiWd2gX6MUTpUR) | [Hassan Al Ahmed](https://open.spotify.com/artist/4U837cFteUqtzDuE6CjAaQ) | [Chabihi](https://open.spotify.com/album/0WQDBzymEFA4DN63V8f5hc) | 4:11 | 2022-06-02 | 2022-11-08 |
@@ -182,6 +182,7 @@
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 | 2022-08-27 |
 | [اشتاقيت لك](https://open.spotify.com/track/6DEFaweKzyaJFhN3mQ20a3) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اشتاقيت لك \- Single](https://open.spotify.com/album/5qckdtVpXCLbsdxmzwCdAz) | 4:22 | 2021-12-23 | 2022-06-04 |
 | [اقسم برب الحب](https://open.spotify.com/track/16n29Queh9WamvEdPAzU30) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اقسم برب الحب \- Single](https://open.spotify.com/album/0ndiTiEwgNBodLi9FUxCE8) | 3:48 | 2021-12-23 | 2021-12-31 |
+| [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 |  |
 | [جماله](https://open.spotify.com/track/5Eummjh47ivk2y8y7OEaBX) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [جماله](https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1) | 3:52 | 2023-01-10 |  |
 | [حبك ربح](https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hobbak Rebeh](https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr) | 3:15 | 2022-11-03 | 2023-01-25 |
 | [حدود الغرام](https://open.spotify.com/track/0UdnJGuKosWJZ9zMSaKIOt) | [خالد حامد](https://open.spotify.com/artist/3cVWyWIYJJCk6sgk3faKYf) | [حدود الغرام](https://open.spotify.com/album/0h4AArlMvqifPYjm1oVG1Y) | 4:18 | 2022-12-22 |  |

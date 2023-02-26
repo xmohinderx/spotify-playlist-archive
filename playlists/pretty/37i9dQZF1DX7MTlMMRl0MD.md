@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Mike Bahía & Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,888 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,888,076 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 41 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 42 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
 | 43 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
-| 44 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
-| 45 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
+| 44 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
+| 45 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
 | 46 | [No Es una Novela](https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Uniquehits](https://open.spotify.com/album/60cukXHcYZwS84tTa60i9y) | 3:40 |
 | 47 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
 | 48 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 67 | [With or Without You](https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:57 |
 | 68 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
 | 69 | [Llorar Lloviendo](https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:45 |
-| 70 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 |
-| 71 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
+| 70 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
+| 71 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 |
 | 72 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 73 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
 | 74 | [Tengo un Amor](https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:18 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 92 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
 | 93 | [Don Juan & Cupido](https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Don Juan & Cupido](https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx) | 3:45 |
 | 94 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 |
-| 95 | [Nunca Me Amaste](https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Tiempo](https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg) | 3:40 |
-| 96 | [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 |
+| 95 | [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 |
+| 96 | [Nunca Me Amaste](https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Tiempo](https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg) | 3:40 |
 | 97 | [Cuanto Duele](https://open.spotify.com/track/4pJDYk0CnZoydOy6qzqxJW) | [Carlos y Alejandra](https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA) | [La Introducción...Continued](https://open.spotify.com/album/3mUrBZLHq70OZkho88yAEC) | 3:34 |
 | 98 | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8) | 3:43 |
 | 99 | [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 |
 | 100 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGUwZTk1MDczM2ZhMWJjYWM3ZDIyZDMzYzI1NDdlMDhh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDk3NGY3ZTk4MDUyMGY1MDNmYWUwZmMxZWRiNDY0ZGJh`

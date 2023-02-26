@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,326 likes - 103 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,383 likes - 103 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 23 | [DOLLARS, DOLLS, DRUGS](https://open.spotify.com/track/5QCyiwr9QKzXN9S1t9Z43z) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [DOLLARS, DOLLS, DRUGS](https://open.spotify.com/album/5atVXbuNbsfqkCBoZbetHC) | 3:04 |
 | 24 | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/track/4C2BXCCYIbkwdcGVd78jPu) | [Cherie Lily](https://open.spotify.com/artist/62EtucF20PtIgqzJJzE6Dm), [Jack Mizrahi](https://open.spotify.com/artist/3yr44etlSPcdruXQYfhGGi), [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/album/6NvKS9Ff7V9OgCox9LUZ9v) | 4:16 |
 | 25 | [I Miss The Club](https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO) | [Kweku Saunderson](https://open.spotify.com/artist/6TLjcZpFzo4Sno68bY6MkZ), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [I Miss The Club](https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83) | 2:56 |
-| 26 | [House Princess](https://open.spotify.com/track/2faERFNJkMa1dFoiGgV9Pp) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/6wgtaAwdbqmcjIYjMLOsVe) | 5:16 |
+| 26 | [House Princess](https://open.spotify.com/track/09J4n4tmEJksU3CS5oY2tk) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/0zZWFJeJZoYhyw0U2aZhh2) | 5:16 |
 | 27 | [Life of the Party](https://open.spotify.com/track/7bKPcPvIm5oYhFcGeHztdr) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2), [Luke Fono](https://open.spotify.com/artist/1vtVWuhm24XgrbnuBF6CcI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Life of the Party](https://open.spotify.com/album/6AIIO6Y3p3Eg32mCmDrw0k) | 3:27 |
 | 28 | [Wanda's Cunty Vision](https://open.spotify.com/track/1IQUcRrh5tY2aAdiO6YObw) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Wanda's Cunty Vision](https://open.spotify.com/album/09IZ4WDGwtbDARXjLCaHRC) | 1:57 |
 | 29 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 102 | [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 |
 | 103 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MTY3NzE5NjI2OSwwMDAwMDAwMGQ5YWFkYTc4NmQ2ZjQ2NTRlODZiYTVlZDE3NmMwOWEy`
+Snapshot ID: `MTY3NzE5NjI2OSwwMDAwMDAwMGU1OWU0Mjg1YmZjZGM1OTNlZTUzNWRiYWZjYTY3ZGJl`

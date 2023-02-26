@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 370025,
+  "num_followers": 370057,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2MjM2MywwMDAwMDAwMDdlODNmZDUzNWY4N2MyNDhmOTlmNTM0NDBlZDc2NTFi",
+  "snapshot_id": "MTY3NzE2MjM2MywwMDAwMDAwMGIwY2YyYWM1NDhhZjA4N2I4NDM0NTY2MGViYmM0Y2I0",
   "tracks": [
     {
       "added_at": "2023-02-23 14:26:03",
@@ -235,18 +235,22 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+        "name": "Wishing Well / Cimmerian",
+        "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
         }
       ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+      "duration_ms": 216198,
+      "name": "Cimmerian",
+      "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -287,22 +291,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Wishing Well / Cimmerian",
-        "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 216198,
-      "name": "Cimmerian",
-      "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Tidal Waves",
-        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Tidal Waves",
-      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "A Quiet Voice",
+        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 282812,
+      "name": "A Quiet Voice",
+      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -611,22 +611,50 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Hopedrunk Everasking",
+      "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -651,66 +679,22 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Hopedrunk Everasking",
-      "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+      "duration_ms": 400130,
+      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -735,6 +719,22 @@
       "duration_ms": 435653,
       "name": "Colorblind - WhoMadeWho Remix",
       "url": "https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Wake Up Call",
+      "url": "https://open.spotify.com/track/2k85lEep46LiLCK95PFOts"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Wake Up Call",
-        "url": "https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Wake Up Call",
-      "url": "https://open.spotify.com/track/2k85lEep46LiLCK95PFOts"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
         "name": "Making Time",
         "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -975,6 +955,26 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 241776,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "Soldiner",
-        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 346214,
-      "name": "Soldiner",
-      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1023,6 +1007,22 @@
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "Soldiner",
+        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 346214,
+      "name": "Soldiner",
+      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "mixed feelings",
-          "url": "https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 144461,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC"
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1275,18 +1255,22 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "mixed feelings",
+          "url": "https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+      "duration_ms": 144461,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1307,6 +1291,26 @@
       "duration_ms": 226690,
       "name": "Above the Salt",
       "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     }
   ],
   "unique_name": "Just Chill",

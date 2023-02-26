@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,531 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,580 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 59 | [Lose](https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 4:16 |
 | 60 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
 | 61 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 |
-| 62 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
-| 63 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
+| 62 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
+| 63 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 | 64 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 65 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
 | 66 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 71 | [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 |
 | 72 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
 | 73 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 |
-| 74 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
-| 75 | [WILL YOU?](https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WILL YOU?](https://open.spotify.com/album/16e8wwkPqs52FwNEyD0wV5) | 3:42 |
+| 74 | [WILL YOU?](https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WILL YOU?](https://open.spotify.com/album/16e8wwkPqs52FwNEyD0wV5) | 3:42 |
+| 75 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
 | 76 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 77 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
 | 78 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 86 | [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 |
 | 87 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 88 | [Fantasy](https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Summer Is Like a Dream](https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg) | 2:50 |
-| 89 | [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 |
-| 90 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 |
-| 91 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
-| 92 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
+| 89 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 |
+| 90 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
+| 91 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
+| 92 | [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 |
 | 93 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 94 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 | 95 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
-| 96 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 |
-| 97 | [Romantic Comedies](https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb) | 2:49 |
+| 96 | [Romantic Comedies](https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb) | 2:49 |
+| 97 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 |
 | 98 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 |
 | 99 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 |
 | 100 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
 
-Snapshot ID: `MTY3NzE2ODAwMCwwMDAwMDAwMDg4NzEzZTJkMTA0MGY3NWUyNTNhNDQ1MDQ2M2RiNDA5`
+Snapshot ID: `MTY3NzE2ODAwMCwwMDAwMDAwMGFhZTFhMjUzZWU1NjcyMDNhM2U2NTVhMzhiMmQwODI4`

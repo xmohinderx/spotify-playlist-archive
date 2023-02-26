@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 124496,
+  "num_followers": 124568,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDU1NjkzMDAzMjFkYjA0NzhlYmI3N2U0Njc3MTliYmUz",
+  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDZhMDdlZGFkYzVlZmUzYjZiNjBkYmM0ZjJmNjlkMWE1",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -123,26 +123,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Retrospective (Volume 2)",
-        "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Too Old To Cut The Mustard",
-      "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "King Of The Delta Blues",
         "url": "https://open.spotify.com/album/3TxhWz2Fr7wKECfx8Ii8ch"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 159266,
       "name": "Walking The Floor Over You - 1941 Edit",
       "url": "https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Retrospective (Volume 2)",
+        "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Too Old To Cut The Mustard",
+      "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Can The Circle Be Unbroken: Country Music's First Family",
         "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 195040,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+      },
+      "artists": [
+        {
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "Riders In The Sky",
+      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 141946,
-      "name": "Riders In The Sky",
-      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Wakely",
-          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
-      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 140280,
       "name": "Ida Red",
       "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Wakely",
+          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
+      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
     },
     {
       "added_at": "2023-01-02 21:50:32",

@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 42225,
+  "num_followers": 42277,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0NTIwMCwwMDAwMDAwMDg3OTUzNzI4NDFkNjQyNTMxOWY0OTY3YThmNGEwMmUx",
+  "snapshot_id": "MTY3NDc0NTIwMCwwMDAwMDAwMDUyOWM4NjJjZTA4YTQzYTNlMDYxZDNiYjRhNzAwNmU2",
   "tracks": [
     {
       "added_at": "2023-01-26 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "Sonorite",
-        "url": "https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8"
-      },
-      "artists": [
-        {
-          "name": "Teruyuki Nobuchika",
-          "url": "https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM"
-        }
-      ],
-      "duration_ms": 473106,
-      "name": "kokyu",
-      "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 136124,
       "name": "Floating",
       "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "Sonorite",
+        "url": "https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8"
+      },
+      "artists": [
+        {
+          "name": "Teruyuki Nobuchika",
+          "url": "https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM"
+        }
+      ],
+      "duration_ms": 473106,
+      "name": "kokyu",
+      "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "Low Power",
-        "url": "https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl"
-      },
-      "artists": [
-        {
-          "name": "H.Takahashi",
-          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
-        }
-      ],
-      "duration_ms": 239743,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
         "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 205533,
       "name": "\u30df\u30fc\u30c8\u30fb\u30df\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b7\u30fc\u30d7\u30fb\u30e1\u30c9\u30a6",
       "url": "https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "Low Power",
+        "url": "https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "duration_ms": 239743,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
     }
   ],
   "unique_name": "Ambient Tokyo",

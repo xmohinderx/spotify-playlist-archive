@@ -2,7 +2,7 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Play Your Part\. <br/>Don't forget to Vote\. <br/><br/><br/>Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FsN9h4j\-RjC56CRz6HEvpA"> Rema </a>
+> Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FsN9h4j\-RjC56CRz6HEvpA"> Rema </a>
 
 109 songs - 5 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=A77LtOw8ScqPlHwiVxtb5A"> Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,540 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,559 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 43 | [Digits \- Remix](https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Digits \(Remix\)](https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT) | 3:26 |
 | 44 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 |
 | 45 | [GORILLA](https://open.spotify.com/track/6H2082xvhunVM8YSQYiW27) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [GORILLA](https://open.spotify.com/album/3EkSa2Y7VEt9XU5hgMS6d9) | 3:06 |
-| 46 | [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 |
+| 46 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
 | 47 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 48 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 |
 | 49 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
 | 80 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGJjNmQ1NzVjM2NjNmM4ZmEwMzU3M2EwY2VlYzhiODFl`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDBjNTRlZjkyMmZjZDAwZmM0YjNhYmM0OGQ1YTk4Mzk3`

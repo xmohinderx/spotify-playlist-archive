@@ -4,7 +4,7 @@
 
 > Las rolas para escuchar mientras trabajas.
 
-314 songs - 16 hr 54 min
+315 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-12-08 |  |
 | [2 Veces](https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [2 Veces](https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ) | 3:09 | 2022-05-05 |  |
 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 | 2023-01-09 | 2023-02-17 |
+| [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 | 2023-02-23 |  |
 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2023-01-09 |  |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-05-05 |  |
 | [A Mis Enemigos](https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 | 2022-05-05 |  |
@@ -319,7 +320,7 @@
 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 | 2022-05-05 |  |
 | [¿En Dónde Estabas?](https://open.spotify.com/track/1lLHpScIhT8a9Mebm5YqX4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [¿En Dónde Estabas?](https://open.spotify.com/album/7ipOxYIavj7VLSeQAgi20D) | 2:56 | 2022-05-05 | 2022-09-24 |
 | [¿Por Qué Cambiaste De Opinión?](https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 4:01 | 2022-05-05 | 2022-07-29 |
-| [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 | 2022-09-23 |  |
+| [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 | 2022-09-23 | 2023-02-26 |
 | [¿Será Prudente?](https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [¿Será Prudente?](https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86) | 3:46 | 2022-12-08 | 2022-12-25 |
 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2023-01-09 |  |
 

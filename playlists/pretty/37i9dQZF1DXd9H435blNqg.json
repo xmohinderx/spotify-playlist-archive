@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 33863,
+  "num_followers": 33916,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGE1ZmEwZDBmZjQ2YjVkMzViZjJkYjk1NGYxYjVjMzhm",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDYwMDNmMzhkZmY5ZDQ0NzVkYzczOTA2YzU2YmM1MjZm",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 167680,
       "name": "Love Your Lies",
       "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Chocolate Samurai",
+        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 225551,
       "name": "Searching for Captain Save a Hoe",
       "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     }
   ],
   "unique_name": "Alt-Blue",

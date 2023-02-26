@@ -4,12 +4,13 @@
 
 > Exercise together with uplifting soul music.
 
-149 songs - 7 hr 42 min
+150 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I'm A\) Road Runner](https://open.spotify.com/track/2oLmzcsgNLcvZCHlbc58Xm) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [The Definitive Collection](https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn) | 2:44 | 2022-03-24 | 2022-04-20 |
 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 | 2021-12-20 |  |
+| [\(What A\) Wonderful World](https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Valentine For You](https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel) | 2:07 | 2023-02-21 |  |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 | 2022-05-12 | 2023-02-13 |
 | [\(What A\) Wonderful World \- Remastered](https://open.spotify.com/track/27K3ZDS5B4fwjhwyihrdzC) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke \(Remastered\)](https://open.spotify.com/album/4y3NeFX7yaEzQfxy70NhZ3) | 2:05 | 2021-12-20 | 2022-07-29 |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2022-08-12 |  |
@@ -84,7 +85,7 @@
 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 | 2021-12-20 | 2022-11-13 |
 | [Love Is All Right](https://open.spotify.com/track/5ZCUC4JTYg4JmAXWQotV5T) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/1T0rnH4pe84Dh0X2g1F8wW) | 2:42 | 2022-01-21 | 2022-07-17 |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-12-20 |  |
-| [Machine Gun](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 2:39 | 2022-05-12 |  |
+| [Machine Gun](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 2:39 | 2022-05-12 | 2023-02-26 |
 | [Machine Gun](https://open.spotify.com/track/6LU9Z9Sif4Lpu1B4PAwCuj) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/5ZH8WLX5Ta8zkTSiWQIpMx) | 2:39 | 2021-12-20 | 2022-07-28 |
 | [Mercy, Mercy](https://open.spotify.com/track/12w6nPwHLEwgdvJu3vHoRF) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [Mercy!](https://open.spotify.com/album/4DohPj1X1iG6UAyxrk4WNe) | 2:26 | 2022-08-12 | 2022-11-14 |
 | [Mercy, Mercy](https://open.spotify.com/track/6DrsaEo5LwVWywbmwNG3rI) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [See Saw](https://open.spotify.com/album/1LASXwYqGdkotrw6Gh83aX) | 2:26 | 2022-03-24 | 2022-04-17 |

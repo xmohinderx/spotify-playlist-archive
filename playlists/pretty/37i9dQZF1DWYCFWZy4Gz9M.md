@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,265 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,303 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moulay Ahmed](https://open.spotify.com/track/3rwooEaezEti3x3YbuedTf) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 12:00 |
 | 2 | [سانديا](https://open.spotify.com/track/5pR2e0SPMPKbI94rwjj2HY) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [سانديا](https://open.spotify.com/album/4goIKWNFoKz6fwBooJDinQ) | 3:12 |
-| 3 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
-| 4 | [Sandiya](https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp) | [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Ifrikya](https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw) | 4:37 |
+| 3 | [Sandiya](https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp) | [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Ifrikya](https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw) | 4:37 |
+| 4 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
 | 5 | [African Blues](https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Rachid Zeroual](https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw), [Khalid Kouhen](https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz), [Paolo Radoni](https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa), [Marc Lelangue](https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet) | [African Gnaoua Blues](https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase) | 7:02 |
 | 6 | [Toura Toura](https://open.spotify.com/track/2IDfgp6XFrBHzxbNb6TbxI) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Innov Gnawa](https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF) | 6:28 |
 | 7 | [Katibala \(Live\)](https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live at Village Studios](https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL) | 6:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 44 | [Bangara](https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Innov Gnawa](https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF) | 5:23 |
 | 45 | [Marhba / Gnawa Sidi Mimoun](https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 9:10 |
 | 46 | [Fangara Fangarié \- Ouled Bambara](https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 3:21 |
-| 47 | [Bouri Bouri Manandabo](https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB) | [Hasna el Becharia](https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f) | [Djazaïr Johara](https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG) | 5:18 |
-| 48 | [Bilaji](https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv) | [The Sons of the Moon\-Ouled Kamar](https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl) | [Marrakech Undermoon: The Black Album, Vol\. 2b](https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP) | 9:29 |
+| 47 | [Bilaji](https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv) | [The Sons of the Moon\-Ouled Kamar](https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl) | [Marrakech Undermoon: The Black Album, Vol\. 2b](https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP) | 9:29 |
+| 48 | [Bouri Bouri Manandabo](https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB) | [Hasna el Becharia](https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f) | [Djazaïr Johara](https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG) | 5:18 |
 | 49 | [Baniyorkoy](https://open.spotify.com/track/1Igxw5lYI0lGE9sHj1pefi) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Gnawa London](https://open.spotify.com/album/0D3b0UUxknxOaxWy69Q26D) | 5:23 |
 | 50 | [Hamdouchi](https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Ramon Lopez](https://open.spotify.com/artist/2YGdXhpR7VkGHLHTA3x3GG) | [Kalimba](https://open.spotify.com/album/45kB4RCp3VGg3DZo3klaup) | 5:56 |
 
-Snapshot ID: `MTY3MDMyNjUwNywwMDAwMDAwMGRiNzVhOTExNDJmMzVlNTU2YTdlNzI5NzM5ZGFmNDg0`
+Snapshot ID: `MTY3MDMyNjUwNywwMDAwMDAwMDYzZjAxZjA2NTgxOTM0ODA3Y2UwY2YyYmFiNGMwYmEw`

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Nina Chuba
 
-145 songs - 7 hr 20 min
+146 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Trotzdem](https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Trotzdem](https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e) | 4:35 | 2023-02-23 |  |
 | [Tätowier Mir Dein Namen](https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z) | [STEEZY](https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL) | [Tätowier Mir Dein Namen](https://open.spotify.com/album/6RPkPeXNuakYMF5yDWhOkk) | 2:28 | 2023-02-23 |  |
 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 | 2023-02-02 |  |
-| [Unsere Stadt](https://open.spotify.com/track/0ZnZkTH96LfKfHhn4cOUjk) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Unsere Stadt](https://open.spotify.com/album/2swQqkbjqMKNi0LyEm1ZS6) | 3:33 | 2023-02-09 |  |
+| [Unsere Stadt](https://open.spotify.com/track/0ZnZkTH96LfKfHhn4cOUjk) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Unsere Stadt](https://open.spotify.com/album/2swQqkbjqMKNi0LyEm1ZS6) | 3:33 | 2023-02-09 | 2023-02-26 |
+| [Unsere Stadt](https://open.spotify.com/track/3EnPa26fIejr2zmzbK9D6U) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Endlich Wieder Sommer](https://open.spotify.com/album/6J7ed0Og9sVNB9V3TAuCmS) | 3:33 | 2023-02-24 |  |
 | [Vampir](https://open.spotify.com/track/0HP48knRNuDkoXJ7ynlbTs) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Vampir](https://open.spotify.com/album/48qoR2gkEP5yqbkxfUSKko) | 2:34 | 2023-02-16 |  |
 | [Verliebt](https://open.spotify.com/track/5RefEA1Ixv3mtxHFwrNydi) | [Rainald Grebe](https://open.spotify.com/artist/3RCOgmbS8WtFSMKQAholxE) | [Das Hongkongkonzert](https://open.spotify.com/album/2VVI4GC46JFO3KaW87r0mb) | 2:53 | 2023-02-13 | 2023-02-15 |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB) | 2:41 | 2023-02-13 | 2023-02-15 |

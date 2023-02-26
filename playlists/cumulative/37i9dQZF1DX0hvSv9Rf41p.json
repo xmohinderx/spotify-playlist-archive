@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 164842,
       "name": "Bang Harder",
       "url": "https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 170285,
       "name": "Error Sound",
       "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 228371,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
@@ -5566,6 +5566,28 @@
       "duration_ms": 242750,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
     },
     {
       "album": {
@@ -7606,7 +7628,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"

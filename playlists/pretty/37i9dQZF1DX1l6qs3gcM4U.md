@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,636 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,741 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 45 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
 | 46 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
 | 47 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
-| 48 | [Madrugada](https://open.spotify.com/track/5EJm65BcKaozbl4aabantT) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Madrugada](https://open.spotify.com/album/226EA8JuTzjROUvbVIPECb) | 3:52 |
-| 49 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
-| 50 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 |
-| 51 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
+| 48 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
+| 49 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
+| 50 | [Madrugada](https://open.spotify.com/track/5EJm65BcKaozbl4aabantT) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Madrugada](https://open.spotify.com/album/226EA8JuTzjROUvbVIPECb) | 3:52 |
+| 51 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 |
 | 52 | [Jeito Dela](https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Jeito Dela](https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1) | 3:28 |
 | 53 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
 | 54 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 55 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 |
 | 56 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 |
 | 57 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
-| 58 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
-| 59 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
+| 58 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
+| 59 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
 | 60 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
 | 61 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
 | 62 | [Presa](https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Batuta](https://open.spotify.com/artist/3q0uYBkdRxSwrjR2cdPBtj) | [Presa](https://open.spotify.com/album/7iPZevwftNKGt6cq5iMPDD) | 4:33 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 77 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
 | 78 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 |
 | 79 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
-| 80 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 |
+| 80 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDI3MDk0MDBkMTBjYTg5YjBkMDFjYjcxYWI1NTQ5ZmZj`
+Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMGFiZmQ5Nzg1MTA3OGE5ZjZiZDRjMWVkYTVkN2RiMjRl`

@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Sam Hunt",
-  "num_followers": 115319,
+  "num_followers": 115535,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDk1ODExMzgzNmJmZTYwNjdkYjdmN2M0NDZhZmNkODE2",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDFhNzk2ZTExMzk1ZWJiMDQxMWFhNTNiMzk4Y2I5Mjli",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "What If I Don't",
         "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 201544,
       "name": "What If I Don't",
       "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -691,6 +691,42 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Just Say I'm Sorry",
+      "url": "https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Me Myself and Why",
+        "url": "https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Me Myself and Why",
+      "url": "https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -715,22 +751,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Me Myself and Why",
-        "url": "https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Me Myself and Why",
-      "url": "https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "One Mississippi",
         "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 213718,
       "name": "One Mississippi",
       "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Just Say I'm Sorry",
-      "url": "https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "I Still Love You",
+        "url": "https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 224149,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
@@ -839,22 +859,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "I Still Love You",
-        "url": "https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe"
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
       "artists": [
         {
-          "name": "Jessie James Decker",
-          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         },
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 224149,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -887,26 +907,6 @@
       "duration_ms": 178973,
       "name": "Grand",
       "url": "https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+        "name": "Chapter 1: Things We're Not Saying",
+        "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
         }
       ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+      "duration_ms": 154606,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Chapter 1: Things We're Not Saying",
-        "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
       "artists": [
         {
-          "name": "Georgia Webster",
-          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 154606,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "justified",
-      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "The Otherside",
         "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195515,
       "name": "Till There's Nothing Left",
       "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 200840,
-      "name": "breadwinner",
-      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
+      "duration_ms": 172280,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1223,22 +1223,6 @@
       "duration_ms": 171537,
       "name": "Keith",
       "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Mercury Lane",
-        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "breadwinner",
+      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Russell Dickerson",
+        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Ghost Story",
         "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
@@ -1339,6 +1355,22 @@
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Lost My Heartbreak",
+        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Lost My Heartbreak",
+      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1379,38 +1411,6 @@
       "duration_ms": 178994,
       "name": "When You Know",
       "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Lost My Heartbreak",
-        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
-      },
-      "artists": [
-        {
-          "name": "David J",
-          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Lost My Heartbreak",
-      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Russell Dickerson",
-        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Leave You Alone",
-        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 214238,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "The Country And The Coast Side A",
         "url": "https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 162973,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "INTERTWINED",
-        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
-      },
-      "artists": [
-        {
-          "name": "CHASE WRIGHT",
-          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
-        }
-      ],
-      "duration_ms": 170752,
-      "name": "Why Should We",
-      "url": "https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        }
+      ],
+      "duration_ms": 170752,
+      "name": "Why Should We",
+      "url": "https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR"
     }
   ],
   "unique_name": "Pop Country",

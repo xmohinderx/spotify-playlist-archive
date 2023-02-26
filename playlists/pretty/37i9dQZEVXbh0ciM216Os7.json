@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NTM1ODAsMDAwMDAwMDA2MjQwY2NhN2U5NTZhOWYyNTBjZTlkNjY1M2E5YmQ3Nw==",
+  "snapshot_id": "Mjc5NTM1ODAsMDAwMDAwMDBkMzg1MDk4ZWNmNTQ5YzJkZjIwODZkNjY0MzQwNWUyOA==",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -87,6 +87,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -135,26 +155,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Die For You (Remix)",
-        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Die For You - Remix",
-      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/2TWRSOXBwljfQu4gCaB5DG"
       },
@@ -171,8 +171,32 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "GOOGLE",
+        "url": "https://open.spotify.com/album/3hxmWwG0G3IXdjbi2AyHEH"
+      },
+      "artists": [
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "duration_ms": 194272,
+      "name": "GOOGLE",
+      "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Kant Nobody",
-        "url": "https://open.spotify.com/album/6Qi8Hf2PW97oZP2a4Tvd24"
+        "url": "https://open.spotify.com/album/5Ri0Ml4nBSK6AYF2zc7yjO"
       },
       "artists": [
         {
@@ -186,7 +210,51 @@
       ],
       "duration_ms": 180359,
       "name": "Kant Nobody (feat. DMX)",
-      "url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM"
+      "url": "https://open.spotify.com/track/2lc7pnLLVCrvllEDHZifAA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Study Time",
+        "url": "https://open.spotify.com/album/6cQdanqA6jAgHciS2p8AYX"
+      },
+      "artists": [
+        {
+          "name": "Heavenly Realms",
+          "url": "https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj"
+        },
+        {
+          "name": "LoFi Bear",
+          "url": "https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE"
+        }
+      ],
+      "duration_ms": 137214,
+      "name": "Study Time",
+      "url": "https://open.spotify.com/track/3S9qaRhCJdc17PjsNo3Vzg"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Work That",
+        "url": "https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "FJ Outlaw",
+          "url": "https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        }
+      ],
+      "duration_ms": 184382,
+      "name": "Work That",
+      "url": "https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -227,6 +295,26 @@
       "duration_ms": 201904,
       "name": "WYD",
       "url": "https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Bitches Are Back",
+        "url": "https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm"
+      },
+      "artists": [
+        {
+          "name": "M.E.B.",
+          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Bitches Are Back",
+      "url": "https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -319,6 +407,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4l13qXR6ZTxw6wHBKTb0sg"
       },
@@ -379,42 +487,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
+        "name": "Renaissance (The White Lotus) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
         }
       ],
-      "duration_ms": 146756,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Bitches Are Back",
-        "url": "https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm"
-      },
-      "artists": [
-        {
-          "name": "M.E.B.",
-          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Bitches Are Back",
-      "url": "https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE"
+      "duration_ms": 170156,
+      "name": "Renaissance (The White Lotus) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -431,6 +519,22 @@
       "duration_ms": 108292,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0besl0cAyue3iXVJ2YI97s"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "GRRR Live!",
+        "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 419173,
+      "name": "(I Can't Get No) Satisfaction - Live",
+      "url": "https://open.spotify.com/track/0doPr9BxxvO8Yeoujde7Cw"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -464,117 +568,25 @@
           "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 381843,
-      "name": "Song 10 (S2N) - Demo 2018",
-      "url": "https://open.spotify.com/track/08OSm1Ccq0PHXVoiAtLBon"
+      "duration_ms": 552787,
+      "name": "Song 01 (At Wit's End) - Demo 2018",
+      "url": "https://open.spotify.com/track/2rb4Fq7wX1NZupvJ7phOAv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "4th Feb (Stay Awake) / BC",
-        "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Nimrod (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 129104,
-      "name": "The Grouch - Demo",
-      "url": "https://open.spotify.com/track/4eeRBEPxzI07bjK1cWg8sS"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
-        "url": "https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF"
-      },
-      "artists": [
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 158421,
-      "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
-      "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Gorge '98",
-        "url": "https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 593404,
-      "name": "Tube - Live",
-      "url": "https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Doom And Gloom (Live)",
-        "url": "https://open.spotify.com/album/6NtX3RvkYtEyVdUM6EOgbV"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Doom And Gloom - Live",
-      "url": "https://open.spotify.com/track/3ZMPZ6A5boeoB7pvFCo4kq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Philip Glass: Refractions",
-        "url": "https://open.spotify.com/album/1YHge00YN4pCBekDUAYyAK"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "NikNak",
-          "url": "https://open.spotify.com/artist/108DScSlOQbchNa78euBES"
-        }
-      ],
-      "duration_ms": 512008,
-      "name": "Meta Glass (NikNak Remix)",
-      "url": "https://open.spotify.com/track/3Lde16rrCL5XTjfCn4HNP2"
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

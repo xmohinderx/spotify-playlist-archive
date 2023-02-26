@@ -4,7 +4,7 @@
 
 > Hoy es noche de...
 
-244 songs - 14 hr 48 min
+245 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Christian Dior](https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Christian Dior](https://open.spotify.com/album/4qLn9tjRhGQLjImUMTjOMz) | 2:27 | 2021-12-30 | 2022-12-08 |
 | [Clito \(feat\. Lenny Tavárez, Dalex & Brray\)](https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:25 | 2023-02-10 |  |
 | [Cosas Malas](https://open.spotify.com/track/2MaYHbpwybBOm9CrDBfChl) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:48 | 2023-02-10 |  |
-| [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2023-02-10 |  |
+| [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2023-02-10 | 2023-02-26 |
 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 | 2021-12-30 | 2023-02-11 |
 | [Cuando Baila Reggaeton](https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Underdog \- El Subestimado](https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5) | 3:04 | 2022-04-06 | 2022-12-08 |
 | [cuenta \(remix\)](https://open.spotify.com/track/4nO1LWkotCnxfoyhqkGk4I) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [cuenta \(remix\)](https://open.spotify.com/album/1beSwSwTDfsVxq3KGv6yF0) | 3:40 | 2023-02-10 |  |
@@ -210,6 +210,7 @@
 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2021-12-30 | 2023-02-11 |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-30 | 2023-02-11 |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-05-10 |  |
+| [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 | 2023-02-25 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 | 2021-12-30 | 2022-12-01 |
 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 | 2022-06-02 | 2023-02-11 |
 | [Si No Le Contesto](https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/5uja4ElM6i6neeFTAa4Itw) | 3:40 | 2021-12-30 | 2022-07-29 |

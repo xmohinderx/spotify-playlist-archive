@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-79 songs - 4 hr 47 min
+80 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-06-30 |  |
 | [Me Provocas](https://open.spotify.com/track/4LjqHtfkcDdO2o3i0Z7AxJ) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/6owodcApPCsG2Vg2dzQwfP) | 4:53 | 2022-06-30 |  |
 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 | 2022-06-30 |  |
+| [Middle](https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f) | 3:01 | 2023-01-09 |  |
 | [Middle](https://open.spotify.com/track/6V0EZDzaIOBLDgahOq3Bcb) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [EDC Las Vegas 2021](https://open.spotify.com/album/5IBne83Up06sVwVAacqzTc) | 3:01 | 2022-06-30 | 2022-11-13 |
-| [Middle](https://open.spotify.com/track/7cb1au0v5kAw8fPdCio8Zi) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/7txkpjhga7aWZKbyI7BlRd) | 3:01 | 2022-06-30 |  |
+| [Middle](https://open.spotify.com/track/7cb1au0v5kAw8fPdCio8Zi) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/7txkpjhga7aWZKbyI7BlRd) | 3:01 | 2022-06-30 | 2023-02-26 |
 | [Mind \(feat\. Kai\)](https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:02 | 2022-06-30 |  |
 | [Missing You](https://open.spotify.com/track/5sw7riEsdPOFMjjGUietiz) | [Niklas Long](https://open.spotify.com/artist/56udwxmcaG72FBXguNW1AN) | [Missing You](https://open.spotify.com/album/6qYZ9VnIrtHkgALrCfPUsY) | 2:22 | 2022-06-30 |  |
 | [Motel](https://open.spotify.com/track/28B2490QuJ8zJTj6wXy8KQ) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M), [Emicoco](https://open.spotify.com/artist/28IjGGOO54zidNdVTmEvAK) | [Musica Peculiar](https://open.spotify.com/album/5foAqzpBE2MIjomAGk590t) | 1:50 | 2022-06-30 |  |

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-463 songs - 1 day 4 hr 42 min
+464 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 | 2022-06-28 | 2022-11-21 |
 | [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-30 | 2022-11-23 |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-06-28 | 2023-01-20 |
-| [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-06-28 |  |
+| [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-06-28 | 2023-02-26 |
 | [Corners of the Parlor](https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Corners of the Parlor](https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx) | 2:10 | 2022-12-01 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 |  |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
@@ -336,6 +336,7 @@
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-08 |  |
 | [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 | 2022-12-08 |  |
 | [Quietude](https://open.spotify.com/track/5AEe4vHNK8A1nkaxcAUD82) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Quietude](https://open.spotify.com/album/1sPWjfQFQLmT1N2QxaPJtc) | 4:14 | 2022-10-13 | 2023-01-26 |
+| [Ragged Tux](https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Ragged Tux](https://open.spotify.com/album/6XeDlzhAOmYtAwuuTDqNI8) | 3:00 | 2023-02-23 |  |
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2022-06-28 | 2022-10-08 |
 | [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2022-06-28 | 2022-10-08 |
 | [Reutlingen](https://open.spotify.com/track/3rUR7LDyz2ac174SuwJl1Z) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Reutlingen](https://open.spotify.com/album/7zRiDdpgqqLlfh6ZZ0xTMv) | 4:43 | 2023-01-26 |  |

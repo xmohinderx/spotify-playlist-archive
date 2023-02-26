@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Gorillaz, The Weeknd & Ariana Grande, The Kid LAROI and more! Cover: Gorillaz
 
-420 songs - 23 hr 52 min
+421 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-02 | 2023-02-10 |
 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-16 | 2023-02-24 |
 | [Money Issues](https://open.spotify.com/track/2q1zLeupdzKqYIB2e8MNVt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Money Issues](https://open.spotify.com/album/2oBMyUdLTSihgNlSkExIux) | 2:57 | 2023-02-23 |  |
+| [MONEY LOVE RESPECT](https://open.spotify.com/track/6hpgmfe9GRmqaJxtevmSBr) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [20](https://open.spotify.com/album/3I1SmXdnEgjl20HUGWytYq) | 2:44 | 2023-02-26 |  |
 | [Monsters](https://open.spotify.com/track/30ymFrgpBX8yh1UI7Jnmby) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Monsters](https://open.spotify.com/album/4sP4Oykn1I3hUVNI4WDacz) | 5:20 | 2023-02-02 | 2023-02-10 |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-01-29 | 2023-02-03 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 |  |

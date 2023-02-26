@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 5 hr 55 min
+72 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Herzan](https://open.spotify.com/track/1mDppvp7awCG1IOGjRZgKQ) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [The Best Of Soapkills](https://open.spotify.com/album/61X01E3XzgYB49RLQcYWXA) | 3:21 | 2022-10-04 | 2022-11-13 |
 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 | 2022-05-30 |  |
 | [I Am Still Here](https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 4:24 | 2022-05-30 |  |
-| [Ihna Inhabasna](https://open.spotify.com/track/5RdHevEQB8n8gB2ONYZH3y) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad](https://open.spotify.com/album/3IOSrN1mWyCxjGVMPy1UEa) | 3:44 | 2022-05-30 |  |
+| [Ihna Inhabasna](https://open.spotify.com/track/5RdHevEQB8n8gB2ONYZH3y) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad](https://open.spotify.com/album/3IOSrN1mWyCxjGVMPy1UEa) | 3:44 | 2022-05-30 | 2023-02-26 |
+| [Ihna Inhabasna](https://open.spotify.com/track/1GaaQDTUlQzPObFWkLokQJ) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad 2011](https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd) | 3:45 | 2022-10-04 |  |
 | [Im Spiegel ist Sonntag](https://open.spotify.com/track/1jX0EM8swI9kdNgfDxofMi) | [Kariyan](https://open.spotify.com/artist/1lzhAqKyypA3vYZ6AArD0H) | [Im Spiegel Ist Sonntag](https://open.spotify.com/album/4ODHeL6ZMvsgFGMdN7uzvM) | 5:46 | 2022-05-30 |  |
 | [Imarhan](https://open.spotify.com/track/1Ye2lpUppaahUYUyFiI9vW) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 4:04 | 2022-05-30 |  |
 | [In My Dream](https://open.spotify.com/track/0DDc83HTsBcGPzwyEzjTBq) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Willow](https://open.spotify.com/album/4Q65NZsMfvrQi4rXcxA8o4) | 7:05 | 2022-10-04 |  |

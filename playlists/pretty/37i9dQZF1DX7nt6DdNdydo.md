@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,032 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,040 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 4 | [Jump, Jive, An' Wail \- Remastered](https://open.spotify.com/track/2JknWUrnGsGYOh62EQNktb) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Wildest! \(Expanded Edition\)](https://open.spotify.com/album/4icS85G6VGPbFlB9UGPxct) | 3:31 |
 | 5 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 6 | [Butcher Pete \(Part 1\)](https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Risque Blues \- My Ding\-A\-Ling](https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d) | 2:28 |
-| 7 | [450 Pound Woman](https://open.spotify.com/track/7lIknnQZTwWds17MoZCoJi) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 2:19 |
-| 8 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
+| 7 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
+| 8 | [450 Pound Woman](https://open.spotify.com/track/7lIknnQZTwWds17MoZCoJi) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 2:19 |
 | 9 | [Soft](https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 2:33 |
 | 10 | [Going Back To New Orleans](https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 2:50 |
 | 11 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 26 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |
 | 27 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 5:34 |
 | 28 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
-| 29 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
-| 30 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 |
+| 29 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 |
+| 30 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
 | 31 | [Real Fine Daddy](https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'N' Rhythm & Blues](https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4) | 2:16 |
-| 32 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
-| 33 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
+| 32 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
+| 33 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
 | 34 | [Keep On Churnin' \(Till The Butter Come\)](https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:53 |
 | 35 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
 | 36 | [Say Hey \(The Willie Mays Song\)](https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN) | [The Treniers](https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ) | [Baseball A Film By Ken Burns \- Original Soundtrack Recording](https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 49 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
 | 50 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
 
-Snapshot ID: `MTY0ODQ5NjY2NSwwMDAwMDAwMDhhOTI2ZGUxMWYwMDE2NjhhZTcwMzIwODcwOTY3MWQ1`
+Snapshot ID: `MTY0ODQ5NjY2NSwwMDAwMDAwMDUyNzNjYjZmNTEzNTE3ZjBiN2VlZDQ1N2QzN2Q4YjYz`

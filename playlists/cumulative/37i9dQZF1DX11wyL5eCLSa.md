@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-01-28 |  |
-| [1990](https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [1990](https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq) | 3:20 | 2022-11-25 |  |
+| [1990](https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [1990](https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq) | 3:20 | 2022-11-25 | 2023-02-26 |
 | [4 del 20](https://open.spotify.com/track/6mVKbQnY3peMr8PovVEtF3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [4 del 20](https://open.spotify.com/album/0iugtNNvaIcTPzV7C7ASqK) | 5:00 | 2022-04-23 | 2022-05-28 |
 | [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 | 2022-08-05 | 2022-10-29 |
 | [Agua Bendita](https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Agua Bendita](https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV) | 4:23 | 2022-04-23 | 2022-07-05 |
@@ -66,7 +66,7 @@
 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 | 2021-12-17 |  |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 | 2022-07-21 |
 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 |  |
-| [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 | 2022-08-19 | 2023-02-25 |
+| [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 | 2022-08-19 |  |
 | [Escúpeme En La Cara](https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Escúpeme En La Cara](https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf) | 3:21 | 2023-02-24 |  |
 | [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 | 2022-07-01 | 2022-07-15 |
 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 | 2021-12-17 |  |

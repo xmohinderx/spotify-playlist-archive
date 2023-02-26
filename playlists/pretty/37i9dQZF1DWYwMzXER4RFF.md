@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,243 likes - 55 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,300 likes - 55 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 14 | [Sports](https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:57 |
 | 15 | [Happy Feet](https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Happy Feet](https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er) | 4:11 |
 | 16 | [Calling It](https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Signal](https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS) | 2:29 |
-| 17 | [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 |
-| 18 | [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 |
+| 17 | [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 |
+| 18 | [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 |
 | 19 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 |
 | 20 | [Don't Cling To Life](https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 2:26 |
 | 21 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 |
-| 22 | [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 |
-| 23 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 |
+| 22 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 |
+| 23 | [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 |
 | 24 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 |
 | 25 | [Down in the Basement](https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:36 |
 | 26 | [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 45 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 46 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 | 47 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 |
-| 48 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
-| 49 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 |
-| 50 | [Dust](https://open.spotify.com/track/5teSPAbVW6X7FXGfPh85HI) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Dust](https://open.spotify.com/album/7a06K94g2eIEF0iXFZolsZ) | 4:10 |
+| 48 | [Dust](https://open.spotify.com/track/5teSPAbVW6X7FXGfPh85HI) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Dust](https://open.spotify.com/album/7a06K94g2eIEF0iXFZolsZ) | 4:10 |
+| 49 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
+| 50 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 |
 | 51 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 |
 | 52 | [It Was A Gift](https://open.spotify.com/track/4dm7wiTdyLxf2zUSuUuN7G) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [My Other People](https://open.spotify.com/album/6O8ZBxH4IMh214XoMPMVfR) | 3:33 |
 | 53 | [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 |
 | 54 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
 | 55 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
 
-Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDExODg4MDRkZTg5ZjcwM2ZiN2RjZTRiMTg4MDQzMmE1`
+Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDU5NzY0MmY5NDY3YzNiODRhOTY5ODBlMmFhMGE5ODE0`

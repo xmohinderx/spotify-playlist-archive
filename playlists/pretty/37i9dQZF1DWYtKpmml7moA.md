@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,924 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,020 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 4 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 5 | [Mary Jane](https://open.spotify.com/track/5iYfpZzt7llzz2clvkVlRP) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Black Am I](https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 4:19 |
 | 6 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
-| 7 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
+| 7 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
 | 8 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
-| 9 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 9 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 10 | [The Voices Of Sweet Jamaica \- All Star Remix](https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [T.O.K.](https://open.spotify.com/artist/4c4iX8pe1SV13xToguoelN), [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM), [Singing Melody](https://open.spotify.com/artist/1I6w9pHnP2Wo6ygwgpKuHQ), [Tony Curtis](https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ), [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj), [Leroy Sibbles](https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [The Voices Of Sweet Jamaica](https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj) | 4:06 |
 | 11 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
 | 12 | [Longing For](https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [True Reflections...A New Beginning](https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
 | 50 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
 
-Snapshot ID: `MTY2NTY5NzQ3NiwwMDAwMDAwMDg0ZmU4YjgxZTc3NzI1NGQxYzgwNzcyMGE5ZDJmZDg4`
+Snapshot ID: `MTY2NTY5NzQ3NiwwMDAwMDAwMGU5NGMzN2M3M2E0MDc3Y2FjN2ZhNjRmODY3NmMyOGFk`

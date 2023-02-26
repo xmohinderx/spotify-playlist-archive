@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: THAIS / Arte: Isu Kim",
-  "num_followers": 15388,
+  "num_followers": 15416,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxMTI1OCwwMDAwMDAwMDViNWZjNTFhYjUwYzFhZDRlZmQ1NzkxNTdmY2FhY2Jh",
+  "snapshot_id": "MTY3NjMxMTI1OCwwMDAwMDAwMDg4YzQ3NGUwZjYxNjZkYjJjOGI5ZDMxMTEyNjMyOWI2",
   "tracks": [
     {
       "added_at": "2023-02-13 18:00:57",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
+        "name": "meu bem, meu bem",
+        "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "meu bem, meu bem",
+      "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
         "name": "Rubi",
         "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 209577,
       "name": "Absurda",
       "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "meu bem, meu bem",
-        "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "meu bem, meu bem",
-      "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+        "name": "Futurea",
+        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
       "artists": [
         {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
+      "duration_ms": 166611,
+      "name": "Medo de Mim",
+      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Futurea",
-        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
       },
       "artists": [
         {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
         }
       ],
-      "duration_ms": 166611,
-      "name": "Medo de Mim",
-      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
-      },
-      "artists": [
-        {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
-        }
-      ],
-      "duration_ms": 160337,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Quando Eu Falei Pra Ela",
         "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 183666,
       "name": "Quando Eu Falei Pra Ela",
       "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 185142,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "delirar",
         "url": "https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 220000,
       "name": "at\u00e9 voc\u00ea",
       "url": "https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
+      },
+      "artists": [
+        {
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1047,6 +1047,38 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
+        "name": "Ideia Errada",
+        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
+      },
+      "artists": [
+        {
+          "name": "Cigana",
+          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Ideia Errada",
+      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Casal Desgra\u00e7a",
+        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Casal Desgra\u00e7a",
+      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
         "name": "Devaneios",
         "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
       },
@@ -1067,22 +1099,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Ideia Errada",
-        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
-      },
-      "artists": [
-        {
-          "name": "Cigana",
-          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Ideia Errada",
-      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Esse Jogo",
         "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 144742,
       "name": "Esse Jogo",
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "Casal Desgra\u00e7a",
-        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
-      },
-      "artists": [
-        {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Casal Desgra\u00e7a",
-      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Ilumina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz"
-      },
-      "artists": [
-        {
-          "name": "Ramat\u00eds",
-          "url": "https://open.spotify.com/artist/7v956Fy6H2PndqEGwJFPy3"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "Ilumina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Por um Fio",
         "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+        "name": "Ilumina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz"
       },
       "artists": [
         {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+          "name": "Ramat\u00eds",
+          "url": "https://open.spotify.com/artist/7v956Fy6H2PndqEGwJFPy3"
         }
       ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+      "duration_ms": 182812,
+      "name": "Ilumina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1299,6 +1283,22 @@
       "duration_ms": 198000,
       "name": "Queda livre",
       "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+      },
+      "artists": [
+        {
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+        }
+      ],
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     },
     {
       "added_at": "2023-02-13 18:00:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,611 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,807 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 19 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
 | 20 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 21 | [Don't Go \- Original Mix](https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don't Go](https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km) | 5:11 |
-| 22 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
-| 23 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
+| 22 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
+| 23 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 24 | [Energy Flash](https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Classics](https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq) | 5:50 |
 | 25 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 |
 | 26 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 36 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
 | 37 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
 | 38 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
-| 39 | [Far out](https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out/Higher](https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M) | 4:55 |
-| 40 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
+| 39 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
+| 40 | [Far out](https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out/Higher](https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M) | 4:55 |
 | 41 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
 | 42 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 |
 | 43 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
 | 50 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMGYyNzVhM2I0ODIyNWFiZTM0MjA5NDg4MjM5NWZjNzVj`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMGRkNTdhYjI4ZDUxYTIxYzY5NGUyMjExM2VmZDcxYjEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=1252GMiNTcSeTiaGBAO4dQ"> Stonebwoy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,822 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,849 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

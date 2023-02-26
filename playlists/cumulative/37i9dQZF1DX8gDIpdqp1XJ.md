@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-677 songs - 1 day 21 hr 7 min
+678 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Any Hour](https://open.spotify.com/track/6Zg3jsZ1CGHJPPAG7oLAFJ) | [Kaíoti](https://open.spotify.com/artist/6etW5uO8UuEovfiv2Nw10f), [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Any Hour](https://open.spotify.com/album/5JlQub3PCeoNb1hiUxx5Qi) | 4:11 | 2021-04-02 | 2022-04-21 |
 | [Anymore](https://open.spotify.com/track/26SrlxK6EhVa7EWJ6w5uhE) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Anymore](https://open.spotify.com/album/4CRfrm1Wc4VR5AuvRWuvCW) | 3:17 | 2021-04-02 | 2022-04-16 |
 | [Anything](https://open.spotify.com/track/4gLJ9owVOhrpVzQUCYoLoX) | [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7), [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Anything](https://open.spotify.com/album/31FXtIiI1wjl5wCJ0JqPyp) | 3:58 | 2021-04-02 | 2022-04-18 |
+| [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 | 2023-02-24 |  |
 | [As You Move Through The World](https://open.spotify.com/track/1UoNPvDGbt1kWbT0TNdNvP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [As You Move Through The World](https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej) | 7:35 | 2021-04-02 | 2022-04-21 |
 | [Asdikte Akal \- Yugen Blakrok Remix](https://open.spotify.com/track/3WP3mLYtwSeQWcc9NDXIUP) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [Kanif The Jhatmaster](https://open.spotify.com/artist/1Z4ZGwOFTMQiXjEC5XfYIi) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 3:49 | 2022-04-22 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/2U76RhZDZjih41gBygnces) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/1jrikGtnJksIVgzNzkVLRy) | 2:57 | 2021-04-02 | 2022-04-13 |
@@ -60,7 +61,7 @@
 | [Better Apart](https://open.spotify.com/track/3MRHPazKdgLvqjWmxVyaBo) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Better Apart](https://open.spotify.com/album/0A5gXZPfmA4G0jpGjQv42o) | 2:47 | 2021-09-17 | 2022-04-20 |
 | [Better For Me](https://open.spotify.com/track/1fPgAlasrmolLvq1vDtkq3) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [Better For Me](https://open.spotify.com/album/4zbPfW4Riu2mVCRAXFOwaD) | 4:15 | 2021-04-02 | 2022-04-21 |
 | [Black Iris](https://open.spotify.com/track/03O3mBPounvOKETKr1aS3s) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 2:52 | 2022-04-20 | 2022-07-25 |
-| [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 |  |
+| [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 | 2023-02-26 |
 | [Blue Beam Baby](https://open.spotify.com/track/1EHjjrAWfCitHRAcfKVrrh) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Deep States](https://open.spotify.com/album/7uPrpLvtLEl1R57GLpDvoW) | 5:08 | 2021-08-20 | 2022-02-01 |
 | [Blue Blood](https://open.spotify.com/track/2SawSPvB0js6IATRqf69qs) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Blue Blood](https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu) | 3:50 | 2021-04-02 | 2022-04-19 |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2021-04-02 | 2022-07-09 |

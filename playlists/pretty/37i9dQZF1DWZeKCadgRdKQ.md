@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,868,113 likes - 230 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,868,737 likes - 230 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

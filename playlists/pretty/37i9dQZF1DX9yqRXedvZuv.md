@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 29 | [LOVE YOU BETTER](https://open.spotify.com/track/40zU9RnT0liuXMjornRlhn) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:09 |
 | 30 | [The Party & The After Party \- Original](https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 7:39 |
 | 31 | [50\-0](https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I](https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok) | 3:44 |
-| 32 | [Au DD](https://open.spotify.com/track/115Hll8WWkQLeiDyXpgr47) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD) | 4:07 |
-| 33 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
+| 32 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
+| 33 | [Au DD](https://open.spotify.com/track/115Hll8WWkQLeiDyXpgr47) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD) | 4:07 |
 | 34 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 | 35 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 |
 | 36 | [Wavy \(Remix\) \[feat\. Travis Scott\]](https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 49 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
 | 50 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
 
-Snapshot ID: `MTY2NDY0NTg3NywwMDAwMDAwMDVhZjNlNjI3N2IwZjA4YjVmNzc4ZWQwZDkzNDQ0MTZl`
+Snapshot ID: `MTY2NDY0NTg3NywwMDAwMDAwMGE2Yjc0OTgxYjAwYzNlZmUxZTViOGQxMGFjZTRhZGE4`

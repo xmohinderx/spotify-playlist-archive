@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,519 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,670 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 36 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 |
 | 37 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
 | 38 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
-| 39 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
-| 40 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
+| 39 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 |
+| 40 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
 | 41 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 |
 | 42 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |
 | 43 | [My Girl](https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:55 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 57 | [But I Do](https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Street Bangerz Volume 6: Playhouse](https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz) | 4:00 |
 | 58 | [Moins joli](https://open.spotify.com/track/2fgINBjLf7eCI3ky3n2gnS) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Moins joli](https://open.spotify.com/album/2unO7pvDAYdfm6pzO9zqKM) | 2:59 |
 | 59 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
-| 60 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
-| 61 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 |
+| 60 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 |
+| 61 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
 | 62 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 63 | [What He Wrote](https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 4:07 |
 | 64 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 68 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 |
 | 69 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
 | 70 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
-| 71 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
-| 72 | [Summer Days](https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 2:39 |
-| 73 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
-| 74 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
+| 71 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
+| 72 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
+| 73 | [Summer Days](https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 2:39 |
+| 74 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
 | 75 | [Words Remain](https://open.spotify.com/track/1AW4amyytwC0JNVmpVngIN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The World Within \(Deluxe\)](https://open.spotify.com/album/4fPZlK0nyB5bOXZdRnihUX) | 3:27 |
 | 76 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 77 | [Sympathique](https://open.spotify.com/track/1sKpay0q1lsH8RgafNzdI1) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 2:48 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 94 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
 | 95 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 |
 | 96 | [Wishing Girl](https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:12 |
-| 97 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 |
-| 98 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
+| 97 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
+| 98 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 |
 | 99 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 |
-| 100 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 |
+| 100 | [Vie varda](https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Panorama](https://open.spotify.com/album/01noIpXbHsMP2fm8DpuPkd) | 3:54 |
 
-Snapshot ID: `MTY3NzAwMTI5NiwwMDAwMDAwMGU3YTI4NWQ5YzMwNGU4ZDgzZjExMmM0MjYxZTE4NWEx`
+Snapshot ID: `MTY3NzAwMTI5NiwwMDAwMDAwMDcwOWZhMGZlMDE1NWY2N2QxOGIxNGMyYmU0MWE0MmJm`

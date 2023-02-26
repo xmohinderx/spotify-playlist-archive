@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,016 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,032 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 14 | [I Don't Know](https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc) | 4:59 |
 | 15 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
 | 16 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 |
-| 17 | [Tonight](https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE) | 3:12 |
-| 18 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 |
+| 17 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 |
+| 18 | [Tonight](https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE) | 3:12 |
 | 19 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 |
 | 20 | [Vibe](https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn) | 2:24 |
 | 21 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 37 | [Cycle](https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS) | 3:08 |
 | 38 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 39 | [Never Meant To Call](https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S) | 2:57 |
-| 40 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
-| 41 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 |
-| 42 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
+| 40 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
+| 41 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
+| 42 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 |
 | 43 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
 | 44 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
 | 45 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 60 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGE5OWEyZGE1NmZhNmVjOTI0ZTVmZmEwY2MxZmUwNzE5`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGMxZjViZDRlNTExMWNmZTZiZjYyNTgzNThiYWNmM2Ux`

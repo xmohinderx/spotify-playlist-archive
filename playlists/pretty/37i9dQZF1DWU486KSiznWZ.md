@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,374 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,417 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

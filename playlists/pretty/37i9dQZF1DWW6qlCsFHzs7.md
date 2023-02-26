@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484 likes - 70 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 35 | [Request Line](https://open.spotify.com/track/3MMgBwZrja6WrCPoxJbDWy) | [D&G](https://open.spotify.com/artist/2LO7TMTsXDG1R5Ohw6DeGe) | [Dubs & Grooves, Vol\. 1](https://open.spotify.com/album/5IXHDuJrdE9tEF0m2g3NVw) | 6:36 |
 | 36 | [Tabloids](https://open.spotify.com/track/7hwa0ASN3RA6GVT3HfUp67) | [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Tabloids](https://open.spotify.com/album/26xfHM17UpJSv20zYENRFx) | 3:11 |
 | 37 | [Chin Up](https://open.spotify.com/track/2RTlxZxGOlSYZxb2SnmFuZ) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Chin Up](https://open.spotify.com/album/6PYEDcFdiJ6lfZEIlwqvg5) | 4:39 |
-| 38 | [Ride That Thing](https://open.spotify.com/track/7CGfYF9Gb3a7GGUZtbQolR) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Active](https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu) | 3:09 |
+| 38 | [Ride That Thing](https://open.spotify.com/track/1xize7v0QtfP7rAv8ThWFq) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Active](https://open.spotify.com/album/1jXOTR9fYQgJDflrfAWySM) | 3:09 |
 | 39 | [Reasons](https://open.spotify.com/track/5DhWz7cAypKi6eFpVLQgG0) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Reasons & Fluteloops](https://open.spotify.com/album/22EznsXBYtKj4OFhYoz5zc) | 4:58 |
 | 40 | [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 |
 | 41 | [Sweet Day](https://open.spotify.com/track/6kPN7scIUHukYN7qv4EGXn) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Est\. 2003](https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 69 | [Make Me Feel](https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Make Me Feel](https://open.spotify.com/album/759Lkn1ERq1SMekDhuvnbb) | 5:11 |
 | 70 | [Stronger](https://open.spotify.com/track/33ZNh2kqjSpLsJPmOZnMgd) | [Wilfred Giroux](https://open.spotify.com/artist/7bSQhATneiWf5I7uSQVCGH) | [Stronger](https://open.spotify.com/album/5Hz3RQToT3CNvuT5H0Y9Qf) | 5:47 |
 
-Snapshot ID: `MTY3NTIwOTYwMCwwMDAwMDAwMGIwY2QzNTA3Yzc0OWUyNWZmMTA0YWQ3NWUyNjU1NTUz`
+Snapshot ID: `MTY3NTIwOTYwMCwwMDAwMDAwMDEzYzdkYjQ3NTQ0OGJiNDk5YjA0NTRlYTMzYTdlZDU2`

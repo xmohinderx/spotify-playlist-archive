@@ -4,7 +4,7 @@
 
 > Lagu\-lagu adem untuk segala suasana.
 
-91 songs - 6 hr 4 min
+92 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-12-14 |  |
 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 | 2023-01-11 |  |
 | [Cukup Tau](https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cukup Tau](https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT) | 3:27 | 2022-12-14 |  |
-| [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-14 |  |
+| [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-14 | 2023-02-26 |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2022-12-14 |  |
 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 | 2022-12-14 |  |
 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 | 2022-12-14 |  |
@@ -42,7 +42,8 @@
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2022-12-14 |  |
 | [Kenangan Manis](https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:27 | 2022-12-14 |  |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/5WmeAm8HXWRnUTFNTlzpBL) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/1Wl5QMNxmI9ABIAteayg8U) | 3:36 | 2022-12-14 |  |
-| [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 | 2023-02-23 |  |
+| [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 | 2023-02-23 | 2023-02-26 |
+| [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-02-23 |  |
 | [Labirin](https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Labirin](https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr) | 3:02 | 2022-12-14 |  |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2022-12-14 |  |
 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 | 2022-12-14 |  |
@@ -93,7 +94,7 @@
 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st Special Edition](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 | 2022-12-14 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2022-12-14 |  |
 | [Waktu Yang Salah](https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7) | 5:25 | 2022-12-14 |  |
-| [When You Love Someone](https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Nowhere to Go](https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU) | 4:31 | 2022-12-14 | 2023-02-19 |
+| [When You Love Someone](https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Nowhere to Go](https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU) | 4:31 | 2022-12-14 |  |
 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2022-12-14 |  |
 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 | 2022-12-14 |  |
 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 | 2022-12-14 |  |

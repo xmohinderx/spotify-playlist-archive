@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Pop Latino para que los disfrute toda la familia.",
-  "num_followers": 4138,
+  "num_followers": 4151,
   "original_name": "\u00a1Pop Latino!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2NjYwMywwMDAwMDAwMDM3NmFkZmJkNzllMjFmYTFiNDNmOGRmY2E1YjY0MGFk",
+  "snapshot_id": "MTY2MjM2NjYwMywwMDAwMDAwMGEwOTQyODU3MTQ3ZmZjYmM0YTE4NDkxZmZmOWNhYjc4",
   "tracks": [
     {
       "added_at": "2022-09-05 08:30:03",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2020-09-29 17:20:38",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor - Remastered",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2020-09-29 17:20:38",

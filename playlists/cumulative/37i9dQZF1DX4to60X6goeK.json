@@ -1640,6 +1640,24 @@
     {
       "album": {
         "name": "Nerd Starter Pack",
+        "url": "https://open.spotify.com/album/1SidTD8IwbHh6UqVPYNbyv"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "Nerd Starter Pack",
+      "url": "https://open.spotify.com/track/3gMnzlM0E8z3RWFgRKGdhd"
+    },
+    {
+      "album": {
+        "name": "Nerd Starter Pack",
         "url": "https://open.spotify.com/album/1sgucleIJWW1ei72uWzuZs"
       },
       "artists": [
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 270344,
       "name": "Nerd Starter Pack",
       "url": "https://open.spotify.com/track/4Be86Iyz32bO0CJAjhSQDg"

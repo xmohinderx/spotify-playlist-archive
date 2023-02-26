@@ -1,12 +1,12 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e",
-  "num_followers": 304853,
+  "num_followers": 304900,
   "original_name": "Fino Al Mattino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2NzQ0OCwwMDAwMDAwMGQ4MTRjNDBmNjc0MTM0ZTcwZDU5NDFiNmQ1NDk3ZGYz",
+  "snapshot_id": "MTY3NzE2NzQ0OCwwMDAwMDAwMDY1ZjhkNzAwMjU1MzVkMDhhNjI4NTdlYWI1ZWE5MGI3",
   "tracks": [
     {
       "added_at": "2023-02-23 15:50:46",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -783,6 +783,26 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -875,42 +895,6 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -935,38 +919,18 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -999,6 +963,22 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -1039,6 +1019,26 @@
       "duration_ms": 158571,
       "name": "Pump It Louder",
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 156346,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "added_at": "2023-02-23 15:50:46",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2023-02-23 15:50:46",
       "album": {
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "added_at": "2023-02-23 15:50:46",
+      "album": {
         "name": "Giant (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
@@ -1387,30 +1411,6 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2023-02-23 15:50:46",
-      "album": {
-        "name": "Marianela (Que Pasa)",
-        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 145766,
-      "name": "Marianela (Que Pasa)",
-      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "added_at": "2023-02-23 15:50:46",

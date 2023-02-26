@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,488 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,615 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 44 | [Wenn wir kommen](https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 |
 | 45 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 |
 | 46 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 |
-| 47 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
+| 47 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 | 48 | [Verstrahlt](https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:54 |
 | 49 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 50 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 
-Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDQzMmUzNWFkNzNlMmQwNjFjZGVhNzk5MDM0MDU1YWYw`
+Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMGExODMxZGY4YzQ3YmQxZTFhYjE1OWQxOTY0ZTg5YmNi`

@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-174 songs - 10 hr 23 min
+175 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Alpine Star](https://open.spotify.com/track/1SM7koUWwATTH13pTyGS7l) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 5:26 | 2020-07-13 |  |
 | [Alpine Star](https://open.spotify.com/track/3QDwa1AZKMBPrEMmme8gXo) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/0JbGIBNY8NDj1rpV6BAOCD) | 5:26 | 2020-07-13 | 2022-07-29 |
 | [Angi](https://open.spotify.com/track/2wxpgRChMOPsE9lebeEzMj) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/5jCLZRSd8CyV34s7iEvqYZ) | 2:27 | 2020-07-13 | 2022-07-29 |
-| [Angi](https://open.spotify.com/track/6jXd3IhCFUJxDJ0wEtk010) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/4UE3bjQpfPwVlPtKFPAxB3) | 2:27 | 2020-07-13 |  |
+| [Angi](https://open.spotify.com/track/6jXd3IhCFUJxDJ0wEtk010) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/4UE3bjQpfPwVlPtKFPAxB3) | 2:27 | 2020-07-13 | 2023-02-26 |
+| [Angi](https://open.spotify.com/track/7pDKAoUXi0IpkcSF3lEJd7) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/6qsqaKBusLJDMcTfDfOd4N) | 2:27 | 2023-01-20 |  |
 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 | 2020-07-13 | 2022-07-29 |
 | [Ashoken Farewell](https://open.spotify.com/track/5nNn40GNviPx4GxmPP1ebd) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 2:30 | 2020-07-13 |  |
 | [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 | 2020-07-13 | 2022-10-13 |

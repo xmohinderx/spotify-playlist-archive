@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,717 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,758 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 12 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
 | 13 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
 | 14 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
-| 15 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
-| 16 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
+| 15 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
+| 16 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
 | 17 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
 | 18 | [Perfume a Tus Pies](https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM) | [Christian Ray](https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig) | [Enamorarme Mas](https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa) | 4:35 |
 | 19 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 24 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 25 | [Batugozo](https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko) | [Batuqueadora](https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw) | [Los Revolucionarios](https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH) | 3:55 |
 | 26 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
-| 27 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 |
-| 28 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
+| 27 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
+| 28 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 |
 | 29 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 30 | [La Misma Mentira](https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 |
 | 31 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 44 | [Yo Te Prometo](https://open.spotify.com/track/78qhDtLwEUei6bkEWlG06O) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/45Ww8247fdYO93oBrloSsN) | 3:44 |
 | 45 | [Va Cae](https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx) | 3:11 |
 | 46 | [Yo Te Adoro](https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:17 |
-| 47 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
-| 48 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 |
+| 47 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 |
+| 48 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
 | 49 | [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 |
 | 50 | [Ritmo Del Cielo](https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg) | 3:49 |
 
-Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMGZlMjA5ZmY1OWNiY2ExMjJkZGUxOTczNDRjMjUwZTk0`
+Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMDIzNjYyMGNhOWZlZjQ2ZDljYmM1YzI3NDNjNThlMTkx`

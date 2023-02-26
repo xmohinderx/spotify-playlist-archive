@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Ingrid Contreras & Marián Oviedo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,674 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,710 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 65 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Volumen 2](https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe) | 4:00 |
 | 66 | [Mujer Normal](https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Mujer Normal](https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw) | 3:21 |
 | 67 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 |
-| 68 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
-| 69 | [No Me Amenaces](https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [No Me Amenaces](https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh) | 2:54 |
+| 68 | [No Me Amenaces](https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [No Me Amenaces](https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh) | 2:54 |
+| 69 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
 | 70 | [Sola Con Mi Soledad](https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:37 |
 | 71 | [Después de Unas Horas](https://open.spotify.com/track/3lY5qWx1aQYavwEYV68i4E) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Después de Unas Horas](https://open.spotify.com/album/2Qu47XObvHFpFRZ6gvN88d) | 2:53 |
 | 72 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 93 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
 | 94 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 95 | [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 |
-| 96 | [Porque Me Sabes Querer](https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Porque Me Sabes Querer](https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem) | 3:13 |
-| 97 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
+| 96 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
+| 97 | [Porque Me Sabes Querer](https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Porque Me Sabes Querer](https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem) | 3:13 |
 | 98 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 99 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 100 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGRiMDUxOWE4NTg3YTUxM2MwYjBiODQ2ZWZkZGY4MTVl`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDBkZGUzY2Q4ZGI5MjIzMzUwMDUxMWRhZmQxYWUzYWEx`

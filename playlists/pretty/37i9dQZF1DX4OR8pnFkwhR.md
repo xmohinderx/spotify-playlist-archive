@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり/ <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,602 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,610 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

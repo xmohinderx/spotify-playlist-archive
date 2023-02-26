@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,155 likes - 124 songs - 12 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,202 likes - 124 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 51 | [Red Tree \- Tebra Remix](https://open.spotify.com/track/4QjUPodE9OOPT9gLsJkziX) | [Tuba Twooz](https://open.spotify.com/artist/7dk54rOVrS7HSNRWRLu8Bt), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Red Tree](https://open.spotify.com/album/0uDsXtAdZXHwYUCp898xqI) | 6:40 |
 | 52 | [Mbodiene](https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn) | [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mbodiene](https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45) | 8:10 |
 | 53 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 |
-| 54 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |
+| 54 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 |
 | 55 | [Demedin Mi? \- Billy Esteban Remix](https://open.spotify.com/track/1rtMK3g4NIHtcNMG4B7xS5) | [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h), [Erdi Arslan](https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0) | [Ethno Trip With Billy Esteban & Friends](https://open.spotify.com/album/7f87jFF0mzBbf0sT9gK99I) | 5:18 |
 | 56 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 |
 | 57 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 123 | [Ardha Nari Feat\. Sazin](https://open.spotify.com/track/5b8evReWT6yU8Lr6UG70Wx) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h), [Sazin](https://open.spotify.com/artist/7tdcJ2v8H2RG2LCCuQ4gy0) | [Ardha Nari Feat\. Sazin](https://open.spotify.com/album/15uPuwya3uoWhTISJiFQQ0) | 6:02 |
 | 124 | [Yakar](https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Lass](https://open.spotify.com/artist/3MRiVXzyKKIlt0WyYEQAkh) | [Yakar EP](https://open.spotify.com/album/3FTv2v8THnTT4IdmGC33cH) | 7:03 |
 
-Snapshot ID: `MTY3NTUwNjIwNCwwMDAwMDAwMGJmMTdkNjc3YTRkYmU0MWQ2OGU4NmEyMzZhNWNmNDlk`
+Snapshot ID: `MTY3NTUwNjIwNCwwMDAwMDAwMDA0OGY1YTIzYjAyNGY3MTNhNzlhZjBkM2MxYjUzM2Fm`

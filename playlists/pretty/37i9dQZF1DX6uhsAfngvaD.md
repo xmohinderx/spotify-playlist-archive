@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,820 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,884 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 67 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
 | 68 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
 | 69 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
-| 70 | [In Manchester](https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [In Manchester](https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU) | 2:53 |
-| 71 | [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 |
+| 70 | [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 |
+| 71 | [In Manchester](https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [In Manchester](https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU) | 2:53 |
 | 72 | [Where The Light Used To Lay](https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:36 |
 | 73 | [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 |
 | 74 | [Élan Vital \(feat\. 久保田リョウヘイ\)](https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Ryohei Kubota](https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx) | [loom](https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz) | 3:24 |
 | 75 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
-| 76 | [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 |
-| 77 | [Irrational](https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Irrational](https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF) | 3:23 |
+| 76 | [Irrational](https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Irrational](https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF) | 3:23 |
+| 77 | [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 |
 | 78 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
-| 79 | [Therapy](https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Therapy](https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw) | 3:25 |
-| 80 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 |
+| 79 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
+| 80 | [Therapy](https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Therapy](https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw) | 3:25 |
 
-Snapshot ID: `MTY3NDI0MDc4MywwMDAwMDAwMDZjMmJkMDhkNzliMTI5MjAyZmY5ZTEwYWE1YmI2MjM4`
+Snapshot ID: `MTY3NDI0MDc4MywwMDAwMDAwMDk3OTk3ZmNhNjI5Mjk4ZWM3MGViYjRjOTE1OWJiMjVm`

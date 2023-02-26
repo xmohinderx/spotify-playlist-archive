@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > New music from female\-identifying artists\. Cover: <a href=“https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg”>Zolita</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,222 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,227 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 43 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
 | 44 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 45 | [V I B R A T I O N](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 |
-| 46 | [no me gusta eso](https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [no me gusta eso](https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7) | 1:52 |
-| 47 | [Holy Water](https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Holy Water](https://open.spotify.com/album/2nrQItfebwUiVGC9MY6KiK) | 3:03 |
+| 46 | [Holy Water](https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Holy Water](https://open.spotify.com/album/2nrQItfebwUiVGC9MY6KiK) | 3:03 |
+| 47 | [no me gusta eso](https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [no me gusta eso](https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7) | 1:52 |
 | 48 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 |
 | 49 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 50 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 54 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 |
 | 55 | [Daffodil Floors](https://open.spotify.com/track/3FKs8DcaMPhltqeueu94GT) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Daffodil Floors](https://open.spotify.com/album/0wdAvZLNJMOBTSmjwUVspn) | 4:26 |
 | 56 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
-| 57 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
-| 58 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/4fxSegYEwj9e2L4PYbM4xK) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Before The Gloss Up](https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1) | 2:18 |
+| 57 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/4fxSegYEwj9e2L4PYbM4xK) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Before The Gloss Up](https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1) | 2:18 |
+| 58 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
 | 59 | [Call Me Thomas](https://open.spotify.com/track/2xjUmMZdlDWYKFiAcXLrSB) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [Call Me Thomas](https://open.spotify.com/album/1ij4ME2R2V8LB85F8NGjcP) | 4:31 |
 | 60 | [You Know Better](https://open.spotify.com/track/5ZHpM6DV0snXWvlCdyTLT7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [You Know Better](https://open.spotify.com/album/178itJAYZnT6YdJpbKrKyL) | 3:21 |
 | 61 | [Astrovan](https://open.spotify.com/track/6dzv7MDq3nNNFNn1d2pyDa) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Outsiders](https://open.spotify.com/album/6ppiuzhxXpSTw1LDNDG5Nc) | 4:13 |
 | 62 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
 | 63 | [Solitary Girl](https://open.spotify.com/track/44Dz5FBegFz4SPZ4yXLULF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [There is a Club / Solitary Girl](https://open.spotify.com/album/74xN2qIWfIVmH3PuvwQxiN) | 3:47 |
 
-Snapshot ID: `MTY3NTgwNjYwNiwwMDAwMDAwMGE5Y2E4ZWE3NjM0ODNkYTMzM2VkNTdhYzkzNDNkMWMw`
+Snapshot ID: `MTY3NTgwNjYwNiwwMDAwMDAwMDQ3MmFiOWI4NDY0M2ZkNjYwZjkxMTM4ZjE2ZWRkY2I0`

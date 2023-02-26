@@ -4,7 +4,7 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 38 min
+67 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Good as You](https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:12 | 2022-09-08 |  |
 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 | 2022-09-08 |  |
 | [Granddaddy's Chair](https://open.spotify.com/track/7rQ2kjuqhqyMuYA1IenxrM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:45 | 2022-09-08 | 2022-10-13 |
-| [Grits & Glamour \(feat\. Kane Brown\)](https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:53 | 2023-02-05 |  |
+| [Grits & Glamour \(feat\. Kane Brown\)](https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:53 | 2023-02-05 | 2023-02-26 |
 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 | 2022-09-08 |  |
 | [Hit the Gas](https://open.spotify.com/track/3PqLcOCKMKvhVDEcwFUcVd) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Closer](https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv) | 2:54 | 2022-09-08 | 2022-10-22 |
 | [Homesick](https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:25 | 2022-09-08 |  |
@@ -52,6 +52,7 @@
 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 | 2022-09-08 |  |
 | [Move On](https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:11 | 2022-10-16 |  |
 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 | 2022-09-08 |  |
+| [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 | 2023-02-25 |  |
 | [Nothin' I'd Change](https://open.spotify.com/track/7mCD59dbej3TRd0I81RNwM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:33 | 2022-09-10 | 2022-10-13 |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-09-08 |  |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2022-09-08 |  |

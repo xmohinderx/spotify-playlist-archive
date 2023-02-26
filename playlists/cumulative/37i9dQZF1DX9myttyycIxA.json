@@ -2247,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "carnegie hall",
+        "url": "https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285734,
+      "name": "carnegie hall",
+      "url": "https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/2Sq7Bt3s2vPY9HgWYlTbEX"
       },
@@ -3808,7 +3826,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 171345,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-414 songs - 1 day 0 hr 40 min
+415 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bad Romantic](https://open.spotify.com/track/24qf5274RaJwlH9CAT6Gn5) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [Bad Romantic](https://open.spotify.com/album/537wfsAlZEoI5qEOR7NpJQ) | 3:38 | 2021-12-17 | 2022-07-10 |
 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 | 2021-12-17 | 2022-10-08 |
 | [Beautiful Morning](https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Down the Stairwell – Side A](https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO) | 2:58 | 2023-02-24 |  |
-| [Been Better](https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Been Better](https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4) | 3:16 | 2023-02-01 |  |
+| [Been Better](https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Been Better](https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4) | 3:16 | 2023-02-01 | 2023-02-26 |
 | [Better For You](https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Better For You](https://open.spotify.com/album/2zQoCOG7PmZkFikB6K4aTs) | 3:22 | 2022-05-13 | 2022-07-30 |
 | [Better Half](https://open.spotify.com/track/6oI9O4mep2xh7kqPCaeVb5) | [Brendyn Kyle](https://open.spotify.com/artist/7Bf6Wz0HefBc51pffYVf3j) | [Better Half](https://open.spotify.com/album/5mgiSM2ro7ucsgOUOOiG5F) | 3:19 | 2021-12-17 | 2022-02-05 |
 | [Better Love Next Time](https://open.spotify.com/track/5I3oTFeQmclQmhAzOqRpTF) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Better Love Next Time](https://open.spotify.com/album/52VIbzshUC3cGliz3IZxOp) | 3:16 | 2022-01-28 | 2022-03-26 |
@@ -388,6 +388,7 @@
 | [Wave Dancer](https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Wave Dancer](https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg) | 4:20 | 2022-02-11 | 2022-05-20 |
 | [Weatherman](https://open.spotify.com/track/10Hq7zq6OwyyNlU6aRVWqZ) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [Weatherman](https://open.spotify.com/album/22ZHQdzmigvcTeducRzmrg) | 3:45 | 2021-12-17 | 2022-02-12 |
 | [West Texas Is The Best Texas](https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [West Texas Is The Best Texas](https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75) | 3:43 | 2022-10-07 |  |
+| [West Texas Weather](https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [West Texas Weather](https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP) | 3:07 | 2023-02-24 |  |
 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 | 2022-03-25 | 2022-11-12 |
 | [what else can she do](https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 5:10 | 2022-04-15 | 2022-08-20 |
 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 | 2021-12-17 | 2023-02-18 |

@@ -1,15 +1,15 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 668672,
+  "num_followers": 669366,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMzEzMiwwMDAwMDAwMDJmYjQ0YTExNDYxZmE5ZDFjMGMyNjA2ZWE0NzU4M2E1",
+  "snapshot_id": "MTY3NjAzMzEzMiwwMDAwMDAwMDQ1MzQzNmE2NjgyNmFjYzBhNmNmNzZjMjM1NGJiNTZk",
   "tracks": [
     {
-      "added_at": "2023-02-25 09:45:43",
+      "added_at": "2023-02-26 01:14:29",
       "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
-      "added_at": "2023-02-25 09:45:43",
+      "added_at": "2023-02-26 01:14:29",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2023-02-25 09:45:43",
+      "added_at": "2023-02-26 01:14:29",
       "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
-      "added_at": "2023-02-25 09:45:43",
+      "added_at": "2023-02-26 01:14:29",
       "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
@@ -299,26 +299,6 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
         "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
         "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT"
     },
     {
-      "added_at": "2023-02-25 09:45:43",
+      "added_at": "2023-02-26 01:14:29",
       "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2023-01-03 14:49:24",

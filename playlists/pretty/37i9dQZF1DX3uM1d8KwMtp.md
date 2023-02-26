@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,725 likes - 56 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,754 likes - 56 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 17 | [It's Not Right](https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/5gIMusLf2Z5ECGBKCzFTGO) | 6:22 |
 | 18 | [Merhamet](https://open.spotify.com/track/75dhZ7AfOq4QNFDuiHjMDA) | [Doğan Sezen](https://open.spotify.com/artist/15ly7L03FKUoQhUnGseqCR), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Cafe De Anatolia LOUNGE](https://open.spotify.com/artist/3sPrwtAbt5duadW7IHJf1O) | [Efsun](https://open.spotify.com/album/29KqM9Q8hLujjg6EE1N9gS) | 6:24 |
 | 19 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 |
-| 20 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |
+| 20 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 |
 | 21 | [Trinidad Dreams](https://open.spotify.com/track/62F0yfVTEnjOBWKiXEEELZ) | [Analog Sol](https://open.spotify.com/artist/0bYiRfjvg9c9wt6fuxoUVc) | [Trinidad Dreams](https://open.spotify.com/album/7vkYBAyQIfEzBOUN9DnHpx) | 3:38 |
 | 22 | [Chilanzar](https://open.spotify.com/track/3eRKV66fGzyDKLhZpbMPVO) | [My Format](https://open.spotify.com/artist/1UaOgB2VAZDXGiI5UgclhE), [Nopopstar](https://open.spotify.com/artist/3WZ1Fwoh1f4TOfp8LtAxzC) | [Chilanzar](https://open.spotify.com/album/6pUGx8rnnPZ1bVHVOM0EXu) | 5:44 |
 | 23 | [Jinga](https://open.spotify.com/track/7FgtP833uZzS6s1FNTpy30) | [Tomy Wahl](https://open.spotify.com/artist/3Q92036hpjn7sxc79pUXvz), [Alain Fanegas](https://open.spotify.com/artist/4ej1s96CjHWyiRMtYa1kbJ) | [Jinga](https://open.spotify.com/album/0ouAjexRNLoTp8Cbv9ZiKX) | 7:05 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 55 | [Mambo Jambo](https://open.spotify.com/track/1rSjmBi8rvl1mJg1eAOkan) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mambo Jambo](https://open.spotify.com/album/5TA2xPbvz4x9TJeWMJluGo) | 6:11 |
 | 56 | [Never Too Late](https://open.spotify.com/track/4uLcna2HHwVvCobsOYBVas) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Moodintrigo](https://open.spotify.com/artist/2igvV2IqzbKJ1wrGSKwSFt), [Melödisch](https://open.spotify.com/artist/6qcyxd5kBmJlOD5ee7EdJo) | [Never Too Late](https://open.spotify.com/album/7sm5rQZZsRhSte2xSHTGKK) | 6:15 |
 
-Snapshot ID: `MTY3NTQyMTQ2MSwwMDAwMDAwMDI4Y2I5MDk3YmRhM2Q5ZWM0NzEwYjZhY2MwNjVkOTRl`
+Snapshot ID: `MTY3NTQyMTQ2MSwwMDAwMDAwMDM2N2FlNzdmNTdiZmYyN2VmNWIxMzYyM2Y1YzhlYzQ2`

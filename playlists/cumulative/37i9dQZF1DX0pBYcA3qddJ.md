@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-278 songs - 18 hr 16 min
+279 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Snowdrop](https://open.spotify.com/track/41DBJWgVyP9wglNdpaVRju) | [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Rhapsody Japan](https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK) | 2:18 | 2022-12-01 |  |
 | [Someday](https://open.spotify.com/track/3NwzABjXouiJdOVjIFNonG) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Old Days](https://open.spotify.com/album/5Y96dH2PLdE39a4SLYXjAo) | 2:39 | 2022-10-20 | 2022-11-11 |
 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 | 2022-10-20 |  |
-| [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 | 2023-01-31 |  |
+| [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2023-02-23 |  |
+| [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 | 2023-01-31 | 2023-02-26 |
 | [Songs Without Words Op.30 3.Adagio non troppo \(E major\)](https://open.spotify.com/track/7L7BUMBEnSLqKoyXg4qHqk) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [Mendelssohn: Songs Without Words Vol.1, Variations sérieuses Op.54](https://open.spotify.com/album/5NshiFCdwSqXx4zJvA06rE) | 2:33 | 2022-12-01 | 2023-02-01 |
 | [Soul Smile](https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Soul Smile](https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N) | 4:09 | 2023-01-26 | 2023-02-08 |
 | [Spice](https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Spice](https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT) | 3:45 | 2023-01-31 |  |

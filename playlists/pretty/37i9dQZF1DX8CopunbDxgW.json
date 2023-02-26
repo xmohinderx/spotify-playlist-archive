@@ -1,12 +1,12 @@
 {
   "description": "This is Channel Tres taking over Metropolis with some of my favorite songs to DJ and to listen to, hope you enjoy \ud83e\udea9",
-  "num_followers": 834600,
+  "num_followers": 834709,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGI2ZWE1YzA3ZTY5Y2E5ZWMwZGEyYTA4NjI0NjZjYjZk",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGFkOTFjZGVkY2FiMjFjYmU1N2ViODMzZDQyYTRlYmQ1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/537AcknNyv4DBFuzqmuX7T"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
       "added_at": "2023-02-21 17:42:12",
       "album": {
         "name": "Desire, I Want To Turn Into You",
@@ -491,6 +475,22 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -595,18 +595,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+        "name": "Welcome To My Island (Remix)",
+        "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
         }
       ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+      "duration_ms": 202494,
+      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
+      "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -643,26 +651,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Welcome To My Island (Remix)",
-        "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "George Daniel",
-          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 202494,
-      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
-      "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -811,34 +811,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
       "artists": [
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Is U",
-        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 210773,
       "name": "CLASH - Edit",
       "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Is U",
+        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Little Bit (feat. Autoerotique) [Remix]",
         "url": "https://open.spotify.com/album/4r3b3h6Aes9LtPaR3WVH4P"
       },
@@ -945,22 +961,6 @@
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Soulonica",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
       "artists": [
         {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
         }
       ],
-      "duration_ms": 164211,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+        "name": "High",
+        "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+      "duration_ms": 164211,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Looking at Your Pager",
+        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Looking at Your Pager",
+      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Looking at Your Pager",
-        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
       },
       "artists": [
         {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 174417,
-      "name": "Looking at Your Pager",
-      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
+      "duration_ms": 303124,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Just Can't Get Enough",
-        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 303124,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "MAHAL",
-        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        },
-        {
-          "name": "The Mattson 2",
-          "url": "https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH"
-        }
-      ],
-      "duration_ms": 181687,
-      "name": "Millennium",
-      "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Must Be Love (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "MAHAL",
+        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "The Mattson 2",
+          "url": "https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH"
+        }
+      ],
+      "duration_ms": 181687,
+      "name": "Millennium",
+      "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
     },
     {
       "added_at": "2023-02-17 05:00:00",

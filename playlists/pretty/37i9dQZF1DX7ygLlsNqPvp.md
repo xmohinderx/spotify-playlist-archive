@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w" > Kwaku DMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,034 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,054 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 28 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
 | 29 | [Abasakoom](https://open.spotify.com/track/2puqWsQHO7Ld5gutZNajtA) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Abasakoom](https://open.spotify.com/album/6recifnSNcbsFOKrc6d2ck) | 3:23 |
 | 30 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 |
-| 31 | [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 |
+| 31 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
 | 32 | [Radio](https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj) | 2:52 |
 | 33 | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC) | 2:36 |
 | 34 | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/track/07bE9klPJH5xfXyj5hNlq8) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/album/3onPRPaXRaC4d7y2sqXgX4) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Feelingx](https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 2:02 |
 | 50 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGU2OTc0MTY5Zjg1N2E1NGRkNGZmMTY3NzgxYTMxNThh`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDliZDM4ZGY3OGVhZGFhYTEyY2ExNDkwZGRlZmIzM2Ux`

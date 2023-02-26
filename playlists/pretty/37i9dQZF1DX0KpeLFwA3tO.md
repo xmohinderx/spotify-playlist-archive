@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,726 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,796 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 119 | [The Bonnie Ship the Diamond](https://open.spotify.com/track/0395HUpp6e8PpPJprGWiHD) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Songs of the Highlands, Songs of the Sea](https://open.spotify.com/album/4lQJQoonyV4XpWMRwOuK9G) | 2:27 |
 | 120 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 |
 | 121 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
-| 122 | [Under the Streetlight](https://open.spotify.com/track/0W2KwafSXnq7v35p5dtLnW) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Under the Streetlight](https://open.spotify.com/album/5oTKOg11hiQfI4aYFn0vb5) | 2:56 |
+| 122 | [Under the Streetlight](https://open.spotify.com/track/7hPc1Q8iPbYBzZw6eAOlTa) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 2:56 |
 | 123 | [Tales From Beyond](https://open.spotify.com/track/36Lsh109bursuP7YZ8438W) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Tales From Beyond](https://open.spotify.com/album/3caICeXPU9yZsSGWv0L0vB) | 3:26 |
 | 124 | [Delete Myself](https://open.spotify.com/track/09vrPyeyGuI5KxWv7fmQ6L) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Delete Myself](https://open.spotify.com/album/4QMnzmLpN0pIKTct6wSJMs) | 2:35 |
 | 125 | [Like You Love Me](https://open.spotify.com/track/4tRbfvXqGOj8fbYbXzTWrd) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX) | [Like You Love Me](https://open.spotify.com/album/2zF61PbxFf6USTCCk673nb) | 2:26 |
 
-Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDUzN2ZiOTA1YzBkYTk0Yjc1YTBlZjA2MDU5MjBhOTUy`
+Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDg3ZDZhNmNlZGFkYzFjZmVjN2EzNDQwYjQ0YWE4MTY1`

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-318 songs - 1 day 5 hr 37 min
+319 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2021-02-10 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4bRNH9mxHDszZGskpBFhPq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/5QtowGE69geuScDtDeGltr) | 6:59 | 2020-05-02\* | 2021-03-23 |
 | [Abeyance](https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Abeyance](https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50) | 6:54 | 2022-08-29 |  |
+| [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-23 |  |
 | [Adventure Of A Lifetime](https://open.spotify.com/track/4OiYyeJ4pxrcufdqLLxnAV) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/2pdW1q8PwPIwx2SXHLNyzB) | 4:59 | 2020-05-02\* | 2021-08-20 |
 | [Afflicted](https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f) | [Jonas Sorgenfrei](https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Peter Christof](https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4) | [Afflicted](https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA) | 4:21 | 2022-03-25 | 2022-11-23 |
 | [All Alone](https://open.spotify.com/track/6TAW00MAPvS59yEoIgtOEI) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [All Alone](https://open.spotify.com/album/0GpkwiJKo7ogyjHGML8iay) | 5:10 | 2020-05-02\* | 2021-03-24 |
@@ -275,7 +276,7 @@
 | [The Duke](https://open.spotify.com/track/6RQBoUXjtB1YmUjtPb9WbA) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:45 | 2022-07-21 |  |
 | [The Duke](https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [The Duke](https://open.spotify.com/album/6C6SvmCkEqoNTFHMjEtwLk) | 6:45 | 2021-10-02 | 2022-07-29 |
 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 | 2020-05-03 |  |
-| [The Peace Inside](https://open.spotify.com/track/2IMyhSjfuklmagV5VCDsoq) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [The Peace Inside](https://open.spotify.com/album/1002l2t97C7pBbUD6sTVhM) | 4:54 | 2022-12-22 |  |
+| [The Peace Inside](https://open.spotify.com/track/2IMyhSjfuklmagV5VCDsoq) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [The Peace Inside](https://open.spotify.com/album/1002l2t97C7pBbUD6sTVhM) | 4:54 | 2022-12-22 | 2023-02-26 |
 | [The Peacocks \- Single Edit](https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb) | [John Engels](https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [The Peacocks](https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd) | 3:09 | 2021-02-26 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ), [Slide Hampton](https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys) | [A Day in Copenhagen](https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC) | 4:57 | 2020-05-02\* | 2021-07-01 |
 | [The Sun in September](https://open.spotify.com/track/0rm7lBomgchi6bHaTwi7cL) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Fletcher Moss Park](https://open.spotify.com/album/0uEEiR66gvpTpcjJ5GagPU) | 7:50 | 2020-05-27 | 2021-09-10 |

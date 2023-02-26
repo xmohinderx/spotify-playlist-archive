@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,613 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,629 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 56 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 | 57 | [Uno Pal Otro](https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R) | 3:37 |
 | 58 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
-| 59 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
-| 60 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
+| 59 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
+| 60 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 
-Snapshot ID: `MTY3NDc4ODQwMCwwMDAwMDAwMDI2ZjI5ZTJiOTE3OTE0NzZhZTkwNGNlNzlhYzViNzky`
+Snapshot ID: `MTY3NDc4ODQwMCwwMDAwMDAwMGIwZDVkMDI0MGU1NTRjY2M3ZTcwMzkxZGQ0Yzc4NzI0`

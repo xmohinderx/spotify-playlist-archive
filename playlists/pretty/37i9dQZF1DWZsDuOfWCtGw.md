@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,340 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,345 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 6 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 | 7 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 |
 | 8 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 |
-| 9 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |
+| 9 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 |
 | 10 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 |
 | 11 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 |
 | 12 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 74 | [Don't Wanna Lie](https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Don't Wanna Lie](https://open.spotify.com/album/236XMgaxHRyqXMDHL8vSHU) | 3:28 |
 | 75 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGJmZThiNjMzZDI0MjQ3OGUwMGE0MjI2YTlkODgyNjRi`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGI5NjBiN2NkYzMxNmJmYTlmYmE3NjVhNDZmYmY3ZDM0`

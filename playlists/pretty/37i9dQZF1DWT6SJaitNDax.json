@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 572937,
+  "num_followers": 573056,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMGI4OWI1ZjRhZmU5NDRkOTY3NTI3MzY5Yjg4YThhYzYx",
+  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMDYyNmQyNDMyNDNiN2Y4MzkyOWZkODJiYjc2MmJmOTY0",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Bloody Samaritan",
+        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Shine Your Light (feat. Akon)",
         "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Bloody Samaritan",
-        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Crazy Tings",
         "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
@@ -1067,42 +1067,6 @@
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku The Traveller",
-      "url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195073,
-      "name": "Gum Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1127,6 +1091,42 @@
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku The Traveller",
+      "url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1159,6 +1159,22 @@
       "duration_ms": 194594,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1259,22 +1275,6 @@
       "duration_ms": 171493,
       "name": "M\u00e9chante",
       "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Big Thug Boys",
+        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Big Thug Boys",
+      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "AYA",
         "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Big Thug Boys",
-        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Big Thug Boys",
-      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "Repeat (feat. Koffee)",
+      "url": "https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
         "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
       },
@@ -1527,42 +1547,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "Repeat (feat. Koffee)",
-      "url": "https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Rotate",
         "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
       },
@@ -1579,26 +1563,6 @@
       "duration_ms": 201940,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1623,6 +1587,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -1639,22 +1619,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+        "name": "Stand Strong (feat. Sunday Service Choir)",
+        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
         }
       ],
-      "duration_ms": 174421,
-      "name": "Might Let You (feat. Davido)",
-      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
+      "duration_ms": 182791,
+      "name": "Stand Strong (feat. Sunday Service Choir)",
+      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1675,6 +1655,26 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 174421,
+      "name": "Might Let You (feat. Davido)",
+      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Ginger Me",
+        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 205892,
+      "name": "Ginger Me",
+      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Dream Girl (Global Remix)",
         "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
       },
@@ -2015,26 +2031,6 @@
       "duration_ms": 198299,
       "name": "Silver Tongue Devil (feat. Shenseea)",
       "url": "https://open.spotify.com/track/0hfO4THmsjstA7svFPLTVS"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 179884,
-      "name": "D O D O - Adekunle Gold Version",
-      "url": "https://open.spotify.com/track/5XYFwMy9hJ45a6NoavtyEa"
     }
   ],
   "unique_name": "We Everywhere",

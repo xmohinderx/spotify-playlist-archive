@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:1VGFnvgAwxMlV8D729gs5I">RORI</a>
 
-318 songs - 17 hr 30 min
+319 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,8 @@
 | [The swallow](https://open.spotify.com/track/3AxeXiil0VoLBkuFCRMNJz) | [Naragonia](https://open.spotify.com/artist/5EIwsc7Yjljcg47idONrAg) | [The Guesthouse Sessions](https://open.spotify.com/album/34fnPnLHYG2dA9cfzPSLkN) | 2:51 | 2021-12-08 | 2022-01-06 |
 | [These Nights](https://open.spotify.com/track/6w0DHqXxds5NSPrjZNrMVo) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2), [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [These Nights](https://open.spotify.com/album/12JqCHJmoCdSnGIxQvw4Ol) | 2:30 | 2023-01-31 |  |
 | [These Shades Of Blue](https://open.spotify.com/track/0uM5iKbeh7GivkqoKXsKJS) | [Intergalactic Lovers](https://open.spotify.com/artist/02WQ3uYpJNgznKVcqWCc6I) | [Liquid Love \(Deluxe Edition\)](https://open.spotify.com/album/029S7mPftpxn334iMI9Edf) | 4:15 | 2023-01-03 |  |
-| [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-31 |  |
+| [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-31 | 2023-02-26 |
+| [To be naive](https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 3:59 | 2023-01-31 |  |
 | [To Run](https://open.spotify.com/track/01i5NFkzKGgUpt2EWsnZNH) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [To Run](https://open.spotify.com/album/0bveTDiVABbmhKLduQY1vL) | 3:22 | 2022-11-29 | 2023-02-01 |
 | [Today](https://open.spotify.com/track/0GFslT6qs1B3XSqKs3btTu) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Sea of Trees](https://open.spotify.com/album/2BDlqHuKAUPhcEprAqBQMJ) | 3:32 | 2022-11-01 | 2022-11-30 |
 | [Tokyo](https://open.spotify.com/track/6S5tWblsffT7l9heLSEeLv) | [Elia Rose](https://open.spotify.com/artist/52kduoIpBi1P8wXMDODubv) | [Tokyo](https://open.spotify.com/album/2eBnkNiGd6dUMA8MdlJ85N) | 3:13 | 2022-04-05 | 2023-01-04 |

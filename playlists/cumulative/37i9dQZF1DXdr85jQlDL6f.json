@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Lull You To Sleep",
+        "url": "https://open.spotify.com/album/1N4JSQdAdviUQZ0cX5nBbP"
+      },
+      "artists": [
+        {
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Down Come The Droplets",
+      "url": "https://open.spotify.com/track/2R2pj2HqjSjwEY9Rrl4c45"
+    },
+    {
+      "album": {
         "name": "Even More Stormy Rain",
         "url": "https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 195125,
       "name": "Rainy Forest Morning Hour",
       "url": "https://open.spotify.com/track/2qolU4aFRhpjjgWX3Ke4yy"

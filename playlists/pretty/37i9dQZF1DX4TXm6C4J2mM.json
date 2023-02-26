@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156206,
+  "num_followers": 156198,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDRjNzlkMGNlOGJiZDQ3OWQ2OWQ5MjdjNjc0NDMxN2M0",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGZiMjM4MDBkZWFmYTE5MmUxYjYzZTA5NTMyYjAxNjJm",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Menage A Trois",
         "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
       },
@@ -715,6 +735,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Culturally Appropriate",
+        "url": "https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Fight Dirty",
+      "url": "https://open.spotify.com/track/4V7wva4jCBiSt4avFv05U1"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Hold On (feat. Michel Zitron)",
         "url": "https://open.spotify.com/album/2BxWklE9D6hPhvPgcvLWtZ"
       },
@@ -735,22 +771,6 @@
       "duration_ms": 244453,
       "name": "Hold On (feat. Michel Zitron)",
       "url": "https://open.spotify.com/track/22zxLxXlXrBIm7XaazHNrg"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Culturally Appropriate",
-        "url": "https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Fight Dirty",
-      "url": "https://open.spotify.com/track/4V7wva4jCBiSt4avFv05U1"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -843,30 +863,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "2019 Remixed",
-        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 239062,
-      "name": "No Sleep (feat. Bonn) - DubVision Remix",
-      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Detroit 3 AM (Radio Edit)",
         "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
       },
@@ -907,6 +903,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "2019 Remixed",
+        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 239062,
+      "name": "No Sleep (feat. Bonn) - DubVision Remix",
+      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Remember (David Guetta VIP Remix)",
-        "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 230443,
-      "name": "Remember - David Guetta VIP Remix",
-      "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn) [Topic Remix]",
         "url": "https://open.spotify.com/album/4ymy3CNtwCS2eCKMa4G88C"
       },
@@ -1575,6 +1575,26 @@
       "duration_ms": 152986,
       "name": "Tick Tock (feat. 24kGoldn) - Topic Remix",
       "url": "https://open.spotify.com/track/7rOkOLolHVsZP6GQ6UPo0e"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Remember (David Guetta VIP Remix)",
+        "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 230443,
+      "name": "Remember - David Guetta VIP Remix",
+      "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -2059,26 +2079,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Laeko",
-          "url": "https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT"
-        }
-      ],
-      "duration_ms": 137285,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
       },
@@ -2099,22 +2099,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW"
       },
       "artists": [
         {
-          "name": "Zookeepers",
-          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         },
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "Laeko",
+          "url": "https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT"
         }
       ],
-      "duration_ms": 194220,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
+      "duration_ms": 137285,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA"
     }
   ],
   "unique_name": "Tr\u00e4ning",

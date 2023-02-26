@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Mount Westmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,427 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,801 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 26 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 |
 | 27 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
 | 28 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
-| 29 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
+| 29 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
 | 30 | [I Wanna Get High](https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:54 |
-| 31 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
+| 31 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 32 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
 | 33 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 34 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
 | 35 | [Just Another Day](https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 7:21 |
 | 36 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |
 | 37 | [Bitches Ain't Shit](https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:48 |
-| 38 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
-| 39 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
+| 38 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
+| 39 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
 | 40 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
 | 41 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
 | 42 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 43 | [Jackin' For Beats](https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Kill At Will](https://open.spotify.com/album/7oeFV70h2fDapspboicRP5) | 2:57 |
 | 44 | [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 |
-| 45 | [New York, New York](https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Hip\-Hop Legacy, Vol\. 8](https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb) | 4:50 |
-| 46 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 |
+| 45 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 |
+| 46 | [New York, New York](https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Hip\-Hop Legacy, Vol\. 8](https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb) | 4:50 |
 | 47 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
 | 48 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
 | 49 | [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 |
 | 50 | [Same Song \- Edit Version](https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 3:57 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDcxNGI4MjA5OWY3MTE0ZjdmNzQ2OTY4ODljZWJmNDRi`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDY2MjE1N2RjMTQ5N2IwZDhiZDQwZGI5MTYwNWNkMTEy`

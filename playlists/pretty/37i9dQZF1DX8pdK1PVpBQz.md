@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Jim Alxndr
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,016 likes - 102 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,018 likes - 102 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

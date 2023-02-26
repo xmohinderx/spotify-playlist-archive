@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91637,
+  "num_followers": 91631,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGZiYjk1YTU0YjNhNDQ0MDkxOGM0MGU5YTcyYjlmODFj",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDFjY2RmMTFiMjE4NzhhZGUzNjJhODIxMzViYzZiMWU1",
   "tracks": [
     {
       "added_at": "2022-12-20 15:00:15",
@@ -459,18 +459,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
         }
       ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -495,22 +499,18 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -555,38 +555,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Second Chance",
-        "url": "https://open.spotify.com/album/4tVx3jKFjuDEDuF6yb3oJX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/7KWTJy2RIa9TOJ6NXFkn4G"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/4tVx3jKFjuDEDuF6yb3oJX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/7KWTJy2RIa9TOJ6NXFkn4G"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33"
-      },
-      "artists": [
-        {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        }
-      ],
-      "duration_ms": 148822,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Summer 91 (Looking Back)",
         "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
@@ -955,22 +935,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
         },
         {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         }
       ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+      "duration_ms": 148822,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -995,22 +975,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1031,6 +1011,26 @@
       "duration_ms": 221885,
       "name": "You Were Loved (with OneRepublic)",
       "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Caught Up (with Olivia O'Brien)",
         "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 173214,
       "name": "Caught Up (with Olivia O'Brien)",
       "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Little Bit Of Love",
-        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Little Bit Of Love",
-      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
+        "name": "Love To Go",
+        "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        },
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Love To Go",
+      "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1403,30 +1427,6 @@
       "duration_ms": 171433,
       "name": "Live For",
       "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Love To Go",
-        "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        },
-        {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Love To Go",
-      "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6h8sC5uwBGO0Wu6EiToz6a"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Stay Mine",
         "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 178010,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2022-12-20 15:00:15",

@@ -1,12 +1,12 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 371924,
+  "num_followers": 372020,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NzQ3NiwwMDAwMDAwMDg0ZmU4YjgxZTc3NzI1NGQxYzgwNzcyMGE5ZDJmZDg4",
+  "snapshot_id": "MTY2NTY5NzQ3NiwwMDAwMDAwMGU5NGMzN2M3M2E0MDc3Y2FjN2ZhNjRmODY3NmMyOGFk",
   "tracks": [
     {
       "added_at": "2022-10-13 21:44:36",
@@ -115,22 +115,18 @@
     {
       "added_at": "2022-10-13 21:44:36",
       "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+        "name": "Poor Man Style",
+        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+      "duration_ms": 198440,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
     },
     {
       "added_at": "2022-10-13 21:44:36",
@@ -151,18 +147,22 @@
     {
       "added_at": "2022-10-13 21:44:36",
       "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
       "artists": [
         {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": "2022-10-13 21:44:36",

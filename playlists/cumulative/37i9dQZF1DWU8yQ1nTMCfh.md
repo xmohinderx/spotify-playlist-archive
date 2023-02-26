@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Los Mesoneros
 
-159 songs - 8 hr 58 min
+161 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-04-15 | 2022-12-17 |
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-04-15 | 2022-12-10 |
 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 | 2023-02-13 |  |
-| [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 | 2022-04-15 |  |
+| [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 | 2022-04-15 | 2023-02-26 |
 | [Corazón del Universo](https://open.spotify.com/track/2EFPmEqUxdC3zjLgE4gq8j) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Corazón del Universo](https://open.spotify.com/album/2Ys2tKZJdONUJmOTubrmn5) | 3:47 | 2022-04-15 | 2022-12-10 |
 | [Corto Circuito](https://open.spotify.com/track/2QRDPXSOlA03Tj6BHPIjH9) | [Sierra León](https://open.spotify.com/artist/0cyhvPv23KSGqLirkaCPyV) | [Corto Circuito](https://open.spotify.com/album/7iLicaTgffN4CToV3nhSv6) | 2:19 | 2022-04-15 | 2022-12-10 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-04-15 | 2023-01-23 |
@@ -73,6 +73,7 @@
 | [Ha Sido](https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 4:11 | 2022-04-15 |  |
 | [i/O](https://open.spotify.com/track/1wd9Niui5BNBP1gGEiJ7v0) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN) | 3:18 | 2022-04-15 | 2022-12-10 |
 | [Inalacanzable](https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Cronopaisajes \- EP](https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo) | 3:08 | 2022-12-30 | 2023-01-10 |
+| [Invulnerables](https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Invulnerables](https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg) | 4:02 | 2023-02-24 |  |
 | [Jungla de Pensamientos](https://open.spotify.com/track/6dX4ogWjwYlGf8thZB4YPH) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Jungla de Pensamientos](https://open.spotify.com/album/68WnJ97v6WmmVO1wliSg5T) | 3:00 | 2022-07-19 | 2022-12-10 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-04-15 | 2023-01-21 |
 | [La Despedida](https://open.spotify.com/track/7sRV1vbWO6eiSHMc2LDcFt) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [La Despedida](https://open.spotify.com/album/72KvjC47bQejCXrTaqGEIT) | 3:42 | 2022-04-15 | 2022-12-10 |
@@ -85,11 +86,12 @@
 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 | 2022-12-16 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-11 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-04-15 | 2022-12-10 |
+| [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 | 2023-02-24 |  |
 | [Llueven los Vergazos](https://open.spotify.com/track/4YKONyBsz26LNqI6BcuLun) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Llueven los Vergazos](https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2) | 2:30 | 2022-04-15 | 2022-12-24 |
 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 | 2022-12-23 |  |
 | [Los Cobardes Viven Siempre](https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx) | 3:34 | 2023-01-20 |  |
 | [Los Mejores \- Si Pudiera](https://open.spotify.com/track/1YZfiHarcCJGBPDk6PW96w) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Los Mejores \(Si Pudiera\)](https://open.spotify.com/album/6dmAMEznxIvcHBaUtZdslh) | 3:23 | 2022-04-15 | 2022-12-10 |
-| [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 |  |
+| [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 | 2023-02-26 |
 | [Mala Jugada](https://open.spotify.com/track/2e3vpJ5jXxzA4hS8RiqCUD) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Cascajo](https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr) | 4:07 | 2022-04-15 | 2022-12-10 |
 | [Mala Vibra](https://open.spotify.com/track/66GS7AyNo0bcLes3q6R0My) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/5e5AeTW1NoinQ2iB0asP3O) | 3:21 | 2022-04-15 | 2022-12-10 |
 | [MARTIRIO](https://open.spotify.com/track/2W0IAUsjR26coSOvppEpKx) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MARTIRIO](https://open.spotify.com/album/6oyeToNU5s7ZGttwTZ8EDF) | 4:04 | 2022-04-15 | 2022-12-24 |

@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 17902,
+  "num_followers": 17910,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzQzMCwwMDAwMDAwMDIwMTJhMzE0ZmIxZTkxZmE3YzUzY2IxNjUxNmQ5NTMw",
+  "snapshot_id": "MTY3NzIzNzQzMCwwMDAwMDAwMDE0MTU5YzdhODIyM2ZmMzhlNGZiZmIyMjY0NTczODAx",
   "tracks": [
     {
       "added_at": "2022-11-11 06:44:35",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -479,6 +463,22 @@
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 291796,
-      "name": "i love you",
-      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+      "duration_ms": 291796,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Issues",
-      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 221106,
       "name": "Supermarket Flowers",
       "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1335,6 +1335,38 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
       },
@@ -1367,6 +1399,22 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -1383,54 +1431,6 @@
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
-        "name": "glisten",
-        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "all the kids are depressed",
-      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Not About Angels",
-        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 189475,
-      "name": "Not About Angels",
-      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1747,8 +1747,8 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+        "name": "Not About Angels",
+        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
       "artists": [
         {
@@ -1756,9 +1756,9 @@
           "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+      "duration_ms": 189475,
+      "name": "Not About Angels",
+      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -2907,6 +2907,22 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
+        "name": "The New Black and White, Pt. I, II, III & IV",
+        "url": "https://open.spotify.com/album/4K256oZqmOjFZmTgDh1yYW"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 265603,
+      "name": "All I Wanna Do is Make Love to You",
+      "url": "https://open.spotify.com/track/2zz7zsdNixKsag1pLFbpaE"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/22xmQgYCIP1fcqqyfv7ZSl"
       },
@@ -2923,22 +2939,6 @@
       "duration_ms": 87419,
       "name": "I Don't Trust Nobody",
       "url": "https://open.spotify.com/track/50KOG4SrgEdS0S0gvCaBsW"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
-        "name": "The New Black and White, Pt. I, II, III & IV",
-        "url": "https://open.spotify.com/album/4K256oZqmOjFZmTgDh1yYW"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 265603,
-      "name": "All I Wanna Do is Make Love to You",
-      "url": "https://open.spotify.com/track/2zz7zsdNixKsag1pLFbpaE"
     },
     {
       "added_at": "2022-11-11 06:44:35",

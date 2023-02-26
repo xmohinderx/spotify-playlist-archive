@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > HARDY is taking OVER! His new album the mockingbird & THE CROW is out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,216 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,470 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 55 | [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 |
 | 56 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 |
 | 57 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
-| 58 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
-| 59 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 |
+| 58 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 |
+| 59 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 60 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/59lRASvykN3UQstK839tep) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:49 |
 | 61 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 |
 | 62 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 |
-| 63 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
-| 64 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 |
-| 65 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
-| 66 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
+| 63 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 |
+| 64 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
+| 65 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
+| 66 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
 | 67 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 |
 | 68 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:40 |
 | 69 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 |
 | 100 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDE0NjVhOGYxODRkZjkyZjAyMmZhOThlYjdmODRkOWM1`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDc0MTVkYTAzOWUyMmUyN2Y3ZjBkZjI1MjQyY2NhNzc1`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: GALE",
-  "num_followers": 272415,
+  "num_followers": 272474,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGU5Njk4NGI4MmNhN2NlZDRjYmE3MGE2ZGI5YWFkODhk",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDE2ZjQwOTc1MTM1ZTE3ZmVkMzE0NzY1ZTk0ZTNmMWI4",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Un Cl\u00e1sico",
         "url": "https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -335,26 +335,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 217951,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -375,18 +367,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
+      "duration_ms": 217951,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -423,38 +423,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Corriendo Con Tijeras",
-        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Corriendo Con Tijeras",
-      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "sanvalent\u00edn:(",
-        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "sanvalent\u00edn:(",
-      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "El Ego\u00edsmo",
         "url": "https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 170471,
       "name": "El Ego\u00edsmo",
       "url": "https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "sanvalent\u00edn:(",
+        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Corriendo Con Tijeras",
+        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Corriendo Con Tijeras",
+      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 214573,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+      "duration_ms": 169933,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -647,22 +647,6 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Los Hombres Son Todos Iguales",
-        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Los Hombres Son Todos Iguales",
-      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Los Hombres Son Todos Iguales",
+        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Los Hombres Son Todos Iguales",
+      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Tu Apodo",
         "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 155880,
       "name": "Tu Apodo",
       "url": "https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -843,6 +827,58 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "S.H.E.A",
+        "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "S.H.E.A",
+      "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
       },
@@ -859,22 +895,6 @@
       "duration_ms": 171400,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "La \u00daltima (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 176484,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
     },
     {
       "added_at": "2023-02-24 05:00:00",

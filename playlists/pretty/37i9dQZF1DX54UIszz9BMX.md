@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54UIszz9BMX.md) - [plain]
 
 > Las canciones de reggaetón que marcaron el año, con Myke Towers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,059 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,143 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

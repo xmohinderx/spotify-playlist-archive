@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Arelys Henao y más mujeres, a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,743 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,739 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

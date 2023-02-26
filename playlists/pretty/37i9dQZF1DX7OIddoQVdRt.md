@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,790 likes - 40 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,864 likes - 40 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 21 | [Love Him Like I Do](https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Revealed](https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD) | 3:18 |
 | 22 | [Just Like God](https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Just Like God](https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj) | 3:00 |
 | 23 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
-| 24 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 24 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
 | 25 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 |
-| 26 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
+| 26 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
 | 27 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 |
 | 28 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
 | 29 | [Put It On The Altar](https://open.spotify.com/track/1no67NVun0BIparrhLtPM6) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq) | 4:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
 | 40 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
 
-Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMDlkMzBhMTBhYjI3YTVmZTI0NjliYjA4ZGQwODE0ZGUx`
+Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMGQyNmZlNDk5ZjgzYTI0YWU0MDc0YjU0ZTAyYzY2OWI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,595,585 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596,358 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 61 | [Me Gusta Estar Contigo](https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:18 |
 | 62 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
 | 63 | [Yo Sé Que Te Acordarás](https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 3:11 |
-| 64 | [La Más Deseada](https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 2:57 |
-| 65 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 |
+| 64 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 |
+| 65 | [La Más Deseada](https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 2:57 |
 | 66 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
 | 67 | [Amantes Escondidos](https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:53 |
 | 68 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 95 | [La Noche Perfecta](https://open.spotify.com/track/25p1jEwtuplwNIbZkoW5Kv) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Historia](https://open.spotify.com/album/1wOiaOlSa4ynjXA3NXT4Wf) | 3:07 |
 | 96 | [Muchas Gracias](https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Las Más Perronas de Banda](https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu) | 3:03 |
 | 97 | [¿Dónde Estas Presumida?](https://open.spotify.com/track/7ogYqVSJhPbaBWXZG2jo9m) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 3:33 |
-| 98 | [Para Impresionarte](https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Idolos De Mexico Para El Mundo](https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG) | 3:39 |
-| 99 | [La Luna](https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo](https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St) | 3:48 |
+| 98 | [La Luna](https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo](https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St) | 3:48 |
+| 99 | [Para Impresionarte](https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Idolos De Mexico Para El Mundo](https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG) | 3:39 |
 | 100 | [Las Edades](https://open.spotify.com/track/7rCcgP1xr0XOWWOiO0AjPW) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Los Amigos Del M](https://open.spotify.com/album/3XhpxlWiisEfUCRT5vtmFu) | 2:49 |
 
-Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMGRiYjVhZDRjODU1OWYyZDMyZDRmYmE5NzE1Mzk0NDhh`
+Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMDQ1MDQxMGI1NThkMzNjOTU5MTRlNzUzNmMxZjU0OGZj`

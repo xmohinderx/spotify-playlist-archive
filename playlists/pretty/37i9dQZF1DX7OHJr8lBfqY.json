@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 5079,
+  "num_followers": 1064,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3MzQ3MCwwMDAwMDAwMDU5ODViYTZkYmNiMTNmNDczY2RmYzU0ZDdmMzc2NGMz",
+  "snapshot_id": "MTY3NzI3MzQ3MCwwMDAwMDAwMDVkZDYxZjc3NDFhMTEwZWY5NTY0NjQyZWUzNTk5YjY5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -807,18 +807,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6lPRVKGP5WnFGI46c4LVik"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
+      "duration_ms": 147493,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0gcOnIUKIG6JF56iFUfE0p"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -843,22 +847,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6lPRVKGP5WnFGI46c4LVik"
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 147493,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0gcOnIUKIG6JF56iFUfE0p"
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
     },
     {
       "added_at": "2022-08-31 07:37:37",

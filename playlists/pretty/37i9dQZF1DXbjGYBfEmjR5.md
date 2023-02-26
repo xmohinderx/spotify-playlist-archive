@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,736 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,833 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 61 | [Magic City](https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh) | [Lordsun](https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL) | [Magic City](https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ) | 3:37 |
 | 62 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 |
 | 63 | [Lovin' Is Everywhere](https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:53 |
-| 64 | [Plastic](https://open.spotify.com/track/4YAVirWReJraZhTHasDpyY) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/3AgpSfMDtGPCRO2DBrPqZU) | 3:15 |
+| 64 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
 | 65 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
-| 66 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
-| 67 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
+| 66 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
+| 67 | [Plastic](https://open.spotify.com/track/4YAVirWReJraZhTHasDpyY) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/3AgpSfMDtGPCRO2DBrPqZU) | 3:15 |
 | 68 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 69 | [love u!!](https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [love u!!](https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C) | 2:30 |
 | 70 | [Starlight](https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi) | [Starlight](https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi) | 3:03 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 80 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
 | 81 | [Lynx](https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Lynx](https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3) | 4:05 |
 | 82 | [Rainbow Badge](https://open.spotify.com/track/58maRxsmhNQcne43mcphIV) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [Pokéwave III](https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw) | 3:28 |
-| 83 | [La Musique](https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Era](https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz) | 3:11 |
+| 83 | [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 |
 | 84 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
-| 85 | [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 |
-| 86 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
-| 87 | [REFRESH](https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5) | 2:12 |
+| 85 | [La Musique](https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Era](https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz) | 3:11 |
+| 86 | [REFRESH](https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5) | 2:12 |
+| 87 | [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 |
 | 88 | [Hot Chance](https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sexy Times \(3rd Anniversary Edition\)](https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd) | 3:45 |
-| 89 | [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 |
+| 89 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
 | 90 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
 | 91 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 92 | [Galáctica Airlines](https://open.spotify.com/track/5i3JrtiZnd595v1P9WKsRP) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Magallánica Thunderlove](https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Cecile no Amagasa \(Version II\) \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [Mari Iijima \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0p880y8z907ga4mFt4abRD) | 4:47 |
 | 100 | [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 |
 
-Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMDUxMDIxZDA3M2Y3YmJmYWE5YzlkNTM3YTU0MmNhMmJj`
+Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMDFmYTIxOTFjM2E0ZDBiYzgxZjI4M2FlZThiMDdjMmNi`

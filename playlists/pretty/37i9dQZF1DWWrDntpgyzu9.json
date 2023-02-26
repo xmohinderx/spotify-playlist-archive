@@ -1,12 +1,12 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea!",
-  "num_followers": 865969,
+  "num_followers": 866339,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwOTMxNSwwMDAwMDAwMGE3M2Q0N2RiNTVlZDlhZWIwYzZhODkwZGNkZGU3NTRm",
+  "snapshot_id": "MTY2ODAwOTMxNSwwMDAwMDAwMGYyNDgxNTliYjg0MTY1NTE1ZTUwZDY1Y2E4ZTYwMTk2",
   "tracks": [
     {
       "added_at": "2022-11-09 15:55:15",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-11-09 15:55:15",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
-    },
-    {
-      "added_at": "2022-11-09 15:55:15",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "added_at": "2022-11-09 15:55:15",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2022-11-09 15:55:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-09 15:55:15",
       "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
-    },
-    {
-      "added_at": "2022-11-09 15:55:15",
-      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "added_at": "2022-11-09 15:55:15",
+      "album": {
+        "name": "Bangerz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
     },
     {
       "added_at": "2022-11-09 15:55:15",

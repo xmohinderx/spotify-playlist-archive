@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1802152,
+  "num_followers": 1802159,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE3Mjc5OSwwMDAwMDAwMDIxZmM4MDE2MmNiNTk1OTA4NTJhZTJlZWRjYzc2Zjgz",
+  "snapshot_id": "MTY3NzE3Mjc5OSwwMDAwMDAwMGQ1MmI0NzJlODYyZTIwN2JiZTE3OTcwN2QyMDQ5ZDc3",
   "tracks": [
     {
       "added_at": "2023-01-18 17:20:30",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 193031,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Asc. Scorpio",
         "url": "https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 263253,
       "name": "Believer",
       "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 202047,
-      "name": "anything",
-      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Only Time",
         "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+      "duration_ms": 251933,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -623,6 +607,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Way I Go",
         "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Consolation Prize",
-        "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Consolation Prize",
+        "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "The Waterfall II",
         "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 277093,
       "name": "Run It",
       "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Eyez",
-        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Eyez",
-      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1581,6 +1581,22 @@
       "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Sad Disco (Pine Studios)",
+        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
+    },
+    {
       "added_at": "2023-01-09 17:44:47",
       "album": {
         "name": "Someday, Somewhere",
@@ -1595,22 +1611,6 @@
       "duration_ms": 192461,
       "name": "Someday, Somewhere",
       "url": "https://open.spotify.com/track/75Ibf9kajH52v2uBNc7pkp"
-    },
-    {
-      "added_at": "2023-02-25 09:44:06",
-      "album": {
-        "name": "The Weakness",
-        "url": "https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "The Weakness",
-      "url": "https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-01-09 17:44:47",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Cazadera",
-      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
-    },
-    {
-      "added_at": "2023-01-09 17:44:47",
-      "album": {
         "name": "Inside Problems",
         "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
       },
@@ -1659,6 +1643,38 @@
       "duration_ms": 205560,
       "name": "Make a Picture",
       "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
+    },
+    {
+      "added_at": "2023-02-26 01:06:18",
+      "album": {
+        "name": "The Weakness",
+        "url": "https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "The Weakness",
+      "url": "https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF"
+    },
+    {
+      "added_at": "2023-01-09 17:44:47",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Cazadera",
+      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
     },
     {
       "added_at": "2023-01-09 17:44:47",
@@ -1679,22 +1695,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Sad Disco (Pine Studios)",
-        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
     },
     {
       "added_at": "2023-01-09 17:44:47",

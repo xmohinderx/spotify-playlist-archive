@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 31998,
+  "num_followers": 32043,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNTg2MiwwMDAwMDAwMDFhYWQ5NWM0MWU5MjRlYTU3OTQzOTYxNDgwNDAyYmI4",
+  "snapshot_id": "MTY3NjYzNTg2MiwwMDAwMDAwMDI0NzJjOWFlYzZlYTEyNjM0MmIzZDI3MGRkNzUyODc4",
   "tracks": [
     {
       "added_at": "2023-02-17 12:11:02",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 193988,
       "name": "I Could Be Your Dog",
       "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "Time Is Local",
         "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 96450,
       "name": "Clotho",
       "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -691,22 +691,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "600 Years of Rest",
-        "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
+        "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
+        "url": "https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry"
       },
       "artists": [
         {
-          "name": "Riverest",
-          "url": "https://open.spotify.com/artist/3gd24ilFMYc7YGWljgwhzg"
-        },
-        {
-          "name": "Fiona Joy Hawkins",
-          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
         }
       ],
-      "duration_ms": 255656,
-      "name": "600 Years of Rest",
-      "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
+      "duration_ms": 183871,
+      "name": "Dr\u00f8mmefanger (Extended)",
+      "url": "https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -727,38 +723,38 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
-        "url": "https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry"
+        "name": "600 Years of Rest",
+        "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
       },
       "artists": [
         {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+          "name": "Riverest",
+          "url": "https://open.spotify.com/artist/3gd24ilFMYc7YGWljgwhzg"
+        },
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
         }
       ],
-      "duration_ms": 183871,
-      "name": "Dr\u00f8mmefanger (Extended)",
-      "url": "https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb"
+      "duration_ms": 255656,
+      "name": "600 Years of Rest",
+      "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
     },
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
       "artists": [
         {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        },
-        {
-          "name": "Celeste Cescutti",
-          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 264369,
-      "name": "Piccolo Corpo",
-      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
+      "duration_ms": 161000,
+      "name": "A Conversation With My Innocence",
+      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -783,18 +779,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        },
+        {
+          "name": "Celeste Cescutti",
+          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
         }
       ],
-      "duration_ms": 161000,
-      "name": "A Conversation With My Innocence",
-      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
+      "duration_ms": 264369,
+      "name": "Piccolo Corpo",
+      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -907,30 +907,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
-        "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/1XxCgww2zlUU8Yp0L5uFh2"
       },
       "artists": [
         {
-          "name": "Kasper Bj\u00f8rke",
-          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
         },
         {
-          "name": "Langstrakt",
-          "url": "https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9"
-        },
-        {
-          "name": "Davide Rossi",
-          "url": "https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy"
-        },
-        {
-          "name": "Philip I Schneider",
-          "url": "https://open.spotify.com/artist/6jNPFpAGou2NfLUIUo7X8P"
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
         }
       ],
-      "duration_ms": 744162,
-      "name": "Abiogenesis",
-      "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
+      "duration_ms": 89661,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/3DpgXewqgwLcwQBmrd5oGE"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -955,22 +947,30 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/1XxCgww2zlUU8Yp0L5uFh2"
+        "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
+        "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
       "artists": [
         {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+          "name": "Kasper Bj\u00f8rke",
+          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
         },
         {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+          "name": "Langstrakt",
+          "url": "https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9"
+        },
+        {
+          "name": "Davide Rossi",
+          "url": "https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy"
+        },
+        {
+          "name": "Philip I Schneider",
+          "url": "https://open.spotify.com/artist/6jNPFpAGou2NfLUIUo7X8P"
         }
       ],
-      "duration_ms": 89661,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/3DpgXewqgwLcwQBmrd5oGE"
+      "duration_ms": 744162,
+      "name": "Abiogenesis",
+      "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Cradle (Patience Rework)",
-        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
       "artists": [
         {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Cradle - Patience Rework",
-      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1127,6 +1107,26 @@
       "duration_ms": 487715,
       "name": "Aurobindo",
       "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Cradle (Patience Rework)",
+        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Cradle - Patience Rework",
+      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
+        "name": "plastichoir",
+        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+      },
+      "artists": [
+        {
+          "name": "Aphir",
+          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+        }
+      ],
+      "duration_ms": 190860,
+      "name": "melting cups",
+      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
         "name": "Bones Knowing",
         "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 240500,
       "name": "Bones Knowing",
       "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "plastichoir",
-        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
-      },
-      "artists": [
-        {
-          "name": "Aphir",
-          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
-        }
-      ],
-      "duration_ms": 190860,
-      "name": "melting cups",
-      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1223,26 +1223,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+        "name": "Dalmarnock Tapes",
+        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        },
-        {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Aonian",
-          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
         }
       ],
-      "duration_ms": 239000,
-      "name": "A Model Of Reality - Aonian Remix",
-      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+      "duration_ms": 314036,
+      "name": "La\u0308mpo\u0308",
+      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1263,22 +1255,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Dalmarnock Tapes",
-        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 314036,
-      "name": "La\u0308mpo\u0308",
-      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Aonian",
+          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "A Model Of Reality - Aonian Remix",
+      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
-      },
-      "artists": [
-        {
-          "name": "Hisaki Kato",
-          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "Aquarius/Pisces",
         "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 298000,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
+      },
+      "artists": [
+        {
+          "name": "Hisaki Kato",
+          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
+        }
+      ],
+      "duration_ms": 146993,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Dokkaebi",
-        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
-      },
-      "artists": [
-        {
-          "name": "Ben Bertrand",
-          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
-        }
-      ],
-      "duration_ms": 506960,
-      "name": "O Ignee Spriritus",
-      "url": "https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "We Used to Talk for Hours",
         "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 440000,
       "name": "By the Shore",
       "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Dokkaebi",
+        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
+      },
+      "artists": [
+        {
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+        }
+      ],
+      "duration_ms": 506960,
+      "name": "O Ignee Spriritus",
+      "url": "https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Eyes of Fate",
-        "url": "https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
       "artists": [
         {
-          "name": "Not Waving",
-          "url": "https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC"
-        },
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Paradise Lost",
-      "url": "https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM"
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1735,22 +1731,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "Kistvaen",
         "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
       },
@@ -1767,18 +1747,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
+        "name": "Eyes of Fate",
+        "url": "https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU"
       },
       "artists": [
         {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+          "name": "Not Waving",
+          "url": "https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC"
+        },
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
         }
       ],
-      "duration_ms": 119556,
-      "name": "does it have to be beautiful",
-      "url": "https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U"
+      "duration_ms": 203600,
+      "name": "Paradise Lost",
+      "url": "https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1819,22 +1803,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "nine-sum sorcery",
-        "url": "https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4"
+        "name": "Fountainhead",
+        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
       },
       "artists": [
         {
-          "name": "LABOUR",
-          "url": "https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v"
-        },
-        {
-          "name": "Hani Mojtahedy",
-          "url": "https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M"
+          "name": "Courtney Swain",
+          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
         }
       ],
-      "duration_ms": 861200,
-      "name": "nine-sum sorcery A",
-      "url": "https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2"
+      "duration_ms": 119556,
+      "name": "does it have to be beautiful",
+      "url": "https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1851,6 +1831,26 @@
       "duration_ms": 114000,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "what's on the inside",
+        "url": "https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        }
+      ],
+      "duration_ms": 250903,
+      "name": "what's on the inside",
+      "url": "https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5"
     }
   ],
   "unique_name": "ethereal voices",

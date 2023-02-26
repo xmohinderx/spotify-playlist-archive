@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,740 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,762 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 15 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
 | 16 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 |
 | 17 | [Siste sang](https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 3:30 |
-| 18 | [Skyfri Himmel](https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Skyfri Himmel](https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK) | 3:32 |
+| 18 | [Elsk Meg](https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Elsk Meg](https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq) | 3:16 |
 | 19 | [Gressholmen](https://open.spotify.com/track/2wfnh9UNfZPrPKb3PWUOYl) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gressholmen](https://open.spotify.com/album/7mdhA3SaJpAwxthbw2mksg) | 3:32 |
 | 20 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 |
 | 21 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 23 | [Ka e du redd for](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 |
 | 24 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 |
 | 25 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
-| 26 | [Elsk Meg](https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Elsk Meg](https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq) | 3:16 |
+| 26 | [Skyfri Himmel](https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Skyfri Himmel](https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK) | 3:32 |
 | 27 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
 | 28 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
 | 29 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 32 | [Tre pakker sigaretter](https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tre Pakker Sigaretter](https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj) | 3:13 |
 | 33 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 |
 | 34 | [Ein kallar det kjærleik](https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ein kallar det kjærleik](https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh) | 3:17 |
-| 35 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
-| 36 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 |
+| 35 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 |
+| 36 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
 | 37 | [Hva kjærlighet er](https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Duell](https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF) | 4:14 |
 | 38 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 |
 | 39 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 |
 | 50 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDdhYmM1NmMwZGYyOWE5MjQyNTVkOThmZTU1MjUzNGZk`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDI4YzQ5ZmYxODRmY2Q4MjE5ODk1MGM0MTc3MTUzMmJl`

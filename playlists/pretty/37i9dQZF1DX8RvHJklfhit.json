@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics.",
-  "num_followers": 144256,
+  "num_followers": 144333,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg5ODAyMywwMDAwMDAwMDZlNWNmMTMxNDNjNzY3NWIxZjI5MTRjODM4ODMzOTYz",
+  "snapshot_id": "MTY3NTg5ODAyMywwMDAwMDAwMGJkODVkYjk1MzNkZGUzNmI1OTcwMzFlNTNmMzZiNWMx",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1563,22 +1563,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Uno Dos (feat. Jaden Smith)",
-        "url": "https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1"
+        "name": "#ponteelcasco",
+        "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
       },
       "artists": [
         {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 170125,
-      "name": "Uno Dos (feat. Jaden Smith)",
-      "url": "https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07"
+      "duration_ms": 252889,
+      "name": "Toca Madera",
+      "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1599,18 +1595,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "#ponteelcasco",
-        "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
+        "name": "Uno Dos (feat. Jaden Smith)",
+        "url": "https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
         }
       ],
-      "duration_ms": 252889,
-      "name": "Toca Madera",
-      "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
+      "duration_ms": 170125,
+      "name": "Uno Dos (feat. Jaden Smith)",
+      "url": "https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5Qtp3d3xSslipJJKfeZUEP"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 190124,
       "name": "Time",
       "url": "https://open.spotify.com/track/5qoepnjNJ8AecZm8Um78DZ"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
     }
   ],
   "unique_name": "Latin Indie Classics",

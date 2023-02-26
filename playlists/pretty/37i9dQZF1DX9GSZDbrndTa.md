@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,745 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,808 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 43 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
 | 44 | [Turnaround](https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 6:24 |
 | 45 | [Chi Chi](https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Bird 100](https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW) | 3:02 |
-| 46 | [Freddie Freeloader](https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 9:43 |
-| 47 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
+| 46 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
+| 47 | [Freddie Freeloader](https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 9:43 |
 | 48 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 |
 | 49 | [When Will The Blues Leave?](https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 5:00 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDliZmNjMDVmNjRiZDYzZDExYTA3ZjVmNzFlNzUzOWNl`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDAwYjkwM2RlZjAxYjQ4NGRkNjU4MmYzMWM5NzM4MGFi`

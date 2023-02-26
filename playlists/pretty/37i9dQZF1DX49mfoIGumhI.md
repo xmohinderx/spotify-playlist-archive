@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,618 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,743 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 41 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 42 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |
 | 43 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Doble Energía](https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU) | 6:52 |
-| 44 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |
-| 45 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
+| 44 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
+| 45 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |
 | 46 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
 | 47 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |
 | 48 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 64 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
 | 65 | [Compárame](https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:23 |
 | 66 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
-| 67 | [El Hombre Increible](https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [El Sonero Del Pueblo](https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN) | 4:14 |
+| 67 | [Punta a Punta](https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM) | 4:21 |
 | 68 | [Date un Chance](https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:46 |
-| 69 | [Tu](https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:13 |
-| 70 | [El Baile del Suavecito](https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [2 Generaciones de Salsa](https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F) | 5:10 |
-| 71 | [Punta a Punta](https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM) | 4:21 |
+| 69 | [El Hombre Increible](https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [El Sonero Del Pueblo](https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN) | 4:14 |
+| 70 | [Tu](https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:13 |
+| 71 | [El Baile del Suavecito](https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [2 Generaciones de Salsa](https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F) | 5:10 |
 | 72 | [Mujer](https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Serie 32: Frankie Ruiz](https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf) | 5:22 |
-| 73 | [Vasos De Colores](https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 5:31 |
-| 74 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
+| 73 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
+| 74 | [Sonrrisas](https://open.spotify.com/track/7mTRA1UyxPQc2liY4qRXHQ) | [los ineditos](https://open.spotify.com/artist/5XrqZ5imrG2Vo7TDkfsNhk) | [Sabor y Ritmo Internacional](https://open.spotify.com/album/17qp5GQMNus3cV8I0UsMJi) | 5:23 |
 | 75 | [Mi Amante Niña, Mi Compañera](https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:22 |
 
-Snapshot ID: `MTY3MjQzMTUxNiwwMDAwMDAwMDFjYWRmZTJhOWFiYzg0ZTU2ZmYxZDgyNDFmNmFhMDEx`
+Snapshot ID: `MTY3MjQzMTUxNiwwMDAwMDAwMDFhZDM2YjhlNjU4MzVlOTg1OGE1MjgxMzRhZjlmMWZl`

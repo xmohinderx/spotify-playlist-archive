@@ -4,7 +4,7 @@
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Chris Lake
 
-235 songs - 12 hr 23 min
+236 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-06 |  |
 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 | 2022-06-17 | 2022-08-09 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-04-29 | 2022-11-12 |
-| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-06-10 |  |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2023-02-24 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-06-10 | 2023-02-26 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-03-10 | 2022-09-03 |
 | [Sicko Drop](https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS) | 2:27 | 2021-11-03\* | 2022-06-25 |
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2021-11-03\* | 2022-05-27 |

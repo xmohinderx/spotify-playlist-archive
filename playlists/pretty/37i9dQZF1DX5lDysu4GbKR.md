@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,243 likes - 114 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,355 likes - 114 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 10 | [This Life \- Live](https://open.spotify.com/track/7dWA7OAWKjooN1sUNSCLjt) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [This Life \(Live\)](https://open.spotify.com/album/1CmqQ9XsMDvDmttlu68YeV) | 4:06 |
 | 11 | [Unaware](https://open.spotify.com/track/3R3xKezI1kvFaomppAiQqg) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:36 |
 | 12 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 |
-| 13 | [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 |
+| 13 | [To be naive](https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 3:59 |
 | 14 | [Can't Have It All \(Acoustic\)](https://open.spotify.com/track/2xLhNn8me1FJM9k3m8qCRh) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Can't Have It All \(Acoustic\)](https://open.spotify.com/album/6SwbTc479EogHUYbI7tCan) | 2:58 |
 | 15 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
 | 16 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 113 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 |
 | 114 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 |
 
-Snapshot ID: `MTY3NzEwNDg1MSwwMDAwMDAwMDU3Zjc2ZWY4ZTY1Y2VjNjA1MzJiZmVmNmFjODk5OGQ2`
+Snapshot ID: `MTY3NzEwNDg1MSwwMDAwMDAwMDkzN2M2YjI0NmU5MmQ0M2E0ZDljMzFiN2FkYzA3NjU5`

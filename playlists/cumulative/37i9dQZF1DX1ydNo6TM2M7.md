@@ -4,7 +4,7 @@
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-76 songs - 5 hr 25 min
+77 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-11-30 |  |
 | [Rock You All Night](https://open.spotify.com/track/4ZWMufnPh7Ssz29veIMEwR) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Rock You All Night](https://open.spotify.com/album/00l6WmD4J0WnsR0Lis12UR) | 3:26 | 2022-11-30 |  |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-11-30 |  |
-| [Sete](https://open.spotify.com/track/2etc2aOBnZJgq4GibLSel4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:29 | 2022-11-30 |  |
+| [Sete](https://open.spotify.com/track/2etc2aOBnZJgq4GibLSel4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:29 | 2022-11-30 | 2023-02-26 |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2022-11-30 |  |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-11-30 |  |
 | [Somebody To Love \- Gorgon City Remix](https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Somebody To Love \(Gorgon City Remix\)](https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW) | 4:42 | 2022-11-30 |  |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-11-30 |  |

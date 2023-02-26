@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,229 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,284 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 23 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
 | 24 | [The Things \(That\) I Used to Do](https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:54 |
 | 25 | [Worried Life Blues](https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 2:52 |
-| 26 | [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 |
-| 27 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
+| 26 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
+| 27 | [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 |
 | 28 | [I Pity The Fool](https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:40 |
 | 29 | [Sweet Home Chicago](https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 4:16 |
 | 30 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 59 | [Sitting On Top Of The World](https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 3:36 |
 | 60 | [Ain't Nobody's Business](https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v) | [Jimmy Whiterspoon](https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH) | [Presenting Jimmy Whitherspoon](https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf) | 3:38 |
 
-Snapshot ID: `MTY3NzI1OTY3NywwMDAwMDAwMDE5MTY3ZTc0YTU0MWUwNWZhM2QwNmYzMmFlYTAzODYz`
+Snapshot ID: `MTY3NzI1OTY3NywwMDAwMDAwMDk2NmU4YTkyNGIyNmM0YmVlZDZjMDk1MDEwMDRhMzQw`

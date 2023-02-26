@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,479 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,520 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 4 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 5 | [Promises](https://open.spotify.com/track/7AVRMxljXWpqmL9NlzeCJw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:21 |
 | 6 | [Turn off the Lights](https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn off the Lights](https://open.spotify.com/album/132voEBLKSWmTV959PQuiC) | 3:30 |
-| 7 | [Middle](https://open.spotify.com/track/7cb1au0v5kAw8fPdCio8Zi) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/7txkpjhga7aWZKbyI7BlRd) | 3:01 |
+| 7 | [Middle](https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f) | 3:01 |
 | 8 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 |
 | 9 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 |
 | 10 | [Zombie Nation](https://open.spotify.com/track/0lebUsllgpJQBjZrfIuooK) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/7977P08hWMjZ7blQe2lKy7) | 3:03 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MTY3MzI0NTk1OCwwMDAwMDAwMDlmNjIwMTA0NDU5NTAyZjk1NmIxODJjOTI3NDI2M2Vj`
+Snapshot ID: `MTY3MzI0NTk1OCwwMDAwMDAwMDE2NGQ4ZjE4ZjU5ZTNjZTgyMTE0YTg2Nzg4YTdjMTlk`

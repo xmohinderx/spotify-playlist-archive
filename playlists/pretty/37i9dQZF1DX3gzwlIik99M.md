@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,077 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,109 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 4 | [Maldito sea tu nombre](https://open.spotify.com/track/7vEYpLe2jDmZTYg0zdPNoz) | [Ángeles Del Infierno](https://open.spotify.com/artist/2qzYtiwABDEql4L7JpZ59Y) | [Pacto con el diablo](https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25) | 3:45 |
 | 5 | [El Caballo De Troya](https://open.spotify.com/track/2sUsyTWx6HeRxrnPpNL1gJ) | [Tierra Santa](https://open.spotify.com/artist/3854DTPVGm3wxqNeRMnKqn) | [Tierras de Leyenda](https://open.spotify.com/album/3FDDeh9sZO0LomncCL9fEf) | 3:29 |
 | 6 | [Soy de la Esquina](https://open.spotify.com/track/6QgFbmtynzdNpHWsmSKmPy) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Victimas del Vaciamiento](https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb) | 3:10 |
-| 7 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 |
+| 7 | [El Pibe Tigre](https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [Mundo Guanaco](https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP) | 4:03 |
 | 8 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
-| 9 | [El Pibe Tigre](https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [Mundo Guanaco](https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP) | 4:03 |
+| 9 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 |
 | 10 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
 | 11 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
 | 12 | [El Infierno de Dante](https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [El Llamado de la Hembra](https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa) | 4:35 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 23 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 |
 | 24 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
 | 25 | [Eres Tan Mala Como la Carne de Puerco](https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z) | [Marraneitors](https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs) | [Rebelión En El Chiquero](https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR) | 2:30 |
-| 26 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
-| 27 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
+| 26 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
+| 27 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
 | 28 | [En la Eternidad](https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd) | [Plan 4](https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54) | [Lleva Tu Mente al Limite](https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H) | 3:09 |
 | 29 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
 | 30 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 34 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
 | 35 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
 | 36 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
-| 37 | [Castigador por Herencia](https://open.spotify.com/track/50YRa66db8G4ASXnqww06C) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Espíritu Combativo](https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz) | 3:38 |
-| 38 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 37 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 38 | [Castigador por Herencia](https://open.spotify.com/track/50YRa66db8G4ASXnqww06C) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Espíritu Combativo](https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz) | 3:38 |
 | 39 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
-| 40 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
-| 41 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
+| 40 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
+| 41 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 42 | [Éxodo](https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q) | [Masacre](https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m) | [Muerte Verdadera Muerte](https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE) | 4:09 |
 | 43 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
 | 44 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |
 | 50 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 
-Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDgxZDBkYTMzMGZmZDEyZjA5ZmFlYmI3MjQwMzBhZjkw`
+Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDBhZTlmN2M3ZmZjYjAwNmVjMTA1ZTc0MDUwNjZmZmQ3`

@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "album": {
         "name": "Grace Greater",
         "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 254358,
       "name": "Holy Spirit Come",
       "url": "https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo"

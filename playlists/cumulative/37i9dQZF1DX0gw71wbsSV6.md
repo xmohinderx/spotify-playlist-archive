@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-121 songs - 7 hr 26 min
+122 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Found Me](https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Found Me](https://open.spotify.com/album/01zeKCZ5z10YZVvoBnMTta) | 3:03 | 2023-01-12 | 2023-01-28 |
 | [Good Luck](https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Eimosezu/Good Luck](https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz) | 3:50 | 2023-01-19 |  |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-01 | 2023-01-20 |
+| [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 |  |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-26 |  |
-| [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 | 2023-01-10 |  |
+| [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 | 2023-01-10 | 2023-02-26 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-10-16 |  |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-24 |  |
 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-25 |  |

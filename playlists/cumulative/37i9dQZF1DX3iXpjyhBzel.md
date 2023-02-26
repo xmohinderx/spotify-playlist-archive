@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Julia Vitória
 
-140 songs - 13 hr 44 min
+141 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-24 |  |
 | [Sei Que Farás](https://open.spotify.com/track/4zLXnGwd6vGjualpYBrr7D) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Sei Que Farás](https://open.spotify.com/album/7t5fRx6LgC6siUNMulJrJy) | 3:38 | 2022-12-16 | 2023-01-14 |
 | [Seu Amor / Diante da Cruz](https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor / Diante da Cruz](https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS) | 8:17 | 2022-09-09 |  |
-| [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/7D5SHB5Qr6otVfXUh0jveD) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/album/2C2DPyXztvrrDzgKEdCAXI) | 7:25 | 2022-09-09 |  |
+| [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/6slb8IZD0bjmYLleaWEPNu) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue](https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO) | 7:25 | 2023-02-24 |  |
+| [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/7D5SHB5Qr6otVfXUh0jveD) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/album/2C2DPyXztvrrDzgKEdCAXI) | 7:25 | 2022-09-09 | 2023-02-26 |
 | [Sinais](https://open.spotify.com/track/0XCP8xMjtUNh8ODfWt4nAP) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Sinais](https://open.spotify.com/album/3NSbgufpqPJdMOw4p9cQTs) | 4:42 | 2023-01-20 |  |
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 |  |
 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 | 2022-09-09 |  |

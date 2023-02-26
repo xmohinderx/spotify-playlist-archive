@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,590 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,649 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,22 +24,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 14 | [Lucky People](https://open.spotify.com/track/7EJw4qOq9wtJw0FoU3GeBq) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Entertainment](https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV) | 2:55 |
 | 15 | [Three Cheers For Five Years](https://open.spotify.com/track/3hJoAM3O7q1i70lJRf8Cky) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Punk Goes Acoustic, Vol\. 2](https://open.spotify.com/album/56LIpZLM5kSMhdKdMTJ4RU) | 4:50 |
 | 16 | [I Love You, I Love You\. It's Disgusting](https://open.spotify.com/track/6cLB090nWRtdMYNNPHO6UM) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Paradise](https://open.spotify.com/album/58oiBtnBtqmiHPJ2KymbpY) | 3:09 |
-| 17 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
-| 18 | [I'm Sorry](https://open.spotify.com/track/20K2hZ4xjfoSKoQ8adBkk8) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [I'm Sorry](https://open.spotify.com/album/5Vv9obdBrXn80tmZqSHPkI) | 2:56 |
+| 17 | [I'm Sorry](https://open.spotify.com/track/20K2hZ4xjfoSKoQ8adBkk8) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [I'm Sorry](https://open.spotify.com/album/5Vv9obdBrXn80tmZqSHPkI) | 2:56 |
+| 18 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 19 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 20 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
 | 21 | [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 |
 | 22 | [how big is your brain?](https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:05 |
-| 23 | [Pâquerette \(Without Me\)](https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK) | 3:15 |
-| 24 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
-| 25 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 |
-| 26 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
+| 23 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
+| 24 | [Pâquerette \(Without Me\)](https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK) | 3:15 |
+| 25 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
+| 26 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 |
 | 27 | [Limits \- Unplugged](https://open.spotify.com/track/4WcOPeBNUtQCvGmSIneuA1) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/1rfwzthKH7XyJ5yIJ4OZ71) | 3:16 |
 | 28 | [Tracks](https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Backbone](https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku) | 3:22 |
 | 29 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
 | 30 | [Toothpick](https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:35 |
-| 31 | [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 |
-| 32 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
+| 31 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
+| 32 | [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 |
 | 33 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 34 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
 | 35 | [End of a Good Thing](https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Smokestack](https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 2:36 |
 | 75 | [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 |
 
-Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDg2MmI2YjNjZjE5OTk4MDlmMGZkMjA4Y2Y5MTllYzI2`
+Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDBkMWQ0ODU0YzExNDY0ZjBhMjA3YTNlOGY4MTUwYjEx`

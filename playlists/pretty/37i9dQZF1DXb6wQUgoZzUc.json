@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 840457,
+  "num_followers": 840507,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2Nzg2MiwwMDAwMDAwMDVjNjA5OGVmOWFlYTlkNGNmMmE1ZGE3OGZkZDE3ZTEz",
+  "snapshot_id": "MTY3NzI2Nzg2MiwwMDAwMDAwMDNjOGRiOTA1YWFiOWNmYTljZWE2MTZiZWY5NDdmY2Iz",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
     },
     {
-      "added_at": "2023-02-25 10:05:24",
+      "added_at": "2023-02-26 00:53:23",
       "album": {
         "name": "Sue\u00f1o",
         "url": "https://open.spotify.com/album/0i5yS4tEvSRHYaw2fRseOr"
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -539,26 +539,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 263253,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Traductor",
+        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "BICHOTA",
         "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -679,26 +679,6 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -751,6 +731,26 @@
       "duration_ms": 219681,
       "name": "SHORTY QUE TE VAYA BN <3",
       "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -873,6 +873,26 @@
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "TAMO EN NOTA",
+        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 180060,
+      "name": "TAMO EN NOTA",
+      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
+    },
+    {
       "added_at": "2022-10-12 16:00:35",
       "album": {
         "name": "Eternity",
@@ -965,26 +985,6 @@
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
     },
     {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "TAMO EN NOTA",
-        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 180060,
-      "name": "TAMO EN NOTA",
-      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
-    },
-    {
       "added_at": "2022-10-12 16:00:35",
       "album": {
         "name": "The Love & Sex Tape",
@@ -1003,30 +1003,6 @@
       "duration_ms": 225365,
       "name": "Nos Comemos Vivos",
       "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Tendencia Global",
-        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 234402,
-      "name": "Tendencia Global",
-      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1051,6 +1027,30 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Tendencia Global",
+        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 234402,
+      "name": "Tendencia Global",
+      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1095,6 +1095,26 @@
       "duration_ms": 235411,
       "name": "ALMAS GEMELAS",
       "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Reloj",
+        "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Reloj",
-        "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -1239,6 +1239,26 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1267,26 +1287,6 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Ram Pam Pam",
-        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
       },
       "artists": [
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 200785,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1499,6 +1495,26 @@
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Ram Pam Pam",
+        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200785,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1525,22 +1541,6 @@
       "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
     },
     {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
       "added_at": "2023-01-27 18:00:00",
       "album": {
         "name": "Yeska",
@@ -1555,26 +1555,6 @@
       "duration_ms": 188466,
       "name": "Yeska",
       "url": "https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Me Fije",
-        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Me Fije",
-      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
+        "name": "Me Fije",
+        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Me Fije",
+      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
         "name": "PROBLEMA",
         "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "TORO",
-      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "Frikitona - Single",
         "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 183182,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "TORO",
+      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
     },
     {
       "added_at": "2022-10-12 16:00:35",

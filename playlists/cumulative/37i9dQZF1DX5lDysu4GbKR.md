@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-172 songs - 10 hr 26 min
+173 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,8 +160,9 @@
 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 | 2021-12-09 |  |
 | [This Life \- Live](https://open.spotify.com/track/7dWA7OAWKjooN1sUNSCLjt) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [This Life \(Live\)](https://open.spotify.com/album/1CmqQ9XsMDvDmttlu68YeV) | 4:06 | 2022-10-14 |  |
 | [This Womans Work](https://open.spotify.com/track/5JoZlm8om4GQPZmRwe4QUg) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Tingsek & Vindla String Quartet feat\. Måns Mernsten](https://open.spotify.com/album/6RjoVMuBbQYEGye4kswCYe) | 3:47 | 2021-12-09 |  |
-| [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-12 |  |
+| [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-12 | 2023-02-26 |
 | [To be naive](https://open.spotify.com/track/2M57KgPHcznEbUGqJ30qrA) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6) | 3:59 | 2023-01-12 | 2023-01-18 |
+| [To be naive](https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 3:59 | 2023-02-22 |  |
 | [Top Down](https://open.spotify.com/track/63KFl9SvRTthIFYuhuyrre) | [Angela Muñoz](https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Top Down](https://open.spotify.com/album/1NyWDpNSqupryYOEeGdvFz) | 2:23 | 2021-12-09 |  |
 | [Traingazing \- Acoustic](https://open.spotify.com/track/2dOBsJnZHmGAr0yQgDo56E) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing \(Acoustic\)](https://open.spotify.com/album/2DivG16jdGu2jpZolWodUc) | 3:18 | 2021-12-09 |  |
 | [Trust in You](https://open.spotify.com/track/0IkYVycXDkR8MajBTvu90Q) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/6C4xpz6DTzUBpu2l5udCrg) | 3:09 | 2022-11-03 | 2022-11-13 |

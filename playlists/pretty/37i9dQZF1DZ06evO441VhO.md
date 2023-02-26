@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,074 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,092 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 45 | [Running With Wolves](https://open.spotify.com/track/1lZxVX5uiK9Q5VTuZJLqca) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:34 |
 | 46 | [Public Enemy Number One](https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:30 |
 | 47 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 |
-| 48 | [Is It Hot in Here?](https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Wanna Sell Your Soul? \- EP](https://open.spotify.com/album/0WRr0WoJcCyzU6XECYEakr) | 2:17 |
-| 49 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
+| 48 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
+| 49 | [Is It Hot in Here?](https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Wanna Sell Your Soul? \- EP](https://open.spotify.com/album/0WRr0WoJcCyzU6XECYEakr) | 2:17 |
 | 50 | [Broadcast To The World](https://open.spotify.com/track/1LRgvH3K5JpnOf50lFyNFC) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:16 |
 
-Snapshot ID: `Mjc5NTQwNzQsMDAwMDAwMDBhMzkxZWQ1Y2JkMTc3NjIyNzViNjQ3Y2UxMzg5NmYxMw==`
+Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAzZGEzZGNmMjQ0ZjA3YWM5ZDk0YWExNDE0NWFkMjNiYg==`

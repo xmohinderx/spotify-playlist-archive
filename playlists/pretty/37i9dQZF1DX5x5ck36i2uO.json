@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7304,
+  "num_followers": 7308,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMGNjNDc4NTM2MjkyZmU5NjgwZDM4YzI0M2M3Mzc3YjEy",
+  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMDE5ZDQ5MDMxYzJhYmZlOWU0OTMxOWI0ZmMyYTgwOTBl",
   "tracks": [
     {
       "added_at": "2023-01-25 01:26:56",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 182013,
       "name": "Chingchingching (Feat. DeVita)",
       "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
         "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 185204,
       "name": "Gyeongsan-si",
       "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -671,46 +671,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 233376,
-      "name": "Mannequin (Feat. Beenzino & SURAN)",
-      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "SS",
         "url": "https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR"
       },
@@ -731,6 +691,46 @@
       "duration_ms": 205818,
       "name": "SS (Prod. by KHYO)",
       "url": "https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 233376,
+      "name": "Mannequin (Feat. Beenzino & SURAN)",
+      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "INSTANT (feat. SUMIN)",
-        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 178860,
-      "name": "INSTANT (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Do Not Go Gentle Into That Good Night II",
         "url": "https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 207280,
       "name": "Noble Game (Feat. ILLINIT) (Prod. ILLUID HALLER)",
       "url": "https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "INSTANT (feat. SUMIN)",
+        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "INSTANT (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "TRAVEL: NOAH",
-        "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "B-Free",
-          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
-        }
-      ],
-      "duration_ms": 215857,
-      "name": "GOOD NIGHT",
-      "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Shininryu",
         "url": "https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3"
       },
@@ -871,46 +851,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny"
+        "name": "TRAVEL: NOAH",
+        "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
       },
       "artists": [
         {
-          "name": "BEAT SOMEONE",
-          "url": "https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY"
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         },
         {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
         }
       ],
-      "duration_ms": 196214,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 248896,
-      "name": "today also (feat. Paloalto & The Quiett)",
-      "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
+      "duration_ms": 215857,
+      "name": "GOOD NIGHT",
+      "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -939,6 +895,30 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "today also (feat. Paloalto & The Quiett)",
+      "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "WALKIN', Vol. 1",
         "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 257687,
       "name": "I Get Lifted X Beenzino",
       "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny"
+      },
+      "artists": [
+        {
+          "name": "BEAT SOMEONE",
+          "url": "https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
     },
     {
       "added_at": "2023-01-25 01:26:56",

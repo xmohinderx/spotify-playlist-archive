@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-348 songs - 20 hr 55 min
+349 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Mirror \(選択\)](https://open.spotify.com/track/6UpbJR1cGYbTfLSVyc9WDo) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Mirror \(選択\)](https://open.spotify.com/album/4uMqS1s7fLaYW3CcHgqHzV) | 3:20 | 2022-03-24 | 2022-04-14 |
 | [Mixed Emotions](https://open.spotify.com/track/0JPJWKPRa0PvsMZeEbVT6c) | [PEARL CENTER X Soulflex](https://open.spotify.com/artist/16pJrwhfT8TMpq5W8D6djG), [PEARL CENTER](https://open.spotify.com/artist/7jvxDV4oZ1b35r57pmcXK6), [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Mixed Emotions](https://open.spotify.com/album/4h0F2AQmmKL2ip6JfYoN9y) | 4:33 | 2022-03-24 | 2022-04-20 |
 | [MONSOON](https://open.spotify.com/track/5tJKPKs5A6PrcLWJ08AkOM) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [MONSOON](https://open.spotify.com/album/7zgRCzPlTBk2txptR4CEnO) | 2:56 | 2022-11-17 | 2023-01-13 |
+| [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 |  |
 | [Move Like This](https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [They Call Me Disco](https://open.spotify.com/album/6p40dZWSVoWmChUHZjDRJD) | 4:04 | 2021-12-23 | 2022-07-29 |
 | [Mr\. Midas](https://open.spotify.com/track/48l47x2sWBtYKkRqLQJPBs) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [Mr\. Midas](https://open.spotify.com/album/1XbJz7tLiSY1UtptEYLRex) | 3:48 | 2021-12-23 | 2022-07-29 |
 | [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-02-10 | 2022-07-13 |
@@ -330,7 +331,7 @@
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-12-23 | 2022-04-07 |
 | [Wish You Could Come](https://open.spotify.com/track/5ztNrBbUrv6qQGV71zUTUx) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Wish You Could Come](https://open.spotify.com/album/3910ZWFB7aTkJC725IV6wG) | 3:00 | 2022-03-24 | 2022-07-29 |
 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 | 2021-12-23 | 2022-07-27 |
-| [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2022-07-28 |  |
+| [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2022-07-28 | 2023-02-26 |
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-03-24 | 2022-07-28 |
 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 | 2021-12-23 | 2022-07-25 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-07-28 | 2022-11-03 |

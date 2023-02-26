@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-55 songs - 3 hr 9 min
+56 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Okay](https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:36 | 2022-11-01 |  |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:33 | 2022-11-01 |  |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2022-11-01 | 2023-01-01 |
-| [PARTY \(feat\. Quavo & Takeoff\)](https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:31 | 2022-11-01 |  |
+| [PARTY \(feat\. Quavo & Takeoff\)](https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:31 | 2022-11-01 | 2023-02-26 |
 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 | 2022-11-01 |  |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2022-11-01 |  |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip) | 2:41 | 2022-11-01 |  |
@@ -61,6 +61,7 @@
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-11-01 |  |
 | [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 | 2022-11-01 |  |
 | [Time Today](https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:16 | 2022-11-01 |  |
+| [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2022-11-01 |  |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-11-01 | 2023-02-24 |
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 | 2022-11-01 |  |
 

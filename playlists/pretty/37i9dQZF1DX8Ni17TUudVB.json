@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 134092,
+  "num_followers": 134113,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGE4YzBhOTkzMzRmNzVjMWRkNzRiNTk1ZDQzYmNhNjQz",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDRmNzJjM2NkMDQ0MTYxZWZiOGMxNGUxN2FiYjZkOWQ4",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Permanence",
         "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Remember the Summer (feat. Karra)",
-        "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        },
-        {
-          "name": "Frogmonster",
-          "url": "https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp"
-        },
-        {
-          "name": "Karra",
-          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Remember the Summer (feat. Karra)",
-      "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Do It!",
         "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Remember the Summer (feat. Karra)",
+        "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Frogmonster",
+          "url": "https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Remember the Summer (feat. Karra)",
+      "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "AGEN WIDA",
-        "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "AGEN WIDA",
-      "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "AGEN WIDA",
+        "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "AGEN WIDA",
+      "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Dished (Male Stripper)",
+        "url": "https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 253170,
+      "name": "Dished (Male Stripper)",
+      "url": "https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Turn Me Up (ViP Mix)",
         "url": "https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 251428,
       "name": "Turn Me Up - ViP Mix",
       "url": "https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Dished (Male Stripper)",
-        "url": "https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 253170,
-      "name": "Dished (Male Stripper)",
-      "url": "https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS"
     },
     {
       "added_at": "2022-10-12 15:43:07",

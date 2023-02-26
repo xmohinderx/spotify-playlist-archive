@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 376367,
+  "num_followers": 376407,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMGMzYTFkNWQ3OTU4MjE3NTZkYzk0N2Y1OGIxYjFiYzdl",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDZkM2E2NGM3YzQwMDgyMmE3NmQxNDNiZTc4NmFjMGM4",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Big Wheel",
-      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Ambivalence Avenue",
         "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Mangaliso",
         "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 231625,
       "name": "Ndokulandela",
       "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199996,
       "name": "Lose Your Head",
       "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 185480,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Roses & Revolutions",
-        "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Roses & Revolutions",
+        "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 166469,
       "name": "6 Letters",
       "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",

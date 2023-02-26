@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 31672,
+  "num_followers": 31695,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMDgyNDc3MDc5ZTg5YzE5Mzk5M2ExMGMwOTRlYTI4OTU5",
+  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMGE3NDU4YjQyNGExMThlMzc4YjY5N2I2ZmFhNzE3YjFj",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
         "name": "Tiempo de oto\u00f1o",
         "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 308973,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2021-04-28 05:02:55",

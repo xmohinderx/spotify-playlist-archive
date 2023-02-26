@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. León Larregui en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,858 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,905 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 54 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 |
 | 55 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 |
 | 56 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
-| 57 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
-| 58 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
-| 59 | [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 |
-| 60 | [Descending To Nowhere](https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Descending To Nowhere](https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt) | 3:29 |
+| 57 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
+| 58 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
+| 59 | [Descending To Nowhere](https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Descending To Nowhere](https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt) | 3:29 |
+| 60 | [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 |
 | 61 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
 | 62 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
 | 63 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 |
 | 64 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
-| 65 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 |
-| 66 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
+| 65 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
+| 66 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 |
 | 67 | [Mi Habitación](https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 2:35 |
 | 68 | [SKI MASK](https://open.spotify.com/track/4aIzM6AfjTQ5OFglIB5b5a) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [SKI MASK](https://open.spotify.com/album/6vAusNXjnthnTkdhiUmZJ1) | 2:32 |
 | 69 | [Solo](https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 3:54 |
 | 70 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
 | 71 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 |
-| 72 | [Muerte en el Jardín Botánico](https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Muerte en el Jardín Botánico](https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl) | 4:26 |
-| 73 | [Love is the Answer](https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Love is the Answer](https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr) | 6:00 |
-| 74 | [California](https://open.spotify.com/track/5PbpA8xmXXbau3WeeLQw0p) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [California](https://open.spotify.com/album/1ZH9F9DEd2QQlItkwwRsja) | 3:03 |
-| 75 | [1990](https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [1990](https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq) | 3:20 |
+| 72 | [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 |
+| 73 | [Muerte en el Jardín Botánico](https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Muerte en el Jardín Botánico](https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl) | 4:26 |
+| 74 | [Love is the Answer](https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Love is the Answer](https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr) | 6:00 |
+| 75 | [California](https://open.spotify.com/track/5PbpA8xmXXbau3WeeLQw0p) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [California](https://open.spotify.com/album/1ZH9F9DEd2QQlItkwwRsja) | 3:03 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGFjODA5YzY0ZDkyZDI0M2UzMzY2MjI2MDEyNmJkNWRh`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDc0MGViN2JlZmZmNzI3Y2E2Y2MyZjkyYmE5N2Q4MWM4`

@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5682,
+  "num_followers": 5685,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjY1Niw5NzAzMDExMGZkOTNkMTc5ZDIxNDUzZjI5N2RhNDY0NjAxYTRmMDUx",
+  "snapshot_id": "NjY1OCwyNzM4YTEwY2MzNTllN2MzYTIzYTFlMGY2OGE5MjkyMjhjMzc2OTRl",
   "tracks": [
     {
       "added_at": "2023-02-24 08:29:23",
@@ -315,6 +315,38 @@
       "duration_ms": 210488,
       "name": "My Paradise - Damian Lazarus Re-Shape",
       "url": "https://open.spotify.com/track/1YzYJxpIEWayVQhEykvrU3"
+    },
+    {
+      "added_at": "2023-02-25 12:16:02",
+      "album": {
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE"
+      },
+      "artists": [
+        {
+          "name": "Heider",
+          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
+    },
+    {
+      "added_at": "2023-02-25 12:16:19",
+      "album": {
+        "name": "Pam Pam",
+        "url": "https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ"
     }
   ],
   "unique_name": "House Shift",

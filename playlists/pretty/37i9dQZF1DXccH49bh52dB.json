@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 409294,
+  "num_followers": 409575,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDVlOWE4MDRlZDczNzYzOTQ1NDQ4MzU1YjZhN2VjNDU4",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGU1NzI0NDVjYTBlNDQzMjViMDNmOTdmYmZmMzgxODcz",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Life of a Wallflower, Vol. 1",
-        "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 184814,
-      "name": "Superlove (feat. Oh Wonder)",
-      "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Life of a Wallflower, Vol. 1",
+        "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184814,
+      "name": "Superlove (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Somebody I'm Not",
-        "url": "https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Bj\u00f8rnskov",
-          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
-        }
-      ],
-      "duration_ms": 167726,
-      "name": "Somebody I'm Not",
-      "url": "https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "What Do You Love",
         "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 211875,
       "name": "What Do You Love",
       "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Somebody I'm Not",
+        "url": "https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
+        }
+      ],
+      "duration_ms": 167726,
+      "name": "Somebody I'm Not",
+      "url": "https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB"
     },
     {
       "added_at": "2022-01-18 14:54:04",

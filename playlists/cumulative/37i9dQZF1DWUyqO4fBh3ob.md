@@ -4,7 +4,7 @@
 
 > The sweet sounds of Syria.
 
-83 songs - 6 hr 31 min
+84 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,11 @@
 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 | 2021-10-19 |  |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2021-10-19 |  |
 | [Azmit Si'a](https://open.spotify.com/track/0754qF0ek1y0HPg17XEW2L) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:41 | 2022-06-20 | 2023-02-22 |
-| [Azmit Si'a](https://open.spotify.com/track/1XHLgUKyGLiVYLrNbmVcrl) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Azmit Si'a](https://open.spotify.com/album/5UU5rgdVhDUEro6sBHRpFp) | 3:41 | 2022-09-01 |  |
+| [Azmit Si'a](https://open.spotify.com/track/1XHLgUKyGLiVYLrNbmVcrl) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Azmit Si'a](https://open.spotify.com/album/5UU5rgdVhDUEro6sBHRpFp) | 3:41 | 2022-09-01 | 2023-02-26 |
 | [Azmit Si'a \- Al Hayba Al Hassad](https://open.spotify.com/track/4UmFBsrFvdjsc3Z3SoljRz) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Azmit Si'a \(Al Hayba Al Hassad\)](https://open.spotify.com/album/6JfHJELRDNv27HDNrsH17j) | 3:41 | 2021-10-19 | 2022-07-29 |
 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 | 2021-10-19 |  |
 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 | 2022-06-20 |  |
+| [Bel Ahlam](https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [بالأحلام](https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop) | 2:49 | 2023-02-26 |  |
 | [Bhebbik Men Baad Allah](https://open.spotify.com/track/4Sqi8djOYFInf9UHpacniN) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bhebbik Men Baad Allah](https://open.spotify.com/album/04si7VoDyePF14eWHbhG9k) | 4:17 | 2021-10-19 | 2022-07-29 |
 | [Bi Rabbek](https://open.spotify.com/track/2chdDv7xxwZaMXaTbRKNHk) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Dance With Nassif Zeytoun](https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE) | 3:53 | 2022-09-01 | 2022-11-13 |
 | [Bi Rabbek](https://open.spotify.com/track/5XzclhGEjRodFYM54nSuDo) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Toul Al Yom](https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu) | 3:53 | 2022-06-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,479 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,517 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 26 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 27 | [Gabriela](https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Bossatrap](https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9) | 3:04 |
 | 28 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
-| 29 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
-| 30 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 |
+| 29 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 |
+| 30 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
 | 31 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
 | 32 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
 | 33 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
 | 60 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 
-Snapshot ID: `MTY2OTM0NTIwMCwwMDAwMDAwMGE2ODIwODU3MThlZDMyZmI0ZTU4ZjkwODNiYTQxOTYy`
+Snapshot ID: `MTY2OTM0NTIwMCwwMDAwMDAwMDFiNzFmZjNhMzcwYzZlYjUwYjRjNTljNDIzYTYxM2Mw`

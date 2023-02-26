@@ -522,6 +522,32 @@
     {
       "album": {
         "name": "NoRd",
+        "url": "https://open.spotify.com/album/1F0O90sZiD6E1iKVizRn2s"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202990,
+      "name": "SaN LoREnZo (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/2n6ZWiGk5VLYhHZUBc0SiI"
+    },
+    {
+      "album": {
+        "name": "NoRd",
         "url": "https://open.spotify.com/album/4LDkteS52GRbR6rjrbhFkV"
       },
       "artists": [
@@ -540,7 +566,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 202990,
       "name": "SaN LoREnZo (feat. Annalisa) - prod. Yanomi",
       "url": "https://open.spotify.com/track/7yGaVzGU1qKp92Xd4zV94i"
@@ -584,6 +610,28 @@
     {
       "album": {
         "name": "Before Wanderlust",
+        "url": "https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172975,
+      "name": "Testa tra le nuvole, Pt. 0",
+      "url": "https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm"
+    },
+    {
+      "album": {
+        "name": "Before Wanderlust",
         "url": "https://open.spotify.com/album/4m56Ae5dOv24XbtQLYtXKp"
       },
       "artists": [
@@ -598,7 +646,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-26",
       "duration_ms": 172975,
       "name": "Testa tra le nuvole, Pt. 0",
       "url": "https://open.spotify.com/track/6jm6xEF89GMviLo8GILp6z"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,141 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,059 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 26 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
 | 27 | [Fight Back](https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Fight Back: The Collection](https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui) | 3:20 |
 | 28 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
-| 29 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
+| 29 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 |
 | 30 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
-| 31 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 |
+| 31 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
 | 32 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
 | 33 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 34 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 94 | [Party Girl \- VIZE Remix](https://open.spotify.com/track/64vgWvPf41BreVeNomZ3nv) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Party Girl \(VIZE Remix\)](https://open.spotify.com/album/7fqLVmRJezUeXbYhcoCE7V) | 2:34 |
 | 95 | [Fall Into Me](https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:51 |
 | 96 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 |
-| 97 | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/track/3VvBPkc24zC7x05mgJTyGO) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/album/6M9lhBLGRYYP6kaL5jJuz2) | 4:50 |
+| 97 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 |
 | 98 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 |
 | 99 | [Extremes](https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Extremes](https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj) | 2:29 |
-| 100 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 |
+| 100 | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/track/3VvBPkc24zC7x05mgJTyGO) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/album/6M9lhBLGRYYP6kaL5jJuz2) | 4:50 |
 
-Snapshot ID: `MTY3NjM2NDM5NywwMDAwMDAwMGI4MTVkNWUwZTM2ZTIwYjFkOTk2NTg2OGY2NzNmYTYy`
+Snapshot ID: `MTY3NjM2NDM5NywwMDAwMDAwMDYxODU2ZDg4MmNmOTliZTM3MDI5ZjI4M2E2ZGFkNWU4`

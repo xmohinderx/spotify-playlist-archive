@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,229 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,265 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 68 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 69 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
 | 70 | [The John Wayne](https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 4:51 |
-| 71 | [Running Home to You](https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5) | [Bee Caves](https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK) | [Animals With Religion](https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr) | 3:55 |
-| 72 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
+| 71 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
+| 72 | [Running Home to You](https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5) | [Bee Caves](https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK) | [Animals With Religion](https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr) | 3:55 |
 | 73 | [Alone but Not Alone](https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [The Waves, The Wake](https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi) | 3:17 |
 | 74 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 |
 | 75 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 91 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 |
 | 92 | [Signs of Life](https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 5:00 |
 | 93 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 |
-| 94 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
-| 95 | [The First Day](https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The First Day](https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm) | 4:10 |
+| 94 | [The First Day](https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The First Day](https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm) | 4:10 |
+| 95 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 96 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
 | 97 | [Price of Blue](https://open.spotify.com/track/17R1gfKdZ1m2MBeTBwD68c) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 6:22 |
 | 98 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
 | 99 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 |
 | 100 | [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDgxYzJmOWM5ZjM2ZmVkNDEyY2M2ZmI2Mzg0MTc3YjYz`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDJmZjJiOTkwZmZhMDU5M2I0ZTE4OTRlMTRiOTkwNTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Gangsta Boo
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,103 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,194 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 44 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 | 45 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
 | 46 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
-| 47 | [I Got That \(feat\. Beyoncé\) \- Explicit Album Version](https://open.spotify.com/track/1BONIRNVivu1sOD9xYxPhr) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 3:17 |
+| 47 | [Poor Georgie](https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Act Like You Know \(Explicit Version\)](https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF) | 4:30 |
 | 48 | [Big Momma Thang](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
-| 49 | [Poor Georgie](https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Act Like You Know \(Explicit Version\)](https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF) | 4:30 |
+| 49 | [I Got That \(feat\. Beyoncé\) \- Explicit Album Version](https://open.spotify.com/track/1BONIRNVivu1sOD9xYxPhr) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 3:17 |
 | 50 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 
-Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMGU5NDYzYTU5YWJkYzYyNDQ1MTM2OTViZjhhNjFiYWUy`
+Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMDA4ZTVmN2FhYjIxMWYxMGJlMGQ0MzA5Yzk1ZGZkYjU4`

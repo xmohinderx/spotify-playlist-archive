@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-75 songs - 4 hr 27 min
+76 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 | 2021-09-10 |  |
 | [Ard El Ghajar \- Nomad's Land](https://open.spotify.com/track/7vP04ACGn0bKJ04oPmaxOj) | [Jahida Wehbé](https://open.spotify.com/artist/2U92f3cPxz8z2UCiJAipVf) | [Ard El Ghajar \(Nomad's Land\)](https://open.spotify.com/album/3f4BryZ3UKeFEPjH968Okg) | 4:49 | 2021-09-10 |  |
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2021-09-10 |  |
+| [Baddi Hada Hebbou](https://open.spotify.com/track/5x6ABIAk3xrwFSAkZeppTP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:14 | 2023-02-26 |  |
 | [Bahebek Ya Lebnan](https://open.spotify.com/track/5zzPDh8xmEtifNqeuv79zR) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 6:02 | 2021-09-10 |  |
 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 | 2021-09-10 |  |
 | [Btwhasheni](https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Btwhasheni](https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27) | 3:51 | 2022-04-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,129 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,200 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 84 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 |
 | 85 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
 | 86 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
-| 87 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 |
-| 88 | [El Alazan](https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Las Canciones de Atahualpa Yupanqui](https://open.spotify.com/album/0A5XFZ01nfzgPdPnPULVjO) | 3:51 |
+| 87 | [El Alazan](https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Las Canciones de Atahualpa Yupanqui](https://open.spotify.com/album/0A5XFZ01nfzgPdPnPULVjO) | 3:51 |
+| 88 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 |
 | 89 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 | 90 | [Balderrama](https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E) | [Dúo Salteño](https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna) | [La Historia](https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI) | 4:15 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDM5MjhlZDIwZWZkNmQ2ZjNlM2MzZjUzYzYxNjY0MzRk`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGJmOGQyOWIyZjk0ZmMzOTE2ZDg5N2Y3Y2JiZWQxZTll`

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-250 songs - 14 hr 40 min
+251 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 | 2023-02-23 |  |
 | [Nobody Just Like You](https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [Nobody Just Like You](https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx) | 2:44 | 2023-02-23 |  |
 | [Nothing Really Matters](https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0) | 3:42 | 2023-02-23 |  |
-| [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/5i2gud3IkzMXg1QlS5Eblr) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Nothing's Ever Good Enough](https://open.spotify.com/album/3CZ5MiCVazk5SEZhbQxqXi) | 3:09 | 2023-02-23 |  |
+| [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/5i2gud3IkzMXg1QlS5Eblr) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Nothing's Ever Good Enough](https://open.spotify.com/album/3CZ5MiCVazk5SEZhbQxqXi) | 3:09 | 2023-02-23 | 2023-02-26 |
 | [Now That We’ve Found Love](https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Now That We’ve Found Love](https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8) | 2:34 | 2023-02-23 |  |
 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 | 2023-02-23 |  |
 | [On My Way](https://open.spotify.com/track/525quKjX8KEnj2fmKdZy3z) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence](https://open.spotify.com/album/34GPJpmCoILZKAds4eNefL) | 3:25 | 2023-02-23 |  |
@@ -247,6 +247,7 @@
 | [We're All Going Home](https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [We're All Going Home](https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7) | 3:04 | 2023-02-23 |  |
 | [What A Day](https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn) | 3:46 | 2023-02-23 |  |
 | [What I Got](https://open.spotify.com/track/78nJ82Er1YBR1GfOwa11Mt) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [What I Got](https://open.spotify.com/album/4gsWBDBphJW4eJcFfQYjZd) | 3:08 | 2023-02-23 |  |
+| [When Summer Ends](https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk) | [Makelove](https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY) | [When Summer Ends](https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk) | 3:31 | 2023-02-23 |  |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2023-02-23 |  |
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-02-23 |  |
 | [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 |  |

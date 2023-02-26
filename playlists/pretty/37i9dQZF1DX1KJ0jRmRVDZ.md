@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,336 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,419 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 27 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
 | 28 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 |
 | 29 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
-| 30 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
+| 30 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 31 | [LOVE is](https://open.spotify.com/track/2Xrbmkla4NvUgJoubBGkLl) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [LOVE is](https://open.spotify.com/album/4BLLl09Rqmp3EK8Or5a6vn) | 3:26 |
 | 32 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 |
-| 33 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
+| 33 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 34 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
 | 35 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 36 | [空洞サイボーグ](https://open.spotify.com/track/1AItWfHcNkmXpvTgxt33xp) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [空洞サイボーグ](https://open.spotify.com/album/4CshPlm8d2bqFetd98dfSQ) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 |
 | 50 | [Overdose](https://open.spotify.com/track/7zRMjic8Q1Mt4kwAYIBH3M) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Overdose](https://open.spotify.com/album/20VN8o8DJJaM1Q7Asj99GG) | 3:14 |
 
-Snapshot ID: `MTY3NzE2NDQwMCwwMDAwMDAwMGYxMjE3M2Q4Y2E0YjJkZDE5MzljZDdhYThlMzFkMTdl`
+Snapshot ID: `MTY3NzE2NDQwMCwwMDAwMDAwMDdlNDU0YjZmY2U3Yzg5MDU0OWI3ZGU3MTg4MzZkZWFk`

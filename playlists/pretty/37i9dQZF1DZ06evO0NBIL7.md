@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [Smother](https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 2:45 |
 | 23 | [Bad Words](https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 4:27 |
 
-Snapshot ID: `Mjc5NTQwNzUsMDAwMDAwMDA1MTViMGRmZDllMDEyYzkzYWE3MDc0MzliZjkxNTFjYQ==`
+Snapshot ID: `Mjc5NTU2NTMsMDAwMDAwMDBmNzc5N2ZiNDZkYzhkNzhjOTA2ZWUwY2RlOTIwM2I2Ng==`

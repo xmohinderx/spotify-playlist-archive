@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,750 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,020 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 38 | [The Quiet Earth](https://open.spotify.com/track/4V0rrbFdfzLbcV3WOYjXXa) | [Thomas Barrandon](https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr) | [The Quiet Earth](https://open.spotify.com/album/09Rd5hfBdtOBIhLaRvm96M) | 5:30 |
 | 39 | [Impermanence](https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 |
 | 40 | [The Passion of Lovers](https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:51 |
-| 41 | [Самый грустный](https://open.spotify.com/track/3bUB37EbTWCFWkehLo52jB) | [ssshhhiiittt!](https://open.spotify.com/artist/0RfocEzLe78RexLTeU1K2p) | [Remastered](https://open.spotify.com/album/5x2CauBdy2DH8NZ46nWvjV) | 3:53 |
-| 42 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
+| 41 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
+| 42 | [Самый грустный](https://open.spotify.com/track/3bUB37EbTWCFWkehLo52jB) | [ssshhhiiittt!](https://open.spotify.com/artist/0RfocEzLe78RexLTeU1K2p) | [Remastered](https://open.spotify.com/album/5x2CauBdy2DH8NZ46nWvjV) | 3:53 |
 | 43 | [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 |
 | 44 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
 | 45 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 71 | [Elements](https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd) | [Jasper De Ceuster](https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb) | [Elements](https://open.spotify.com/album/4w2s1OoJMVJ6Ute1V4sue9) | 4:52 |
 | 72 | [Rituel](https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Belirdi Gece](https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC) | 4:56 |
 | 73 | [Алкоголь мой враг](https://open.spotify.com/track/3w9cGIYBC12SoepuHUaV19) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR) | [505 \(Deluxe\)](https://open.spotify.com/album/3KY1gWySaFXOmWImcN7vLm) | 2:47 |
-| 74 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 |
-| 75 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 |
+| 74 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 |
+| 75 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 |
 | 76 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 |
 | 77 | [66 MHz](https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [66 MHz](https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK) | 3:54 |
 | 78 | [Русская принцесса](https://open.spotify.com/track/5bPpzYuIwSXJr1D2vDd6q3) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR) | [Quo vadis?](https://open.spotify.com/album/12xcdsOGrXrOAxYk9oDaPc) | 3:52 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 85 | [Dot in the Sky](https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 5:26 |
 | 86 | [Into the Void](https://open.spotify.com/track/68FAxdemTDnum52uSSYUWd) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Chroma](https://open.spotify.com/album/6wIN1Dl6CDXyXPEVxjugqF) | 3:36 |
 | 87 | [If Love Is Just a Word](https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0) | [Bleib Modern](https://open.spotify.com/artist/2FCVB3cfCC0e3O8G7Gs8t6) | [All Is Fair in Love and War](https://open.spotify.com/album/7B13N33UUfGmh0s6pr5dBL) | 2:49 |
-| 88 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 |
+| 88 | [Rasengan](https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa) | [Turbo Knight](https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c) | [Rasengan](https://open.spotify.com/album/46rcx1ktEeepldl3FLpIIt) | 5:07 |
 | 89 | [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 |
-| 90 | [Rasengan](https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa) | [Turbo Knight](https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c) | [Rasengan](https://open.spotify.com/album/46rcx1ktEeepldl3FLpIIt) | 5:07 |
+| 90 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 |
 | 91 | [Luces](https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Luces](https://open.spotify.com/album/095CLldKK6xtvgrVsjXB7j) | 3:26 |
 | 92 | [A Little Death to Laugh](https://open.spotify.com/track/3YAtxohy6aksWr6uE1xAT0) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Full Cold Moon](https://open.spotify.com/album/4KeTTSYDEjvdOMzudYo82J) | 3:38 |
 | 93 | [Your Master is calling](https://open.spotify.com/track/0TXfAQ5ohVQPzt4Mrr5azG) | [Pink Turns Blue](https://open.spotify.com/artist/47oP5alMot58ggzcFwldky) | [Meta](https://open.spotify.com/album/7fSBShSLe5Glx6sifNLdJF) | 7:43 |
 | 94 | [Durdu Dünya](https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs) | 4:51 |
-| 95 | [Sleepy](https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:32 |
-| 96 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 |
+| 95 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 |
+| 96 | [Sleepy](https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:32 |
 | 97 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 |
 | 98 | [Night](https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 3:38 |
 | 99 | [We Need](https://open.spotify.com/track/2iQ5UVxkcCfGZ6vLd4q8t1) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:13 |
 | 100 | [Strange Harvest](https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV) | [Tempers](https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2) | [Services](https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU) | 4:10 |
 
-Snapshot ID: `MTY3Njk0OTAwOSwwMDAwMDAwMDk3M2YyY2E2YTU3NWMyYWExMGVkMTczOTlmYzJlYzVl`
+Snapshot ID: `MTY3Njk0OTAwOSwwMDAwMDAwMDcwN2ZhZDY2ODdkY2YxODNkZWRhMzUzNWM5MzA3NTk0`

@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-416 songs - 1 day 1 hr 20 min
+417 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 | 2022-03-08 | 2022-04-16 |
 | [Breathe Me](https://open.spotify.com/track/6hrgeEo1WQOHVeF8QMv68S) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb) | 4:34 | 2022-03-08 | 2022-04-21 |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2022-03-08 |  |
-| [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 | 2022-03-08 |  |
+| [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 | 2022-03-08 | 2023-02-26 |
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2021-09-03 | 2022-11-22 |
 | [Buzzcut Season](https://open.spotify.com/track/3ShTaJBCOclymogQNzPde7) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:06 | 2021-09-03 | 2022-07-29 |
 | [Buzzcut Season](https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:06 | 2022-03-08 |  |
@@ -289,6 +289,7 @@
 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 | 2021-09-03 | 2022-07-03 |
 | [Pressure Point](https://open.spotify.com/track/4p1iTxuJjB9YhxFH0xWK6S) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Pressure Point](https://open.spotify.com/album/13TDlIenIxMV3rAFTjlX6G) | 3:25 | 2022-03-23 | 2022-07-29 |
 | [Pressure To Party](https://open.spotify.com/track/3jWnOvwM0nbJAhEWcugsma) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Pressure To Party](https://open.spotify.com/album/5a7AAqAcgqUpnjmKZAYRUL) | 3:02 | 2021-09-03 | 2022-07-29 |
+| [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 | 2023-01-12 |  |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-09-03 | 2022-02-09 |
 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 | 2021-09-03 | 2022-11-13 |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-09-03 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,622 likes - 106 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,659 likes - 106 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

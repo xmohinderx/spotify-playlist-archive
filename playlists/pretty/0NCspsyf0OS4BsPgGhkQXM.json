@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2034226,
+  "num_followers": 2034404,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTMxNjEsYTY1YWY2NWEwMmQwYTNlMTNjYzYwZDQ5MjFjOTU5ZjU0ZGM0NWIwMg==",
+  "snapshot_id": "MTMxNjYsM2U2ODYyNzYzNGNiNDY2YzVjMTQwNzhlYjgzM2YyNjFiMjFhZTlmMw==",
   "tracks": [
     {
       "added_at": "2023-02-21 05:53:29",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
-        "name": "Bad Karma",
-        "url": "https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx"
-      },
-      "artists": [
-        {
-          "name": "Axel Thesleff",
-          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "Bad Karma",
-      "url": "https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch"
-    },
-    {
-      "added_at": "2023-02-21 05:53:29",
-      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
@@ -79,6 +63,26 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
+        "name": "Everything Black",
+        "url": "https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        },
+        {
+          "name": "Mike Taylor",
+          "url": "https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW"
+        }
+      ],
+      "duration_ms": 228979,
+      "name": "Everything Black",
+      "url": "https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp"
     },
     {
       "added_at": "2023-02-24 11:39:11",
@@ -123,42 +127,34 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
-        "name": "Joytime",
-        "url": "https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H"
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Omar LinX",
-          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
         }
       ],
-      "duration_ms": 243380,
-      "name": "Keep It Mello (feat. Omar LinX)",
-      "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
+      "duration_ms": 131271,
+      "name": "Devil Eyes",
+      "url": "https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL"
     },
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
-        "name": "Everything Black",
-        "url": "https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz"
+        "name": "Bad Karma",
+        "url": "https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx"
       },
       "artists": [
         {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        },
-        {
-          "name": "Mike Taylor",
-          "url": "https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW"
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
         }
       ],
-      "duration_ms": 228979,
-      "name": "Everything Black",
-      "url": "https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp"
+      "duration_ms": 416000,
+      "name": "Bad Karma",
+      "url": "https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -263,18 +259,22 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi"
+        "name": "Joytime",
+        "url": "https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H"
       },
       "artists": [
         {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Omar LinX",
+          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
         }
       ],
-      "duration_ms": 131271,
-      "name": "Devil Eyes",
-      "url": "https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL"
+      "duration_ms": 243380,
+      "name": "Keep It Mello (feat. Omar LinX)",
+      "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
     },
     {
       "added_at": "2023-02-21 05:53:29",

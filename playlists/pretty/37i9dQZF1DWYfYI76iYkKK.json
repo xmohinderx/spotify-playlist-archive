@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116841,
+  "num_followers": 116873,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMDEzNTNlYzQxODBhZWFiYzI4OTg4YjY5ZmQ3MGMxY2Zj",
+  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMGMyNDE5OGZkMjc4M2I1YzY4NGEwZDYyM2JhOTBkZTlh",
   "tracks": [
     {
       "added_at": "2023-02-23 16:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
         "name": "\u592a\u967d\u96e8",
         "url": "https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u5409\u4ed6\u624b",
         "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 245000,
       "name": "\u88dd\u5e40",
       "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
-        "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
-      },
-      "artists": [
-        {
-          "name": "\u5b5f\u6167\u5713",
-          "url": "https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g"
-        }
-      ],
-      "duration_ms": 266085,
-      "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
-      "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
         "url": "https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL"
       },
@@ -787,18 +771,34 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "Sounds of My Life",
-        "url": "https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS"
+        "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
+        "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
       },
       "artists": [
         {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+          "name": "\u5b5f\u6167\u5713",
+          "url": "https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g"
         }
       ],
-      "duration_ms": 268625,
-      "name": "\u4e0d\u7528\u544a\u8a34\u6211 - \u6771\u68ee\u6232\u5287\u53f0\u97d3\u5287\u300c\u5de7\u514b\u529b\u300d\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX"
+      "duration_ms": 266085,
+      "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
+      "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u7121\u4eba\u77e5\u66c9",
+        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "\u7686\u53ef",
+      "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
     },
     {
       "added_at": "2023-02-23 16:00:00",

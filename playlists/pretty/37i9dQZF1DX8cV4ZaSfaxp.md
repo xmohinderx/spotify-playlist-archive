@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: En Sokum\(은소금\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,342 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,377 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,30 +83,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 73 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 |
 | 74 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 75 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
-| 76 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
-| 77 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
+| 76 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
+| 77 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
 | 78 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
 | 79 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
-| 80 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
-| 81 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
+| 80 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
+| 81 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
 | 82 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 |
 | 83 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 |
 | 84 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 |
 | 85 | [S.O.S](https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [S.O.S](https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF) | 3:20 |
 | 86 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
-| 87 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
-| 88 | [Black Hole](https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE PARK IN THE NIGHT part three](https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut) | 3:33 |
-| 89 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
+| 87 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
+| 88 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
+| 89 | [Black Hole](https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE PARK IN THE NIGHT part three](https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut) | 3:33 |
 | 90 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 |
 | 91 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [스페이스카우보이](https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy) | [New Wave City](https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV) | 3:27 |
 | 92 | [보내줄게 Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 |
-| 93 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
-| 94 | [Wonder Woman](https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [RE\_vive](https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h) | 3:52 |
+| 93 | [Wonder Woman](https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [RE\_vive](https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h) | 3:52 |
+| 94 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
 | 95 | [When My Loneliness Calls You](https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [When My Loneliness Calls You \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l) | 4:17 |
 | 96 | [Myspace](https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Myspace](https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7) | 3:36 |
 | 97 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
-| 98 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 |
-| 99 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 |
+| 98 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 |
+| 99 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 |
 | 100 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
 
-Snapshot ID: `MTY3NjM2MDQ2MiwwMDAwMDAwMDc5MWQ0OTQzNjNmMjEyOGE2OGUyYjA3ZjI2ZTUxOGM5`
+Snapshot ID: `MTY3NjM2MDQ2MiwwMDAwMDAwMDY5MzFmNTU0ZTYxYzBhYjNmMmZmZjFmZjg5MDgwYmQw`

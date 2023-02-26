@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,095 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,196 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blue Jean Blues \- 2005 Remaster](https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:42 |
-| 2 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 |
+| 1 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 |
+| 2 | [Blue Jean Blues \- 2005 Remaster](https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:42 |
 | 3 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
 | 4 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
 | 5 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 19 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
 | 20 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
 | 21 | [Ghetto Woman](https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 5:13 |
-| 22 | [Me And The Blues](https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:09 |
-| 23 | [People Get Ready](https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6) | [Joe Robinson](https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV) | [People Get Ready](https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV) | 4:34 |
+| 22 | [People Get Ready](https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6) | [Joe Robinson](https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV) | [People Get Ready](https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV) | 4:34 |
+| 23 | [Me And The Blues](https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:09 |
 | 24 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
 | 25 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
 | 26 | [Ain’t No Love In The Heart Of The City](https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 5:36 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 42 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
 | 43 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 44 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
-| 45 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
-| 46 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
+| 45 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
+| 46 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
 | 47 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 48 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
 | 49 | [Everytime I Get to Drinkin' \- Remastered](https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 74 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 | 75 | [Along About Midnight](https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr) | 4:05 |
 
-Snapshot ID: `MTY3NTg1NDI5MCwwMDAwMDAwMDQxMDBjOWQ4MjQ4MzFiZjQ1MDQwM2JjMzlmZmIyMTRm`
+Snapshot ID: `MTY3NTg1NDI5MCwwMDAwMDAwMGFhNjFlMmJlNzBjMGM0ZDM4YmMxMjViNzU5ZjBjOTFh`

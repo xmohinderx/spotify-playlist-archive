@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,074 likes - 90 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,574 likes - 90 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 80 | [Date un Chance](https://open.spotify.com/track/4NM6nmPnoqnQovcZ93kACn) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:46 |
 | 81 | [El Nazareno](https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Traigo de Todo](https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc) | 5:37 |
 | 82 | [Dicen Que Soy](https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:41 |
-| 83 | [Mi Media Mitad](https://open.spotify.com/track/2PmVCFBBVkEaOd9k5RnLZr) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:53 |
+| 83 | [Decisiones](https://open.spotify.com/track/4XTtPhMyEumsU8E1ufUomw) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Decisiones](https://open.spotify.com/album/0N3ad3ylNue2hqkJ0ffovh) | 5:03 |
 | 84 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
-| 85 | [Decisiones](https://open.spotify.com/track/4XTtPhMyEumsU8E1ufUomw) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Decisiones](https://open.spotify.com/album/0N3ad3ylNue2hqkJ0ffovh) | 5:03 |
+| 85 | [Mi Media Mitad](https://open.spotify.com/track/2PmVCFBBVkEaOd9k5RnLZr) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:53 |
 | 86 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 | 87 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
 | 88 | [No Me Acostumbro](https://open.spotify.com/track/4HEIPKvipeKYPlC91MZGxC) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:49 |
 | 89 | [Amiga](https://open.spotify.com/track/3P97s0cNCeHeNGvfAe7WYE) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:40 |
 | 90 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 
-Snapshot ID: `MTY3NTM4MTM5NSwwMDAwMDAwMDFhNTlhNzVjYTFmODg4MjMyOTNjMTc1NTcwYTZmZTQx`
+Snapshot ID: `MTY3NTM4MTM5NSwwMDAwMDAwMDE2MWMwMGFiMDIxNGM0OWI0YmYzZGFjNGFjYWIzMzAx`

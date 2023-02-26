@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,068 likes - 90 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,098 likes - 90 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 77 | [Cerca del Sol](https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Cerca del Sol](https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5) | 3:37 |
 | 78 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
 | 79 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
-| 80 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
-| 81 | [Corazon Sin Tiempo](https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Corazon Sin Tiempo](https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I) | 3:37 |
+| 80 | [Corazon Sin Tiempo](https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Corazon Sin Tiempo](https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I) | 3:37 |
+| 81 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
 | 82 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
-| 83 | [Vivo](https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO), [Ruben Ehizaguirre](https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z) | [Vivo](https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W) | 3:57 |
-| 84 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
+| 83 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
+| 84 | [Vivo](https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO), [Ruben Ehizaguirre](https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z) | [Vivo](https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W) | 3:57 |
 | 85 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 |
 | 86 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 87 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 88 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
-| 89 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
-| 90 | [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 |
+| 89 | [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 |
+| 90 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDVhOTUzMTZjY2M1YzdmOTQ3OGUwMjg5NGJkYmExMmM2`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDllNzllNTZjZTFhODdlY2M1MWIxZjVjZGNjYzc4ZGJm`

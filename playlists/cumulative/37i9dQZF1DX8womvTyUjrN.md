@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: GALE
 
-319 songs - 16 hr 15 min
+320 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Nuestra Canción](https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Nuestra Canción](https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM) | 3:32 | 2023-02-17 |  |
 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 | 2022-12-09 |  |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-23 |  |
-| [Oasis](https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:56 | 2022-12-02 |  |
+| [Oasis](https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:56 | 2022-12-02 | 2023-02-26 |
 | [Otra Vez](https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Otra Vez](https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4) | 2:35 | 2022-09-23 |  |
 | [Pa Que Te Digo Que No](https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ) | 2:54 | 2022-10-07 | 2022-10-29 |
 | [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 | 2022-07-25 | 2022-10-13 |
@@ -262,6 +262,7 @@
 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 | 2022-03-21 | 2022-07-09 |
 | [Robot](https://open.spotify.com/track/5Dgbojt1HsytRAL3Vss7HI) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Robot](https://open.spotify.com/album/3elKRJXnVQT9ID2kNooi0P) | 2:22 | 2022-05-06 | 2022-08-09 |
 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 | 2022-10-07 | 2022-12-10 |
+| [S.H.E.A](https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [S.H.E.A](https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL) | 3:10 | 2023-02-24 |  |
 | [Salvavidas](https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Salvavidas](https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK) | 3:22 | 2022-04-01 | 2022-05-07 |
 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 | 2022-12-02 | 2023-01-28 |
 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 | 2023-02-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,319 likes - 102 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,341 likes - 102 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

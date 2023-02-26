@@ -4,7 +4,7 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 43 min
+93 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-09-17 | 2023-01-29 |
 | [Hole In My Soul](https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 6:10 | 2023-01-28 |  |
 | [Home Tonight](https://open.spotify.com/track/5btAcDEgNCJDrfmINA4Qrn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 3:16 | 2022-09-17 | 2022-10-13 |
-| [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 | 2023-01-19 |  |
+| [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 | 2023-01-19 | 2023-02-26 |
+| [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 | 2023-02-25 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-09-17 | 2023-01-20 |
 | [Intro](https://open.spotify.com/track/0ZDe0l0B9vEQEH6d5n0lcL) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 1:58 | 2022-09-17 | 2022-10-13 |
 | [Jaded](https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:34 | 2022-09-17 | 2023-01-28 |

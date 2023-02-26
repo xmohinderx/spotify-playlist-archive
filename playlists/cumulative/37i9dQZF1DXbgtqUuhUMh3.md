@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-401 songs - 23 hr 31 min
+402 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Fe Nas](https://open.spotify.com/track/4HAw501fOG5TeZdLibO9kT) | [Nathalie Saba](https://open.spotify.com/artist/0RSZW3LaHlf4SHyRtX5BGe) | [Fe Nas](https://open.spotify.com/album/5WHdiRULGVlAX3W7PUANh0) | 3:36 | 2021-12-23 | 2022-03-01 |
 | [Feny Elly Mkafeny](https://open.spotify.com/track/5j0j6OfAhxbdNVtuX77B6E) | [Mona](https://open.spotify.com/artist/0XDedczfxD2nnwn1Fe0WRr) | [Feny Elly Mkafeny](https://open.spotify.com/album/5oN5wA0j9xoqhaTV98H7JS) | 4:32 | 2021-12-23 | 2022-02-26 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 | 2022-11-08 |  |
+| [Fi Zeroof Tanya](https://open.spotify.com/track/5efRgvpDUMrX2ivUimYPcJ) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fi Zeroof Tanya](https://open.spotify.com/album/1T0slUpWgsXe7i5yzNdLf0) | 3:19 | 2023-02-23 |  |
 | [Film Helw](https://open.spotify.com/track/25EbCKCq8dQ3YBmwbix7ye) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Film Helw](https://open.spotify.com/album/57b4TTuIJ4znCcAPWqBcIA) | 3:00 | 2023-02-03 |  |
 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 | 2022-07-07 |  |
 | [Ftila](https://open.spotify.com/track/4geJdEK32VaCsvb1RH557R) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Ftila](https://open.spotify.com/album/02azIN5J0Khi8LDk5uoyhI) | 2:40 | 2021-12-23 | 2022-03-02 |
@@ -148,7 +149,7 @@
 | [HEY DJ](https://open.spotify.com/track/2X8XcskW99dzN3ERfRdbLt) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [HEY DJ](https://open.spotify.com/album/2McuhBKRgSGr60FXSHs5GP) | 2:52 | 2021-12-23 | 2022-03-01 |
 | [High](https://open.spotify.com/track/6i6xYs14ViOdffFSBpoBeV) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [High](https://open.spotify.com/album/0ljHvBxU42OU9opDgWJEcb) | 3:39 | 2021-12-23 | 2022-03-01 |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-03-08 | 2022-07-29 |
-| [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-03-01 |  |
+| [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-03-01 | 2023-02-26 |
 | [Hoba La Ma Khali](https://open.spotify.com/track/6xNB566zvUDyMdSfU3Pw5M) | [Eman Al Amer](https://open.spotify.com/artist/1snAPnlh86ySyIdF73ASLI) | [Hoba La Ma Khali](https://open.spotify.com/album/2mnpMrOUa4Kx1SB7ul6og9) | 2:58 | 2021-12-23 | 2022-03-02 |
 | [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 | 2023-01-19 | 2023-02-19 |
 | [Home](https://open.spotify.com/track/1PG7PL0NxjALbxYquTBdif) | [Earlybird](https://open.spotify.com/artist/5IQBLu7IU3OB7HXQxpXC7r) | [Soft Colors](https://open.spotify.com/album/53cO9i0zAECACpepwOsz1q) | 3:16 | 2021-12-30 | 2022-02-28 |

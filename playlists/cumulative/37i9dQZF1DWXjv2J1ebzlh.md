@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,894 songs - 5 day 7 hr 28 min
+1,895 songs - 5 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 | 2022-07-12 | 2022-07-29 |
 | [Al Asafir](https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 5:20 | 2022-10-31 |  |
 | [Al Asafir](https://open.spotify.com/track/38tuJECMzicYOgIgRbWDYu) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 5:20 | 2022-07-12 | 2022-11-20 |
-| [AL CALOR DE LA CUMBIA](https://open.spotify.com/track/0bKVH2zOibIz9OSRJPTqFZ) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [CUMBIA SOL MARINA](https://open.spotify.com/album/5pfc2ZHqgAM4OOlZuFeh71) | 3:36 | 2022-07-12 |  |
+| [Al Calor de la Cumbia](https://open.spotify.com/track/3A7jHfd6t2PEsCMMJD5bBP) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [Gran Festival de Porros y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 3:35 | 2023-02-08 |  |
+| [AL CALOR DE LA CUMBIA](https://open.spotify.com/track/0bKVH2zOibIz9OSRJPTqFZ) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [CUMBIA SOL MARINA](https://open.spotify.com/album/5pfc2ZHqgAM4OOlZuFeh71) | 3:36 | 2022-07-12 | 2023-02-26 |
 | [Al Elnim](https://open.spotify.com/track/3IqwpeCf40ptyCyuU9QBFZ) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 6:12 | 2022-07-27 |  |
 | [Al Elnim](https://open.spotify.com/track/44o9aQPKOYfsVzmuSaBhgt) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/45SMJMghoL8N2BeuknayF6) | 6:12 | 2022-06-09 | 2022-07-29 |
 | [Al Hadaoui](https://open.spotify.com/track/0TPb4YPdW6kY5t3ddheHYM) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/5u3QtC3k9Vp8iq2fPcH66P) | 4:03 | 2022-06-09 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,755 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,766 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 39 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
 | 40 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
 | 41 | [Backroads Life \(feat\. The Lacs\)](https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Hog Heaven](https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf) | 4:42 |
-| 42 | [Slow Rollin'](https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 2:44 |
-| 43 | [Southern](https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Southern](https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd) | 3:03 |
+| 42 | [Southern](https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Southern](https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd) | 3:03 |
+| 43 | [Slow Rollin'](https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 2:44 |
 | 44 | [Jack In My Coke](https://open.spotify.com/track/6Kf1VcLce0JzSNvngjhi4q) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/4dQZO3ENU8TkhieFWFlDoL) | 3:52 |
 | 45 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 |
 | 46 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 75 | [Mustang on Mud Tires](https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Mustang on Mud Tires](https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D) | 3:40 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI4MGE1NDMyMDhhNDJjNDc5MjQ1MjM4M2Q5MWMxYjc0`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGM0ZTg2NWRjMmFmNmU3OTA1OTc3OTJlMzRkNTM1ODIx`

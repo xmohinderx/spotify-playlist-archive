@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,671 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,733 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 70 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 |
 | 71 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 |
 | 72 | [How Deep Is Your Love \- Acoustic Version](https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 4:04 |
-| 73 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 |
-| 74 | [Sweet Blue](https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sweet Blue](https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis) | 4:13 |
-| 75 | [Take You There](https://open.spotify.com/track/57x83GI7482qiFSDooS02L) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:14 |
+| 73 | [Sweet Blue](https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sweet Blue](https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis) | 4:13 |
+| 74 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 |
+| 75 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDk3Yzk2MzA5ODQ3YzcyNWVjZDQ0ZDlhMTE5OWU3OGNl`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDRiYWZjNDZmOTg3OTEzOWFjYTdkNTNkMDFjZTI4NTVm`

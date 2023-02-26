@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > From across the globe\. New Songwriters on the horizon\. Cover: Beach Noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

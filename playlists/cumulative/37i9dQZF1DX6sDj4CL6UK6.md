@@ -4,7 +4,7 @@
 
 > Best of Indian English tracks\. Cover\- Prateek Kuhad
 
-153 songs - 8 hr 55 min
+154 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-03-25 |  |
 | [Love Is Love](https://open.spotify.com/track/4QOhdspHbF735AWRRGJ7Zn) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 2:52 | 2022-09-30 | 2022-11-17 |
 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 | 2022-10-20 |  |
+| [Lovesong for an Apocalypse](https://open.spotify.com/track/7HzqVQQ8ZB8EmhQoWIhlBH) | [Long Distances](https://open.spotify.com/artist/6MiMbMXBsR73FeQhJc1Ya4) | [Lovesong for an Apocalypse](https://open.spotify.com/album/0kB2Om6RFqS6xnVApcz1SM) | 5:20 | 2023-02-22 |  |
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 |  |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-09-26 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 | 2022-10-15 |
@@ -127,7 +128,7 @@
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2022-03-25 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-01-13 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |
-| [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2022-03-25 |  |
+| [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2022-03-25 | 2023-02-26 |
 | [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 | 2022-03-25 |  |
 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 | 2022-03-25 |  |
 | [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 | 2022-12-09 | 2023-02-01 |

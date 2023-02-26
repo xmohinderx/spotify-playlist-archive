@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,195 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,320 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 18 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
 | 19 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
 | 20 | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:41 |
-| 21 | [Asesina](https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Asesina](https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8) | 3:07 |
-| 22 | [Presiento](https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Balas Perdidas \(Edición Especial\)](https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM) | 2:54 |
+| 21 | [Presiento](https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Balas Perdidas \(Edición Especial\)](https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM) | 2:54 |
+| 22 | [Asesina](https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Asesina](https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8) | 3:07 |
 | 23 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 |
 | 24 | [Hipócrita](https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:12 |
 | 25 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
 | 50 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
 
-Snapshot ID: `MTYzOTYxNzA5MiwwMDAwMDAwMDUxYzM4ZmVlZWZmMTVlZTVhMDlmOGQ1ZThiNjBhMDkz`
+Snapshot ID: `MTYzOTYxNzA5MiwwMDAwMDAwMDRjYWVmMzBhMGNmOTY1MDM4NTAyZTFlYWJiMDdhZTU4`

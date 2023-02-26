@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 10280,
+  "num_followers": 10301,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDA4NGY2YTkxMDZhOGViMTljZTg0MGUyYzM3NTNjMWNi",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDI4ZWYyZDk2ZmUxMGIyYzFkZDAyZDQxMDY2ZDA0MjNm",
   "tracks": [
     {
       "added_at": "2022-05-05 23:00:00",
@@ -373,26 +373,6 @@
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
       "added_at": "2023-02-03 09:17:36",
       "album": {
         "name": "Kpe Paso",
@@ -411,6 +391,26 @@
       "duration_ms": 176988,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-09-30 06:49:33",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
     },
     {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
-    },
-    {
       "added_at": "2023-02-10 10:45:02",
       "album": {
         "name": "Continental Playlist",
@@ -839,6 +823,50 @@
       "duration_ms": 163653,
       "name": "Tight Condition",
       "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+    },
+    {
+      "added_at": "2022-08-12 05:43:18",
+      "album": {
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
+        "url": "https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
+      "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
     },
     {
       "added_at": "2022-02-17 23:00:00",
@@ -881,22 +909,6 @@
       "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
     },
     {
-      "added_at": "2023-02-03 09:17:36",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
-      },
-      "artists": [
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        }
-      ],
-      "duration_ms": 374009,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
-    },
-    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Polongo",
@@ -911,6 +923,22 @@
       "duration_ms": 173076,
       "name": "Polongo",
       "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
+    },
+    {
+      "added_at": "2023-02-03 09:17:36",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "duration_ms": 374009,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
     },
     {
       "added_at": "2023-01-27 09:42:10",
@@ -955,22 +983,6 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
-    },
-    {
-      "added_at": "2022-11-25 07:49:53",
-      "album": {
-        "name": "Holla Me",
-        "url": "https://open.spotify.com/album/3uJtqxhQcql3XriYZdLfRy"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 134594,
-      "name": "Holla Me",
-      "url": "https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR"
     },
     {
       "added_at": "2022-08-12 05:43:18",
@@ -1025,6 +1037,22 @@
       "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
     },
     {
+      "added_at": "2022-07-22 04:29:24",
+      "album": {
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Mufasa",
@@ -1041,20 +1069,20 @@
       "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
     },
     {
-      "added_at": "2022-07-22 04:29:24",
+      "added_at": "2022-11-25 07:49:53",
       "album": {
-        "name": "Shaye",
-        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+        "name": "Holla Me",
+        "url": "https://open.spotify.com/album/3uJtqxhQcql3XriYZdLfRy"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 169043,
-      "name": "Shaye",
-      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+      "duration_ms": 134594,
+      "name": "Holla Me",
+      "url": "https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR"
     },
     {
       "added_at": "2021-11-25 23:01:00",
@@ -1117,26 +1145,6 @@
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
-      "added_at": "2022-11-25 07:49:53",
-      "album": {
-        "name": "Vawulence",
-        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Vawulence",
-      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
-    },
-    {
       "added_at": "2023-02-10 10:45:02",
       "album": {
         "name": "HANNAH MONTANA",
@@ -1185,32 +1193,24 @@
       "url": "https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud"
     },
     {
-      "added_at": "2023-02-23 23:00:00",
+      "added_at": "2022-11-25 07:49:53",
       "album": {
-        "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
-        "url": "https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV"
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         },
         {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
-      "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     }
   ],
   "unique_name": "Keep Fit Club ",

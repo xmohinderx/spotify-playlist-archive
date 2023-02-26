@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 383015,
+  "num_followers": 383158,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3ODYxMCwwMDAwMDAwMDIwNmNiZjc5YjNiYTFiOGZlNTFjMDE4YjkwMzUyN2E3",
+  "snapshot_id": "MTY3Mzg3ODYxMCwwMDAwMDAwMGYyZWEwYTdjZTZiMTY4ODQ0YzYxN2M0ODI4YWE5M2Fl",
   "tracks": [
     {
       "added_at": "2023-01-16 14:16:50",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-16 14:16:50",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2023-01-16 14:16:50",
-      "album": {
         "name": "Summer 91 (Looking Back)",
         "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-01-16 14:16:50",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 220838,
-      "name": "Assumptions",
-      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-01-16 14:16:50",
@@ -695,6 +679,22 @@
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
+    },
+    {
+      "added_at": "2023-01-16 14:16:50",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
     },
     {
       "added_at": "2023-01-16 14:16:50",
