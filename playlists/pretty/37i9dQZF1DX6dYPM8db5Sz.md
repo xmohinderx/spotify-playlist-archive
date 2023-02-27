@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE?si=3syqe78ET\_S4gz5VVwa4wQ">Yum Yuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,534 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,538 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 4 | [Shortcuts](https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Shortcuts](https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ) | 2:53 |
 | 5 | [Funeral for the World](https://open.spotify.com/track/01HxG3OBY1KPK0sgYSHkym) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Funeral for the World](https://open.spotify.com/album/6WyntCOurB6GZLIRdEQPye) | 2:47 |
 | 6 | [Run](https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Run](https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq) | 2:33 |
-| 7 | [Trouble \- Radio Remix](https://open.spotify.com/track/3b1CgbC7s0TQ07ew2c2aaX) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [Trouble \(Radio Remix\)](https://open.spotify.com/album/1ZbJRgqfXY6Ydu28mX7DIn) | 2:40 |
-| 8 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 |
-| 9 | [Million Miles](https://open.spotify.com/track/3Afigq8jGjc0lKV8vyWsEO) | [Static Space](https://open.spotify.com/artist/4vpeMLAwnp29ZkfTLKcEaq) | [Million Miles](https://open.spotify.com/album/4gcpeWIcQDeumEz2pskRpA) | 3:51 |
+| 7 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
+| 8 | [Trouble \- Radio Remix](https://open.spotify.com/track/3b1CgbC7s0TQ07ew2c2aaX) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [Trouble \(Radio Remix\)](https://open.spotify.com/album/1ZbJRgqfXY6Ydu28mX7DIn) | 2:40 |
+| 9 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 |
 | 10 | [Won't Let Me Go](https://open.spotify.com/track/1XTdnp2dFXtqZsVcCvR4vU) | [Charlie Finch](https://open.spotify.com/artist/2OvDSZfsF6UxC9NnN47ayf) | [Won't Let Me Go](https://open.spotify.com/album/2cpYsYKitP5sUaFYhoJs6e) | 3:06 |
 | 11 | [Precious Bones](https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Precious Bones](https://open.spotify.com/album/7K3ct7ITp62x1d05IjRUQi) | 3:07 |
 | 12 | [I Can't Lose](https://open.spotify.com/track/6obyLBA13ecV6tlRliC0o6) | [Rudi Simon](https://open.spotify.com/artist/4ptgf05nkSgu9FyeOMlIfj), [Luxe](https://open.spotify.com/artist/16HxZ677V28c5vy4wgmZZb) | [I Can't Lose](https://open.spotify.com/album/5iVmkBy7MzUzZTq41PHJuJ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Nightlife](https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC) | [Reino Brink](https://open.spotify.com/artist/02IxvUvOYgFtnt0SFWi3aq) | [Break and Bend](https://open.spotify.com/album/7HbwlUsjRYdzOPwGtpOC7q) | 3:30 |
 | 50 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 |
 
-Snapshot ID: `MTY3NzE4OTU0MCwwMDAwMDAwMGQ1YWQ2NDgyNjljNDliMjE4Y2FiYzk5MmI1ZTdmNGFj`
+Snapshot ID: `MTY3NzQzMzgzNSwwMDAwMDAwMDhkZmQyOTAyYTFhNmFhZTJlODM4NDU5NmE5ZjBlNTUx`

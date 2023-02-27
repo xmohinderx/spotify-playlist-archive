@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: LIT Killah
 
-164 songs - 8 hr 37 min
+165 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [Adicto \(feat\. Gigolo y La Exce\)](https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:20 | 2022-07-01 |  |
 | [Adios \(with Andrez Babii\)](https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Adios \(with Andrez Babii\)](https://open.spotify.com/album/6fyxiLqGh9Llo4cjORrBdS) | 3:04 | 2022-03-22 | 2023-01-28 |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-23 |  |
+| [Amor](https://open.spotify.com/track/0XP4jb9IjvliEXDt8rK3XY) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/35qXT0ucEHiPyXoBaVoIFT) | 2:35 | 2023-01-27 |  |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-07-14 | 2022-10-05 |
 | [Amor](https://open.spotify.com/track/3CDhPQ2HdarTjCzKCUCzQT) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila](https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF) | 2:35 | 2022-11-12 | 2022-11-13 |
-| [Amor](https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/4bgkjiptkmzGU2jDrQjH44) | 2:35 | 2022-09-16 |  |
+| [Amor](https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/4bgkjiptkmzGU2jDrQjH44) | 2:35 | 2022-09-16 | 2023-02-27 |
 | [Anillo al dedo](https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Anillo al dedo](https://open.spotify.com/album/1GDnI83EYCQAn7SCCKE2pB) | 2:21 | 2022-03-22 | 2022-04-29 |
 | [Bella Ciao \- Bruno Martini Remix](https://open.spotify.com/track/6tvHnOzbN9SCAcuuNIUMBa) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bella Ciao \(Bruno Martini Remix\)](https://open.spotify.com/album/25B1ptbmz30BrYXGI2R8ty) | 2:41 | 2022-03-22 | 2022-04-29 |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-01 |  |

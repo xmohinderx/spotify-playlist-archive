@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL PAIN",
+        "url": "https://open.spotify.com/album/1p8hIh8lVbRtbgnNQVprJ4"
+      },
+      "artists": [
+        {
+          "name": "TRPLSFL",
+          "url": "https://open.spotify.com/artist/2TVP0556fwFwUW0TjHCww2"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238326,
+      "name": "ETERNAL PAIN",
+      "url": "https://open.spotify.com/track/3peSjzHxueZ5Us5IoNFQmL"
+    },
+    {
+      "album": {
         "name": "wave 002",
         "url": "https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W"
       },

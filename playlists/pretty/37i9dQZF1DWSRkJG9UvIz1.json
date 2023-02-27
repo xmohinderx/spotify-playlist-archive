@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121517,
+  "num_followers": 121659,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDFiNzFmZjNhMzcwYzZlYjUwYjRjNTljNDIzYTYxM2Mw",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDUxZTg2MDM3NWFlMTdkYzczMTEzZTc4NDg2YTE5YzQw",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156744,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 174543,
       "name": "Quarta Feira",
       "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156744,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
     },
     {
       "added_at": "2022-11-25 03:00:00",

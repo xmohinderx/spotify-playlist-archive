@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Shershaah
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,377 likes - 90 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,793 likes - 90 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

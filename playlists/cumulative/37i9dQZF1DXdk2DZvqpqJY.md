@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-242 songs - 15 hr 20 min
+243 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Satori Ways](https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Satori Ways](https://open.spotify.com/album/2ddXqx3PYPz15XT9Np5ler) | 5:36 | 2022-02-17 | 2022-04-23 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2022-02-17 | 2022-11-02 |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2022-11-10 |  |
-| [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 |  |
+| [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 | 2023-02-27 |
 | [Sit and Think](https://open.spotify.com/track/5JlXZM6sPT5KJWz70Gd9uo) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Sit and Think](https://open.spotify.com/album/5MLFlxyn74kwSMHLjn1Xcg) | 2:11 | 2023-01-05 | 2023-01-27 |
 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 | 2022-05-25 |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 | 2022-06-03 |
@@ -245,6 +245,7 @@
 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 | 2022-02-17 | 2023-02-02 |
 | [Widest Possible Aperture](https://open.spotify.com/track/7xRIniTEZ6rSosznsSrY7a) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Where the Streets Lead](https://open.spotify.com/album/1AHYZ7pgGuiq1t7YFScrzL) | 5:55 | 2022-02-17 | 2023-02-16 |
 | [Yipee](https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Yipee](https://open.spotify.com/album/65f6s3zvSKgc39bx0IsDJD) | 2:16 | 2022-02-17 | 2022-03-12 |
+| [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 | 2023-02-23 |  |
 | [Youth](https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Youth](https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp) | 5:08 | 2022-02-17 | 2022-06-10 |
 | [YU YU](https://open.spotify.com/track/2UYVoA8FN7lEjR1bfRcjb2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [YU YU](https://open.spotify.com/album/6YIpdbYu4g2tMwwGGwcUbw) | 1:38 | 2022-12-09 | 2023-01-19 |
 | [Zari](https://open.spotify.com/track/7CKoRCXq7YNisjXbmU2ba8) | [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp), [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Nafs at Peace](https://open.spotify.com/album/3mihMKEickUerWqYhi2Vg6) | 5:51 | 2022-02-17 | 2022-02-21 |

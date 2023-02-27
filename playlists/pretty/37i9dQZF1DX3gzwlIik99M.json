@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210109,
+  "num_followers": 210126,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDBhZTlmN2M3ZmZjYjAwNmVjMTA1ZTc0MDUwNjZmZmQ3",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDI3YzY3MDY4NmI3MGMxNDI5YTI2ZDA5YzU2ZTViMDI3",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Lleva Tu Mente al Limite",
         "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 189053,
       "name": "En la Eternidad",
       "url": "https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Basado en Hechos Reales",
-        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 254748,
-      "name": "Cenizas\u202c",
-      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Khafra",
         "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Basado en Hechos Reales",
+        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
+      },
+      "artists": [
+        {
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
+        }
+      ],
+      "duration_ms": 254748,
+      "name": "Cenizas\u202c",
+      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Carnage Drinking Party",
         "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 170161,
       "name": "Poseido Por Mezcal",
       "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     }
   ],
   "unique_name": "Metal del Nuestro",

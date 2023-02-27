@@ -4,7 +4,7 @@
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-77 songs - 5 hr 28 min
+78 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-11-30 |  |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-11-30 |  |
 | [Leave Me Alone \(I'm Dancing\) \- Nicole Moudaber Remix](https://open.spotify.com/track/4xfER2IVBekjuP7SwQ71eH) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Leave Me Alone \(I'm Dancing\) \[Nicole Moudaber Remix\]](https://open.spotify.com/album/0jHkyekvBTEMW5CrAlbqAA) | 4:11 | 2022-11-30 |  |
-| [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-11-30 |  |
+| [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-11-30 | 2023-02-27 |
+| [LEFT TO RIGHT](https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q) | 2:26 | 2022-11-30 |  |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-11-30 |  |
 | [Love Ain't Over \- Carlita Remix](https://open.spotify.com/track/7AvRF0W6c6H5UzWZSojWlp) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Love Ain't Over \(Carlita Remix\)](https://open.spotify.com/album/030jhB9idkvjMsKVxculZ8) | 3:32 | 2022-11-30 |  |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2022-11-30 |  |

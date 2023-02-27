@@ -538,10 +538,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 165640,
       "name": "Korba",
       "url": "https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa"
+    },
+    {
+      "album": {
+        "name": "Silent Witness II",
+        "url": "https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0"
+      },
+      "artists": [
+        {
+          "name": "Silent Witness",
+          "url": "https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Korba",
+      "url": "https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC"
     },
     {
       "album": {
@@ -1422,10 +1444,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 207029,
       "name": "Waxtu",
       "url": "https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH"
+    },
+    {
+      "album": {
+        "name": "Niit",
+        "url": "https://open.spotify.com/album/6yxgpB7XI5e72889GB0G9i"
+      },
+      "artists": [
+        {
+          "name": "Kya Loum",
+          "url": "https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207029,
+      "name": "Waxtu",
+      "url": "https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT"
     },
     {
       "album": {

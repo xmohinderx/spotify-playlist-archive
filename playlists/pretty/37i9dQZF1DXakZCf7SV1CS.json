@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 31904,
+  "num_followers": 32020,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGNkZWJkMDA4OTY4MDJjOGFiMzFiMWUyMDc5Y2VlMTQ5",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDcyNDI2M2IyZTY5M2NkYjY1ZmUyMzkxYTU4N2M4YTMy",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 108363,
+      "name": "cheap liquor",
+      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -495,34 +511,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 108363,
-      "name": "cheap liquor",
-      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "hope u doing well",
-        "url": "https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE"
-      },
-      "artists": [
-        {
-          "name": "angelus",
-          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
-        }
-      ],
-      "duration_ms": 96653,
-      "name": "hope u doing well",
-      "url": "https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe"
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+        "name": "hope u doing well",
+        "url": "https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+      "duration_ms": 96653,
+      "name": "hope u doing well",
+      "url": "https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -571,22 +571,6 @@
       "duration_ms": 130206,
       "name": "1:15",
       "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -619,6 +603,22 @@
       "duration_ms": 202531,
       "name": "VYZEE",
       "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "IRIS",
-        "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 102362,
-      "name": "IRIS",
-      "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "detest me",
         "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 102362,
+      "name": "IRIS",
+      "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "doing it wrong",
         "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 147965,
       "name": "doing it wrong",
       "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "Visored Vitality",
         "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 202391,
       "name": "Of Course I Still Love You",
       "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO"
       },
       "artists": [
         {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+          "name": "BABii",
+          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
         }
       ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+      "duration_ms": 157652,
+      "name": "Drown U",
+      "url": "https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz"
     }
   ],
   "unique_name": "Hyperpop Classics",

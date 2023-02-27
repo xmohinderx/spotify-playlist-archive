@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "I Forgot That You Existed (Acoustic)",
+        "url": "https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Alvord",
+          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171243,
+      "name": "I Forgot That You Existed - Acoustic",
+      "url": "https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c"
+    },
+    {
+      "album": {
         "name": "I Get The Sweetest Feeling (Acoustic)",
         "url": "https://open.spotify.com/album/4w1g8oUimwJzYhmCK4O67j"
       },

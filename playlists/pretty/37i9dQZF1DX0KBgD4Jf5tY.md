@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1HHQ5Lz44duNiQmpzKU0jd">soap</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,545 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,552 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

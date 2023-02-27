@@ -4,7 +4,7 @@
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-114 songs - 6 hr 51 min
+115 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 | 2020-12-01 |  |
 | [Es Real](https://open.spotify.com/track/48mDMIRYbrVEcHjt5y7vpK) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Es Real](https://open.spotify.com/album/7L7hGH6oMXQ7J8uFceyvFz) | 3:18 | 2020-12-01 |  |
 | [Estar Aquí](https://open.spotify.com/track/2AuIf4nQ2xYblAIdYI2fWz) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Sailawway](https://open.spotify.com/artist/4Cb3Gv3va44konhWquPHN9) | [Estar Aquí](https://open.spotify.com/album/0KRvOqC3yS8ZxUU1wSws0d) | 3:18 | 2020-12-01 | 2022-07-29 |
-| [Estar Aquí](https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Estar Aquí](https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM) | 3:18 | 2020-12-01 |  |
+| [Estar Aquí](https://open.spotify.com/track/5xeU3C13U7d8d6HOIhT8e4) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:18 | 2020-12-01 |  |
+| [Estar Aquí](https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Estar Aquí](https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM) | 3:18 | 2020-12-01 | 2023-02-27 |
 | [Eternos](https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Eternos](https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U) | 3:43 | 2020-12-01 |  |
 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 | 2020-12-01 |  |
 | [Good Bad Times](https://open.spotify.com/track/1WOm9cjWd1m9MxY5c6YtO8) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Good Bad Times](https://open.spotify.com/album/1gMfclOm7dF5otF3Jw5j5s) | 3:18 | 2020-12-01 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 104350,
+  "num_followers": 104382,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTMwMiwwMDAwMDAwMGU2OWNkNmQ4N2NlNmZlNzY5NGViOGM2YWUyMmZjYmMx",
+  "snapshot_id": "MTY3NjA0NTMwMiwwMDAwMDAwMGU1YmRiNTE1N2ZiYTY5OGIwYmE3NTcyNDg3OTYzN2Jk",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Parcerita",
         "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Eclipse Lunar",
-        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
+        "name": "LOML (feat. Olamide)",
+        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
       },
       "artists": [
         {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 193491,
-      "name": "Eclipse Lunar",
-      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
+      "duration_ms": 196139,
+      "name": "LOML (feat. Olamide)",
+      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "LOML (feat. Olamide)",
-        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
+        "name": "Eclipse Lunar",
+        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
       },
       "artists": [
         {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
-      "duration_ms": 196139,
-      "name": "LOML (feat. Olamide)",
-      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
+      "duration_ms": 193491,
+      "name": "Eclipse Lunar",
+      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
     },
     {
       "added_at": "2023-01-27 05:00:00",

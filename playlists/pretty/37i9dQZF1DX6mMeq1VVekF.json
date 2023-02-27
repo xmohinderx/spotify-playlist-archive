@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 135445,
+  "num_followers": 135500,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDdhNGFmYTMzMjZkNzM2NDMxNWY5MThmNzRkMDkwMTgw",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDJlZTJhY2UzYjdjNjc4ZGUyYzFhMGRjZGUxOWYxZjIz",
   "tracks": [
     {
       "added_at": "2022-10-28 10:36:10",
@@ -675,26 +675,18 @@
     {
       "added_at": "2022-10-28 10:36:10",
       "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
       "artists": [
         {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 192733,
-      "name": "terms (feat. Dominic Fike & Denzel Curry)",
-      "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-10-28 10:36:10",
@@ -715,18 +707,26 @@
     {
       "added_at": "2022-10-28 10:36:10",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+      "duration_ms": 192733,
+      "name": "terms (feat. Dominic Fike & Denzel Curry)",
+      "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
     },
     {
       "added_at": "2022-10-28 10:36:10",

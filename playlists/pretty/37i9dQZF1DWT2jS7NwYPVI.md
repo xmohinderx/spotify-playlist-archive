@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Militarie Gun
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,766 likes - 102 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,858 likes - 102 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 81 | [Kaden's Van](https://open.spotify.com/track/6xYUqjuiCUX5ZX6V7EKfSw) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Kaden's Van](https://open.spotify.com/album/3GKk6TY6hsUXHzyXrtfvgH) | 2:37 |
 | 82 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 |
 | 83 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 |
-| 84 | [Midnight Ferry](https://open.spotify.com/track/5w98idOMOIFLAtdD0tZesi) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Midnight Ferry](https://open.spotify.com/album/5MnpPCWnH2H9kiujpBg32d) | 2:45 |
+| 84 | [Midnight Ferry](https://open.spotify.com/track/1gS3E10uJhhSxsDtIKMjLf) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 2:45 |
 | 85 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 |
 | 86 | [Sonic Bloom](https://open.spotify.com/track/73tPnycet3ZNEKjKoO3k2x) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Sonic Bloom](https://open.spotify.com/album/38NK5EQfJeuDYmpFIomJtm) | 3:17 |
 | 87 | [Burn](https://open.spotify.com/track/6UhTcphGFjBnbkfMD4u8db) | [Alexis Munroe](https://open.spotify.com/artist/6yBtoVjaVbLRaxnxlepboB) | [Burn](https://open.spotify.com/album/7c3JgRXjeSYbqjtyW9Xdae) | 3:33 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [Dinner For One](https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Dinner For One](https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R) | 2:23 |
 | 102 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 |
 
-Snapshot ID: `MTY3NzI3NDU2NCwwMDAwMDAwMDY4NDY0ZjNhZWI0NDhiYWIzMDI0MzZiYWE1MmFiYTRj`
+Snapshot ID: `MTY3NzI3NDU2NCwwMDAwMDAwMDkxN2RkOTVhMDg4ZDg0N2I0YmZjMmI4MWRhZGM1Yjg2`

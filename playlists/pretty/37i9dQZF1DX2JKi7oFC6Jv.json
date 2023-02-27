@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 98324,
+  "num_followers": 98338,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMGE0Y2FlM2Q2MzBhODM2ZmJiOGQzYjVlMmYzYWY4MjAz",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDBiOTNjN2M3YTg3M2IyYjlmNWRjMjE2ZTQ5M2M0M2Fj",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -659,6 +659,26 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Make Money",
+        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
+        },
+        {
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
+        }
+      ],
+      "duration_ms": 197072,
+      "name": "Make Money",
+      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "My Circle (Remix)",
         "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 260000,
       "name": "My Circle - Remix",
       "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Make Money",
-        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
-        },
-        {
-          "name": "Bryte",
-          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
-        }
-      ],
-      "duration_ms": 197072,
-      "name": "Make Money",
-      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Diary of a Princess",
+        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
+      },
+      "artists": [
+        {
+          "name": "Princess Nyah",
+          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Da Linha",
         "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 170901,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Diary of a Princess",
-        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
-      },
-      "artists": [
-        {
-          "name": "Princess Nyah",
-          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
     },
     {
       "added_at": "2022-04-13 15:03:02",

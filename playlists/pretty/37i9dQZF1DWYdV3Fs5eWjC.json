@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
-  "num_followers": 73636,
+  "num_followers": 73647,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU3OTAwNiwwMDAwMDAwMGU5Y2E5MzUzMzgxYWYzNzliM2ZlYjM5NDEwMDRlMTY0",
+  "snapshot_id": "MTY3NDU3OTAwNiwwMDAwMDAwMDQwMGU0YzBmMzlhMWJhMDliOWFkNjM0ZDliZGYwMTE3",
   "tracks": [
     {
       "added_at": "2022-05-31 20:14:29",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "The Turning Wheel",
-        "url": "https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2"
-      },
-      "artists": [
-        {
-          "name": "Spellling",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
-        }
-      ],
-      "duration_ms": 339307,
-      "name": "Little Deer",
-      "url": "https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
         "name": "Sick Bitch",
         "url": "https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 259849,
       "name": "Sick Bitch",
       "url": "https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "The Turning Wheel",
+        "url": "https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2"
+      },
+      "artists": [
+        {
+          "name": "Spellling",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 339307,
+      "name": "Little Deer",
+      "url": "https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP"
     },
     {
       "added_at": "2022-05-31 20:14:29",

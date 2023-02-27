@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pettinellis",
-  "num_followers": 199998,
+  "num_followers": 199996,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDYxNTE2NGZjM2E5MTkwMzY4OWI4ZGRiNjgzYzk0MDEy",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGJhYTUyYzhhZmRmZTk0N2MxZGQzYjlkZWMzMDQ1NTkz",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z"
-      },
-      "artists": [
-        {
-          "name": "Sonora de Llegar",
-          "url": "https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV"
-        },
-        {
-          "name": "Skuela de Baile",
-          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "93",
-      "url": "https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 292586,
       "name": "Viajar - Space Mix",
       "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z"
+      },
+      "artists": [
+        {
+          "name": "Sonora de Llegar",
+          "url": "https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV"
+        },
+        {
+          "name": "Skuela de Baile",
+          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "93",
+      "url": "https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Indirectas",
-        "url": "https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf"
-      },
-      "artists": [
-        {
-          "name": "Corvje",
-          "url": "https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Indirectas",
-      "url": "https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Como te amo (Radio Edit)",
         "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 176471,
       "name": "Como te amo - Radio Edit",
       "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Indirectas",
+        "url": "https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf"
+      },
+      "artists": [
+        {
+          "name": "Corvje",
+          "url": "https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Indirectas",
+      "url": "https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Las Balas",
-        "url": "https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8"
-      },
-      "artists": [
-        {
-          "name": "AncestroSiniestro",
-          "url": "https://open.spotify.com/artist/1WG7GKQajwekEpWivRO5Fk"
-        }
-      ],
-      "duration_ms": 229829,
-      "name": "Las Balas",
-      "url": "https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Vueltas y Vueltas",
         "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 195600,
       "name": "Vueltas y Vueltas",
       "url": "https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Las Balas",
+        "url": "https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8"
+      },
+      "artists": [
+        {
+          "name": "AncestroSiniestro",
+          "url": "https://open.spotify.com/artist/1WG7GKQajwekEpWivRO5Fk"
+        }
+      ],
+      "duration_ms": 229829,
+      "name": "Las Balas",
+      "url": "https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Vamos!",
-        "url": "https://open.spotify.com/album/3Llg6NgYDQpgiIOSYXh0cs"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 219979,
-      "name": "Vamos!",
-      "url": "https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Un D\u00eda por Concepci\u00f3n",
         "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "P\u00e1lida Forma Nocturna",
-        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
+        "name": "Vamos!",
+        "url": "https://open.spotify.com/album/3Llg6NgYDQpgiIOSYXh0cs"
       },
       "artists": [
         {
-          "name": "Pablo Ilabaca",
-          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 224235,
-      "name": "P\u00e1lida Forma Nocturna",
-      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
+      "duration_ms": 219979,
+      "name": "Vamos!",
+      "url": "https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Voy Saliendo",
-        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
+        "name": "P\u00e1lida Forma Nocturna",
+        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "Pablo Ilabaca",
+          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
         }
       ],
-      "duration_ms": 196336,
-      "name": "Voy Saliendo",
-      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
+      "duration_ms": 224235,
+      "name": "P\u00e1lida Forma Nocturna",
+      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Voy Saliendo",
+        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 196336,
+      "name": "Voy Saliendo",
+      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Le\u00f3n",
         "url": "https://open.spotify.com/album/0g5yUK56Za7kEZBQ9HcEYs"
       },
@@ -1455,38 +1455,6 @@
       "duration_ms": 181968,
       "name": "Le\u00f3n",
       "url": "https://open.spotify.com/track/0zwGBLvZJejp7C1wZbI1je"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "La Noche de la Iguana",
-        "url": "https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9mpera",
-          "url": "https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g"
-        }
-      ],
-      "duration_ms": 179969,
-      "name": "La Noche de la Iguana",
-      "url": "https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Tu mundo al rev\u00e9s",
-        "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 224885,
-      "name": "Tu mundo al rev\u00e9s",
-      "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1507,6 +1475,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "La Noche de la Iguana",
+        "url": "https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9mpera",
+          "url": "https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g"
+        }
+      ],
+      "duration_ms": 179969,
+      "name": "La Noche de la Iguana",
+      "url": "https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Flores Pl\u00e1sticas",
         "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 178000,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Tu mundo al rev\u00e9s",
+        "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 224885,
+      "name": "Tu mundo al rev\u00e9s",
+      "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A"
+      },
+      "artists": [
+        {
+          "name": "Condor",
+          "url": "https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0"
+        }
+      ],
+      "duration_ms": 301655,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Camino Hacia el Sol",
         "url": "https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG"
       },
@@ -1651,38 +1667,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Mar\u00eda Luc\u00eda (Live)",
-        "url": "https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Arocena",
-          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "Mar\u00eda Luc\u00eda - Live",
-      "url": "https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A"
-      },
-      "artists": [
-        {
-          "name": "Condor",
-          "url": "https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0"
-        }
-      ],
-      "duration_ms": 301655,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Solo Humanos",
         "url": "https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 224464,
       "name": "Solo Humanos",
       "url": "https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Mar\u00eda Luc\u00eda (Live)",
+        "url": "https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arocena",
+          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "Mar\u00eda Luc\u00eda - Live",
+      "url": "https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma"
     }
   ],
   "unique_name": "Rock Chileno",

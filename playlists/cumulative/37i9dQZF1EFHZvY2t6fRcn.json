@@ -1847,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Two Sides (I\u2019m So Gemini)",
+        "url": "https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126625,
+      "name": "Two Sides (I\u2019m So Gemini)",
+      "url": "https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q"
+    },
+    {
+      "album": {
         "name": "Bigger Love",
         "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,092 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,125 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 7 | [SLV \(Title Track\) \- From "SLV\-Siri Lambodhara Vivaha"](https://open.spotify.com/track/7sTx6sQI85uLRcYVVfzCUK) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA), [Sangarsh Kumar](https://open.spotify.com/artist/0zHIaMB2YlyVlELmjAM8Xk), [Bhargava Hegde](https://open.spotify.com/artist/13UX8hdnSC2XtAFzEpnaY4), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [SLV \(Title Track\) \[From "SLV\-Siri Lambodhara Vivaha"\]](https://open.spotify.com/album/5LZwQoNNrn4xiqRYvL3Co0) | 3:28 |
 | 8 | [Kailasa \(From "Ranga Samudra"\)](https://open.spotify.com/track/2B9YnY1V5BczXTyauNUIwo) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Desi Mohan](https://open.spotify.com/artist/3ulgjGAAoPrw7rHaMfR9sa), [Vagish Channagiri](https://open.spotify.com/artist/7fLsKdmYi0nnKNRnydobpO) | [Kailasa \(From "Ranga Samudra"\)](https://open.spotify.com/album/3cGRrgqrOBY1MEvbzI7M5j) | 4:16 |
 | 9 | [Ghost Theme Music](https://open.spotify.com/track/2Z4NzOBH9myKArrhWnGxtp) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Ghost](https://open.spotify.com/album/1KjaMLaFgkWhSpt87g07xX) | 0:52 |
-| 10 | [Oh Olave Olave \(From "Love Birds"\)](https://open.spotify.com/track/6HbrW5M0r99OnZ4VxpTpTj) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Kaviraj](https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21) | [Oh Olave Olave \(From "Love Birds"\) \- Single](https://open.spotify.com/album/6EFXlnJ1BLUj62zsIMDttP) | 2:35 |
+| 10 | [Oh Olave Olave](https://open.spotify.com/track/5pvsocI9f8Hg6ooQq5XBpb) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Kaviraj](https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21) | [Love Birds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NTXHjnSEcyprmBXyzOH0h) | 2:35 |
 | 11 | [Baa Horage Baa \(From "Pentagon"\)](https://open.spotify.com/track/1nktraUJOPM9wSvXazDg1x) | [Vyasaraj Sosale](https://open.spotify.com/artist/0O8FIZczDo2bCQ3tbSm0q5), [Kadri Manikanth](https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0), [Raghu Shimoga](https://open.spotify.com/artist/4jZzJgI7Y0RqccwCpuIdmq) | [Baa Horage Baa \(From "Pentagon"\)](https://open.spotify.com/album/06BjpukjdjNucbOYecPPiB) | 2:02 |
 | 12 | [Bogaseyalli \(from "Gowli"\)](https://open.spotify.com/track/2tLw1mRenERa9TCPIBbGYm) | [Indu Nagaraj](https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Bogaseyalli \(from "Gowli"\)](https://open.spotify.com/album/5GfULun5gx2cf6OvaZywbY) | 3:14 |
 | 13 | [Orr Vaari \(From "Dasara"\)](https://open.spotify.com/track/0ZwdlveEv5eyWlGW5aiG19) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Orr Vaari \(From "Dasara"\) \- Single](https://open.spotify.com/album/1WghIUiak89HN6PLTKQ55W) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 99 | [Hodare Hogu Yaarige Beku](https://open.spotify.com/track/7aGVMy9HJ5UBvZiYfWb2y9) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Raymo](https://open.spotify.com/album/2d73atLAA3Mr9CdG4nYTNO) | 4:27 |
 | 100 | [Kesariya Rangu](https://open.spotify.com/track/3X0CBCVKnvNajOvuSN0ngN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Brahmastra \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1eUqIrELR2kac2RjtgXMQr) | 4:38 |
 
-Snapshot ID: `MTY3NzEzNTY1MSwwMDAwMDAwMGI3ZTgwNTkyM2EwMDljZDBjYWIyM2JkNGU4N2JkNDM2`
+Snapshot ID: `MTY3NzEzNTY1MSwwMDAwMDAwMGIzOGNlY2U0OThjMzA2MWRhMjkyN2NjMGI5MmU2OThl`

@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 7336,
+  "num_followers": 7370,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMGU0MjMzMmVkMTBmYzAzMDExNTc1NGIzY2M3YmJlZWFm",
+  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMGViYTFiM2I2YWU4OWZjNTgzMmQyMmIwN2M1NDE2YzJh",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse] [Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse]",
         "url": "https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 148746,
       "name": "PS5 (Fortnite Battle Pass Gamer Remix) [with Alan Walker & Abdul Cisse]",
       "url": "https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Kill Me With Your Love",
-        "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 174736,
-      "name": "Kill Me With Your Love",
-      "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "FUNKONAUT",
         "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210666,
       "name": "FUNKONAUT",
       "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Kill Me With Your Love",
+        "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 174736,
+      "name": "Kill Me With Your Love",
+      "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
     },
     {
       "added_at": "2022-11-30 13:46:00",

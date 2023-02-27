@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-515 songs - 22 hr 7 min
+516 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2022-06-07 |  |
 | [Change](https://open.spotify.com/track/0qfaICSE5qhRYHcetUqtbv) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Change](https://open.spotify.com/album/7tLi6HytSTQ65bozthbybW) | 3:01 | 2022-06-07 | 2022-09-24 |
 | [Changements](https://open.spotify.com/track/2tujCQTkcY1vCNynkn0Jiu) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Changements](https://open.spotify.com/album/5sjtsgMoKlPyp1GcrW5op1) | 2:45 | 2022-07-19 |  |
+| [Childhood Memories](https://open.spotify.com/track/67blgLNpXyQctm8hSeu7Zz) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Daydream](https://open.spotify.com/album/1n14kNOFaiKcaDte5v6Sjz) | 2:25 | 2022-12-22 |  |
 | [Childhood Memories](https://open.spotify.com/track/7J1YYJryHQh6ocCgIZpjk3) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Daydream](https://open.spotify.com/album/5I1UPuEInRdfp2rpP9lFam) | 2:25 | 2022-06-07 | 2023-01-20 |
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2022-06-07 |  |
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2022-06-07 |  |
@@ -344,7 +345,7 @@
 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 | 2022-06-07 | 2022-07-20 |
 | [Round Corners](https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Round Corners](https://open.spotify.com/album/2nSqjcfvtIkeqzscccMkZr) | 2:26 | 2022-06-07 |  |
 | [Rêveuse](https://open.spotify.com/track/2WKKf8jH7nOZ28yLjr67RM) | [Hibou](https://open.spotify.com/artist/6HhcL4UQynXwbA9sLoonuy) | [Rêveuse](https://open.spotify.com/album/4RbYp5krh9CSt7DTrfSmnb) | 2:11 | 2022-06-07 | 2022-09-24 |
-| [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 | 2022-06-07 |  |
+| [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 | 2022-06-07 | 2023-02-27 |
 | [Sacred Secret](https://open.spotify.com/track/4sVyIUWPXRaXeu4f3PcsHL) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Sacred Secret](https://open.spotify.com/album/6U50m93mAe1gTDENvUukNW) | 2:00 | 2022-06-07 | 2022-07-20 |
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2022-06-07 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2022-06-07 |  |

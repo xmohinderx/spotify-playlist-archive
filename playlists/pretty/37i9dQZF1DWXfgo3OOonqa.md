@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > kvar på samma plats vi starta
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,609 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,700 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

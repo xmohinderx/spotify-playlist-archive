@@ -12294,7 +12294,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -13136,7 +13136,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 148888,
       "name": "LUFT F\u00d6R MIG",
       "url": "https://open.spotify.com/track/2L6eCNSJ5dZ7o8Wx57bcSy"
@@ -13288,7 +13288,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 184440,
       "name": "L\u00e5t hela stan se p\u00e5",
       "url": "https://open.spotify.com/track/1ZmXkSbIt88oScLQlkU8so"
@@ -16892,7 +16892,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 108536,
       "name": "REAL ONES",
       "url": "https://open.spotify.com/track/2Qxz8zUs7G3awJEnNQT5mi"
@@ -20579,6 +20579,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
         "name": "Team 2 much",
         "url": "https://open.spotify.com/album/6QSDohjNFcchOA3sIZcJFY"
       },
@@ -23174,7 +23192,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 221913,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/43xz0Ed6oE5r3FSblGZtE0"

@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Cottonwood Firing Squad",
-  "num_followers": 280807,
+  "num_followers": 280860,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDJlODJkNGJjYjE5OWVhZmMwZjIzNzM3NTRlNWRhNTgw",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGI4YjIxMjYyMGI5NmFkZjJmYjYzYzlmNDUzOTU3YTI1",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Pieces of Gold",
@@ -585,22 +601,6 @@
       "url": "https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Pictures of You",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Girls Are Mean",
+        "url": "https://open.spotify.com/album/182qE2hYjrQqJie3Dqrzlo"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 170402,
+      "name": "Girls Are Mean",
+      "url": "https://open.spotify.com/track/0fMtFak025bkGYL8GHQ2UE"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Thin Air",
@@ -671,22 +687,6 @@
       "duration_ms": 214333,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Girls Are Mean",
-        "url": "https://open.spotify.com/album/182qE2hYjrQqJie3Dqrzlo"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 170402,
-      "name": "Girls Are Mean",
-      "url": "https://open.spotify.com/track/0fMtFak025bkGYL8GHQ2UE"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "We're Here, My Dear",
@@ -801,22 +817,6 @@
       "url": "https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4"
     },
     {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Let's Try This Again",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-17 19:42:49",
       "album": {
-        "name": "Quiet the Room",
-        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Whatever Fits Together",
-      "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
         "name": "play it pretty",
         "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "Quiet the Room",
+        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Whatever Fits Together",
+      "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/5gHHjvl70x2T4DdWKFVLM7"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 199861,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Miss Carolina (feat. Carlie Hanson)",
@@ -917,20 +933,20 @@
       "url": "https://open.spotify.com/track/0QkPOadK79NBJtlG8R6JMF"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/5gHHjvl70x2T4DdWKFVLM7"
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ"
       },
       "artists": [
         {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
         }
       ],
-      "duration_ms": 199861,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
+      "duration_ms": 227640,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -965,22 +981,6 @@
       "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "runnning in place at the edge of the map",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh"
     },
     {
+      "added_at": "2023-01-06 10:38:00",
+      "album": {
+        "name": "nothing special",
+        "url": "https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB"
+      },
+      "artists": [
+        {
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "nothing special",
+      "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
+    },
+    {
       "added_at": "2023-01-17 19:42:49",
       "album": {
         "name": "Space Cowboy",
@@ -1043,22 +1059,6 @@
       "duration_ms": 255422,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD"
-    },
-    {
-      "added_at": "2023-01-06 10:38:00",
-      "album": {
-        "name": "nothing special",
-        "url": "https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB"
-      },
-      "artists": [
-        {
-          "name": "wilt",
-          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "nothing special",
-      "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "i only sing about food",
-        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "i only sing about food",
-      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Jellyfish",
@@ -1171,6 +1155,22 @@
       "duration_ms": 212138,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
     },
     {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "Abalone",
-        "url": "https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 126524,
-      "name": "Abalone",
-      "url": "https://open.spotify.com/track/4OGBU3agg96CA483Q280FP"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "how would you know",
@@ -1285,20 +1269,20 @@
       "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2022-12-16 04:00:00",
       "album": {
-        "name": "Lain (phone clone)",
-        "url": "https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k"
+        "name": "Abalone",
+        "url": "https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT"
       },
       "artists": [
         {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
         }
       ],
-      "duration_ms": 241003,
-      "name": "Lain (phone clone)",
-      "url": "https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT"
+      "duration_ms": 126524,
+      "name": "Abalone",
+      "url": "https://open.spotify.com/track/4OGBU3agg96CA483Q280FP"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1349,20 +1333,20 @@
       "url": "https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr"
     },
     {
-      "added_at": "2023-01-17 19:42:49",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Ur Name on a Grain of Rice (demo)",
-        "url": "https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu"
+        "name": "Breaking Up",
+        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
         }
       ],
-      "duration_ms": 270978,
-      "name": "Ur Name on a Grain of Rice - demo",
-      "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
+      "duration_ms": 183706,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1381,20 +1365,20 @@
       "url": "https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-01-17 19:42:49",
       "album": {
-        "name": "Breaking Up",
-        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
+        "name": "Ur Name on a Grain of Rice (demo)",
+        "url": "https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu"
       },
       "artists": [
         {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
+      "duration_ms": 270978,
+      "name": "Ur Name on a Grain of Rice - demo",
+      "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1449,6 +1433,22 @@
       "url": "https://open.spotify.com/track/3q616lz9fcp3n9siMPQQlM"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "carnegie hall",
+        "url": "https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "duration_ms": 285734,
+      "name": "carnegie hall",
+      "url": "https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN"
+    },
+    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "4th of July",
@@ -1497,22 +1497,6 @@
       "url": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "carnegie hall",
-        "url": "https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC"
-      },
-      "artists": [
-        {
-          "name": "two blinks, i love you",
-          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
-        }
-      ],
-      "duration_ms": 285734,
-      "name": "carnegie hall",
-      "url": "https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Suburbia",
@@ -1533,22 +1517,6 @@
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Nothing In Particular",
-        "url": "https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        }
-      ],
-      "duration_ms": 207371,
-      "name": "Nothing In Particular",
-      "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
-    },
-    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "HOLIDAY",
@@ -1565,20 +1533,20 @@
       "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "\u200evacation",
-        "url": "https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz"
+        "name": "Nothing In Particular",
+        "url": "https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY"
       },
       "artists": [
         {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         }
       ],
-      "duration_ms": 230884,
-      "name": "\u200evacation",
-      "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
+      "duration_ms": 207371,
+      "name": "Nothing In Particular",
+      "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1597,6 +1565,22 @@
       "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "\u200evacation",
+        "url": "https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 230884,
+      "name": "\u200evacation",
+      "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
+    },
+    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Done With Bits",
@@ -1611,6 +1595,22 @@
       "duration_ms": 216266,
       "name": "Done With Bits",
       "url": "https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Dog",
+        "url": "https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg"
+      },
+      "artists": [
+        {
+          "name": "Farrah Hanna",
+          "url": "https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z"
+        }
+      ],
+      "duration_ms": 171345,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
     }
   ],
   "unique_name": "undercurrents",

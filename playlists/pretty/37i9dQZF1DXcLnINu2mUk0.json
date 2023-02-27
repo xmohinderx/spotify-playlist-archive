@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26675,
+  "num_followers": 26710,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDc3MTM1NGQzNDRlZWVlOGFkZTE4YjE4YWZmMTY1ZGQw",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDdmYjFhNTdiZmMwNWY3Mzc3ODNjMjc0NDA2OTBlMzA0",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
-      "added_at": "2023-02-26 01:06:12",
+      "added_at": "2023-02-27 01:41:43",
       "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Ver\u00e3o Azul",
         "url": "https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 282411,
       "name": "Ver\u00e3o Azul - Encore Sessions",
       "url": "https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 256144,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
     },
     {
-      "added_at": "2023-02-26 01:06:12",
+      "added_at": "2023-02-27 01:41:43",
       "album": {
         "name": "Tenta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m"

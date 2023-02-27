@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Man\u00fa, Be\u00e9le & Andr\u00e9s Cepeda",
-  "num_followers": 248241,
+  "num_followers": 248260,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDhlOTFiZjE4ZDM2MDVjMWUxYmM1YTA0YzY0OGY2ZTk3",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDg0ZDNhNzllZDcwMzIxYzAzMzk5Nzk5ZTM1NThmMTRi",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Ven, Ven",
-        "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Ven, Ven",
-      "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 161835,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Ven, Ven",
+        "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Ven, Ven",
+      "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
     },
     {
       "added_at": "2023-02-24 05:01:00",

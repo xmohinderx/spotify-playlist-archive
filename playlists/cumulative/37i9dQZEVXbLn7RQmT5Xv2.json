@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 267610,
       "name": "Ana Ghaltan",
       "url": "https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "DAWLETNA",
+      "url": "https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb"
+    },
+    {
+      "album": {
         "name": "Dawly",
         "url": "https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy"
       },
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -4334,6 +4356,24 @@
       "duration_ms": 225343,
       "name": "Kan Lak Ma'aya (Feat. Umm Kulthum)",
       "url": "https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3"
+    },
+    {
+      "album": {
+        "name": "MESAMA3EEN",
+        "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "KATAFAST",
+      "url": "https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm"
     },
     {
       "album": {
@@ -8922,7 +8962,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 238248,
       "name": "Wasa3 Wasa3",
       "url": "https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM"

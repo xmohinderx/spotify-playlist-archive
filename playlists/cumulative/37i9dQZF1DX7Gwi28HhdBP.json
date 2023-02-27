@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "! \u0642\u0631\u0627\u064a\u0628 \u0645\u064a\u0646",
+        "url": "https://open.spotify.com/album/0OqkvZCKE4wS1CrQn93ajP"
+      },
+      "artists": [
+        {
+          "name": "Abd El Basset Hamouda",
+          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296681,
+      "name": "! \u0642\u0631\u0627\u064a\u0628 \u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/2kGQIPHJwTXNTJlj937sjV"
+    },
+    {
+      "album": {
         "name": "100 Hesab",
         "url": "https://open.spotify.com/album/7exu7uJTUCw4gvw1wnhBq1"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 259918,
       "name": "\u0627\u0644\u0628\u0637\u0647 \u0627\u0644\u0628\u0637\u0647",
       "url": "https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 181212,
       "name": "\u0635\u0627\u062d\u0628\u0629 \u0627\u0644\u0639\u0631\u0648\u0633\u0629",
       "url": "https://open.spotify.com/track/6mhqJtWrOrAcScfNucJCuq"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 253709,
       "name": "\u0643\u0627\u0633 \u0627\u0644\u0639\u0630\u0627\u0628",
       "url": "https://open.spotify.com/track/691pg3e2jxVBpIyuokCsf6"

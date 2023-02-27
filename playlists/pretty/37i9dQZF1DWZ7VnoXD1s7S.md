@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,678 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,057 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 6 | [Bleached](https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu) | [Video Days](https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe) | [sungazing](https://open.spotify.com/album/6LhN2ibtSczdogP7IrJIhM) | 1:23 |
 | 7 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
 | 8 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 |
-| 9 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 |
+| 9 | [drowning](https://open.spotify.com/track/3r56YqTq616bQvdBMHU6WE) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/4RIdbEZCQyK0aPh2YTbJIX) | 1:57 |
 | 10 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 11 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 |
 | 12 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 80 | [Outro](https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Henry Nowhere](https://open.spotify.com/album/5ayz7Qdd4R5OASJ7NE0doo) | 1:02 |
 
-Snapshot ID: `MTY3NTk3NzEzNywwMDAwMDAwMDM5Y2YyN2RhMDczZGY5OTgyMDA0ZDUwMGIwZThhODQy`
+Snapshot ID: `MTY3NTk3NzEzNywwMDAwMDAwMDFhNjBiMjVkNTllMTgzN2RiNzdmNDZhZTNkZjlmOTE0`

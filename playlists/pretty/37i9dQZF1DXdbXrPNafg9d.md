@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: U.S\. Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,051 likes - 173 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,102 likes - 173 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nadja](https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 4:06 |
 | 2 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 |
-| 3 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 3 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 4 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 |
 | 5 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 |
 | 6 | [Campanita](https://open.spotify.com/track/0NreA5b6Mmd56S7JO2eFAU) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/0dbf0XzUlCx9QA06bYYQM5) | 3:13 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 |
 | 173 | [I KNOW YOU'RE HAPPY](https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDRmY2MzNDYwZjFiZDY4MDlhNzQxOGQ4YzQyNTU0N2Jh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGQxNTJhYTA1YTY4YWIwOWE3NmEwZDgxMmY3OTY3ZTkx`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,725 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,724 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 |
 | 2 | [Fucked It Up](https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Fucked It Up](https://open.spotify.com/album/37dC8LHmBmziZzWvGV6QPi) | 3:58 |
-| 3 | [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 |
+| 3 | [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 |
 | 4 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 5 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 |
 | 6 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 102 | [Mother Love](https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 4:28 |
 | 103 | [No Body](https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 4:33 |
 
-Snapshot ID: `MTY3NzI1MjQ0MywwMDAwMDAwMGFiYzM2N2FjYmEzMzdlMTRlNmY2MDI5YzQ1NmNjY2I3`
+Snapshot ID: `MTY3NzI1MjQ0MywwMDAwMDAwMGVkNzNjOTViNGM0ZDYwNDgwOTE2MDY5YTk3MzdkNzQy`

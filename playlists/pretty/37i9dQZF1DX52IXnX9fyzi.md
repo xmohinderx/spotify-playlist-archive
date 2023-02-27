@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,871 likes - 204 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,060 likes - 204 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 69 | [Final Hour](https://open.spotify.com/track/6FrEmXntHD6IZeM8f0FIJM) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Final Hour](https://open.spotify.com/album/2nVKTxx2WuV0ZDlHFm2lDU) | 1:52 |
 | 70 | [Sanne](https://open.spotify.com/track/2poZ7JyF7ain5odsHddQ8T) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Aparigraha](https://open.spotify.com/album/272vdjKU9Wz68K6SMHtiiy) | 2:16 |
 | 71 | [La Belle Époque](https://open.spotify.com/track/3neszfVeLbV5zJmAABsWs0) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Retrato](https://open.spotify.com/album/3hQ5BEiTYPxDUM2en5mxXV) | 3:08 |
-| 72 | [Berceuse Lunaire](https://open.spotify.com/track/0u7orD5v4Yrw6NwaWdBh5Q) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/0oe2Iw47umB4rnfgeiAhrB) | 2:53 |
+| 72 | [Berceuse Lunaire](https://open.spotify.com/track/0zmrJp1U0cMtlYPmYw8nQU) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/16LXWruj5pIr0cJ9dVntNL) | 2:53 |
 | 73 | [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 |
 | 74 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 |
 | 75 | [Rosa Luxemburgo](https://open.spotify.com/track/3DSLUfpT5GcCoNin7XkUK0) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Rosa Luxemburgo](https://open.spotify.com/album/6rGf3FOvvgBG3JOxkNnj4t) | 2:36 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 203 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 |
 | 204 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 
-Snapshot ID: `MTY3Njk3NzM1OCwwMDAwMDAwMGM1OTAxMzgyZGE1YzMzNzkxOTMzZDhmNWNkN2M3NTQ0`
+Snapshot ID: `MTY3Njk3NzM1OCwwMDAwMDAwMGY2ZmY0YTRmZWYxN2Y0YmIzOGM0YTc5OTdhYWJkN2Y0`

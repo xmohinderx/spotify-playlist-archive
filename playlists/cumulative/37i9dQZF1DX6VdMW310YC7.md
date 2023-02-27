@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,443 songs - 4 day 3 hr 42 min
+1,444 songs - 4 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Easy On My Love](https://open.spotify.com/track/42vz4Q29BTq6MH4HFDtsi1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Easy On My Love](https://open.spotify.com/album/3FL3JphfQUd1U0TCmToEnU) | 3:04 | 2020-05-18 | 2020-07-03 |
 | [ECHO \(LET GO\)](https://open.spotify.com/track/5wRrFp0QbRIMfWrdUdanE7) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [IZII](https://open.spotify.com/artist/161mym5juYaMTRpbcVqmFf) | [ECHO \(LET GO\)](https://open.spotify.com/album/6cokunXDFVhfjAQaaPTewC) | 4:05 | 2020-05-22 | 2020-07-03 |
 | [Egypt](https://open.spotify.com/track/6fXMWTckEitvM78hW5PilD) | [Diamans](https://open.spotify.com/artist/76tvOhyl5wZuIAvNNzm8Se) | [Egypt](https://open.spotify.com/album/4RGqIg01HZeuerR3ABzMcV) | 3:51 | 2020-03-20 | 2021-07-28 |
+| [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-24 |  |
 | [Elounda](https://open.spotify.com/track/34IuscyAzI857oEJDoa3Qs) | [Brierley](https://open.spotify.com/artist/6ezlJbJEZYHeibXIoXWrxV) | [Free Life EP](https://open.spotify.com/album/60HpYf4DNcF4v919jqqEFR) | 3:37 | 2020-05-18 | 2020-07-03 |
 | [Embrace](https://open.spotify.com/track/3PdeXolnH5r6rN0ycXlHvf) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [Embrace](https://open.spotify.com/album/6pBg6D3fp68XXFusIejMI0) | 4:03 | 2020-05-18 | 2020-07-03 |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2020-03-21 | 2020-07-18 |
@@ -795,7 +796,7 @@
 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-13 |  |
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
-| [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 |  |
+| [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 | 2023-02-27 |
 | [Maradona](https://open.spotify.com/track/0y7JsPpdF6D75aHOZK998j) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [This Is Me](https://open.spotify.com/album/4OWqEzeZzgCPf40QoCIWMY) | 3:11 | 2020-05-22 | 2020-07-03 |
 | [Maradona Riddim](https://open.spotify.com/track/6QsMORizT7A2vwfOwU8xAM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Maradona Riddim](https://open.spotify.com/album/2tWgNOU6kAGkJMh1eSR18D) | 3:17 | 2020-05-18 | 2020-07-03 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2022-02-18 | 2023-02-18 |

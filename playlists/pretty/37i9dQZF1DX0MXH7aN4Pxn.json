@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687174,
+  "num_followers": 687144,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGJiNWEyNWZiM2VlMGU1Y2ViYWRmNGNkODUxNWY2MzU2",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGE1ODZkZWIxNTc4YjI4YTRmMjY1ZDUzMWM0YTk2MDFm",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1003,42 +1003,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Hold This",
-        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
-      },
-      "artists": [
-        {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Hold This",
-      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF"
       },
@@ -1059,6 +1023,42 @@
       "duration_ms": 194232,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Hold This",
+        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Hold This",
+      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "God Is A Dancer (with Mabel)",
         "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 168125,
       "name": "God Is A Dancer (with Mabel)",
       "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "We Come 1",
         "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 178285,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "House Arrest",
+        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 216441,
+      "name": "House Arrest",
+      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "House Arrest",
-        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 216441,
-      "name": "House Arrest",
-      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 142971,
-      "name": "Afraid (feat. HARLEE)",
-      "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
       },
@@ -1779,26 +1759,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         },
         {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
         }
       ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF"
+      "duration_ms": 142971,
+      "name": "Afraid (feat. HARLEE)",
+      "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1815,22 +1791,6 @@
       "duration_ms": 168091,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1859,6 +1819,46 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Peaches & Cream",
         "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
       },
@@ -1871,22 +1871,6 @@
       "duration_ms": 198956,
       "name": "Peaches & Cream",
       "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Don't You Worry About Me",
-        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Don't You Worry About Me",
-      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1907,6 +1891,22 @@
       "duration_ms": 188180,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Don't You Worry About Me",
+        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't You Worry About Me",
+      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
     },
     {
       "added_at": "2022-12-31 15:51:36",

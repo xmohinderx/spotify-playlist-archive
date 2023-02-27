@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Listen to 20 songs of 'Hipster Song' selected by So!YoON! \(황소윤이 직접 선곡한 '힙스터 곡' 20곡을 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,720 likes - 21 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 21 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

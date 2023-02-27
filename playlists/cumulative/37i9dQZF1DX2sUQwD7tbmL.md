@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-511 songs - 1 day 4 hr 57 min
+512 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2021-05-01 | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-07-22 |  |
 | [Goodpain](https://open.spotify.com/track/3rFeq7vjP5iyhEDssZV49n) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/4qaroMmrZ5Wdo5E1xjt6c8) | 4:21 | 2021-05-01 | 2022-07-29 |
-| [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 | 2021-05-01 |  |
+| [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 | 2021-05-01 | 2023-02-27 |
 | [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse EP](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2021-05-01 | 2022-07-29 |
 | [Gym Song](https://open.spotify.com/track/0BwhgXS1o78vTL3juOGBHG) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Body](https://open.spotify.com/album/18M0hSf4BfCmGczIcuEbc1) | 3:20 | 2021-05-01 | 2022-04-14 |
 | [Hands Down](https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [It’s Not All That Bad](https://open.spotify.com/album/0y3tRiTDYzj5IuQb0Kk86x) | 4:17 | 2021-07-19 | 2022-07-29 |
@@ -320,6 +320,7 @@
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-10-14 |  |
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2021-06-04 | 2022-04-20 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-22 |  |
+| [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-02-24 |  |
 | [nightmares](https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [nightmares](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96) | 3:27 | 2021-05-01 | 2022-04-14 |
 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2022-11-07 | 2022-11-13 |
 | [No Going Back](https://open.spotify.com/track/4AKN68fSI8weZ1dbN35QLi) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/53n71tD6F4I1afwJtjZCVS) | 3:28 | 2021-05-01 | 2022-07-29 |

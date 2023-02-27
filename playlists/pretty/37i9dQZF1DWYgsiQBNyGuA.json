@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 50310,
+  "num_followers": 50352,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MjQwNywwMDAwMDAwMGFkNDEzZGM5Y2ViMjFmYTY5N2NhMzJkMDI3NGZjMTM4",
+  "snapshot_id": "MTY3Njk5MjQwNywwMDAwMDAwMDQ4MWY0OGNiOTkzOWQ5ZTM1N2VmOWEwOGE5YTJhZTUw",
   "tracks": [
     {
       "added_at": "2023-02-17 12:29:49",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+    },
+    {
+      "added_at": "2023-02-17 12:29:49",
+      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 280600,
       "name": "Ain't No Use",
       "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
-    },
-    {
-      "added_at": "2023-02-17 12:29:49",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+      "duration_ms": 238480,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2023-02-17 12:29:49",
-      "album": {
         "name": "A Weird Kinda Wonderful",
         "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 311453,
       "name": "Can't Change Me",
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+    },
+    {
+      "added_at": "2023-02-17 12:29:49",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
-      "added_at": "2023-02-26 00:25:45",
+      "added_at": "2023-02-27 00:38:06",
       "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"

@@ -4,7 +4,7 @@
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Moby on cover.
 
-891 songs - 3 day 0 hr 43 min
+892 songs - 3 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Clarity](https://open.spotify.com/track/2daJNTleEs6jbmOUQGO3vZ) | [Lightseeds](https://open.spotify.com/artist/6OGtOD61GQjlbDhhjJ5ZgC) | [Clarity](https://open.spotify.com/album/53scKXqT6xR9NlhTBMU9BE) | 2:21 | 2022-02-18 |  |
 | [Clearing](https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 4:41 | 2022-09-16 |  |
 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 | 2022-09-16 |  |
-| [Cloud Hands](https://open.spotify.com/track/2ehqVRNX0DcWL7YZfcTsve) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [Cloud Hands](https://open.spotify.com/album/4TF5moCGGyALTWn8ZqrIH4) | 4:07 | 2021-12-24 |  |
+| [Cloud Hands](https://open.spotify.com/track/2ehqVRNX0DcWL7YZfcTsve) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [Cloud Hands](https://open.spotify.com/album/4TF5moCGGyALTWn8ZqrIH4) | 4:07 | 2021-12-24 | 2023-02-27 |
 | [Cloudline](https://open.spotify.com/track/6p4yw4aRRg2SJuQm898pla) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cloudline](https://open.spotify.com/album/1bLq05o6DZoBw85k6ITEsa) | 3:19 | 2022-12-31 |  |
 | [Club Nevermore](https://open.spotify.com/track/0zZrA8XWIMicKJKRs1i7Jj) | [HMOT](https://open.spotify.com/artist/1GebYQXIPHASwumbrmvZ3P), [Anastasia Tolchneva](https://open.spotify.com/artist/0yHdpGP80s4kxqvtCwoiaQ) | [Another Name — Original Motion Picture Soundtrack](https://open.spotify.com/album/09OZw4L2kK2nZxVYTsxoTh) | 3:30 | 2022-02-18 | 2022-09-17 |
 | [Coda](https://open.spotify.com/track/3QEKMqY8kueneD9fQInnKW) | [Manuel Zito](https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2) | [Coda](https://open.spotify.com/album/4fUSg3P9SixKFKKSMbeub3) | 1:19 | 2021-12-24 | 2022-02-15 |
@@ -345,6 +345,7 @@
 | [History of Us \- Lost fx Rework](https://open.spotify.com/track/5x2hPhp3NlFh6aG0nSZcXV) | [Saigon Would Be Seoul](https://open.spotify.com/artist/4lMrzSojvtk5cdiTpYx0E7), [Lost fx](https://open.spotify.com/artist/5QfZPGVMSIHg51WZBe6LBu) | [History of Us \(Lost fx Rework\)](https://open.spotify.com/album/1hIssstWtFdijWGvrZNOQh) | 3:48 | 2021-12-24 | 2022-03-07 |
 | [Holding Light](https://open.spotify.com/track/4UMkyZTPkmsSOHzI3msBOo) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Zones, Drones & Atmospheres](https://open.spotify.com/album/2Ei9bcoixgGtztd0ApIK1L) | 9:53 | 2022-01-14 | 2022-01-25 |
 | [Holographic Principle \- slow universe remix](https://open.spotify.com/track/6dQBU5xfVsd7bfOj2KxB5n) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [The Universe Slows Down](https://open.spotify.com/album/3UhaLEQWPnXy80pKZ4WBNd) | 2:52 | 2023-01-20 |  |
+| [Holy Instrumental Worship](https://open.spotify.com/track/0gF0E6jXrNDtBNpINosAtU) | [Fundo Musical Oração](https://open.spotify.com/artist/4FWGqqjr2cfplczPP6gRjT) | [Holy Instrumental Worship](https://open.spotify.com/album/0VgkoZMcyI0oMTXDCABEFp) | 4:44 | 2023-01-27 |  |
 | [Holy Me](https://open.spotify.com/track/59g21npYPh7l1LQKYeiJkm) | [ANQUETIL](https://open.spotify.com/artist/3yfN35BfrYCb1nRojr9k2O) | [Holy Me](https://open.spotify.com/album/6ypZHuHWRf1dnrq13SB7dm) | 4:13 | 2021-12-24 | 2022-01-29 |
 | [Home Stories](https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Home Stories](https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y) | 5:33 | 2021-12-24 | 2022-02-26 |
 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 | 2022-09-16 |  |

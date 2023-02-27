@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 174420,
+  "num_followers": 174503,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGNmMjVhMjFmODRkOTVhNmIwNjI4NWRhMzUxOGVhOGVm",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDVkNGY2ZGQ4NWE1MTVlMzI4ZmI5NjU0YmJlMDA2NWM2",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Tore Down House",
+        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
+      },
+      "artists": [
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Dolemite",
+      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Ring of Saturn",
@@ -423,22 +439,6 @@
       "duration_ms": 240550,
       "name": "Ring of Saturn",
       "url": "https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Tore Down House",
-        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
-      },
-      "artists": [
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Dolemite",
-      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Face First",
-        "url": "https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf"
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
       },
       "artists": [
         {
-          "name": "Tribal Tech",
-          "url": "https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz"
+          "name": "Mezzoforte",
+          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
         }
       ],
-      "duration_ms": 424973,
-      "name": "Face First",
-      "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
+      "duration_ms": 285533,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Forward Motion",
-        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
+        "name": "Face First",
+        "url": "https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf"
       },
       "artists": [
         {
-          "name": "Mezzoforte",
-          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
+          "name": "Tribal Tech",
+          "url": "https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz"
         }
       ],
-      "duration_ms": 285533,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
+      "duration_ms": 424973,
+      "name": "Face First",
+      "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Shapeless",
-        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
-      },
-      "artists": [
-        {
-          "name": "St. Barbe",
-          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
-    },
-    {
       "added_at": "2021-05-07 04:01:00",
       "album": {
         "name": "One More !!?!??",
@@ -895,6 +879,22 @@
       "duration_ms": 248174,
       "name": "One More !!?!??",
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Shapeless",
+        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1469,20 +1469,20 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-02-11 19:09:35",
       "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
       },
       "artists": [
         {
-          "name": "The Eleventh House",
-          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     }
   ],
   "unique_name": "Fusion Fest",

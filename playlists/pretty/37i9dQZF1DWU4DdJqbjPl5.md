@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=bGFYJ6tcTN\-c8k0Hip\-BRg" >Tay Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,937 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,054 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

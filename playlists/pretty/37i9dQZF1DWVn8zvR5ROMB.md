@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Conner Smith, Dierks Bentley, Ashley McBryde and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,521 likes - 77 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,784 likes - 77 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 73 | [Swerve](https://open.spotify.com/track/2vGmYHsH37W53xPmW973fs) | [Kevin Nichols](https://open.spotify.com/artist/0Dxxyu2C5xNLuRz0M4VmQs) | [Swerve](https://open.spotify.com/album/1pnI858I3rBB1iE1Kn83zA) | 3:33 |
 | 74 | [Son of a Gun](https://open.spotify.com/track/5HVMelMcFHu3plFyFfYej8) | [Becca Bowen](https://open.spotify.com/artist/24PQgrKuGcVnXlJ23WA0Hb) | [Son of a Gun](https://open.spotify.com/album/2u6Uw6jeQXnF9JMWBHyBUr) | 2:56 |
 | 75 | [Anywhere But Here \(feat\. Buddy Miller\)](https://open.spotify.com/track/57HfP8XoT3tawxwEWCVinO) | [The Shootouts](https://open.spotify.com/artist/7s5iJMvUVornAgb6oseC6j), [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Stampede](https://open.spotify.com/album/1y7BlUqUO9UUpL9TNH6EPj) | 3:26 |
-| 76 | [Crazy over You](https://open.spotify.com/track/1woOFUtnnlhkoUjaPO2bqf) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 3:02 |
+| 76 | [Crazy Over You](https://open.spotify.com/track/1woOFUtnnlhkoUjaPO2bqf) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 3:02 |
 | 77 | [Winesburg](https://open.spotify.com/track/7aiUmRRzvsUZWetTJLBFXF) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Winesburg](https://open.spotify.com/album/6SvMVfhNJWaX1xHSjFiNw1) | 4:11 |
 
 Snapshot ID: `MTY3NzI2NTM2NCwwMDAwMDAwMDExZThjNWYxNzAxZDAzYTdhNzZiZTNmMjY1ZTUwYjg2`

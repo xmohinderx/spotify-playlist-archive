@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Gabrielle Shonk
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,095 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,111 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 3 | [5AM](https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:26 |
 | 4 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 |
 | 5 | [Pretty In Possible](https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:36 |
-| 6 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 6 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 7 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 |
 | 8 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 |
 | 9 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Until It's Gone](https://open.spotify.com/track/6cAp800doeJL8cAa8oE03C) | [Marcus Paquin](https://open.spotify.com/artist/6jyDCVeG7H5SZVdnRrDYdH) | [Our Love](https://open.spotify.com/album/5AuA42z5TeQDB0wXfYKF9L) | 3:43 |
 | 100 | [Blue](https://open.spotify.com/track/0WIHwtJS11qxWgKtw2qhPR) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Blue](https://open.spotify.com/album/4NrL4M6sp5VMoyXxfUxfZ8) | 3:05 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDcyZTkyYzJmYjBmZjk1ZDYwNGFmNzc5MDU3OGZkMDBl`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDlhYzkzMmQzNjYxOTM5NGU4MmJkYjZiN2Q4ZmEzOTVl`

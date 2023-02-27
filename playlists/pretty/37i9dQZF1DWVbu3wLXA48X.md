@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,869 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,884 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 14 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 |
 | 15 | [For A While](https://open.spotify.com/track/7JM4b9VZVDD83l7f2F1ykf) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [For A While](https://open.spotify.com/album/1UJ8kecGU2PQlYDCicEyUk) | 4:13 |
 | 16 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 |
-| 17 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 17 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 18 | [After All](https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [After All](https://open.spotify.com/album/3yNmwe7tHm0YXMPAHfrxjr) | 2:21 |
 | 19 | [No Men's Drive](https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [To Whom We Return](https://open.spotify.com/album/7lFXTVyHJRfoAscycletMe) | 3:31 |
 | 20 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Nobody](https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:26 |
 | 75 | [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 |
 
-Snapshot ID: `MTY3NzIxNDcxOCwwMDAwMDAwMDgwYjcwNjdiMjdmOWEyOTA2YTIxMWM1ODAyMDVmNzYz`
+Snapshot ID: `MTY3NzIxNDcxOCwwMDAwMDAwMDY2YjRmYTI4M2NjYTAxYmMyMjg3NTc4MjgwOGVmYjRj`

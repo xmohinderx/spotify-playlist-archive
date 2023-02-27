@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Arlo Parks. ",
-  "num_followers": 107406,
+  "num_followers": 107518,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDg1NmRjMjNhNDliOTU0ODgzMmMwMTE0YzQ1ZjFlYjc0",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDNkNDc0ZDA0MDlhZWQxMTgwM2ZhMWM4OTg5NzJjMDE1",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
-    },
-    {
       "added_at": "2023-01-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -611,6 +595,22 @@
       "duration_ms": 173641,
       "name": "California Dreamin' - Spotify Singles",
       "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "death proof",
+      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Dry Food",
         "url": "https://open.spotify.com/album/4rWLFXifUm2KAo2vDHSG2v"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+        "name": "Found",
+        "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
       },
       "artists": [
         {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 176318,
-      "name": "death proof",
-      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
+      "duration_ms": 144592,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 144592,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Peak",
-        "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
-      },
-      "artists": [
-        {
-          "name": "Choker",
-          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "El Dorado",
-      "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "We Slept at Last",
         "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 213071,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "El Dorado",
+      "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
     }
   ],
   "unique_name": "Alternative Pride",

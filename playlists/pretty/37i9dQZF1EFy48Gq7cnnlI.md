@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 41 | [Right Words Wrong Time](https://open.spotify.com/track/0pn8Vl8oFmIp0r21Zwpb76) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
 | 42 | [When You Were Mine](https://open.spotify.com/track/1n4hjOvZNngnD48CASmEvJ) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:28 |
 | 43 | [Hold The Line](https://open.spotify.com/track/6Qmq1HhBs2abHTajKzAQGC) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:33 |
-| 44 | [WALK YOU HOME](https://open.spotify.com/track/470Vf9SalOKWfNddiqdEPY) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [WALK YOU HOME](https://open.spotify.com/album/1aN3aTc9eYkZ7GCchdsodb) | 2:51 |
+| 44 | [WALK YOU HOME](https://open.spotify.com/track/0znJ7404OJT9KXP0ob7vdu) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [WALK YOU HOME](https://open.spotify.com/album/5t3GIPp5O4fuZmTqkbU9f5) | 2:51 |
 | 45 | [What's It Like Now](https://open.spotify.com/track/6Bol46HfUJvvznWH5fviBh) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:30 |
 | 46 | [sicker](https://open.spotify.com/track/0HeMyHfORSIy1GKmuqH1rt) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:13 |
 | 47 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 89 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
 | 90 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `Mjc5NTYxNzIsMDAwMDAwMDBlMzM4ZTU3NzBiOGU2MzBlM2FhMzU5OTVmMGM2MDQyYw==`
+Snapshot ID: `Mjc5NTc2MTIsMDAwMDAwMDAxZTkxY2RiZmNhODIwZTA5NmRlM2JlY2E3MWEwZDlmNA==`

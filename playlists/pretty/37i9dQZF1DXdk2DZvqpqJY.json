@@ -1,12 +1,12 @@
 {
   "description": "Jazzy sounds with soft beats for relaxing and unwinding.",
-  "num_followers": 37087,
+  "num_followers": 37199,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDEzODFiOTkwM2I3ZjBkODYzN2QwOWY1MzhiY2M2ZGJk",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDc0ZmU5YzgxOTFjMWQ4MzM5NjUyZjkzOWIzZGZiZTA2",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Digilog I",
-        "url": "https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA"
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ"
       },
       "artists": [
         {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
         }
       ],
-      "duration_ms": 167710,
-      "name": "no, regrets",
-      "url": "https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE"
+      "duration_ms": 148491,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -255,22 +259,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ"
+        "name": "Digilog I",
+        "url": "https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA"
       },
       "artists": [
         {
-          "name": ".multibeat",
-          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
         }
       ],
-      "duration_ms": 148491,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd"
+      "duration_ms": 167710,
+      "name": "no, regrets",
+      "url": "https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -391,38 +391,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "THE HEIST",
-        "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
-      },
-      "artists": [
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Jumbled",
-      "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Cruize",
-        "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
-      },
-      "artists": [
-        {
-          "name": "Neo.",
-          "url": "https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Cruize",
-      "url": "https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Press Start",
         "url": "https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 246392,
       "name": "Feelm",
       "url": "https://open.spotify.com/track/6xWxeW72ywpygla3hHwlb1"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "THE HEIST",
+        "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
+      },
+      "artists": [
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Jumbled",
+      "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Cruize",
+        "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
+      },
+      "artists": [
+        {
+          "name": "Neo.",
+          "url": "https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Cruize",
+      "url": "https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "The Resurrection",
-        "url": "https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te"
+        "name": "Changing Earth",
+        "url": "https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3"
       },
       "artists": [
         {
-          "name": "Luke Smith",
-          "url": "https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
         }
       ],
-      "duration_ms": 243227,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
+      "duration_ms": 473173,
+      "name": "Positive Activity",
+      "url": "https://open.spotify.com/track/4T3VH4hPuc3qtB4hlv6Mp7"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -847,34 +843,38 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Changing Earth",
-        "url": "https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3"
+        "name": "The Resurrection",
+        "url": "https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te"
       },
       "artists": [
         {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+          "name": "Luke Smith",
+          "url": "https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
         }
       ],
-      "duration_ms": 473173,
-      "name": "Positive Activity",
-      "url": "https://open.spotify.com/track/4T3VH4hPuc3qtB4hlv6Mp7"
+      "duration_ms": 243227,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
     },
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+        "name": "Somewhere Different",
+        "url": "https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6"
       },
       "artists": [
         {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
         }
       ],
-      "duration_ms": 197373,
-      "name": "C.F.D.",
-      "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
+      "duration_ms": 241963,
+      "name": "Olivia Benson",
+      "url": "https://open.spotify.com/track/4uOjcnam6f6tq4c6mlvC8W"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -903,34 +903,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Somewhere Different",
-        "url": "https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6"
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
       },
       "artists": [
         {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
         }
       ],
-      "duration_ms": 241963,
-      "name": "Olivia Benson",
-      "url": "https://open.spotify.com/track/4uOjcnam6f6tq4c6mlvC8W"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Royal Sessions",
-        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
-      },
-      "artists": [
-        {
-          "name": "loophole",
-          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
-        }
-      ],
-      "duration_ms": 315910,
-      "name": "Icebreaker",
-      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
+      "duration_ms": 197373,
+      "name": "C.F.D.",
+      "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -955,6 +939,22 @@
       "duration_ms": 114625,
       "name": "Outro",
       "url": "https://open.spotify.com/track/4blnfSoZ2eYxzkvafHAG9e"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Royal Sessions",
+        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
+      },
+      "artists": [
+        {
+          "name": "loophole",
+          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
+        }
+      ],
+      "duration_ms": 315910,
+      "name": "Icebreaker",
+      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Frank's Tune",
-      "url": "https://open.spotify.com/track/0j5BDpqfAAzF4mtu4vE68P"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Bring Backs",
         "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 289213,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Frank's Tune",
+      "url": "https://open.spotify.com/track/0j5BDpqfAAzF4mtu4vE68P"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Special Blend",
-        "url": "https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO"
-      },
-      "artists": [
-        {
-          "name": "Max I Million",
-          "url": "https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf"
-        },
-        {
-          "name": "John Culbreth",
-          "url": "https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Special Blend",
-      "url": "https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Altered Time",
         "url": "https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 130000,
       "name": "Altered Time",
       "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Special Blend",
+        "url": "https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO"
+      },
+      "artists": [
+        {
+          "name": "Max I Million",
+          "url": "https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf"
+        },
+        {
+          "name": "John Culbreth",
+          "url": "https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Special Blend",
+      "url": "https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "The Lonely",
-        "url": "https://open.spotify.com/album/1QUJECfxoMeomDXV1HErL0"
-      },
-      "artists": [
-        {
-          "name": "Jerk",
-          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
-        }
-      ],
-      "duration_ms": 181395,
-      "name": "The Lonely",
-      "url": "https://open.spotify.com/track/1jdtMdVuXcgUWB3kiF00YU"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Timeless Cafe",
         "url": "https://open.spotify.com/album/6m2qwDFCLB418aGRgu2bqK"
       },
@@ -1479,34 +1463,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Both Only",
-        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
+        "name": "The Lonely",
+        "url": "https://open.spotify.com/album/1QUJECfxoMeomDXV1HErL0"
       },
       "artists": [
         {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+          "name": "Jerk",
+          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
         }
       ],
-      "duration_ms": 350112,
-      "name": "Enlightened",
-      "url": "https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/04Zzn0UXThAN51aO82Csk3"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0DMmuamiQ9tRdXfFLrEADn"
+      "duration_ms": 181395,
+      "name": "The Lonely",
+      "url": "https://open.spotify.com/track/1jdtMdVuXcgUWB3kiF00YU"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1527,6 +1495,38 @@
       "duration_ms": 175928,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5AjqLBpXtIzR1xE2DWljnC"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/04Zzn0UXThAN51aO82Csk3"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0DMmuamiQ9tRdXfFLrEADn"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Both Only",
+        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "duration_ms": 350112,
+      "name": "Enlightened",
+      "url": "https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "You're A Girl For One Man Only",
+        "url": "https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 238569,
+      "name": "You're A Girl For One Man Only",
+      "url": "https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Admas",
         "url": "https://open.spotify.com/album/1BCQEZMyrDv7N5sXdamtGD"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/0CP956nwKDWk9bRqLslqSw"
-      },
-      "artists": [
-        {
-          "name": "Girls in Airports",
-          "url": "https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr"
-        }
-      ],
-      "duration_ms": 234664,
-      "name": "Stonehouse",
-      "url": "https://open.spotify.com/track/1ZL4KD9Lk08xuqwe8ynleU"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Brixton Blues",
         "url": "https://open.spotify.com/album/27idR1b6pCXimFuCvhxpbo"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 428323,
       "name": "Brixton Blues",
       "url": "https://open.spotify.com/track/5ZVgiWySiGOav9Ztuj5XXW"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/0CP956nwKDWk9bRqLslqSw"
+      },
+      "artists": [
+        {
+          "name": "Girls in Airports",
+          "url": "https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr"
+        }
+      ],
+      "duration_ms": 234664,
+      "name": "Stonehouse",
+      "url": "https://open.spotify.com/track/1ZL4KD9Lk08xuqwe8ynleU"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1895,26 +1911,6 @@
       "duration_ms": 188266,
       "name": "Ice-free",
       "url": "https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Gu\u00e9d\u00e9",
-        "url": "https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ"
-      },
-      "artists": [
-        {
-          "name": "Toine Thys",
-          "url": "https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU"
-        },
-        {
-          "name": "GURU.FARM",
-          "url": "https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg"
-        }
-      ],
-      "duration_ms": 299348,
-      "name": "Siren Call",
-      "url": "https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk"
     }
   ],
   "unique_name": "Chill Out Jazz",

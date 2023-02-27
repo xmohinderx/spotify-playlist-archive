@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-544 songs - 1 day 9 hr 33 min
+545 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Revolution](https://open.spotify.com/track/581wJ8JYtVBZ88fHp2nXe8) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf) | [Revolution](https://open.spotify.com/album/3pwLh2SdpUcVOXV8YiGVJS) | 3:36 | 2022-04-29 |  |
 | [Rhapsody](https://open.spotify.com/track/68p0qxKUrXRUYdLX6IghFk) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Chris Bekker](https://open.spotify.com/artist/0gjLxpTbe5HoswzDI1YsIF), [Jan Dzialek](https://open.spotify.com/artist/5xF0kqhQru7rpxxulrNR4I) | [Rhapsody](https://open.spotify.com/album/3J9QOr7lJj1QAzIK1tnA7R) | 3:18 | 2022-08-26 |  |
 | [Right Back](https://open.spotify.com/track/13lUhE5ppZ8srSnaLoK2ky) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Right Back](https://open.spotify.com/album/0xIILg9WfVx8mv3rJ68ScU) | 3:29 | 2021-12-17 |  |
+| [Ripples](https://open.spotify.com/track/3SqNXXlcf1d8kWugo3uBFY) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R) | [Ripples](https://open.spotify.com/album/6tqBTvLK7tWaHYP7wQpbLK) | 2:31 | 2023-02-24 |  |
 | [River](https://open.spotify.com/track/7KyFygbtNWmhr25gg8OhXh) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [River](https://open.spotify.com/album/4CN9wlSiA4WzXuxBQvYskA) | 4:00 | 2021-12-17 | 2022-01-08 |
 | [Road To Nowhere](https://open.spotify.com/track/35BmsYzLgajLCrvMxJqlA4) | [Jaytech](https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG) | [Galactic EP](https://open.spotify.com/album/2NDUH8BaU7LGifaMCt8NUV) | 4:12 | 2021-12-17 | 2022-04-02 |
 | [Rocket Surgery](https://open.spotify.com/track/1a8k7S9KHEkwSTq5O3dCC9) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Rocket Surgery](https://open.spotify.com/album/0453U2KtXxgGHTr6Qa8hZz) | 3:40 | 2022-10-28 |  |
@@ -413,7 +414,7 @@
 | [Répondez\-moi](https://open.spotify.com/track/0JNarOg7c1UnBxE11DWhKZ) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Inspirations](https://open.spotify.com/album/56nPJqeftLlTjZDZjIqdCS) | 3:42 | 2021-12-17 | 2022-02-26 |
 | [Same Sky Same Stars](https://open.spotify.com/track/6c0gGrpLmSsYbeYnAxAhYh) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Same Sky Same Stars](https://open.spotify.com/album/2w9kmEUJcLvDbTNEQihTHD) | 3:39 | 2022-03-25 |  |
 | [Save Me](https://open.spotify.com/track/4nfoEPUlEb2OzytWWLrZQc) | [Alex Leavon](https://open.spotify.com/artist/7vxqa6kvPlT8U8enOIf2lE), [Jonny Rose](https://open.spotify.com/artist/3p5VCeIdYiZzNu0kyb9sMd) | [Save Me](https://open.spotify.com/album/6eHzJcKuPg6s6irtyaWKdR) | 3:54 | 2021-12-17 | 2022-02-26 |
-| [Save Me](https://open.spotify.com/track/4zDU34T5mQk0xkxi1sWRmt) | [Stoneface & Terminal](https://open.spotify.com/artist/3Mqc1pY8uwTjUiW0womxWk), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Save Me](https://open.spotify.com/album/2z2uznIpWacIIn0BjL37is) | 3:57 | 2022-04-15 |  |
+| [Save Me](https://open.spotify.com/track/4zDU34T5mQk0xkxi1sWRmt) | [Stoneface & Terminal](https://open.spotify.com/artist/3Mqc1pY8uwTjUiW0womxWk), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Save Me](https://open.spotify.com/album/2z2uznIpWacIIn0BjL37is) | 3:57 | 2022-04-15 | 2023-02-27 |
 | [Saving Grace](https://open.spotify.com/track/1hmfCUTmSfLWecxk8JDNRr) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Saving Grace](https://open.spotify.com/album/1ht1xnYdgw1sH8EodoRTyJ) | 3:39 | 2022-07-01 |  |
 | [Saving Grace](https://open.spotify.com/track/4QZeWPmz9xOONd4dswoHkv) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Deirdre McLaughlin](https://open.spotify.com/artist/1SIWRebg7AKRhztDGBysIg) | [Saving Grace](https://open.spotify.com/album/72gYPXqLflt7QubYOi3mw3) | 3:26 | 2022-02-25 | 2023-02-25 |
 | [Saviour](https://open.spotify.com/track/1HNjXr7GaqTkURcHGlJIKX) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [Daniel Cesana](https://open.spotify.com/artist/1wjf8YmHHrsVDZ3SMSExsY) | [Saviour](https://open.spotify.com/album/0Q2tCHSxiwK5kd31khVVCA) | 3:00 | 2022-09-09 |  |

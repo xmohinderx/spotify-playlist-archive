@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with Chris Olsen's Flight Fuel Coffee as he takes over with these cozy, mellow tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,080,491 likes - 144 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,080,928 likes - 144 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

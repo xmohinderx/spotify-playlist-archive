@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-373 songs - 1 day 3 hr 19 min
+374 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Safe, Pt\. 1](https://open.spotify.com/track/0t1GpwQNOhyngRVjO4vbt1) | [Daniel Casimir](https://open.spotify.com/artist/3J4HhohiA3sFTwyHTBqKs1), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Rosie Turton](https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT), [Al MacSween](https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu), [James Copus](https://open.spotify.com/artist/3QKktO8tdBUJq3qhZ3Iqrg) | [Safe, Pt\. 1](https://open.spotify.com/album/3FBvtyYY3Gmv1BnLTMyPcm) | 7:07 | 2021-12-17 | 2022-07-29 |
 | [Sage Secrets](https://open.spotify.com/track/3cqKNfyrHyhrBdciF0wj92) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sage Secrets](https://open.spotify.com/album/5u8PXxCMPYOWB52Uwz227q) | 3:42 | 2022-01-28 | 2022-02-03 |
 | [Say Something](https://open.spotify.com/track/0GCc41cTes6Tb0Webhq1VR) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Say Something](https://open.spotify.com/album/6peTH7gnZLB9adBPSjCcph) | 3:49 | 2021-12-17 | 2022-07-29 |
+| [Say Something](https://open.spotify.com/track/3RdOr8819TT72WFuMMPmn1) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:49 | 2023-02-17 |  |
 | [Say Something](https://open.spotify.com/track/3dAVMvD7oPW9HtaoQG680C) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:49 | 2022-03-08 | 2023-02-02 |
 | [Searching](https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Searching](https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w) | 3:41 | 2022-07-14 |  |
 | [See You](https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Smile](https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX) | 3:04 | 2022-07-28 |  |
@@ -310,7 +311,7 @@
 | [sweet wurli](https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [sweet wurli](https://open.spotify.com/album/5GkioWixxU8los60AvybaX) | 3:03 | 2021-12-17 | 2022-07-28 |
 | [Sydney](https://open.spotify.com/track/1Xfa2TNdqr5GpzrCMs8AT0) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Awake You Lie](https://open.spotify.com/album/5oBL12HIjoMOIqfGKSXU9Z) | 4:28 | 2022-03-08 | 2022-03-09 |
 | [Sydney](https://open.spotify.com/track/5ITvU6QiEjeijrPBruWK0o) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Sydney](https://open.spotify.com/album/74cFr1mhloboC2kfMb6B8R) | 4:28 | 2022-03-24 | 2022-04-19 |
-| [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-12-09 |  |
+| [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-12-09 | 2023-02-27 |
 | [Take Your Time](https://open.spotify.com/track/59Q0Io9CKIqZfPCJhRwH79) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [SAHRA](https://open.spotify.com/artist/0afdCvcgScPqyciaOKoAR6), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Take Your Time](https://open.spotify.com/album/4HEynfpdDFX61F4fOvmT3J) | 3:25 | 2021-12-17 | 2022-10-01 |
 | [Talking to the Walls \- Ash Walker Remix](https://open.spotify.com/track/1hk2g15PwL2kvkDIlmzRop) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Talking to the Walls \(Ash Walker Remix\)](https://open.spotify.com/album/4hjxIRzxNXqHnbYLC7fB72) | 4:32 | 2022-03-08 | 2022-03-09 |
 | [Talking to the Walls \- Ash Walker Remix](https://open.spotify.com/track/0YZ0pUxBhyzdvVZifFRm5l) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU), [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Talking to the Walls \(Ash Walker Remix\)](https://open.spotify.com/album/3TjUPXuSS8Li8nCN21OEQq) | 4:32 | 2021-12-17 | 2022-03-23 |

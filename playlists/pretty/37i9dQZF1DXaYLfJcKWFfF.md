@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo\-Vrpgsw"> Lindsey Abudei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,991 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,989 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 28 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 |
 | 29 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 |
 | 30 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 |
-| 31 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 |
+| 31 | [Waxtu](https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/6yxgpB7XI5e72889GB0G9i) | 3:27 |
 | 32 | [No More Wars](https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [No More Wars](https://open.spotify.com/album/36CHxQaUH868DavFDk71QV) | 3:40 |
 | 33 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 |
-| 34 | [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 |
+| 34 | [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 |
 | 35 | [Too Late for Mama](https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Too Late for Mama](https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y) | 4:07 |
 | 36 | [Mimi na wewe](https://open.spotify.com/track/4Os4kaUmrqDpLP0iefW2m3) | [Swahili Ally](https://open.spotify.com/artist/505upYNGyPZJdVAC95Iacr) | [NADUNDA](https://open.spotify.com/album/6jIbGRwcdfU18mvKB7r4aU) | 4:01 |
 | 37 | [Illusions](https://open.spotify.com/track/4VLqFjpM1vTzSTYemO9WWA) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Theta](https://open.spotify.com/album/0YpkGecTgnIsXmKHh2KA3n) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 |
 | 50 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 |
 
-Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMDcyZjU1YTk2NzFlYzdlMTUxYjFkZmZjZWJmNzAzMDMx`
+Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMDJlZThkZGViNDYzYjA1NDcxZTdiMTEzMmRjYmE3N2M3`

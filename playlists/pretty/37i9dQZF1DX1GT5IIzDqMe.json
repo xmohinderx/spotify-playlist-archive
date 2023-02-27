@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 76254,
+  "num_followers": 76308,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDkzYzAxNzkwMDJmYTUxOTMxZjgxNGU5MjA3MWFiYjhm",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDYyOWU0Mjg3YjIyMzY4ZTBjYTQzNTFlYWMyNTBhZThm",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
-      },
-      "artists": [
-        {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
-        }
-      ],
-      "duration_ms": 221199,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/0LXrOoeTSHbDF4gsxZXRSD"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
+      },
+      "artists": [
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "duration_ms": 221199,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
     },
     {
       "added_at": "2022-07-22 08:57:48",

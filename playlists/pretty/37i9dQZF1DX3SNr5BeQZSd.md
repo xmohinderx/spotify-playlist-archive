@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,011 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,280 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 63 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
 | 64 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
 | 65 | [\[oops\]](https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy) | 2:22 |
-| 66 | [Masat Magan](https://open.spotify.com/track/2iePNr2E1gsQ6vlbfcadlA) | [Bollywood Boys](https://open.spotify.com/artist/0Ny63uGmHAThsTDPOAyz3k) | [Masat Magan](https://open.spotify.com/album/4744ohYBLYes8oXrcoFyqJ) | 3:53 |
+| 66 | [Masat Magan](https://open.spotify.com/track/5mRc2GM6n2Eh0GD0iFBPUG) | [Bollywood Boys](https://open.spotify.com/artist/0Ny63uGmHAThsTDPOAyz3k) | [Masat Magan](https://open.spotify.com/album/6j56ArzdF411QOOrgcjUI9) | 3:53 |
 | 67 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
 | 68 | [Hosanna \- Lofi Flip](https://open.spotify.com/track/7BbhFrLzCP7DdnV69vVbCv) | [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Hosanna \(Lofi Flip\)](https://open.spotify.com/album/4g9Bvb10Z0SL4PkVLUbBIM) | 4:16 |
 | 69 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMGJjN2U4ODU0Njc1MDFhNDgwMGNlNzBjNjk5NDJiMDhk`
+Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMDZiOGExOTRhOWZlNjU3NjE1ZTU3NTBkMzM5YjhlNmQ0`

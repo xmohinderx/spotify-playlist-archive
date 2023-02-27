@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,640 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,747 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 34 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
 | 35 | [Horses in Heaven](https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8) | 4:07 |
 | 36 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
-| 37 | [Kill a Man](https://open.spotify.com/track/29vxm6LKPquf3gWDnKdijO) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye E.P.](https://open.spotify.com/album/4siecYatTT3ySmsG6juFIv) | 5:19 |
+| 37 | [This Damn Song](https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers](https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7) | 4:06 |
 | 38 | [Walls Coming Down](https://open.spotify.com/track/2OvZ5FqpAHrbp1cyRPp7CP) | [Abbey Duncan](https://open.spotify.com/artist/1gxoexlfgalY8uZT3Rp0ui) | [Walls Coming Down](https://open.spotify.com/album/6HPdPvqDCzBVMFxXmjsIPG) | 3:37 |
-| 39 | [This Damn Song](https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers](https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7) | 4:06 |
+| 39 | [Kill a Man](https://open.spotify.com/track/29vxm6LKPquf3gWDnKdijO) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye E.P.](https://open.spotify.com/album/4siecYatTT3ySmsG6juFIv) | 5:19 |
 | 40 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 |
 | 41 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 | 42 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 78 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 |
 | 79 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 |
 | 80 | [Loser Mentality](https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Loser Mentality](https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6) | 3:13 |
-| 81 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
-| 82 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
+| 81 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
+| 82 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
 | 83 | [Sunlight](https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Sunlight](https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7) | 3:55 |
 | 84 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 |
 | 85 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 93 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
 | 94 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
 | 95 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 |
-| 96 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
-| 97 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
+| 96 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
+| 97 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
 | 98 | [Something 'Bout a Southern Girl](https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Something 'Bout a Southern Girl](https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5) | 4:22 |
 | 99 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 |
 | 100 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDM5ODljY2JlNDM1NDZlZWFlYzE4MTYyODI4Y2E0Yjdl`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMGM2YTdmMzU1ODNmMmIzMTVmYTAxYmQ2YjllYjdlMWE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,799 likes - 57 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,818 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 35 | [Sweet Caroline](https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Right Round / Sweet Caroline \- Single](https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE) | 1:52 |
 | 36 | [Can't Hold Us](https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 3:18 |
 | 37 | [Best Days \(feat\. Pentatonix\)](https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Best Days](https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN) | 3:34 |
-| 38 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
+| 38 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 |
 | 39 | [Surface Pressure](https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Surface Pressure](https://open.spotify.com/album/7aNLvoaHB7xqpqssKfQuJ2) | 3:14 |
 | 40 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 |
 | 41 | [Bad Romance](https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Sing On](https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou) | 4:36 |
 | 42 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 |
-| 43 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 |
+| 43 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
 | 44 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 45 | [Call Me Maybe / What Makes You Beautiful](https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Over the Bridge](https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78) | 4:00 |
 | 46 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 49 | [Fireflies](https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp) | [University of Rochester Midnight Ramblers](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) | [Best of BOCA: The First 20 Years](https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs) | 3:38 |
 | 50 | [Defying Gravity](https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv) | [Washington University Stereotypes](https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt) | [Tongue Tied](https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP) | 3:52 |
 | 51 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
-| 52 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
+| 52 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 | 53 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
 | 54 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 |
 | 55 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 56 | [Some Nights](https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn) | [The Pitchforks](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) | [Refraction](https://open.spotify.com/album/353JLV23qo2OALKeG4R73Z) | 4:03 |
 | 57 | [All About That Bass \(No Tenors\)](https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:54 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDM1YmQ1NmI0OTMyM2U2MTYwYzU2YjU5YzQ5MWU3YTdm`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGY0ZDhiOTRmNjE3OGJmMmUxYWI3ZGE2M2ZiMjc0NzZj`

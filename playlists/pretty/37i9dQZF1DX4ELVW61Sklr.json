@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 169338,
+  "num_followers": 169321,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGQxZWZhNGZlOGVjNmQyY2RjODNiMGIyOGM4NzQwYmY1",
+  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMDNhYTkwMjQ5MWQ5ZGEzMTRkMGI3MWI0NzU3ZWZlYmNh",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -125,20 +125,28 @@
       "url": "https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2022-11-29 17:33:34",
       "album": {
-        "name": "Give Love At Christmas",
-        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
+        "name": "Christmas In Harlem",
+        "url": "https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 365720,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
+      "duration_ms": 236213,
+      "name": "Christmas In Harlem",
+      "url": "https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -177,28 +185,20 @@
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
-      "added_at": "2022-11-29 17:33:34",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas In Harlem",
-        "url": "https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt"
+        "name": "Give Love At Christmas",
+        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "CyHi",
-          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
-        },
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 236213,
-      "name": "Christmas In Harlem",
-      "url": "https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk"
+      "duration_ms": 365720,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "The Christmas Song (Merry Christmas To You)",
-        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
-      },
-      "artists": [
-        {
-          "name": "Janice",
-          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "This Christmas - Songs From The Motion Picture",
         "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 373533,
       "name": "Try A Little Tenderness",
       "url": "https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "The Christmas Song (Merry Christmas To You)",
+        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
+      },
+      "artists": [
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "It's Christmas",
         "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 117520,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2021-12-15 17:30:29",

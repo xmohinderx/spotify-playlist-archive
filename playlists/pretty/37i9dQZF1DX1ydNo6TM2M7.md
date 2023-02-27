@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,292 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,290 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 49 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 |
 | 50 | [Leave Me Alone \(I'm Dancing\) \- Nicole Moudaber Remix](https://open.spotify.com/track/4xfER2IVBekjuP7SwQ71eH) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Leave Me Alone \(I'm Dancing\) \[Nicole Moudaber Remix\]](https://open.spotify.com/album/0jHkyekvBTEMW5CrAlbqAA) | 4:11 |
 | 51 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 |
-| 52 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 |
+| 52 | [LEFT TO RIGHT](https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q) | 2:26 |
 | 53 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 |
 | 54 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 |
 | 55 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 74 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 75 | [My City's On Fire](https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 3:07 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGNkNTY4MDQ0Yzg4Yjc4OWUwMjQ5YWJmMWNkNjM1M2Rl`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDdiNGJhYmJmZmUwZjk4MzI2NWU1OGJiNTNhNTlhM2Fj`

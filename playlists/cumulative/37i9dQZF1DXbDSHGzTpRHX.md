@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-175 songs - 8 hr 59 min
+176 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Darling](https://open.spotify.com/track/1YzKrHhGVcVDF7UvMCr8F9) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [Blue Man](https://open.spotify.com/album/3CP4mtGs1g4EuhVaaHtFnE) | 2:27 | 2019-12-10 |  |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2019-12-10 |  |
 | [Diamond Tears](https://open.spotify.com/track/3PPk8VonR0Ov8EKkmCkyvS) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Love u – to Death](https://open.spotify.com/album/3buQH4TCBwPOcMFliqJUHT) | 3:30 | 2019-12-10 |  |
-| [Do Better](https://open.spotify.com/track/2q4YX9A2WafCCcqdZtKVIj) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/674GmlI4tJvUQ1W3sjYaay) | 3:33 | 2019-12-10 |  |
+| [Do Better](https://open.spotify.com/track/2H3hRC6Tcy8GMzXducuWKe) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/1tKNjZbhTKWH4Hl4CyAZI1) | 3:33 | 2019-12-10 |  |
+| [Do Better](https://open.spotify.com/track/2q4YX9A2WafCCcqdZtKVIj) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/674GmlI4tJvUQ1W3sjYaay) | 3:33 | 2019-12-10 | 2023-02-27 |
 | [Do Better](https://open.spotify.com/track/3wsFn90RsumyPhbsehCFrT) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/18grs7Mla9Oztp4PrYP5f7) | 3:33 | 2019-12-10 | 2022-07-29 |
 | [dreamgurl](https://open.spotify.com/track/7l47dRm8jw7NMs0OFoQrrK) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX), [Keith Goodwin](https://open.spotify.com/artist/3Q1T3DDlR4lY9kqIQsDhMn) | [dreamgurl](https://open.spotify.com/album/5dfy4vYwLnM8RLpV0DpM36) | 2:58 | 2019-12-10 |  |
 | [Dreams](https://open.spotify.com/track/60gPDYEZ9DyV1OuL9YKM0q) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2LT7lNoWT6svQOEUeSrbyH) | 2:42 | 2019-12-10 | 2022-07-29 |

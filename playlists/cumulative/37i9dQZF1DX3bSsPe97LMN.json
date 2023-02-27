@@ -364,7 +364,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 162402,
       "name": "Amorfoda",
       "url": "https://open.spotify.com/track/5elClHK2wxnC4qZqHWxC4L"
@@ -2345,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Golpe de Suerte (En Vivo)",
+        "url": "https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S"
+      },
+      "artists": [
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190249,
+      "name": "Golpe de Suerte (En Vivo)",
+      "url": "https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2"
+    },
+    {
+      "album": {
         "name": "Gordo Pesado",
         "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
       },
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 186274,
       "name": "Sin Lado Izquierdo - En Vivo",
       "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
@@ -4724,6 +4742,28 @@
       "duration_ms": 169365,
       "name": "T\u00fa Tambi\u00e9n Eres De Barrio",
       "url": "https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT"
+    },
+    {
+      "album": {
+        "name": "Un Gallito",
+        "url": "https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Nico Orozco",
+          "url": "https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Un Gallito",
+      "url": "https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,441 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,600 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 |
 | 2 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 3 | [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 |
-| 4 | [GOOD DAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 |
+| 4 | [GOOD DAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 |
 | 5 | [This World](https://open.spotify.com/track/2hUILUOnp0zo8II8TcawL0) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [This World](https://open.spotify.com/album/17liHgNayApFU9mD9uLKyX) | 4:19 |
 | 6 | [Water Runs Dry](https://open.spotify.com/track/339lSR8YbBP7xe1F2HjR0j) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [COOKUP](https://open.spotify.com/album/2MXzQNmgVCjW3BQjq06JAZ) | 3:50 |
 | 7 | [Escorpio](https://open.spotify.com/track/5t2s6qb1cMVrZjHSb8VwBx) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Escorpio](https://open.spotify.com/album/7kgERFr8gI1j4FtgtxARJD) | 3:17 |

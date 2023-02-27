@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-154 songs - 9 hr 31 min
+155 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Too Much Music](https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Too Much Music](https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP) | 4:38 | 2023-02-03 |  |
 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 | 2022-07-08 |  |
 | [Turn Back Time \(feat\. Alexandra Prince\)](https://open.spotify.com/track/5ZPVXbxtab4liZabBCMiUV) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Blurry Dreams Of You](https://open.spotify.com/album/5dimhizjBzHvYXDbc9IQpf) | 3:22 | 2021-07-16 | 2022-09-03 |
-| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 | 2022-07-15 |  |
 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 | 2022-07-08 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2022-08-05 |  |

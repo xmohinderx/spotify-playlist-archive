@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 183083,
+  "num_followers": 183071,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDc2YWRiM2RkM2E2YTBjYTk4ZjJhYzhiOTdiYjYzM2E0",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMGM1MmI4YTJkNDYyN2ZjMGFlNWNiMWUyNDk5NmJjMGVj",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Born a Loser",
         "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "homebody",
-        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "homebody",
-      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Scream Drive Faster",
-        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Scream Drive Faster",
-      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Scream Drive Faster",
+        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Scream Drive Faster",
+      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Truth or Consequences",
-        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 202003,
-      "name": "Southwark",
-      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Mrs Blue",
         "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 208988,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -947,6 +931,22 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Bel\u2022li",
-        "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 172308,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Gladstone",
         "url": "https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 174166,
       "name": "Gladstone",
       "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Bel\u2022li",
+        "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        }
+      ],
+      "duration_ms": 172308,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Goodbye Blue",
         "url": "https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
-      },
-      "artists": [
-        {
-          "name": "Latir",
-          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
-        }
-      ],
-      "duration_ms": 184483,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "I've Got A Girl",
         "url": "https://open.spotify.com/album/23koinchIREk5uVwOcrIPe"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 208773,
       "name": "I've Got A Girl",
       "url": "https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
+      },
+      "artists": [
+        {
+          "name": "Latir",
+          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
+        }
+      ],
+      "duration_ms": 184483,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Alapathy",
-      "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 248955,
       "name": "Don't Think",
       "url": "https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Alapathy",
+      "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
     },
     {
       "added_at": "2021-08-12 14:57:38",

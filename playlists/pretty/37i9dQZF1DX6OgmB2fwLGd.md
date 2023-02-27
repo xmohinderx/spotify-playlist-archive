@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,161 likes - 90 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,095 likes - 90 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

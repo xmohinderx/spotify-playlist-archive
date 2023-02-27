@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Carol Biazin e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,762 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,765 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 | 35 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
 | 36 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 |
-| 37 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
-| 38 | [Pra Te Envolver](https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:15 |
+| 37 | [Pra Te Envolver](https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:15 |
+| 38 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 39 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
 | 40 | [eu me derreto](https://open.spotify.com/track/3EQWVZKgqIjvIQii6BEMUg) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [eu me derreto](https://open.spotify.com/album/4yAdm4VdUGAD8RZwYMW2lL) | 2:45 |
 | 41 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
-| 42 | [Magnetizar](https://open.spotify.com/track/7vPzZiHSVYeJH09mBTgaES) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnéticah](https://open.spotify.com/album/0U9w4cLY0S13Y3gi24x75w) | 3:14 |
-| 43 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 |
-| 44 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 |
-| 45 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
+| 42 | [Ainda É Verão](https://open.spotify.com/track/3aW8hApguw9MG56v8jrz6F) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 3:04 |
+| 43 | [Magnetizar](https://open.spotify.com/track/7vPzZiHSVYeJH09mBTgaES) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnéticah](https://open.spotify.com/album/0U9w4cLY0S13Y3gi24x75w) | 3:14 |
+| 44 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 |
+| 45 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 |
 | 46 | [Sorte ou Azar](https://open.spotify.com/track/38eUhDp3Q5BxmEczil8VAJ) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Sorte ou Azar](https://open.spotify.com/album/6Nq7EtHA1PBTpRsGpvELWf) | 2:40 |
-| 47 | [Ainda É Verão](https://open.spotify.com/track/3aW8hApguw9MG56v8jrz6F) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 3:04 |
+| 47 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
 | 48 | [Meu Vício](https://open.spotify.com/track/1L7DbG2y4TzoMqSoTaotG0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Meu Vício](https://open.spotify.com/album/78XUWj8lXWNfT5QZsKIzV2) | 2:13 |
 | 49 | [Número 1](https://open.spotify.com/track/2socHRYT8zT7noGhOKeztH) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [CARA](https://open.spotify.com/album/5gHeIIHjKzEIlHJchlobxJ) | 2:03 |
 | 50 | [Amor Indefinido](https://open.spotify.com/track/1rSdYMsc9Ct1AMtvRgNBvv) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Amor Indefinido](https://open.spotify.com/album/4S3iDE7Uwtm8uR9acKqHiz) | 2:27 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGRiOGJlMzlhMjJmMDBiMGY5NzljMzFkZGI1NWU1YmZj`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGJjNDUwNmQzMzI4NDIzN2Q2NDdjZTU4ZWI3NDAxMDI5`

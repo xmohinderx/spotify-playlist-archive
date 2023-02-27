@@ -130,6 +130,24 @@
     {
       "album": {
         "name": "Amor",
+        "url": "https://open.spotify.com/album/35qXT0ucEHiPyXoBaVoIFT"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0XP4jb9IjvliEXDt8rK3XY"
+    },
+    {
+      "album": {
+        "name": "Amor",
         "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
       },
       "artists": [
@@ -176,7 +194,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 155714,
       "name": "Amor",
       "url": "https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V"

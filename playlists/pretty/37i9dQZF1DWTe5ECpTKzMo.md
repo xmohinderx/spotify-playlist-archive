@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > Solo éxitos locales pasados, chapados en oro\. Cartel de Santa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,017 likes - 61 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,510 likes - 61 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 106352,
+  "num_followers": 106484,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDdmYTU2ODU0NGMzMzZjNmQ2OWE5MGJjYmYyMjczOGUx",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGZiMmFkNTJhYThiMWNmMmQ1MTdhMWE1NWM1N2EzNDc0",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "View From The Ground",
         "url": "https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 237466,
       "name": "You Can Do Magic",
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "A Rock And Roll Alternative",
-        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 260866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+        "name": "A Rock And Roll Alternative",
+        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
       "artists": [
         {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+      "duration_ms": 260866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+        "name": "Another Page",
+        "url": "https://open.spotify.com/album/4NiGOhxV6wViotkZKDv17G"
       },
       "artists": [
         {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+      "duration_ms": 259532,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Another Page",
-        "url": "https://open.spotify.com/album/4NiGOhxV6wViotkZKDv17G"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
         }
       ],
-      "duration_ms": 259532,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 281293,
-      "name": "Love Is the Answer (Single Version)",
-      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
-    },
-    {
       "added_at": "2022-01-26 21:27:23",
       "album": {
         "name": "Carry On",
@@ -1019,6 +1003,22 @@
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 281293,
+      "name": "Love Is the Answer (Single Version)",
+      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
     },
     {
       "added_at": "2022-01-26 21:27:23",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
     },
     {
-      "added_at": "2022-03-31 19:29:02",
-      "album": {
-        "name": "Takin' It Easy",
-        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "You're the Love",
-      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Dane Donohue",
@@ -1195,6 +1179,22 @@
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
+    },
+    {
+      "added_at": "2022-03-31 19:29:02",
+      "album": {
+        "name": "Takin' It Easy",
+        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "You're the Love",
+      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
     },
     {
       "added_at": "2021-04-22 18:12:12",

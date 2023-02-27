@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 4 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 |
 | 5 | [Umbea](https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Hits of Aslay](https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC) | 3:22 |
 | 6 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 |
-| 7 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 |
+| 7 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 |
 | 8 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 |
-| 9 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 |
+| 9 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 |
 | 10 | [Kafubaa](https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Zungu Macha](https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL) | [Kafubaa](https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG) | 4:06 |
 | 11 | [EX wangu \- Remix](https://open.spotify.com/track/1Nel9Cc2vqiK7lTj31ngMk) | [Hamisa Mobetto](https://open.spotify.com/artist/3LFryQzJgUAZKT0cBNwNiE), [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [EX wangu \(Remix\)](https://open.spotify.com/album/1N0TIGGTYrg5iXOoIzcloI) | 4:41 |
 | 12 | [Miss Buza \(feat\. Dulla Makabila\)](https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Miss Buza \(feat\. Dulla Makabila\)](https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 49 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 |
 | 50 | [Singeli Twista](https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Singeli Twista](https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb) | 3:24 |
 
-Snapshot ID: `MTY3NzIzNTk2MSwwMDAwMDAwMDAwZmU3ODliZGQyMGY0ZTA4ZGIxM2RmM2JiNzliN2Ji`
+Snapshot ID: `MTY3NzIzNTk2MSwwMDAwMDAwMDBhYmU0ZDJjYTcxMTUwZDdiNmZhMDE0OGMyODg5Mzli`

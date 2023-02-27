@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 845718,
+  "num_followers": 846125,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDc1NmJmNmE0MTMwZjUyYzQzOTZhMTUxNmFlZTA1ZTcy",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDExOTQ3YTIzMjYxMjU1MjMzY2VlNWRlOTRmZDY4MTlh",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 174363,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Raspberry Jam",
         "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 174363,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Tres Hermanos",
         "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
       },
@@ -519,22 +503,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 230137,
-      "name": "Doris",
-      "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -551,6 +531,26 @@
       "duration_ms": 165434,
       "name": "When She's Gone",
       "url": "https://open.spotify.com/track/3eDjyFYNaHlHb30i8ai9qx"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230137,
+      "name": "Doris",
+      "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "blotter baby",
+        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 156141,
+      "name": "are you feeling it now",
+      "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
+    },
+    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Spirit Mission",
@@ -725,22 +741,6 @@
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Baby",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 310840,
       "name": "We're Not In Orbit Yet\u2026",
       "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -863,22 +879,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 199440,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Thanatophobia",
-        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
-      },
-      "artists": [
-        {
-          "name": "Worn-Tin",
-          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
-        }
-      ],
-      "duration_ms": 237741,
-      "name": "Sensitivity",
-      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -961,20 +961,36 @@
       "url": "https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "blotter baby",
-        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
+        "name": "Thanatophobia",
+        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
       },
       "artists": [
         {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
         }
       ],
-      "duration_ms": 156141,
-      "name": "are you feeling it now",
-      "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
+      "duration_ms": 237741,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 204708,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1007,22 +1023,6 @@
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 204708,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1173,6 +1173,26 @@
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Technicolor Love",
+        "url": "https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 194029,
+      "name": "Technicolor Love",
+      "url": "https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN"
+    },
+    {
       "added_at": "2023-02-09 19:17:14",
       "album": {
         "name": "Endless Summer",
@@ -1277,10 +1297,10 @@
       "url": "https://open.spotify.com/track/637Dhg7cBf6ODFeY2wjF5Z"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Gamma Rays",
-        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
+        "name": "Sun Structures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
       },
       "artists": [
         {
@@ -1288,25 +1308,9 @@
           "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
-    },
-    {
-      "added_at": "2022-11-10 18:56:35",
-      "album": {
-        "name": "Heaven Is A Place",
-        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Heaven Is A Place",
-      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
+      "duration_ms": 190558,
+      "name": "Shelter Song",
+      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1323,6 +1327,38 @@
       "duration_ms": 229595,
       "name": "America's Cup",
       "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "findaway",
+        "url": "https://open.spotify.com/album/1AgBCPzR1UbZKM2FxJKPAa"
+      },
+      "artists": [
+        {
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "findaway",
+      "url": "https://open.spotify.com/track/484pR4ygqRozOWewi1hA1Z"
+    },
+    {
+      "added_at": "2022-11-10 18:56:35",
+      "album": {
+        "name": "Heaven Is A Place",
+        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Heaven Is A Place",
+      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1377,22 +1413,6 @@
       "url": "https://open.spotify.com/track/4U3KyPSnGam6zjAgG1JDUM"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "findaway",
-        "url": "https://open.spotify.com/album/1AgBCPzR1UbZKM2FxJKPAa"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "findaway",
-      "url": "https://open.spotify.com/track/484pR4ygqRozOWewi1hA1Z"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "everything's worth it",
@@ -1441,10 +1461,10 @@
       "url": "https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Sun Structures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
+        "name": "Gamma Rays",
+        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
       },
       "artists": [
         {
@@ -1452,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 190558,
-      "name": "Shelter Song",
-      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1475,22 +1495,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Do U Mind? (Leave the Light On)",
-        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
-      },
-      "artists": [
-        {
-          "name": "Fleece",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Do U Mind? (Leave the Light On)",
-      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Aquarium Drunkard's Lagniappe Sessions",
         "url": "https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL"
       },
@@ -1503,6 +1507,22 @@
       "duration_ms": 271349,
       "name": "2009",
       "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Do U Mind? (Leave the Light On)",
+        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
+      },
+      "artists": [
+        {
+          "name": "Fleece",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "Do U Mind? (Leave the Light On)",
+      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1539,22 +1559,6 @@
       "duration_ms": 207266,
       "name": "Clear",
       "url": "https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6"
-    },
-    {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "innerdialogue",
-        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
-      },
-      "artists": [
-        {
-          "name": "caaaaseyyyy",
-          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
-        }
-      ],
-      "duration_ms": 296151,
-      "name": "feelings",
-      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1609,6 +1613,22 @@
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "innerdialogue",
+        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
+      },
+      "artists": [
+        {
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+        }
+      ],
+      "duration_ms": 296151,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
+    },
+    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Sticky Thumb",
@@ -1643,34 +1663,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF"
+        "name": "Blacklight Shine",
+        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
       },
       "artists": [
         {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
         }
       ],
-      "duration_ms": 292066,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
+      "duration_ms": 175657,
+      "name": "Blacklight Shine",
+      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
     },
     {
       "added_at": "2022-10-24 21:28:36",

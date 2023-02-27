@@ -4,7 +4,7 @@
 
 > Brand new music from Gorillaz \(pictured\), The Weeknd + Ariana Grande, Halsey and more!
 
-2,039 songs - 4 day 14 hr 40 min
+2,040 songs - 4 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1646,7 +1646,8 @@
 | [Strange Faces](https://open.spotify.com/track/4lc1MN5O98ZPoEVnREVBrz) | [Hayley Zalassi](https://open.spotify.com/artist/6CkWYOPGB6vgMNjXAYRfav), [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Strange Faces](https://open.spotify.com/album/35oKTmccKcrR2RqizXr60N) | 6:04 | 2022-12-16 | 2022-12-24 |
 | [Strange Weather](https://open.spotify.com/track/2niy1TYOpHQqLsVtn7BPl1) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Strange Weather](https://open.spotify.com/album/5A715mDrFPkze7SaJRDZtw) | 3:50 | 2023-02-24 |  |
 | [Stranger](https://open.spotify.com/track/5BPNLhLl3G1ouRbofll8Ya) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Stranger](https://open.spotify.com/album/1U8DGxnL8G7H8nh8xP4T6E) | 4:33 | 2023-02-10 | 2023-02-17 |
-| [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5Knw9biZRSrQBxigmydZD8) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/2ZJEAO6ymyjw2OkC33N8jQ) | 3:46 | 2023-02-24 |  |
+| [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5Knw9biZRSrQBxigmydZD8) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/2ZJEAO6ymyjw2OkC33N8jQ) | 3:46 | 2023-02-24 | 2023-02-27 |
+| [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5mPSGfCAWxYYgbRf9ePCrh) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/4TKFUJgDQmeMoLguoUpOyW) | 3:46 | 2023-02-24 |  |
 | [Strasbourg](https://open.spotify.com/track/51pen2YDtBu1O2OLvhi9GE) | [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [Mensing](https://open.spotify.com/artist/6ZDONpXSFquORDgdY6exLo), [Jordan O](https://open.spotify.com/artist/10lOXI6h1AHxXS8ygPCWM2) | [Strasbourg & Home](https://open.spotify.com/album/11mTN4955HatPiLlNTyeW2) | 2:58 | 2022-11-25 | 2022-12-02 |
 | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 | 2023-01-27 | 2023-02-03 |
 | [Strawberry Moon](https://open.spotify.com/track/7uhoXJBlpGvAXNQGpMubNY) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Strawberry Moon](https://open.spotify.com/album/0UXt9viFjPIwAYmPNcikiP) | 3:06 | 2023-02-24 |  |

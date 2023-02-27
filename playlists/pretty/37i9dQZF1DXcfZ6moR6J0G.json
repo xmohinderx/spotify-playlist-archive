@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1583463,
+  "num_followers": 1584313,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkzMDM5NiwwMDAwMDAwMDAzYzY3YzFkM2E5MjE1NWEzM2UxM2I3N2E0ODZiZTk4",
+  "snapshot_id": "MTY3NjkzMDM5NiwwMDAwMDAwMDhlYjU5MGJhNTNmZDE5MDA3MmNkYzhjNmYyZjdmMjg0",
   "tracks": [
     {
       "added_at": "2023-02-20 21:59:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-20 21:59:56",
       "album": {
-        "name": "Tonight The Stars Revolt",
-        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "When Worlds Collide",
-      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
-    },
-    {
-      "added_at": "2023-02-20 21:59:56",
-      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 190760,
       "name": "Boom",
       "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+    },
+    {
+      "added_at": "2023-02-20 21:59:56",
+      "album": {
+        "name": "Tonight The Stars Revolt",
+        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
+      },
+      "artists": [
+        {
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "When Worlds Collide",
+      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
     },
     {
       "added_at": "2023-02-20 21:59:56",

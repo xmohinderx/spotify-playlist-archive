@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり/ <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-692 songs - 1 day 18 hr 56 min
+694 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [HOMEWORK](https://open.spotify.com/track/1s1kPQn6VPPIpQjm4dy2T9) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 2:51 | 2023-01-12 | 2023-02-02 |
 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 | 2022-09-27 | 2022-11-02 |
 | [Hontowane,](https://open.spotify.com/track/1G5cJCr6WwmiKRGlCbq6WS) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Hontowane,](https://open.spotify.com/album/0Kyfu9ZMYITiwDUngdTpJc) | 3:21 | 2022-10-18 | 2023-02-02 |
-| [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 |  |
+| [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 | 2023-02-27 |
 | [I Don't Have a Pen](https://open.spotify.com/track/0hOjpzwQDkUcPP3V2pbPDb) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:21 | 2022-02-17 | 2022-03-09 |
 | [I know](https://open.spotify.com/track/500QIrnafMrHv0YzJRSkXH) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [I know](https://open.spotify.com/album/1yKNHV3DEY2CaJjH924pg2) | 3:17 | 2022-02-17 | 2022-06-08 |
 | [I Lied](https://open.spotify.com/track/03OxW003ji0wL91AxLhjze) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [I Lied](https://open.spotify.com/album/1hP54EuSr6sV80o1Za93KE) | 3:42 | 2022-11-15 | 2022-12-14 |
@@ -187,6 +187,7 @@
 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2023-02-07 |  |
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-28 | 2023-02-02 |
+| [kaeruganaita](https://open.spotify.com/track/5bnapoAO0zeRr3PImFCywz) | [Ad balloon](https://open.spotify.com/artist/7bAPJzoHMgsEvbPRY0g35G) | [Eighteen](https://open.spotify.com/album/3ECzUzQZ8mjos4TW7ELL1T) | 7:37 | 2023-02-26 |  |
 | [KANDEN \(feat\. ゆるふわギャング\)](https://open.spotify.com/track/0PYB0GpSmN26QVXtvdzMv4) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [YC2.5](https://open.spotify.com/album/6Zn3tfvVOXgR7UoQodijM0) | 2:51 | 2022-08-07 | 2022-09-06 |
 | [Katte ni Shiyagare!](https://open.spotify.com/track/6oflgnyu1822rgT6HxE6WC) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Katte ni Shiyagare!](https://open.spotify.com/album/4KwSJf3KTVSoksSYT1asB1) | 6:12 | 2022-07-28 | 2022-08-24 |
 | [Kawaiko Chan](https://open.spotify.com/track/1u4XelqBZV7Wco7VUZoi9U) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 2:27 | 2023-02-07 |  |
@@ -529,7 +530,7 @@
 | [ミラ](https://open.spotify.com/track/3Nh3i6YBmVN9zHGFuMlwd2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ミラ](https://open.spotify.com/album/5RLYmHgINEeyKJrWTDZr4c) | 2:56 | 2022-02-17 | 2022-04-06 |
 | [ミラージュ](https://open.spotify.com/track/1Th7SUwzsekSITN4OcLfmc) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [ミラージュ](https://open.spotify.com/album/5uqGYqtdZmnQ2ZdsVhrijJ) | 3:43 | 2022-10-25 | 2022-10-27 |
 | [ムスクの香り](https://open.spotify.com/track/5N7gaC7e7eeOFe8Bgnzhti) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [ムスクの香り](https://open.spotify.com/album/3ytT7NqC0qAXHLAMp2R3lq) | 3:16 | 2022-10-25 | 2022-12-21 |
-| [メルト](https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [メルト](https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P) | 2:43 | 2023-02-01 |  |
+| [メルト](https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [メルト](https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P) | 2:43 | 2023-02-01 | 2023-02-27 |
 | [ヨンナ\~](https://open.spotify.com/track/0NY7R1RL9qpQcsk9yTnWQe) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [ヨンナ\~](https://open.spotify.com/album/3fCo5HAb77uYrQyaLI3ejr) | 3:44 | 2022-12-27 | 2023-01-13 |
 | [ライムライト](https://open.spotify.com/track/6dRVLa81jfp37EkKrv0trK) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ライムライト](https://open.spotify.com/album/0wVmz8nodc9IW0NFb8SP1L) | 3:12 | 2022-06-30 | 2022-07-15 |
 | [ラブソング](https://open.spotify.com/track/1OOpz8FwsB7h1YrFEHfwha) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [あいについて](https://open.spotify.com/album/4yhCBM3SysopK5WedJDCgw) | 3:02 | 2023-02-01 |  |
@@ -684,6 +685,7 @@
 | [街は海](https://open.spotify.com/track/4wM3cV1wEu9NMqAcUGsooR) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [街は海](https://open.spotify.com/album/2dlNNMuoTZVqU5jeDtjhgR) | 4:15 | 2022-10-18 | 2022-11-02 |
 | [誰も聞かないラジオから](https://open.spotify.com/track/45IRk9DUYEuz5aXivljmMk) | [泡く、脆く。](https://open.spotify.com/artist/0Gr5IN22Dhn1DDkp0bLVHp) | [誰も聞かないラジオから](https://open.spotify.com/album/5SR6hwOKKGjUJpCDIJ9kNf) | 4:39 | 2022-05-24 | 2022-07-06 |
 | [貴方日和](https://open.spotify.com/track/7D2f6qNWhBC6PcMTn5Q0mD) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [帝国喫茶](https://open.spotify.com/album/4XXjcfE9VSO82IxUI8sziH) | 5:17 | 2022-09-20 | 2022-11-16 |
+| [超新星](https://open.spotify.com/track/1LMBCAzPddcDx3rwb3LaSp) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 3:36 | 2023-02-26 |  |
 | [遅刻](https://open.spotify.com/track/2EhMtQkvL0MFmylVUXRklU) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [遅刻](https://open.spotify.com/album/3QajBUxnmnGNRC5iQMUck7) | 4:12 | 2022-10-11 | 2022-11-09 |
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-02-01 | 2023-02-24 |
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-03-29 | 2022-06-15 |

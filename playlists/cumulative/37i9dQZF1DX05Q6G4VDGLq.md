@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-464 songs - 1 day 4 hr 45 min
+466 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I Wish I Knew](https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 4:23 | 2022-06-28 | 2022-10-08 |
 | [I Wish I Knew](https://open.spotify.com/track/2ixKm55QpuEkEKHVGHWCNQ) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [I Wish I Knew](https://open.spotify.com/album/1evoLQf85MODIetg4eJqx7) | 3:49 | 2023-02-02 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2022-06-28 | 2023-02-08 |
+| [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 | 2023-02-23 |  |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 |  |
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-08 |  |
 | [I'm in the Mood for Love](https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I'm in the Mood for Love](https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi) | 4:14 | 2022-06-28 | 2022-10-08 |
@@ -196,6 +197,7 @@
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-06-28 | 2023-02-02 |
 | [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-28 | 2022-10-08 |
 | [In The Old Fashioned Way](https://open.spotify.com/track/2ExRtsNPSx1XupyPBq7Wtr) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [In The Old Fashioned Way](https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms) | 3:48 | 2023-01-19 |  |
+| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1n2ZwnIo8yDU6T64f2ARiK) | 3:54 | 2023-02-23 |  |
 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT) | [The Andy Love Band](https://open.spotify.com/artist/4psWzLHJ7pHepkJn6euY1S) | [Sidewinder](https://open.spotify.com/album/1Oni0D0iiqXbix69OQ0Cot) | 4:22 | 2022-06-28 | 2022-10-08 |
 | [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2022-06-28 | 2022-10-08 |
 | [Incognito](https://open.spotify.com/track/5hQBsGeVd6IwmuNXG744pg) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Incognito](https://open.spotify.com/album/4jKkbMMvsn6hmFKYukCTLR) | 4:32 | 2023-01-11 |  |
@@ -273,7 +275,7 @@
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-08 |  |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-06-28 | 2022-12-08 |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-06-28 | 2022-11-15 |
-| [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 | 2022-06-28 |  |
+| [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 | 2022-06-28 | 2023-02-27 |
 | [Misty Morning](https://open.spotify.com/track/1QwunZ0xkzaVuGG9hFT8pC) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Misty Morning](https://open.spotify.com/album/54sGdyKt7MxfWnOaaK95Jj) | 3:13 | 2022-06-28 | 2022-10-08 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-30 |  |
 | [Momentum](https://open.spotify.com/track/3BqL7IYqbFJH4dOVeMB0cA) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Momentum](https://open.spotify.com/album/1bS4W2eeB2M2cmw72Istwu) | 3:32 | 2022-06-28 | 2022-12-06 |
@@ -470,7 +472,7 @@
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-24 |  |
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-09-29 |  |
 | [You're My Everything](https://open.spotify.com/track/6PQTALunXWR81WZE5IjCzq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [You're My Everything](https://open.spotify.com/album/5mR2QjUeqbtA8yD9GJfIB8) | 3:39 | 2022-08-30 |  |
-| [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-30 |  |
+| [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-30 | 2023-02-27 |
 | [Älvan](https://open.spotify.com/track/2hgywy8NJicnetQ0IQBeaE) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [Älvan](https://open.spotify.com/album/1BBOsIErJVFsq1rZO8OBjt) | 3:22 | 2022-06-28 | 2022-10-08 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

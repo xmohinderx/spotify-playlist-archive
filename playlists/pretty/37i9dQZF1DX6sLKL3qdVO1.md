@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Si hoy le das flow a tu vida y Mañana Será Bonito\. Si KAROL G, lo dice, es porque es verdad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,135 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,336 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

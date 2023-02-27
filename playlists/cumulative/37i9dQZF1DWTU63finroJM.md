@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-934 songs - 2 day 4 hr 14 min
+935 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Broke Pop Kids](https://open.spotify.com/track/59GdwgTNBaUR9fUSxDbOUk) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Broke Pop Kids](https://open.spotify.com/album/2x7EOR1xG27FUU8rAzjwgG) | 1:54 | 2022-06-17 |  |
 | [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 | 2022-11-11 |  |
 | [Broken Home](https://open.spotify.com/track/5950Y7Cc3c0I6QH6hpf9E2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 3:09 | 2022-03-24 | 2022-04-16 |
-| [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-10 |  |
+| [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-17 |  |
+| [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-10 | 2023-02-27 |
 | [Buat Ku Sempurna](https://open.spotify.com/track/39fKEscitfslEas7J1zKFJ) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Buat Ku Sempurna](https://open.spotify.com/album/0Zk8UiB0JmFI3kaf9YQz7j) | 2:48 | 2022-02-03 | 2022-08-02 |
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2022-03-24 | 2022-04-15 |
 | [Busted](https://open.spotify.com/track/1Kc00Xx45rcJVdpFhHaxMc) | [Soulstice](https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD) | [Busted](https://open.spotify.com/album/1FiYlmq6TULRuhcZSlf59V) | 3:50 | 2022-02-10 | 2022-02-19 |

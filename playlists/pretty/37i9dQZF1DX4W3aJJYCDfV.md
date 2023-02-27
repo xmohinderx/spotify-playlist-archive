@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Gorillaz \(pictured\), The Weeknd + Ariana Grande, Halsey and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,893 likes - 126 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,925 likes - 126 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 48 | [Used To You](https://open.spotify.com/track/0ivsDrBQ9HloEcdaYxq9Un) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Used To You](https://open.spotify.com/album/4p6tJ0wUX7GXUvWwCFkFjs) | 3:07 |
 | 49 | [Samalaman Bay](https://open.spotify.com/track/07AYFRDZ0FVvq7sQHk8ERu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Samalaman Bay](https://open.spotify.com/album/0dfjXx1pW6HZ3Ihf8qFuEs) | 3:55 |
 | 50 | [Slow Motion \(feat\. Wizkid\)](https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:48 |
-| 51 | [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5Knw9biZRSrQBxigmydZD8) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/2ZJEAO6ymyjw2OkC33N8jQ) | 3:46 |
+| 51 | [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5mPSGfCAWxYYgbRf9ePCrh) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/4TKFUJgDQmeMoLguoUpOyW) | 3:46 |
 | 52 | [Babygirl](https://open.spotify.com/track/5FD1hYRvX415XISCjbw9lQ) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Babygirl](https://open.spotify.com/album/4CzrVdmo9nKgzO2K4yUiYC) | 2:00 |
 | 53 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
 | 54 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 125 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 |
 | 126 | [Floor Shake](https://open.spotify.com/track/75CW2Y65bqjxTQx3z3V53X) | [DJ Semtex](https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Floor Shake](https://open.spotify.com/album/29SzNH7V2r3h1oZG3MHemE) | 2:32 |
 
-Snapshot ID: `MTY3NzIyNjExNCwwMDAwMDAwMDRmZGVjYzhhMGYxY2Y4NTRhOGJlYjVmZTU1NGEwYTUx`
+Snapshot ID: `MTY3NzIyNjExNCwwMDAwMDAwMGFiYzc0MWQzZTE1Y2FkMzg4MjIyYTZkOWRhZDI3MDk2`

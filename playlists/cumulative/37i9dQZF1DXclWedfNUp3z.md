@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-347 songs - 1 day 0 hr 3 min
+348 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Lost in Buenos Aires](https://open.spotify.com/track/3Q3sGHjw1FHPiIV5aNyAuX) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [The Sound of Living Things](https://open.spotify.com/album/63KvbVADYi7wwExsu2lUxe) | 4:25 | 2022-03-30 | 2022-07-19 |
 | [Lotus](https://open.spotify.com/track/3NZl1oPmj7RIJ3YeS5OLTF) | [Language of Lyrics](https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC) | [Lotus](https://open.spotify.com/album/6Pff2efDPEKIOFn53REldJ) | 3:05 | 2021-10-20 | 2022-04-21 |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 | 2022-07-12 |
-| [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 | 2022-11-12 |  |
+| [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 | 2022-11-12 | 2023-02-27 |
 | [Management Of Sorrows](https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6) | [Before Flags](https://open.spotify.com/artist/6qZr5jzAGYYWSWVvC4IBBN), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Chrys Jones](https://open.spotify.com/artist/4CHYSMGosrDC0PvydWgTO2), [Dylan Ellicott](https://open.spotify.com/artist/6D27nHBCZzRy7AOydwkonK), [Patrick Spatz](https://open.spotify.com/artist/7pwGeErkrXg5N40Cw8ytid) | [Mountains, Go](https://open.spotify.com/album/3ynwXohmbMQN0bhDPWw5U9) | 8:39 | 2022-01-07 | 2022-07-16 |
 | [Mandragora](https://open.spotify.com/track/2HNdhyCuwK8co2WJh5VvHT) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Vegetalia](https://open.spotify.com/album/4pbymaEC9lqpbnLoLvNspG) | 3:53 | 2021-10-20 | 2022-07-27 |
 | [Maracuyá](https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Maracuyá](https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi) | 3:02 | 2023-01-04 |  |
@@ -259,6 +259,7 @@
 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 | 2021-10-20 |  |
 | [Schachtgerüst](https://open.spotify.com/track/3xXOIJVR8tGBjsnePxwu9l) | [Teleskop](https://open.spotify.com/artist/1XA37ggAvoKbPykQNepMHS), [Wooden Peak](https://open.spotify.com/artist/2Rj13fCuT598oDDz1wqvow) | [Human \| Machine \| Nature](https://open.spotify.com/album/4pp4YF9DHxowILnFIOsoD4) | 4:02 | 2022-01-20 | 2022-07-29 |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2021-10-20 |  |
+| [Seals](https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A) | 2:18 | 2021-10-20 |  |
 | [Seals](https://open.spotify.com/track/5yBwN4BHv5WUvch6MR5L68) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF) | 2:18 | 2021-10-20 | 2022-10-15 |
 | [Seals](https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:18 | 2021-10-20 | 2023-01-27 |
 | [Searching For Joy In The Season of Sorrow](https://open.spotify.com/track/03kU6xt9ejon33VJyn0hEH) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Searching For Joy In The Season of Sorrow](https://open.spotify.com/album/4NYVu5j2Wyw4hsMvAlFwiC) | 4:06 | 2021-11-27 | 2022-07-29 |

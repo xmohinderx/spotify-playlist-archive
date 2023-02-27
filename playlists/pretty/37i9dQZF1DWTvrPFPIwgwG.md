@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos, Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,677 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,858 likes - 85 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 30 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 |
 | 31 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 |
 | 32 | [Sou Eu](https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Sou Eu](https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L) | 5:12 |
-| 33 | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf) | 5:24 |
+| 33 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
 | 34 | [O Céu Tem Mais](https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Céu Tem Mais](https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz) | 7:32 |
 | 35 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
 | 36 | [Só Faz Ajudar](https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Só Faz Ajudar](https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv) | 4:27 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 38 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 |
 | 39 | [Vem Senhor](https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Vem Senhor](https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u) | 5:12 |
 | 40 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 |
-| 41 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
+| 41 | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf) | 5:24 |
 | 42 | [Estratégia](https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Estratégia](https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr) | 6:04 |
 | 43 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 |
 | 44 | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4) | 4:28 |
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 72 | [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 |
 | 73 | [Calma](https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [Calma](https://open.spotify.com/album/0uZHHtKPIXyIhZNsT6Ur55) | 4:32 |
 | 74 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
-| 75 | [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 |
-| 76 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
+| 75 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
+| 76 | [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 |
 | 77 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
 | 78 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 79 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 |
 | 80 | [Hoje é Vida](https://open.spotify.com/track/3lUX2uBmpCepp0QTdeFTAG) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Hoje é Vida](https://open.spotify.com/album/3j9FyWqK7nEfCv7AjPz40D) | 4:10 |
-| 81 | [Ele Está Comigo](https://open.spotify.com/track/1IwluqLemFFm8ZGv4ujrkL) | [Pedro Henrique](https://open.spotify.com/artist/12YKDiuuJtcmYTKJ8z4gx0) | [Ele Está Comigo](https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP) | 5:09 |
-| 82 | [Marcados pela Glória](https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Marcados pela Glória](https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh) | 5:01 |
+| 81 | [Marcados pela Glória](https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Marcados pela Glória](https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh) | 5:01 |
+| 82 | [Ele Está Comigo](https://open.spotify.com/track/1IwluqLemFFm8ZGv4ujrkL) | [Pedro Henrique](https://open.spotify.com/artist/12YKDiuuJtcmYTKJ8z4gx0) | [Ele Está Comigo](https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP) | 5:09 |
 | 83 | [Geração de Adoradores](https://open.spotify.com/track/7rs6KxikJA7ieBpMvvxfEm) | [Tainara e Diuliano](https://open.spotify.com/artist/4mwC9ZYuPNZeW5vnEQFEO5) | [Geração de Adoradores](https://open.spotify.com/album/75xZtcm18mmxvcM1iamY9G) | 3:19 |
 | 84 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3NzIzNzA2NywwMDAwMDAwMDY0NGJlZDJlZTRjNjQwYjFiN2NjZTMzODQxYTY3ZmM3`
+Snapshot ID: `MTY3NzIzNzA2NywwMDAwMDAwMDM4ZDZkNmQwNjVlMjI2MGFiMjU1NzI2YThkZGI0NGVh`

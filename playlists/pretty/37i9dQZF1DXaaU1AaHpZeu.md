@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mitú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,279 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,300 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 13 | [soltarte](https://open.spotify.com/track/4gKRvOMAaYj9r5mAN6PhzK) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT) | [soltarte](https://open.spotify.com/album/4iB2o7wT76pxh8z1tnITya) | 2:55 |
 | 14 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 15 | [Estrella Polar](https://open.spotify.com/track/6kmG2QvT6viEJ39OJoFGFy) | [Morning Drivers](https://open.spotify.com/artist/1c9ks60j0waPCEjhbgZMyZ), [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [Estrella Polar](https://open.spotify.com/album/1gdznRffp61JsZV0b0YdUm) | 4:45 |
-| 16 | [Ojitos verdes \(feat\. D3llano\) \- Míralo Remix](https://open.spotify.com/track/73bj2i62OUhLjs9mW2vLJv) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv), [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524), [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [No tan sad :\)](https://open.spotify.com/album/78d2RbP460asYoBNDnYtN2) | 2:41 |
+| 16 | [Ojitos verdes \- Míralo Remix](https://open.spotify.com/track/73bj2i62OUhLjs9mW2vLJv) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv), [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524), [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [No tan sad :\)](https://open.spotify.com/album/78d2RbP460asYoBNDnYtN2) | 2:41 |
 | 17 | [NADA](https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 3:48 |
 | 18 | [Harakiri](https://open.spotify.com/track/1bqr8KMcoHeZHdb8HAQuAR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harakiri](https://open.spotify.com/album/5gDm3a5oSYeS4t9sNaswVs) | 3:33 |
 | 19 | [Aviones](https://open.spotify.com/track/3tKM7Elq9Q0KIcXhyagUBC) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Aviones](https://open.spotify.com/album/1oAJT670zqDm1ICuE72By0) | 3:14 |

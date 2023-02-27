@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3555217,
+  "num_followers": 3555861,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDZmZjBlMTNhZmVhMDQ3ODI4MzQ1MDkzZGQ3NDAwMjBm",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGEzNmNhMmJlNmM2NzFhMWRlOTg0YjY4OTM1NmRiMDE0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 187990,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tears In Paradise",
         "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169180,
       "name": "Another You",
       "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B"
       },
@@ -939,6 +955,22 @@
       "duration_ms": 178560,
       "name": "Leave Me Low",
       "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Catching Eyes",
+        "url": "https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Catching Eyes",
+      "url": "https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -983,54 +1015,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Catching Eyes",
-        "url": "https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD"
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Catching Eyes",
-      "url": "https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "UUUU",
-        "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
         },
         {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
         }
       ],
-      "duration_ms": 389800,
-      "name": "UUUU",
-      "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+      "duration_ms": 186472,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "UUUU",
+        "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 389800,
+      "name": "UUUU",
+      "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Sweet Nothings (feat. Minke)",
         "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
       },
@@ -1071,6 +1091,42 @@
       "duration_ms": 228845,
       "name": "Sweet Nothings (feat. Minke)",
       "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
+      },
+      "artists": [
+        {
+          "name": "Bobby Love",
+          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
+        },
+        {
+          "name": "Olive B",
+          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1111,62 +1167,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
-      },
-      "artists": [
-        {
-          "name": "Bobby Love",
-          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
-        },
-        {
-          "name": "Olive B",
-          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Heartaches",
         "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
       },
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Raye",
+        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 290409,
+      "name": "Raye",
+      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Raye",
-        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 290409,
-      "name": "Raye",
-      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1311,26 +1311,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Red Lights (EMBRZ Remix)",
-        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Red Lights - EMBRZ Remix",
-      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+      "duration_ms": 400130,
+      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1351,22 +1347,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "Red Lights (EMBRZ Remix)",
+        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 206000,
+      "name": "Red Lights - EMBRZ Remix",
+      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rooms on the Ark",
-        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 228577,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Color of Nothing",
         "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 177857,
       "name": "Fruit&Sun",
       "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Rooms on the Ark",
+        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 228577,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Falling Back",
-        "url": "https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -1879,18 +1859,42 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
     }
   ],
   "unique_name": "Chill Tracks",

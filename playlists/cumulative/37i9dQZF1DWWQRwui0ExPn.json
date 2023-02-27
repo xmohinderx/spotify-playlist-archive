@@ -7428,7 +7428,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 100075,
       "name": "Balancing Act",
       "url": "https://open.spotify.com/track/1S7jUXW6XQB60A835iFnTS"
@@ -12046,7 +12046,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 113250,
       "name": "boy",
       "url": "https://open.spotify.com/track/1Zj2BxLdpCogvuf5NSnVeb"
@@ -15034,7 +15034,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 135000,
       "name": "CarniBeat",
       "url": "https://open.spotify.com/track/40VHq1fyWREaNYcoFEYxih"
@@ -20394,7 +20394,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Cosmic Surf",
       "url": "https://open.spotify.com/track/6BdEZwzy7KmrTKWvyPsBrP"
@@ -49718,7 +49718,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 97500,
       "name": "Latour",
       "url": "https://open.spotify.com/track/2VYSYwmSV52FNMlDu3J29w"
@@ -64186,7 +64186,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 139411,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/7h7vEBh4JlC1MtTHyJJMJN"
@@ -82546,7 +82546,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Solar Wind",
       "url": "https://open.spotify.com/track/3cOF6Jng3xt7mEgrWrYs6C"
@@ -101786,6 +101786,24 @@
       "duration_ms": 125816,
       "name": "Windows",
       "url": "https://open.spotify.com/track/7tfWZc7YAb3N55dXyZnOcv"
+    },
+    {
+      "album": {
+        "name": "Windows Down Please",
+        "url": "https://open.spotify.com/album/27NSyKkHjFnOoTyBH7rBKA"
+      },
+      "artists": [
+        {
+          "name": "RainDear",
+          "url": "https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123375,
+      "name": "Windows Down Please",
+      "url": "https://open.spotify.com/track/0PvlcijhpAcsJt0a0sv48p"
     },
     {
       "album": {

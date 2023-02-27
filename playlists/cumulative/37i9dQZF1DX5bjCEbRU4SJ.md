@@ -4,13 +4,14 @@
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-145 songs - 9 hr 49 min
+146 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 | 2018-12-11 |  |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2018-12-11 | 2022-07-27 |
 | [A Case of You](https://open.spotify.com/track/47puzbYTZ8BDKrD2GnMQXi) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7), [cody06](https://open.spotify.com/artist/2UTGurWdxcnfsCAK0FopWO) | [A Case Of You](https://open.spotify.com/album/4GFyRjzWrfAFtj2fX6ebf6) | 4:24 | 2018-12-11 | 2023-02-25 |
+| [A Case of You \- Original](https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da) | [enessaresmi](https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD), [Neverever](https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw), [Aytowén](https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW), [Savaşş](https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD) | [A Case of You \(Original\)](https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o) | 4:24 | 2018-12-11 |  |
 | [After Midnight](https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 2:20 | 2018-12-11 | 2022-11-14 |
 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 | 2018-12-11 |  |
 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 | 2018-12-11 | 2022-07-29 |
@@ -62,7 +63,7 @@
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2018-12-11 |  |
 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 | 2018-12-11 |  |
 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 | 2018-12-11 |  |
-| [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 | 2018-12-11 |  |
+| [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 | 2018-12-11 | 2023-02-27 |
 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 | 2018-12-11 |  |
 | [Let's Move To The Country](https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi) | 3:05 | 2018-12-11 | 2022-07-29 |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2018-12-11 |  |

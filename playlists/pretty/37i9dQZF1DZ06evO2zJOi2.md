@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,902 likes - 34 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,500 likes - 34 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 33 | [Stand Out](https://open.spotify.com/track/1obSAv22xGzYYrPWRcC4PD) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Out](https://open.spotify.com/album/1Kj2VOGUUTdOoZRplfR2rL) | 3:14 |
 | 34 | [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 |
 
-Snapshot ID: `Mjc5NTU2NTIsMDAwMDAwMDAyZTliODlhZjRhMDgxMzE3NDgxMzVkMmZlMjM2NzAzYQ==`
+Snapshot ID: `Mjc5NTY4ODMsMDAwMDAwMDA2OGYwMGVlNTRiYzYxNjVkYzY2NThjZTM0ZmE4NmVmZQ==`

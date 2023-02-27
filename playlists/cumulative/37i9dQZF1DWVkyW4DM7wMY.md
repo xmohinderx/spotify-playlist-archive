@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-144 songs - 7 hr 36 min
+145 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-11-11 | 2022-11-11 |
 | [She Took the Keys](https://open.spotify.com/track/5aammiVXwDxl3tpBfKPmQ9) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [She Took the Keys](https://open.spotify.com/album/4BranpbaQjjOGmHsN3OfgW) | 4:57 | 2021-11-11 | 2022-02-05 |
 | [Slow wine](https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow wine](https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5) | 2:03 | 2022-08-25 | 2022-11-01 |
-| [Slow Wine \- Radio Edit](https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow Wine \(Radio Edit\)](https://open.spotify.com/album/0v7UOCkhnimTEBAs8OUlnM) | 2:04 | 2022-08-25 |  |
+| [Slow Wine](https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 2:04 | 2022-08-25 |  |
+| [Slow Wine \- Radio Edit](https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow Wine \(Radio Edit\)](https://open.spotify.com/album/0v7UOCkhnimTEBAs8OUlnM) | 2:04 | 2022-08-25 | 2023-02-27 |
 | [Solo](https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb) | [Kash Kaaria](https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Strings Attached](https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq) | 3:07 | 2021-11-25 |  |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2021-10-15 |  |
 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 | 2022-03-31 |  |

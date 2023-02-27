@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 160000,
       "name": "10.03.2023",
       "url": "https://open.spotify.com/track/0rogG0xr0c3Fdxdm0co3aK"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 170760,
       "name": "Ambiance vandale",
       "url": "https://open.spotify.com/track/1znTNvYRyf4K7EnSoDSoIV"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -5438,7 +5438,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -6182,7 +6182,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "Des milliers de je t'aime",
       "url": "https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA"
@@ -6312,7 +6312,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -6898,7 +6898,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 123706,
       "name": "D\u00e9monstration",
       "url": "https://open.spotify.com/track/1KGnU9EowxHQxmQJzGGpDv"
@@ -11009,6 +11009,28 @@
     },
     {
       "album": {
+        "name": "Kings & Queens (feat. Shibui)",
+        "url": "https://open.spotify.com/album/1hyL0GzOo3xtHAyhUQ5mjV"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144146,
+      "name": "Kings & Queens (feat. Shibui)",
+      "url": "https://open.spotify.com/track/5n4tX6qxC8giXU7IUmDSuI"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -11938,7 +11960,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -12292,7 +12314,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 159506,
       "name": "Le crime parfait",
       "url": "https://open.spotify.com/track/5L00AR9P5b2iaizne5PVUS"
@@ -16560,7 +16582,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 159866,
       "name": "Op Gant\u00e9",
       "url": "https://open.spotify.com/track/5Xbgcv7Go9CbrhtQHdaYGp"
@@ -19944,7 +19966,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 163253,
       "name": "Seinen",
       "url": "https://open.spotify.com/track/7MPlnOcUE5OeVZdIcugUZt"
@@ -20162,7 +20184,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -21206,7 +21228,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 175833,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/2ThaHV10xrAcL2WfqXyLnp"
@@ -22024,7 +22046,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 134466,
       "name": "Tomb Raider",
       "url": "https://open.spotify.com/track/7F7mrivCzAPYZ650y1eoeJ"
@@ -22802,7 +22824,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 164567,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"

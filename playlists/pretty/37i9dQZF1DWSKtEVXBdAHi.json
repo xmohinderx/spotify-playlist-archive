@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27127,
+  "num_followers": 27124,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDQ3ZjUwOTc4MGRjODAxNTllNjUzNzQ0YTk3NjY0ODEz",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGRhOWQ5ZjVmZDIyNGI1NDA3YWRiODk5MzcwOGNjYWZj",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Easier \u2013 Remix (with Charlie Puth)",
         "url": "https://open.spotify.com/album/5h2ljtbTQqfbCg4nem00bf"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157325,
       "name": "Easier \u2013 Remix (with Charlie Puth)",
       "url": "https://open.spotify.com/track/5iTaLzgPI5jRMVAxITcZwT"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -903,6 +903,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Breathe (feat. Ina Wroldsen)",
+      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Harder (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 180000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Harder (with Bebe Rexha)",
-      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Vince Freeman",
+          "url": "https://open.spotify.com/artist/74fA5V74G5FAxND01a42is"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Complicated (Faustix Remix)",
         "url": "https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du"
       },
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
+        "name": "Don't Worry (Radio Edit)",
+        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Vince Freeman",
-          "url": "https://open.spotify.com/artist/74fA5V74G5FAxND01a42is"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 189243,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
+      "duration_ms": 190278,
+      "name": "Don't Worry - Radio Edit",
+      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1467,22 +1483,6 @@
       "duration_ms": 156283,
       "name": "High On Your Love",
       "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Don't Worry (Radio Edit)",
-        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 190278,
-      "name": "Don't Worry - Radio Edit",
-      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",

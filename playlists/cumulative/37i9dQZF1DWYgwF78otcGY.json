@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "90-talet",
+        "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
+      },
+      "artists": [
+        {
+          "name": "WAHL",
+          "url": "https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z"
+        },
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176578,
+      "name": "90-talet",
+      "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
+    },
+    {
+      "album": {
         "name": "The Collector",
         "url": "https://open.spotify.com/album/1pBKs1EcgLJGQ2kRapI0M4"
       },
@@ -275,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Bail\u00e1 Bail\u00e1",
+        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173124,
+      "name": "Bail\u00e1 Bail\u00e1",
+      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+    },
+    {
+      "album": {
         "name": "Blond",
         "url": "https://open.spotify.com/album/6J8YOKLKvXK0xKrpW9pYv2"
       },
@@ -394,7 +434,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
@@ -596,7 +636,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 169783,
       "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
       "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
@@ -1251,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "In i dimman",
+        "url": "https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173692,
+      "name": "In i dimman",
+      "url": "https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq"
+    },
+    {
+      "album": {
         "name": "In My Cabana",
         "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
       },
@@ -1406,7 +1464,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 167440,
       "name": "Just nu",
       "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
@@ -1774,7 +1832,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 185533,
       "name": "Lyssna till ditt hj\u00e4rta",
       "url": "https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV"
@@ -1828,7 +1886,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 181586,
       "name": "Min k\u00e4rlek",
       "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
@@ -1872,6 +1930,24 @@
       "duration_ms": 175066,
       "name": "My Number One",
       "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "album": {
@@ -1922,7 +1998,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 183051,
       "name": "M\u00f6t mig i Gamla Stan",
       "url": "https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te"
@@ -2163,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Run To The Hills",
+        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Run To The Hills",
+      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
+    },
+    {
+      "album": {
         "name": "Sol, vind och vatten/Det b\u00e4sta med Ted G\u00e4rdestad",
         "url": "https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A"
       },
@@ -2398,6 +2492,24 @@
       "duration_ms": 177400,
       "name": "Upp \u00f6ver mina \u00f6ron",
       "url": "https://open.spotify.com/track/2LeECxc9pVxuHPTxkcSU6f"
+    },
+    {
+      "album": {
+        "name": "Vem e som oss",
+        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175604,
+      "name": "Vem e som oss",
+      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
     },
     {
       "album": {

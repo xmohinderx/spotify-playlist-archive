@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Aw\u00e9",
+        "url": "https://open.spotify.com/album/06VkGpPl2077Z5JCCld11O"
+      },
+      "artists": [
+        {
+          "name": "Chineur",
+          "url": "https://open.spotify.com/artist/0x7kCGAtSNcUFZ9BW4tdPc"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259591,
+      "name": "Aw\u00e9",
+      "url": "https://open.spotify.com/track/05a90M1kZwe4oQm9e9wc0h"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -10568,7 +10586,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "LMCF",
       "url": "https://open.spotify.com/track/4pS48kBLGkTd4yQYVrMZ9F"
@@ -14356,7 +14374,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 164000,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/5Y9xTg76DkBpjzYu2aCUYi"
@@ -16870,7 +16888,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -17512,7 +17530,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 239142,
       "name": "The Star That I Want",
       "url": "https://open.spotify.com/track/0l9WgOg68r5Mcl91EnJMCP"
@@ -18234,7 +18252,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

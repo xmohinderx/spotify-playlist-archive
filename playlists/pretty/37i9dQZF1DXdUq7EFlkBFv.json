@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 4644,
+  "num_followers": 4667,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDE1MzE1YzdjOGUyZDgwMmM5NWI0MzlmNDdkN2ZkZWU3",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGU1OWJiZmI2NTI5MWYzZTE3MDY5YTA3NTYwNjcxMTNi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "SKAT (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 231414,
-      "name": "SKAT (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Outside (Better Days)",
         "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 215495,
       "name": "Outside (Better Days)",
       "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "SKAT (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 231414,
+      "name": "SKAT (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK"
     },
     {
       "added_at": "2022-10-01 16:17:17",

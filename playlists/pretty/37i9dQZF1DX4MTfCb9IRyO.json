@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14915,
+  "num_followers": 14921,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDBjZmIwYzllYmQwOWYxMmQ2Yzk2ZTA5MTE2ODU0MzI3",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMGZiMjkyNDY5MGVmZDc4YzQxYTAyNzM3ZmEyZTRlNTQx",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 152350,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
     },
     {
       "added_at": "2020-05-03 08:57:28",

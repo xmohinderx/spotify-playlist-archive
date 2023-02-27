@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 23714,
+  "num_followers": 23768,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDU3Mzg1NDFkNDExNmViOWQyNmYzYTBiZDY0N2FjNWIx",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDE0ZGE3NzFhMTFkMzIwZGNkZTFjNmQyODM2ODY3OTQz",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -351,6 +351,38 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "MERCURIO",
+      "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -383,38 +415,6 @@
       "duration_ms": 162720,
       "name": "CORONE",
       "url": "https://open.spotify.com/track/1A7rUacip28yYERtzuQZ55"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "MERCURIO",
-      "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Besame Sin Sentir",
+        "url": "https://open.spotify.com/album/4y58SAZa6a4LmuqF6APaE3"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 248485,
+      "name": "Besame Sin Sentir",
+      "url": "https://open.spotify.com/track/0ssrK9S67e9ZGmL9joKWLn"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "fue mejor (feat. SZA)",
         "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Besame Sin Sentir",
-        "url": "https://open.spotify.com/album/4y58SAZa6a4LmuqF6APaE3"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 248485,
-      "name": "Besame Sin Sentir",
-      "url": "https://open.spotify.com/track/0ssrK9S67e9ZGmL9joKWLn"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI"
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
       "artists": [
         {
-          "name": "suei",
-          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 157884,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o"
+      "duration_ms": 198973,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "suei",
+          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
         }
       ],
-      "duration_ms": 198973,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
+      "duration_ms": 157884,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -911,18 +911,34 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+        "name": "Double Cheese & Bacon (feat. Willie DeVille & Veztalone)",
+        "url": "https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx"
       },
       "artists": [
         {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
         }
       ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+      "duration_ms": 253255,
+      "name": "Double Cheese & Bacon (feat. Willie DeVille & Veztalone)",
+      "url": "https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF"
     }
   ],
   "unique_name": "bes\u00e1ndote <3",

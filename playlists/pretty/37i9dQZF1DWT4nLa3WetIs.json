@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 79089,
+  "num_followers": 79256,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDdiZGVhZDUwNjA3MmVhYjYyNTUxY2ZmMTg2NmY5NzJj",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDE2ZDg5ZDNmMTU3NzQ1MTkwZWMwZWFkZDk3OWE5YTI3",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Olu Maintain",
-        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
-      },
-      "artists": [
-        {
-          "name": "Olu Maintain",
-          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
-        }
-      ],
-      "duration_ms": 255712,
-      "name": "Yahooze",
-      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Bundelele",
         "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 205970,
       "name": "Bundelele",
       "url": "https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
+      },
+      "artists": [
+        {
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
+        }
+      ],
+      "duration_ms": 255712,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
     },
     {
       "added_at": "2020-11-06 13:21:21",

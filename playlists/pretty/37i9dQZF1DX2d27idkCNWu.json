@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 258968,
+  "num_followers": 259000,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMGU4OGEyYTFhMjE1NTJmNzc1ZmUwZWRlZDE0MDczOTAx",
+  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMGZjYmY4NWZhMGQ3ZGNkMDA0YmQ0ODlmZmY0NTc3OGVh",
   "tracks": [
     {
       "added_at": "2023-02-24 03:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Human Nature (Acoustic)",
-        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        },
-        {
-          "name": "Alex Francis",
-          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
-        }
-      ],
-      "duration_ms": 227763,
-      "name": "Human Nature - Acoustic",
-      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 225790,
       "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Human Nature (Acoustic)",
+        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        },
+        {
+          "name": "Alex Francis",
+          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
+        }
+      ],
+      "duration_ms": 227763,
+      "name": "Human Nature - Acoustic",
+      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Better Part of Me",
-        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Better Part of Me",
-      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Ozu Vivo (Live)",
+        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187936,
+      "name": "Del Mar - Acustico",
+      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Live at Sydney Opera House",
         "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
       },
@@ -983,6 +999,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -1003,18 +1035,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1031,22 +1063,6 @@
       "duration_ms": 202280,
       "name": "Ain't Together",
       "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1219,18 +1235,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Ozu Vivo (Live)",
-        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 187936,
-      "name": "Del Mar - Acustico",
-      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1263,26 +1283,6 @@
       "duration_ms": 243955,
       "name": "America",
       "url": "https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-02-24 03:00:00",

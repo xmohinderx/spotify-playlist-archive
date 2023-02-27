@@ -4,7 +4,7 @@
 
 > HARDY is taking OVER! His new album the mockingbird & THE CROW is out now!
 
-231 songs - 13 hr 27 min
+232 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 | 2021-11-01 | 2022-06-11 |
 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 | 2021-11-01 | 2022-09-17 |
 | [Get Em Up](https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:05 | 2021-11-01 | 2022-10-01 |
+| [Get There First](https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz) | 3:46 | 2023-02-17 |  |
 | [Get There First](https://open.spotify.com/track/6Q1t0ivoNyMynfx6nOU1Ez) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0uZgjHZ9DiWmMCWz0swpzo) | 3:46 | 2023-01-27 | 2023-02-19 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2021-11-01 |  |
 | [Go To Town](https://open.spotify.com/track/6e0yZu2RjDEMaTzjVizc4C) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Go To Town](https://open.spotify.com/album/5Hl88l5hDmr3O7RVQJBIlE) | 3:01 | 2022-05-06 | 2022-07-18 |
@@ -233,7 +234,7 @@
 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 | 2022-04-29 |  |
 | [Workin' Man](https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Workin' Man](https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX) | 3:38 | 2022-06-24 |  |
 | [Wrong Turns](https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:28 | 2023-01-20 |  |
-| [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 | 2021-11-05 |  |
+| [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 | 2021-11-05 | 2023-02-27 |
 | [You and Me](https://open.spotify.com/track/3sxQbGjZ069MiXljzJTMsT) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 4:24 | 2022-10-28 | 2023-01-08 |
 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 | 2021-11-01 | 2023-01-11 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2021-11-01 | 2022-08-27 |

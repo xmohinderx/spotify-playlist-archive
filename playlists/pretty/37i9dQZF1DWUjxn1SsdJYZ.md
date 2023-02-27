@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,563 likes - 102 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,594 likes - 102 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

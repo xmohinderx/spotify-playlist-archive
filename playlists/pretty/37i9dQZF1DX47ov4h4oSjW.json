@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104349,
+  "num_followers": 104345,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMGMyMTMwYTY1NDgzMTcwYWUwZWY2YmE5N2EyNTQ0NmRk",
+  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDc5NzE5YWZjZjE4ZTJmYTk4NjI2ZDM2Y2E2NTY3YjU5",
   "tracks": [
     {
       "added_at": "2023-01-26 21:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Bienveillant",
-        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Edie Chastain",
-          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
-        }
-      ],
-      "duration_ms": 117472,
-      "name": "Bienveillant",
-      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Whirling sky",
         "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Bienveillant",
+        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Edie Chastain",
+          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
+        }
+      ],
+      "duration_ms": 117472,
+      "name": "Bienveillant",
+      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Tuesday Rain",
-        "url": "https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF"
-      },
-      "artists": [
-        {
-          "name": "Tjeerd Oosterhuis",
-          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
-        }
-      ],
-      "duration_ms": 108849,
-      "name": "Tuesday Rain",
-      "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Mosel Reflections (Solo Piano Version)",
         "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 98993,
       "name": "Mosel Reflections (Solo Piano Version)",
       "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Tuesday Rain",
+        "url": "https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "duration_ms": 108849,
+      "name": "Tuesday Rain",
+      "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
-      },
-      "artists": [
-        {
-          "name": "Dunham Froebel",
-          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 197500,
       "name": "Always",
       "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
+      },
+      "artists": [
+        {
+          "name": "Dunham Froebel",
+          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Finding Rain",
-        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
-      },
-      "artists": [
-        {
-          "name": "Emily Rubye",
-          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
-        }
-      ],
-      "duration_ms": 134915,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Finding Rain",
+        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
+      },
+      "artists": [
+        {
+          "name": "Emily Rubye",
+          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
+        }
+      ],
+      "duration_ms": 134915,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "For\u00eat Profonde",
-        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
-      },
-      "artists": [
-        {
-          "name": "Ricard Paul",
-          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
-        }
-      ],
-      "duration_ms": 187382,
-      "name": "For\u00eat Profonde",
-      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -1295,22 +1279,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+        "name": "For\u00eat Profonde",
+        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+          "name": "Ricard Paul",
+          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
         }
       ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+      "duration_ms": 187382,
+      "name": "For\u00eat Profonde",
+      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1343,6 +1323,26 @@
       "duration_ms": 89918,
       "name": "Ready Set Love",
       "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 216625,
-      "name": "Story of You",
-      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Unyielding Faith",
         "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 158000,
       "name": "Unyielding Faith",
       "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 216625,
+      "name": "Story of You",
+      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Center of Gravity",
+        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
+      },
+      "artists": [
+        {
+          "name": "Carl Bonet",
+          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Mantra for Piano",
+      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Merveilleuse",
         "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Center of Gravity",
-        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
+        "name": "So Flows The Current",
+        "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
       },
       "artists": [
         {
-          "name": "Carl Bonet",
-          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
+          "name": "Patrick O'Hearn",
+          "url": "https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ"
         }
       ],
-      "duration_ms": 198739,
-      "name": "Mantra for Piano",
-      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+      "duration_ms": 289280,
+      "name": "Beyond This Moment",
+      "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "So Flows The Current",
-        "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
+        "name": "Dark Taupe",
+        "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
       },
       "artists": [
         {
-          "name": "Patrick O'Hearn",
-          "url": "https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ"
+          "name": "Arden Forest",
+          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
         }
       ],
-      "duration_ms": 289280,
-      "name": "Beyond This Moment",
-      "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
+      "duration_ms": 182435,
+      "name": "African Violet",
+      "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Dark Taupe",
-        "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
-      },
-      "artists": [
-        {
-          "name": "Arden Forest",
-          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
-        }
-      ],
-      "duration_ms": 182435,
-      "name": "African Violet",
-      "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Landscapes",
         "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Selected Works",
-        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "La Luce Nel Cuore",
-      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "The Melody At Night, With You",
         "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 344693,
       "name": "I Loves You Porgy",
       "url": "https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Selected Works",
+        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bavota",
+          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "La Luce Nel Cuore",
+      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
     },
     {
       "added_at": "2023-01-26 21:00:00",

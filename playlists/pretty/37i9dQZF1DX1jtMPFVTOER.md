@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Busty and The Bass & Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,372 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,429 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 18 | [The Creator Has a Master Plan Part II](https://open.spotify.com/track/6UOA79OTL65E5rhZgaBGgW) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [The Creator Has a Master Plan Part II](https://open.spotify.com/album/4k14NUrZFIzbKBj07BSdDk) | 6:29 |
 | 19 | [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 |
 | 20 | [Take Flight \- edbl Remix](https://open.spotify.com/track/6dU1gPHs4LNyVpDIOq54iG) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Take Flight \(edbl Remix\)](https://open.spotify.com/album/3RS0D0zIsIVEWeL0s6XFHi) | 2:56 |
-| 21 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
+| 21 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
 | 22 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 |
 | 23 | [Didn't Cha Know](https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [On & On](https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA) | 5:02 |
 | 24 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 |

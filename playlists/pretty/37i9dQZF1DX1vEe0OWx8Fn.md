@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,977 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,015 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 46 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 |
 | 47 | [I'd Rather Die](https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [I'd Rather Die](https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW) | 2:12 |
 | 48 | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx) | 2:49 |
-| 49 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 |
-| 50 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
+| 49 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
+| 50 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 |
 
-Snapshot ID: `MTY3MDUwNDQwOSwwMDAwMDAwMGNkZjIzNjlhMmRlODYyZTk2ZDAwNGJkNDY3ODYzMzY4`
+Snapshot ID: `MTY3MDUwNDQwOSwwMDAwMDAwMGM4MGRiNzIzZDE4MjkyMjRkZWRjNDNlNzZiYjI3NmFi`

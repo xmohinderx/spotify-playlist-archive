@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Yami Safdie y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,672 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,680 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 36 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 | 37 | [No Es Tan Fácil](https://open.spotify.com/track/5GAVXj9KKGXa3TcmU6KcnI) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H) | [No Es Tan Fácil](https://open.spotify.com/album/0zgNHTHmjDhupCz27J5YXn) | 2:49 |
 | 38 | [Ancla](https://open.spotify.com/track/653aGqEPBnBcO2nJ7PwGF2) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:32 |
-| 39 | [Cielo Negro](https://open.spotify.com/track/7ez9Og9vU2FxKZoriBFJCD) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Selva](https://open.spotify.com/album/7c2v5ycSRINlH2yIi3oV85) | 3:02 |
-| 40 | [Pedazos](https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 2:44 |
-| 41 | [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 |
+| 39 | [Pedazos](https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 2:44 |
+| 40 | [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 |
+| 41 | [Cielo Negro](https://open.spotify.com/track/7ez9Og9vU2FxKZoriBFJCD) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Selva](https://open.spotify.com/album/7c2v5ycSRINlH2yIi3oV85) | 3:02 |
 | 42 | [Crudo](https://open.spotify.com/track/3QP7UaXnfLRYIvbUYwqwYn) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Crudo](https://open.spotify.com/album/4xLWlcNBB3tL4kTlphsdu8) | 3:24 |
-| 43 | [No Tiene Sentido](https://open.spotify.com/track/79C0RSNURD1IoWONaJrVM7) | [CORI](https://open.spotify.com/artist/6FMpGkY0mH4eCFSwAgQesf) | [No Tiene Sentido](https://open.spotify.com/album/6PwmZVsTxJ7VIXb2CCxjgN) | 2:59 |
-| 44 | [Destilar](https://open.spotify.com/track/6JW1dkSXWbGYMoOPOLijom) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH) | [Destilar](https://open.spotify.com/album/7rZi5sZ1CSm1HDd02x1cSY) | 2:50 |
+| 43 | [Destilar](https://open.spotify.com/track/6JW1dkSXWbGYMoOPOLijom) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH) | [Destilar](https://open.spotify.com/album/7rZi5sZ1CSm1HDd02x1cSY) | 2:50 |
+| 44 | [No Tiene Sentido](https://open.spotify.com/track/79C0RSNURD1IoWONaJrVM7) | [CORI](https://open.spotify.com/artist/6FMpGkY0mH4eCFSwAgQesf) | [No Tiene Sentido](https://open.spotify.com/album/6PwmZVsTxJ7VIXb2CCxjgN) | 2:59 |
 | 45 | [La Sorpresa](https://open.spotify.com/track/0Ac8ya3DR0n28GovAAurF7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 2:35 |
 | 46 | [Secretos](https://open.spotify.com/track/6xV2QrHmIS0yHe1wkPeXZR) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 3:21 |
 | 47 | [BUENAS NOCHES TERRÍCOLAS](https://open.spotify.com/track/2LU0pjmv79KZ1939RaLOmd) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 0:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/3BeDygN8kF3KTYt1Uk7trO) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/4mAIuhNoyIVljEC1KCKNYd) | 4:13 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGM2ZjViYzg5MmNmMmE2MDZiNzFjMTY2M2I3NWQwNTY1`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDdmMDlmYTFiNjQxODdmODAwZmNkOTcyYTEzY2VlMTdl`

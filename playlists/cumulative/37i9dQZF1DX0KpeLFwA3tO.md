@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: shame
 
-869 songs - 1 day 19 hr 57 min
+871 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 | 2022-11-25 |  |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-18 | 2022-04-22 |
 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 | 2022-02-25 | 2022-04-22 |
-| [Midnight Ferry](https://open.spotify.com/track/5w98idOMOIFLAtdD0tZesi) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Midnight Ferry](https://open.spotify.com/album/5MnpPCWnH2H9kiujpBg32d) | 2:45 | 2023-01-27 |  |
+| [Midnight Ferry](https://open.spotify.com/track/1gS3E10uJhhSxsDtIKMjLf) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 2:45 | 2023-02-24 |  |
+| [Midnight Ferry](https://open.spotify.com/track/5w98idOMOIFLAtdD0tZesi) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Midnight Ferry](https://open.spotify.com/album/5MnpPCWnH2H9kiujpBg32d) | 2:45 | 2023-01-27 | 2023-02-27 |
 | [MIGRAINE](https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [MIGRAINE](https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR) | 2:33 | 2022-10-06 | 2022-12-02 |
 | [Million Miles of Fun](https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Million Miles of Fun](https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx) | 2:10 | 2021-12-17 | 2022-02-04 |
 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 | 2022-08-11 | 2022-09-30 |
@@ -532,7 +533,8 @@
 | [Non Serviam](https://open.spotify.com/track/4vXAg3OK3D5HNPcGxmYWIG) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Non Serviam](https://open.spotify.com/album/4poC9nhZasbTms53O0NehD) | 1:58 | 2021-12-17 | 2022-01-21 |
 | [North Shore](https://open.spotify.com/track/3eVzL0so3fTvIR6dzxDdbz) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [North Shore](https://open.spotify.com/album/3CJCL88s7EzobXlgzdlRc6) | 3:03 | 2022-04-28 | 2022-10-14 |
 | [Nose](https://open.spotify.com/track/0R6ekQlzZEnfqVur65TuNu) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/34Tp7mxB8CZEuLo2gniYIa) | 3:22 | 2023-01-20 | 2023-01-21 |
-| [Nose](https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ) | 3:22 | 2023-01-20 |  |
+| [Nose](https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ) | 3:22 | 2023-01-20 | 2023-02-27 |
+| [Nose](https://open.spotify.com/track/2y32x64BwqyXX13N8KGjdR) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:22 | 2023-02-24 |  |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 | 2022-07-01 |
 | [nothing \(in my head\)](https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [nothing \(in my head\)](https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K) | 3:05 | 2022-06-02 | 2022-07-22 |
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-10 |  |

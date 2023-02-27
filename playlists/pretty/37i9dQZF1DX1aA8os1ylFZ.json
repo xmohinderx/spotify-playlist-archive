@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 227534,
+  "num_followers": 227572,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDRiNjkxMThkYmRmNDY5ZjMwYmZlOGQ4NDljOGUxZjRm",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDFhM2U5MGVhZDNkZjA1YjhhYjM0M2VhNmQ5Y2M0NzNh",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Infinite Dream",
-        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 218320,
       "name": "How (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Nobody Is Listening",
         "url": "https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1183,34 +1167,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "DISC TWO",
-        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 183750,
-      "name": "VICES",
-      "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Man Makes Plans",
-        "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 169311,
-      "name": "Drunk Tank",
-      "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1227,6 +1195,22 @@
       "duration_ms": 151467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1nD05bbfyNSyYxKUjF8BNo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "DISC TWO",
+        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "VICES",
+      "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 176470,
       "name": "No Games",
       "url": "https://open.spotify.com/track/5AGhBP57akSYR9rW7NPsoy"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Man Makes Plans",
+        "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 169311,
+      "name": "Drunk Tank",
+      "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Candydrip (Deluxe)",
-        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 284893,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
+      "duration_ms": 201869,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 195078,
       "name": "Petty",
       "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Candydrip (Deluxe)",
+        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 284893,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
       },
       "artists": [
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Bittersweet Goodbyes",
-      "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
+      "duration_ms": 201592,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
         }
       ],
-      "duration_ms": 201592,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+      "duration_ms": 187428,
+      "name": "Bittersweet Goodbyes",
+      "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1475,22 +1475,6 @@
       "duration_ms": 195240,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Message From My Ex / 3 Words (Message To My Ex)",
-        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 186083,
-      "name": "3 Words (Message To My Ex)",
-      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Message From My Ex / 3 Words (Message To My Ex)",
+        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "3 Words (Message To My Ex)",
+      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "SASSY (Deluxe)",
-        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Spoon & Bang",
-      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 194666,
       "name": "Been Through That",
       "url": "https://open.spotify.com/track/3iwN0CAgSVlnJ64YpJ8R4r"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Spoon & Bang",
+      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "If Pretty Was A Person",
-        "url": "https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T"
-      },
-      "artists": [
-        {
-          "name": "Hylan Starr",
-          "url": "https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156297,
-      "name": "If Pretty Was A Person",
-      "url": "https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "If Pretty Was A Person",
+        "url": "https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T"
+      },
+      "artists": [
+        {
+          "name": "Hylan Starr",
+          "url": "https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156297,
+      "name": "If Pretty Was A Person",
+      "url": "https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo"
     },
     {
       "added_at": "2023-02-23 23:00:00",

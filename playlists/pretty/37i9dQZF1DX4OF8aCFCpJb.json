@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDUzZDVmNmMzZjIzMzMwNDk5MGY1NGEzZDdjODIzNGJi",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDU0MWFjMzc1NjVkODRlZTE5NzJlZmQ3Y2Q5OWU4YjNi",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Dancehall",
-        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Som Bob Marley",
-      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
         "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Dancehall",
+        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Som Bob Marley",
+      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Wayback",
         "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
       },
@@ -483,22 +483,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Helt Off",
-        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
       "artists": [
         {
-          "name": "Helt Off",
-          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
-        },
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Babylonsjukan",
-      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -519,18 +515,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+        "name": "Helt Off",
+        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
       },
       "artists": [
         {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
+      "duration_ms": 229960,
+      "name": "Babylonsjukan",
+      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -567,8 +567,8 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "S\u00e4g Som Det \u00c4r",
-        "url": "https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ"
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 215852,
-      "name": "S\u00e4g Som Det \u00c4r",
-      "url": "https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU"
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -711,8 +711,8 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+        "name": "S\u00e4g Som Det \u00c4r",
+        "url": "https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+      "duration_ms": 215852,
+      "name": "S\u00e4g Som Det \u00c4r",
+      "url": "https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
-      },
-      "artists": [
-        {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
-        }
-      ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Som Salomos S\u00e5ng",
         "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 227333,
       "name": "Reggaeprofil",
       "url": "https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2023-02-23 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 532458,
+  "num_followers": 532530,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMGZkNDVkMTcyOGRmOWY1M2U4MDg5NDljMWQwYjYyYTI5",
+  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMGFiYjY5OTA5YWExNWFhNjI5MTM5YTQwNDIxNWFlYTJi",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Canta a su tierra",
-        "url": "https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Jalisco",
-          "url": "https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O"
-        }
-      ],
-      "duration_ms": 176844,
-      "name": "El Son de Mi Tierra",
-      "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 149693,
       "name": "El Jarabe Tapatio",
       "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Canta a su tierra",
+        "url": "https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Jalisco",
+          "url": "https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O"
+        }
+      ],
+      "duration_ms": 176844,
+      "name": "El Son de Mi Tierra",
+      "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Rogaciano",
-      "url": "https://open.spotify.com/track/66XbA3JnX82pB26MZWeFTC"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Rancheras",
         "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 185106,
       "name": "Pica Que Pica",
       "url": "https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Rogaciano",
+      "url": "https://open.spotify.com/track/66XbA3JnX82pB26MZWeFTC"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 228160,
-      "name": "La bamba",
-      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
+      "duration_ms": 156333,
+      "name": "Rancho grande",
+      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 114960,
-      "name": "El relampago",
-      "url": "https://open.spotify.com/track/6Zdt5sqHFN4UOoDIOE04rO"
+      "duration_ms": 228160,
+      "name": "La bamba",
+      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Luis Aguilar",
-        "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
-      },
-      "artists": [
-        {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        }
-      ],
-      "duration_ms": 134906,
-      "name": "El Fandanguero",
-      "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mexico: 20 Best Mariachi and Folk Songs",
         "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 148000,
       "name": "La cigarra (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/2QcOdnFZAGFfxCEtlX8RWN"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Luis Aguilar",
+        "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        }
+      ],
+      "duration_ms": 134906,
+      "name": "El Fandanguero",
+      "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
       "artists": [
         {
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Rancho grande",
-      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
+      "duration_ms": 114960,
+      "name": "El relampago",
+      "url": "https://open.spotify.com/track/6Zdt5sqHFN4UOoDIOE04rO"
     },
     {
       "added_at": "2022-09-12 17:32:54",

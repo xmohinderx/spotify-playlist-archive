@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 119023,
+  "num_followers": 119125,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMDNkNDk5ZmY2MDI4MWYyYjZkMjJiMDhkNDI4MmFkNDA4",
+  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMGIzZjQzOGI4N2I5ZGI1MGIyNDBjNjA0NzUwZTY0ODFh",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 157500,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Calm Water",
         "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Efterskalv",
         "url": "https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -631,26 +647,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
-      },
-      "artists": [
-        {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
-        }
-      ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh"
       },
@@ -667,18 +663,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+      "duration_ms": 408791,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Melody of Hope (2021 Version)",
-        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
-      },
-      "artists": [
-        {
-          "name": "Justus R\u00fcmenapp",
-          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
-        }
-      ],
-      "duration_ms": 111687,
-      "name": "Melody of Hope - 2021 Version",
-      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Zerachiel",
         "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 191870,
       "name": "Zerachiel",
       "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Melody of Hope (2021 Version)",
+        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
+      },
+      "artists": [
+        {
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
+        }
+      ],
+      "duration_ms": 111687,
+      "name": "Melody of Hope - 2021 Version",
+      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
       "artists": [
         {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -843,18 +843,34 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
       },
       "artists": [
         {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Things of the World (Piano and Strings)",
         "url": "https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 136521,
       "name": "First Time Of Heaven - Piano and Strings",
       "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -1051,22 +1067,6 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2022-11-07 14:28:30",

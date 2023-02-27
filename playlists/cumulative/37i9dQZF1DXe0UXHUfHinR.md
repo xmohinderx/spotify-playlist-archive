@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Wayne Shorter
 
-564 songs - 1 day 20 hr 44 min
+565 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-10-27 |  |
 | [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2022-10-27 |  |
 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 | 2022-10-27 |  |
-| [Django \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/4w7EnqiLksvE6rcuR8F8bn) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 8:44 | 2022-10-27 |  |
+| [Django \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/4w7EnqiLksvE6rcuR8F8bn) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 8:44 | 2022-10-27 | 2023-02-27 |
 | [Doc](https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Dream Come True](https://open.spotify.com/album/5aY7j8FtsBcTnD7G1vSGHt) | 4:46 | 2022-12-22 |  |
 | [Dolphin Dance](https://open.spotify.com/track/0kUYnVS6z9YhL22l9pDDcB) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 5:09 | 2022-10-27 |  |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2022-10-27 | 2023-01-04 |
@@ -326,6 +326,7 @@
 | [Misty](https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Plays Misty](https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9) | 2:51 | 2022-10-27 |  |
 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 | 2022-10-27 |  |
 | [Misty \- Remastered 2020](https://open.spotify.com/track/2yiISACbYnL2hApy1ffKKs) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Gemini \(Octave Remastered Series\)](https://open.spotify.com/album/41sYqKPEygmvQrLXKpzWJU) | 2:47 | 2022-10-27 |  |
+| [Mo' Better Blues \(feat\. Terence Blanchard\)](https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [MUSIC FROM MO' BETTER BLUES \(feat\. Terence Blanchard\)](https://open.spotify.com/album/0p9pjx1LrmYBb70ns5lMGz) | 3:38 | 2023-02-15 |  |
 | [Moanin'](https://open.spotify.com/track/4Tq2fWpX1nLCkMSOPkYb1Y) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 9:36 | 2022-10-27 |  |
 | [Moanin'](https://open.spotify.com/track/1qLlkVWv58M8mcoRZPHD3I) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:06 | 2022-10-27 |  |
 | [Moanin'](https://open.spotify.com/track/3rFzc8CLVDZ7OOtFa2jPYP) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Blues & Roots](https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e) | 8:02 | 2022-10-27 |  |

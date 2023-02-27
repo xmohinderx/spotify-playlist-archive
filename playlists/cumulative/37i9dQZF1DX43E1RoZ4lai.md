@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-391 songs - 1 day 10 hr 50 min
+392 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [You & You](https://open.spotify.com/track/6MDbT5ukKdQUvceVuFGYXo) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [Sooner And Later](https://open.spotify.com/album/4fcI5BnN3OHsmH5YsFJUey) | 4:21 | 2022-02-10 | 2022-09-03 |
 | [You Should Feel It Now](https://open.spotify.com/track/2FXbXyk0xBIxbRfWLuRyEl) | [Noé Huchard](https://open.spotify.com/artist/22DHN3H3kYAWU50Z5G1FQs) | [Song For](https://open.spotify.com/album/3PHf16BSWx6vIyXNaqfgP3) | 4:18 | 2022-02-10 | 2022-09-03 |
 | [You Should Feel It Now](https://open.spotify.com/track/3YBFhumb6zZDXbRS4verAp) | [Noé Huchard](https://open.spotify.com/artist/22DHN3H3kYAWU50Z5G1FQs), [Elie Martin\-Charrière](https://open.spotify.com/artist/2SPpKGqqzN5oTqH2IglPIT) | [Song For \(Prix André Boisseaux 2018\)](https://open.spotify.com/album/6GIx5oTm5jDU2HMRYYPbWp) | 4:18 | 2022-02-10 | 2022-07-29 |
-| [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 | 2022-12-02 |  |
+| [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 | 2022-12-02 | 2023-02-27 |
+| [Your Mother Should Know](https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 2:18 | 2022-12-02 |  |
 | [Zero — piano reworks](https://open.spotify.com/track/4S2lJF9tqs5MRLtWzuPXx1) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 3:27 | 2022-12-02 |  |
 | [上を向いて歩こう \- 「となりのチカラ」episode 1](https://open.spotify.com/track/2jwIRBOHYu1RCyywAGt88v) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Ue Wo Muite Aruko \(Tonari No Chikara, Episode 1\)](https://open.spotify.com/album/242rRubcRoZZlKi9N0uTfk) | 1:54 | 2022-03-07 |  |
 | [今日、明日](https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [今日、明日](https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E) | 4:47 | 2022-12-02 |  |

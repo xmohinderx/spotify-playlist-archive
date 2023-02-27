@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-394 songs - 20 hr 40 min
+395 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [MOON](https://open.spotify.com/track/2gn947ZQRFU1335hgnXbKe) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [myno](https://open.spotify.com/artist/6XKJtL78UFsDoGDWtQlaJU) | [MOON](https://open.spotify.com/album/7w3K5dwB0ojvM3ilNIsL7F) | 3:13 | 2023-01-13 | 2023-02-17 |
 | [moonchild](https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:25 | 2022-09-23 | 2022-10-08 |
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:33 | 2022-09-16 | 2022-09-24 |
-| [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:33 | 2022-10-07 |  |
+| [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:33 | 2022-10-07 | 2023-02-27 |
 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2023-01-13 |  |
 | [Need A Moment](https://open.spotify.com/track/54dfyiqH4Q8FQAyASqJNyt) | [SEKI](https://open.spotify.com/artist/2MdhltoGdV44xCcmAReBwQ) | [Need A Moment](https://open.spotify.com/album/0mfsoIAe1N7g7DBKBFQBsZ) | 3:15 | 2022-05-27 | 2022-07-14 |
 | [NEED IT FROM YOU](https://open.spotify.com/track/79bPtuYBpnNJTwCJEVzECO) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [Spirits](https://open.spotify.com/album/0bkNnBx5lLhRT1xXELdBYC) | 2:55 | 2022-09-09 |  |
@@ -373,6 +373,7 @@
 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 | 2022-11-18 |  |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-06-03 | 2023-01-14 |
 | [Waiting For You](https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Waiting For You](https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD) | 3:34 | 2022-05-27 | 2023-02-18 |
+| [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-24 |  |
 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-09-09 | 2023-02-03 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 |  |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-05-27 | 2022-07-26 |

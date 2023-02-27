@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Lost et Negrito, La Zarra, Robert Robert et Ingrid St\-Pierre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,050 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,054 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

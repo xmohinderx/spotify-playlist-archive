@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Loyaltty y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,367 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,369 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 27 | [Bendiciones](https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Bendiciones](https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p) | 2:53 |
 | 28 | [Código Bitches](https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb) | [Fran Mazu](https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Código Bitches](https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6) | 2:47 |
 | 29 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 |
-| 30 | [Histeria](https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Histeria](https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc) | 2:52 |
-| 31 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
+| 30 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
+| 31 | [Histeria](https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Histeria](https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc) | 2:52 |
 | 32 | [Desilusión](https://open.spotify.com/track/2WZClCpIXY4L2k4FfayBbT) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Desilusión](https://open.spotify.com/album/3iPBHbQtfW67wIzVdvwHzY) | 3:27 |
 | 33 | [Visera Yankee](https://open.spotify.com/track/500wBp8dxe6Dtpc88B1tIH) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [Visera Yankee](https://open.spotify.com/album/1KF8txH6U6j7YRjmRFhsUI) | 2:16 |
 | 34 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Teteo](https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Teteo](https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6) | 2:31 |
 | 50 | [Fuega](https://open.spotify.com/track/2nh8GLnWGZwGUUryJfSlNf) | [La Lola](https://open.spotify.com/artist/76fJm7snE4sS86N9gd7tnT) | [Fuega](https://open.spotify.com/album/5xOlrYq3hPU7PFhyCf0jAg) | 2:51 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDVmMDliYTlkOTVmMTcxMzE4MTA4NDBhNWZhOTA3ZDM3`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDMxMTM2YjA3OGJkODg5N2IwOTExMTkwOTcxMmUyMzAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks \- celebrating his brand new LP "Electronic Generations" with you\. From Carl: "I made this entirely live, by jamming with my machines and recording the tracks as I played them\. Alongside this I’ve included a live EP "Mindset" made in collaboration with the legendary Christopher Coe and I’ve added a bunch of tracks by live electronic artists that have inspired me whilst on this new adventure in live electronic performance! Enjoy!" Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,452 likes - 49 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,516 likes - 49 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Lleva el folclore de México a donde sea!
 
-151 songs - 8 hr 37 min
+152 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Qué Bonita Es Mi Tierra](https://open.spotify.com/track/5TUXmubvzIuV9Sv0jCndkw) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:57 | 2022-01-25 |  |
 | [Ra Bacheeza](https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd) | [Binni Gula'za](https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:08 | 2022-01-25 |  |
 | [Rayando el Sol](https://open.spotify.com/track/3QCepB8MPLM3haboCIg9Fg) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:04 | 2022-01-25 | 2022-07-29 |
-| [Rayando el Sol](https://open.spotify.com/track/0hJj2ViFEzsH0Sh1x2WAUv) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:05 | 2022-01-25 |  |
+| [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 | 2022-08-31 |  |
+| [Rayando el Sol](https://open.spotify.com/track/0hJj2ViFEzsH0Sh1x2WAUv) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:05 | 2022-01-25 | 2023-02-27 |
 | [Rigoletito](https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [15 Exitos "Danzones"](https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga) | 3:23 | 2022-01-25 |  |
 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 | 2022-01-25 |  |
 | [San Pedro Hermoso](https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Sicarú Gazga](https://open.spotify.com/artist/6G1d37MQZPkT8JbDIIMS6V) | [San Pedro Hermoso](https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37) | 3:59 | 2022-01-25 |  |

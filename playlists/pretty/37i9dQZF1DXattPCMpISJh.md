@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,399 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,488 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Too Much Music](https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Too Much Music](https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP) | 4:38 |
 | 2 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 |
-| 3 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 3 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 4 | [Bodytalk](https://open.spotify.com/track/3pwQ80lVQUEZ7LA9ErKhTh) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Ninetails](https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q) | [Bodytalk](https://open.spotify.com/album/2X38HpZw3L5kXOq5DrwO2N) | 2:59 |
 | 5 | [Real Love](https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA) | 3:02 |
 | 6 | [Happy Feet](https://open.spotify.com/track/5vIjRSQN0qOzNA8yD62nS5) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Happy Feet](https://open.spotify.com/album/6hzOYxTPevulNU4sihTakC) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 |
 | 100 | [I Won't Walk Away](https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4) | [Samantha LaPorta](https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb) | [I Won't Walk Away](https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba) | 3:03 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGI1MmQ4NWM5MGFlMDFhNDkyMThlMWFlOTI1NTZjOGQ5`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDg3YTEzODE1MjVmMGJhODhkMGRmNzU5ZTc3ZmY3NTYz`

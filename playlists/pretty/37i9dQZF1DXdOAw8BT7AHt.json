@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Grandma's House",
-  "num_followers": 48002,
+  "num_followers": 48008,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY4ODAwMSwwMDAwMDAwMDFmOTExM2I1NDE3YzNhOGM3NTg4NGVhZTdhMTY2OWQx",
+  "snapshot_id": "MTY3NTY4ODAwMSwwMDAwMDAwMDgzZDlkOTBiYTdlMWU0YTZmNTczMjkzNWQxY2Y2YWQw",
   "tracks": [
     {
       "added_at": "2023-02-06 12:53:21",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Wishing You Hell",
         "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "me vs me vs all of y'all",
-        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "me vs me vs all of y'all",
-      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 185294,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "me vs me vs all of y'all",
+        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "me vs me vs all of y'all",
+      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Marching Powder",
-        "url": "https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g"
-      },
-      "artists": [
-        {
-          "name": "Hyphen",
-          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
-        }
-      ],
-      "duration_ms": 125937,
-      "name": "Marching Powder",
-      "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 190543,
       "name": "Bubblegum Infinity",
       "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Marching Powder",
+        "url": "https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "duration_ms": 125937,
+      "name": "Marching Powder",
+      "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Cool Blue",
-        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
       "artists": [
         {
-          "name": "happydaze",
-          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 189072,
-      "name": "Cool Blue",
-      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+        "name": "Cool Blue",
+        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
       },
       "artists": [
         {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+      "duration_ms": 189072,
+      "name": "Cool Blue",
+      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -971,8 +971,8 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "punkadonk",
-        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 165831,
-      "name": "Moto",
-      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+        "name": "punkadonk",
+        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
       },
       "artists": [
         {
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+      "duration_ms": 165831,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Always Lose",
-        "url": "https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 187305,
-      "name": "Always Lose",
-      "url": "https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Bullet Farm",
         "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 190614,
       "name": "Bullet Farm",
       "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Always Lose",
+        "url": "https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 187305,
+      "name": "Always Lose",
+      "url": "https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "The Boogie Down South",
-        "url": "https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT"
-      },
-      "artists": [
-        {
-          "name": "XL LIFE",
-          "url": "https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Grey Place",
-      "url": "https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "32",
         "url": "https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 281425,
       "name": "32",
       "url": "https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "The Boogie Down South",
+        "url": "https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT"
+      },
+      "artists": [
+        {
+          "name": "XL LIFE",
+          "url": "https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Grey Place",
+      "url": "https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X"
     },
     {
       "added_at": "2023-02-06 12:53:21",

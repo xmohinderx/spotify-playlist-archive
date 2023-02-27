@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: KAROL G & Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,083 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,406 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 67 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 |
 | 68 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 |
 | 69 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 |
-| 70 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 70 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 71 | [Need to Talk](https://open.spotify.com/track/6alDcV8lDaUEv7ChxxBv27) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Need to Talk](https://open.spotify.com/album/5eCmsSigBptmKQXfMtujJ5) | 3:21 |
 | 72 | [COCKPIT \(feat\. spill tab, binki & Harve\)](https://open.spotify.com/track/2THWUXFaVM3C2fCKBfYmbX) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx) | [Control Freak](https://open.spotify.com/album/1CdGXtmDl8sakZOlOOAwXl) | 2:04 |
 | 73 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 75 | [Slowly Healing](https://open.spotify.com/track/67nyrWSrrWoUDTZJX4MjTl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Slowly Healing](https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7) | 2:34 |
 | 76 | [GHOSTKILLA](https://open.spotify.com/track/5ON0eOpVmlRo9PZctdBbuQ) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/3Rm8UjPex1pU2tmmxFWSzu) | 2:19 |
 | 77 | [Undefeated](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Undefeated](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
-| 78 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
+| 78 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
 | 79 | [S.H.E.A](https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [S.H.E.A](https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL) | 3:10 |
 | 80 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 |
 | 81 | [OLD SKOOL WHOOP](https://open.spotify.com/track/3vVglxAcpBVDR0B5HquXrU) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SHONUFF](https://open.spotify.com/album/2Wex5QVHpDs99hZJxM55hr) | 4:01 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 |
 | 98 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGJkOTQ0ODg0NjU4NTE5YjgyNTZlYzhiMDQ3NGMwYTA5`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDIwYTI2NzUzMzljNDUyMGIwYmVhOTgwYjYxMWVkYzZk`

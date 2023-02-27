@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: LUIS, TYM
 
-691 songs - 1 day 9 hr 17 min
+692 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Brille auf / Kate Moss](https://open.spotify.com/track/2ocy6RRR5WolJH5kuVtMyV) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Brille auf / Kate Moss](https://open.spotify.com/album/560nIKSFhDj9PeI8ZMiTon) | 2:43 | 2022-11-17 | 2023-02-03 |
 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 | 2022-11-03 | 2022-12-16 |
 | [Broken Hearted](https://open.spotify.com/track/6N76WodZTw48txfk4NPDVg) | [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Broken Hearted](https://open.spotify.com/album/07LXXFNFjw2mdrECdgrFcE) | 2:05 | 2022-07-28 | 2022-08-19 |
-| [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-09 |  |
+| [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-24 |  |
+| [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-09 | 2023-02-27 |
 | [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-07-04 | 2022-07-12 |
 | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/track/3sNt9m05GSYtBe54cRq5H2) | [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq), [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [NOK1D](https://open.spotify.com/artist/3aiVrUEKRgBLXMGsh2IIJ5), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/album/38LPOdHU8M07c4KFayHNpW) | 2:23 | 2022-08-25 | 2022-09-30 |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-13 | 2022-11-04 |

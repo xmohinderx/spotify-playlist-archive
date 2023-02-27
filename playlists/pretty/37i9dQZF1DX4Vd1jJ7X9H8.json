@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 228815,
+  "num_followers": 229085,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU4MjgyMywwMDAwMDAwMGVjMzZlNmJhODgwZGY2NWRmZTk4MjM3NWEwNjM4YzVh",
+  "snapshot_id": "MTY3NDU4MjgyMywwMDAwMDAwMDA1YWY3OWY5Zjg5MTE0NWQ0Nzg1NzRhYzI1NmNlM2Yz",
   "tracks": [
     {
       "added_at": "2023-01-24 17:53:43",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "HIT EM WHERE IT HURTS",
-        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 165499,
-      "name": "HIT EM WHERE IT HURTS",
-      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190826,
       "name": "Nan\u00e3",
       "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "HIT EM WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Sex & Food",
         "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 268333,
       "name": "Hunnybee",
       "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 166000,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Foreign Language",
-        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Jess",
-          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Foreign Language",
-      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Young Hearts",
-        "url": "https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Young Hearts",
-      "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Cutie",
         "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
       },
@@ -1427,22 +1411,6 @@
       "duration_ms": 184315,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Are We Going Too Slow?",
-        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 188380,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1463,6 +1431,38 @@
       "duration_ms": 229610,
       "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Young Hearts",
+      "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/6IrbtLsuCh1AAnK5Br72lR"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "duration_ms": 211212,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/3BINSFSuHalV8yoX3zAVbl"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Vibe Creator",
         "url": "https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 147250,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/6IrbtLsuCh1AAnK5Br72lR"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Pell",
-          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
-        }
-      ],
-      "duration_ms": 211212,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/3BINSFSuHalV8yoX3zAVbl"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Gospel For A New Century",
+      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Automatic (Orion Sun Remix)",
         "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Gospel For A New Century",
-      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
     },
     {
       "added_at": "2023-01-24 17:53:43",

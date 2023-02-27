@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1249651,
+  "num_followers": 1249636,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1MzA4MCwwMDAwMDAwMDg1ZDhmZjA4Y2IzMjc2OWYyN2ZmOTlkN2E4ZDQwZDAx",
+  "snapshot_id": "MTY3NzI1MzA4MCwwMDAwMDAwMGI1MzMyYTkwMDA3Njc4ZDRhYzIwODM4NzI4NzI0MmEx",
   "tracks": [
     {
       "added_at": "2023-02-24 15:38:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-24 15:38:00",
       "album": {
-        "name": "Broker",
-        "url": "https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 150877,
-      "name": "Broker",
-      "url": "https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K"
-    },
-    {
-      "added_at": "2023-02-24 15:38:00",
-      "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
       },
@@ -979,6 +963,26 @@
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
+    },
+    {
+      "added_at": "2023-02-24 15:38:00",
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     }
   ],
   "unique_name": "Partyhymnen",

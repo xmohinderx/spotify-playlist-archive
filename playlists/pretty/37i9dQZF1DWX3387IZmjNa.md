@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,956,662 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,957,225 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 3 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 |
 | 4 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 |
 | 5 | [HO4ME](https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [HO4ME](https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0) | 3:55 |
-| 6 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
+| 6 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
 | 7 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 |
 | 8 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
 | 9 | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu) | 3:13 |

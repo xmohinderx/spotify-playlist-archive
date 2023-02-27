@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 151 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 151 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 111 | [3.7.12](https://open.spotify.com/track/21uV3q5xgHm1JWyiVFXGXl) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:39 |
 | 112 | [Não Te Vás](https://open.spotify.com/track/5aYttVgTTca2bZ5MnIjqjH) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Viver a Vida](https://open.spotify.com/album/05BzsUFyawyKNBosofEOSR) | 4:24 |
 | 113 | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/track/3tZTh6f27UzbXNtBbrHZdb) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/album/3oxNpMIIlibXjmi7EZBskJ) | 3:07 |
-| 114 | [Hermanita](https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Hermanita](https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo) | 3:28 |
+| 114 | [HERMANITA](https://open.spotify.com/track/2TT4dPryN7Ztazy4eGLNjc) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [POR EMPEZAR](https://open.spotify.com/album/5InAJ1YTxx2sxxmDtxFGsU) | 3:28 |
 | 115 | [La Misma Voz](https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Joy](https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:11 |
 | 116 | [Stay Down](https://open.spotify.com/track/5UgJuYz8s1LcZDNmKWMCuj) | [seglartone](https://open.spotify.com/artist/3msHBLh5Ywqug7WNIZdVdI), [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh) | [Stay Down](https://open.spotify.com/album/5HKceUlfPrLY4si2DtdijC) | 3:21 |
 | 117 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc5NTYxNjMsMDAwMDAwMDBlZDhhMmU4NThhOTEwYTBkMTMzMjAzZmVlZjg3ZGU0Ng==`
+Snapshot ID: `Mjc5NTc2MDMsMDAwMDAwMDBkYWFmNjZhYWMyYWVjNWJiOTU5YWE4MThlNzZiMTlmZA==`

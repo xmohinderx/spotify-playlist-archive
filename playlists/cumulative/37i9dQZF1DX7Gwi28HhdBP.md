@@ -4,10 +4,11 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-195 songs - 15 hr 3 min
+196 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [! قرايب مين](https://open.spotify.com/track/2kGQIPHJwTXNTJlj937sjV) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [! قرايب مين](https://open.spotify.com/album/0OqkvZCKE4wS1CrQn93ajP) | 4:56 | 2023-02-16 |  |
 | [100 Hesab](https://open.spotify.com/track/29u5qbcaRDjw4cmEzPapwD) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [100 Hesab](https://open.spotify.com/album/7exu7uJTUCw4gvw1wnhBq1) | 4:31 | 2021-12-16 | 2022-12-21 |
 | [100 Wesh](https://open.spotify.com/track/0ioV5GPv4KQjvBaWE7VTu3) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 5:34 | 2021-12-16 | 2022-12-21 |
 | [200 Geneh](https://open.spotify.com/track/1wqSkbsP06nef0ixR2HcNH) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [200 Geneh](https://open.spotify.com/album/1McdlwIrucUSyOVfCmp1AG) | 3:22 | 2021-12-16 | 2022-07-29 |
@@ -132,7 +133,7 @@
 | [أنا العريس](https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [أنا العريس](https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf) | 4:14 | 2021-12-16 |  |
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 |  |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
-| [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 |  |
+| [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 | 2023-02-27 |
 | [الجدع](https://open.spotify.com/track/65iBEzBlfrnq5bomk0H3Yt) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/4uQI74QdNzXydIZjk26zuR) | 3:49 | 2021-12-16 | 2022-07-29 |
 | [الجدع](https://open.spotify.com/track/7oaqaNAe0kXQUe2oBugT8O) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/1OXDd4jZ6djLOxHIwOj4s0) | 3:49 | 2022-07-14 |  |
 | [الجدعنة](https://open.spotify.com/track/20Al2SXH2t2M0hfbQelm8H) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [الجدعنة](https://open.spotify.com/album/0mEgEkPb9YX5Sd6buu5omT) | 5:30 | 2021-12-16 | 2022-12-21 |
@@ -175,7 +176,7 @@
 | [ست الدار](https://open.spotify.com/track/0oLd6k3kyus10YjweGcRnU) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/1qUtZxDRJ8C9214Axp9bl7) | 2:35 | 2021-12-16 | 2022-07-28 |
 | [سلامتك يا دماغى](https://open.spotify.com/track/23p8lKM81xFmdwpOxDNe0k) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue), [Essam Shaaban](https://open.spotify.com/artist/4fNex4OtpsJikybNs2IuHy) | [الضرب فى العراق](https://open.spotify.com/album/73HO4HCy4MdLe1DsIgeoHJ) | 4:27 | 2021-12-16 |  |
 | [سيبوني](https://open.spotify.com/track/1RXbcP0PhN3AbnsDTj7uyA) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [سيبوني](https://open.spotify.com/album/3KJteSxCh4k5cbeJwATGcd) | 3:24 | 2022-06-08 |  |
-| [صاحبة العروسة](https://open.spotify.com/track/6mhqJtWrOrAcScfNucJCuq) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [صاحبة العروسة](https://open.spotify.com/album/4rBjnFB1OmTCswhEHd3sQB) | 3:01 | 2021-12-16 | 2023-02-26 |
+| [صاحبة العروسة](https://open.spotify.com/track/6mhqJtWrOrAcScfNucJCuq) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [صاحبة العروسة](https://open.spotify.com/album/4rBjnFB1OmTCswhEHd3sQB) | 3:01 | 2021-12-16 |  |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2022-02-01 |  |
 | [طابور الجدعنة](https://open.spotify.com/track/3ChHrwhRJ1eyqLTLNRNIGq) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [طابور الجدعنة](https://open.spotify.com/album/47MTnxgxWYp4aWPKIKTGeS) | 4:28 | 2021-12-16 | 2022-07-29 |
 | [طابور الجدعنة](https://open.spotify.com/track/5P6KYvgRmnGk4jMEk2w8Jf) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [طابور الجدعنة](https://open.spotify.com/album/2MR8813MfOxcLhTCKF1A9y) | 4:28 | 2022-07-14 |  |
@@ -189,7 +190,7 @@
 | [قرار نهائى](https://open.spotify.com/track/58ncF5dp5mwaRvEWUXwLHm) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [قرار نهائى](https://open.spotify.com/album/3f3MTQ7CCByD9NQbun975j) | 4:19 | 2021-12-30 | 2022-07-28 |
 | [قشطه بالزبادي الليثي ولورديانا](https://open.spotify.com/track/6uX3nXbXFbuFKNL9rPF0yv) | [VOL](https://open.spotify.com/artist/4C4ukpAwyUkCz77fyLVwD4) | [قشطه بالزبادي الليثي ولورديانا](https://open.spotify.com/album/6UDe8Vx9JP2stDoO3m2OHW) | 3:06 | 2021-12-16 |  |
 | [قلب بابا](https://open.spotify.com/track/1qJcl8I6eWgPerLc5bNIVf) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [قلب بابا](https://open.spotify.com/album/1Xb5H73qEs6UD2WokrbtT7) | 4:04 | 2023-02-23 |  |
-| [كاس العذاب](https://open.spotify.com/track/691pg3e2jxVBpIyuokCsf6) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [كاس العذاب](https://open.spotify.com/album/7Kwjlfuqw1QjmK5hHyFovJ) | 4:13 | 2021-12-16 |  |
+| [كاس العذاب](https://open.spotify.com/track/691pg3e2jxVBpIyuokCsf6) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [كاس العذاب](https://open.spotify.com/album/7Kwjlfuqw1QjmK5hHyFovJ) | 4:13 | 2021-12-16 | 2023-02-27 |
 | [كلام مبتكلمش](https://open.spotify.com/track/1JdiJ4wAMKhPsXGL6iTwoK) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [كلام مبتكلمش](https://open.spotify.com/album/1kwZYe92wXq7AsP5xIepWm) | 3:39 | 2021-12-16 | 2022-04-23 |
 | [ما تاكلش مال الناس](https://open.spotify.com/track/4E9eVFJ6ZQWFg6WYGusxYh) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe) | [ما تاكلش مال الناس](https://open.spotify.com/album/58lOZluuLZoQVRVb8bqSJT) | 3:27 | 2022-07-14 |  |
 | [مبحبش الكراسى](https://open.spotify.com/track/5ovYok6lObaJ9bdQJmQ1Ct) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [اللى خايف يروح](https://open.spotify.com/album/0fxmcv1YPIu1smUGbjfvhT) | 6:09 | 2021-12-16 |  |

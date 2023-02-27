@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-202 songs - 12 hr 17 min
+203 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [My God Has A Telephone](https://open.spotify.com/track/71MXEBUUD5XUsVWYIfXVgL) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/35Rb3bVZG4yGEQqnJcDKuY) | 2:55 | 2021-10-26 | 2022-07-29 |
 | [My Lady's On Fire](https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/5BInay8c4KClHpYL94IBed) | 3:52 | 2021-10-26 |  |
 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 | 2023-02-23 |  |
-| [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 | 2021-10-26 |  |
+| [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 | 2021-10-26 | 2023-02-27 |
+| [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 | 2023-02-24 |  |
 | [Never Gonna Let You Go](https://open.spotify.com/track/6XMyKqEUjoPFDClvRJyO6x) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/3QUi5Qd9OpGCWoAFeuf5vM) | 2:31 | 2021-10-26 | 2022-07-29 |
 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2021-10-26 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/150H5dszi3tTv3GqXccj1E) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:24 | 2023-02-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,759 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,758 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 34 | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/album/0MDI5CLeDpW0nnjA4HEvji) | 2:25 |
 | 35 | [pRETTy](https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 2:42 |
 | 36 | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU) | 3:13 |
-| 37 | [GOOD DAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 |
+| 37 | [GOOD DAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 |
 | 38 | [Counting Sheep \(V2\) \[2018 Export Wav\] feat\. Injury Reserve](https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 2:26 |
 | 39 | [Late Now](https://open.spotify.com/track/2g5cVVb13LC19Biu5yIgVJ) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Late Now](https://open.spotify.com/album/4Z4I4iVEz0ROYI8wYdqT8D) | 3:22 |
 | 40 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |

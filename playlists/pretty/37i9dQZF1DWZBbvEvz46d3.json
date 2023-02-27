@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 54264,
+  "num_followers": 54305,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMGFiZTkyZjYyYTQwMmExOWNiMDU5NTBhNzI2ZTdjMjY0",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMGNlMGI1NTMxZjBlZWRkNjEzZDI3YTk0NGRlOTJmNjNm",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
-      "added_at": "2023-02-26 01:06:05",
+      "added_at": "2023-02-27 00:36:23",
       "album": {
         "name": "ENT",
         "url": "https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW"
     },
     {
-      "added_at": "2023-02-26 01:06:05",
+      "added_at": "2023-02-27 00:36:23",
       "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Komponuj\u0105c siebie",
+        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 184514,
+      "name": "Ksi\u0119\u017cniczka",
+      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Boj\u0119 Si\u0119 Kocha\u0107",
         "url": "https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 186666,
       "name": "Boj\u0119 Si\u0119 Kocha\u0107",
       "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Komponuj\u0105c siebie",
-        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 184514,
-      "name": "Ksi\u0119\u017cniczka",
-      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
     },
     {
-      "added_at": "2023-02-26 01:06:05",
+      "added_at": "2023-02-27 00:36:23",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"

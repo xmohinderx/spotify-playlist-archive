@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Gorillaz, The Weeknd & Ariana Grande, The Kid LAROI and more! Cover: Gorillaz
 
-421 songs - 23 hr 55 min
+422 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-29 | 2023-02-03 |
 | [Tsunagari SUNSET](https://open.spotify.com/track/0T6XPgGcNJ6WwTnX7k70t9) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:51 | 2023-02-23 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-02 | 2023-02-10 |
-| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-23 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-26 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-23 | 2023-02-27 |
 | [Twilight Cinema](https://open.spotify.com/track/4LlIiDycmG5LgRHggqkLXl) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [Twilight Cinema](https://open.spotify.com/album/6qBiXJSYNXjW8tTK4ofPls) | 3:45 | 2023-02-02 | 2023-02-10 |
 | [Twin Ray](https://open.spotify.com/track/2yUlezZqxM5fIaHzc1FeFj) | [RIEHATA](https://open.spotify.com/artist/2O6eMK8WBPIaDVIPVNbs0v) | [Twin Ray](https://open.spotify.com/album/4pny4S7yPvejOF54FmjmRx) | 3:05 | 2023-02-02 | 2023-02-10 |
 | [Two Sides](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 | 2023-02-09 | 2023-02-17 |

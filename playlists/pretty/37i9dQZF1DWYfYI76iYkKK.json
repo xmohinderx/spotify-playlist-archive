@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116873,
+  "num_followers": 116904,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMGMyNDE5OGZkMjc4M2I1YzY4NGEwZDYyM2JhOTBkZTlh",
+  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMGQ2NjBlYzZkN2Y3MTY4ZjU4YTZiYTQ3Y2I4MjljODVm",
   "tracks": [
     {
       "added_at": "2023-02-23 16:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
-        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
-      },
-      "artists": [
-        {
-          "name": "Evan Yo",
-          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
-        }
-      ],
-      "duration_ms": 266286,
-      "name": "\u5047\u7537\u53cb",
-      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
         "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 229887,
       "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 - Demo",
       "url": "https://open.spotify.com/track/596QP1necn4XdusdVzB0TW"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
+        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
+      },
+      "artists": [
+        {
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+        }
+      ],
+      "duration_ms": 266286,
+      "name": "\u5047\u7537\u53cb",
+      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
-        "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
-      },
-      "artists": [
-        {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
-      "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
         "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
+        "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
+      "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
     },
     {
       "added_at": "2023-02-23 16:00:00",

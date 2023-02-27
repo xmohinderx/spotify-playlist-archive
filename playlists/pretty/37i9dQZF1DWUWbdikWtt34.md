@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Sridevi
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,396 likes - 61 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,443 likes - 61 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

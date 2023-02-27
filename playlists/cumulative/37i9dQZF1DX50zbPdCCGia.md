@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1970s\. Cover: Styx
 
-175 songs - 12 hr 4 min
+176 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 | 2021-11-23 |  |
 | [I Don't Like To Sleep Alone](https://open.spotify.com/track/0kgjL2oRFsV6GSwVNCcQS6) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Odia Coates](https://open.spotify.com/artist/3UgUTRbDBLMcRCantpTWIe) | [Feelings](https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d) | 3:18 | 2021-11-23 |  |
 | [I Don't Want to Talk About It \- 2008 Remaster](https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:48 | 2021-11-23 |  |
-| [I Found a Reason \- 2015 Remaster](https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:15 | 2021-11-23 |  |
+| [I Found a Reason \- 2015 Remaster](https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:15 | 2021-11-23 | 2023-02-27 |
 | [I'd Have You Anytime \- 2014 Remaster](https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:57 | 2023-01-18 |  |
 | [I'd Have You Anytime \- Remastered 2014](https://open.spotify.com/track/0wZuvGn7nZbKoyKOlwZQMF) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 2:57 | 2021-11-23 | 2023-02-19 |
 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 | 2021-11-23 |  |
@@ -70,6 +70,7 @@
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2021-11-23 |  |
 | [In The Land Of Grey & Pink](https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe) | [Caravan](https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s) | [In The Land Of Grey And Pink](https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd) | 4:58 | 2021-11-23 |  |
 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 | 2021-11-23 |  |
+| [Isn't It a Pity \- 2014 Remaster](https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 7:10 | 2023-01-18 |  |
 | [Isn't It A Pity \- Remastered 2014](https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 7:10 | 2021-11-23 | 2023-02-19 |
 | [Isn't It A Pity \- Session Outtakes And Jams / Take 27](https://open.spotify.com/track/1ftMJpLPyuB79Adb4WMNKq) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 4:59 | 2021-11-23 | 2022-10-21 |
 | [Isn't It A Pity \- Session Outtakes And Jams / Take 27](https://open.spotify.com/track/5Okjy6xlIGoHmdfiYCjVl9) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Isn't It A Pity/All Things Must Pass/Cosmic Empire /Run Of The Mill](https://open.spotify.com/album/0XYu51u65pNPZJr2RQd52o) | 4:59 | 2021-11-23 | 2022-07-29 |

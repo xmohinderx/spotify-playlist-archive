@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 97799,
+  "num_followers": 97818,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDM1YmQ1NmI0OTMyM2U2MTYwYzU2YjU5YzQ5MWU3YTdm",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGY0ZDhiOTRmNjE3OGJmMmUxYWI3ZGE2M2ZiMjc0NzZj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -687,22 +687,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -775,8 +771,8 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+        "name": "Six Pack",
+        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
       },
       "artists": [
         {
@@ -784,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+      "duration_ms": 214893,
+      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
+      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Six Pack",
-        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 214893,
-      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
-      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",

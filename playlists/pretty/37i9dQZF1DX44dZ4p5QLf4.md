@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,241 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,313 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 3 | [The Process](https://open.spotify.com/track/5A5d8Coap6LIWcbk3xGDXi) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jordyn](https://open.spotify.com/artist/57vgy9KlvaYvEpbujOUofN) | [The Process](https://open.spotify.com/album/1nMvsDua4e4T1Y1q53bCvN) | 2:51 |
 | 4 | [In Need \- Reworked](https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R), [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [In Need \(Reworked\)](https://open.spotify.com/album/2zE0Kw0j61mVY9aDR7kaqm) | 3:27 |
 | 5 | [Way That We Feel](https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [Way That We Feel](https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG) | 3:10 |
-| 6 | [GOOD DAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 |
+| 6 | [GOOD DAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 |
 | 7 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 |
 | 8 | [Told you so](https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 4:49 |
 | 9 | [Mood Right](https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Mood Right](https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI) | 2:49 |
-| 10 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
+| 10 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
 | 11 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 |
 | 12 | [Stay](https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Stay](https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe) | 2:55 |
 | 13 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,396 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,439 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 2 | [No Love](https://open.spotify.com/track/51u0i005MZ9G0e1Lxm3PqO) | [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [No Love](https://open.spotify.com/album/6mPiGd5dPUn5eIIDqjEKJU) | 2:22 |
 | 3 | [White Walls](https://open.spotify.com/track/3CuCZPForUo8r9Cwl8IuW7) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Running / White Walls](https://open.spotify.com/album/4uefJDQWx5GQr8havtOMuf) | 4:35 |
 | 4 | [You & I](https://open.spotify.com/track/4FKuIlfFCIcvpg7M2HJhwx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:28 |
-| 5 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 5 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 6 | [CLASH \- Edit](https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [CLASH](https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv) | 3:30 |
 | 7 | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 |
 | 8 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I Know, I Know](https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [I Know, I Know](https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz) | 2:33 |
 | 75 | [Nowhere Game](https://open.spotify.com/track/3yT6Ho87fAxrvsbys6TGUx) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Nowhere Game](https://open.spotify.com/album/3JZkS9acXygfFkIpMhi7o1) | 4:31 |
 
-Snapshot ID: `MTY3NzIyODE3MiwwMDAwMDAwMDBiOGRmN2JlNmU4N2ZiMzU5MDMzNWM4MzFhYzc4NzRj`
+Snapshot ID: `MTY3NzIyODE3MiwwMDAwMDAwMGQyNjQ3MTkzYmMzNzk5ODZhZWVjNTU5YjUwMTY5Nzg4`

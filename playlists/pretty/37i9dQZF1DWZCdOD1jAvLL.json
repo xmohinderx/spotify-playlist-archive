@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: lau.ra & Dope Earth Alien",
-  "num_followers": 200350,
+  "num_followers": 200427,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDNkZDJlOTEzMmJmZWU0ZTk5ZTQ5MDRiYWU2YjBkZDc4",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGZjNjMzZTE5NGZiOWY4NjhmNDNkNDkzODA4MTBhMzVl",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Ecstasy Of Soul",
@@ -503,22 +519,6 @@
       "duration_ms": 238400,
       "name": "Ecstasy Of Soul",
       "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Rise",
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -981,6 +997,26 @@
       "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 320853,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Bugbeat",
@@ -995,22 +1031,6 @@
       "duration_ms": 179094,
       "name": "Bugbeat",
       "url": "https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1051,22 +1071,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal"
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
         }
       ],
-      "duration_ms": 320853,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore"
+      "duration_ms": 130123,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1103,30 +1127,6 @@
       "duration_ms": 145777,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
-        },
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        }
-      ],
-      "duration_ms": 130123,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1253,6 +1253,30 @@
       "url": "https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Push To Start (feat. No/Me)",
+        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Push To Start (feat. No/Me)",
+      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Psychedelic Girls",
@@ -1329,6 +1353,26 @@
       "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "HEAVENS DOOR",
+        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "HEAVENS DOOR",
+      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
+    },
+    {
       "added_at": "2022-11-18 15:52:09",
       "album": {
         "name": "Talk To Me (with BRUX)",
@@ -1351,50 +1395,6 @@
       "duration_ms": 182857,
       "name": "Talk To Me (with BRUX)",
       "url": "https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "HEAVENS DOOR",
-        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "HEAVENS DOOR",
-      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Push To Start (feat. No/Me)",
-        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Push To Start (feat. No/Me)",
-      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1433,26 +1433,6 @@
       "url": "https://open.spotify.com/track/19zxhHtJMYoCuR5dmFJ1WN"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "JUSTIN BIEBER [Rockstar Wasted Hype Hop Edit]",
-        "url": "https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Swagger Rite",
-          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "JUSTIN BIEBER [Rockstar Wasted Hype Hop Edit]",
-      "url": "https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug"
-    },
-    {
       "added_at": "2022-11-18 15:52:09",
       "album": {
         "name": "Step Into It",
@@ -1471,6 +1451,26 @@
       "duration_ms": 189189,
       "name": "Step Into It",
       "url": "https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "JUSTIN BIEBER [Rockstar Wasted Hype Hop Edit]",
+        "url": "https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Swagger Rite",
+          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "JUSTIN BIEBER [Rockstar Wasted Hype Hop Edit]",
+      "url": "https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug"
     },
     {
       "added_at": "2022-11-25 05:00:00",

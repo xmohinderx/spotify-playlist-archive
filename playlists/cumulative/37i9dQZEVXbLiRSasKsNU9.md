@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,237 songs - 2 day 18 hr 31 min
+1,238 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-02-16 |  |
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-03-08 | 2022-03-16 |
 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 | 2022-12-17 | 2023-01-11 |
-| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-07 |  |
+| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-07 | 2023-02-27 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ziko](https://open.spotify.com/artist/5kjMVFyYkyNXhGccnycCka) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7) | 3:14 | 2022-05-07 | 2022-06-07 |
 | [COACHELLA](https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Nullzweizwei](https://open.spotify.com/artist/0TVANDORspsd2X7Gg9rhcW) | [COACHELLA](https://open.spotify.com/album/3rKUse3bRNWC18dktsMnCX) | 2:46 | 2022-06-21 | 2022-06-24 |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-05-10 | 2022-06-15 |
@@ -1208,6 +1208,7 @@
 | [Y Me Da Vergüenza](https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:02 | 2022-06-23 | 2022-07-06 |
 | [Y Me Pregunto](https://open.spotify.com/track/2IvoefDJZvgub14bsCEZoN) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:29 | 2022-06-28 | 2022-06-30 |
 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 | 2022-06-23 | 2022-07-06 |
+| [YALA DEDI YALAMA](https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF) | [yungcihad](https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d), [Qimp](https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [YALA DEDI YALAMA](https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7) | 2:05 | 2023-02-26 |  |
 | [Yalanı Bırak](https://open.spotify.com/track/755Pja1zaA687Vql25NHwP) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Yalanı Bırak](https://open.spotify.com/album/7gfAc3QLyKuRUioINjKHfi) | 2:57 | 2022-12-07 | 2022-12-31 |
 | [Yallah](https://open.spotify.com/track/7zxHknEJ9gfaL8Ln6UqYUX) | [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Yallah](https://open.spotify.com/album/57TckZyIR5Gc6vab60RBpm) | 2:24 | 2022-03-01 | 2022-03-23 |
 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-17 | 2023-02-17 |

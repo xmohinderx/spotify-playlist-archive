@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 124494,
+  "num_followers": 124518,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDgzMTllOWM4ZGZiMDA2ZTFjNzNhNWZlNWJiMDViNDY4",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDViOGRjYzk3ZTQ3NzNkOTgwZTMzMWNmY2RmZjc5NGMy",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "A City So Convenient",
-        "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
-      },
-      "artists": [
-        {
-          "name": "Mungolian Jetset",
-          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
-        }
-      ],
-      "duration_ms": 386268,
-      "name": "A City So Convenient",
-      "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Eurodans",
         "url": "https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 387053,
       "name": "Italian Stallion",
       "url": "https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "A City So Convenient",
+        "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
+      },
+      "artists": [
+        {
+          "name": "Mungolian Jetset",
+          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
+        }
+      ],
+      "duration_ms": 386268,
+      "name": "A City So Convenient",
+      "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "The Walk",
-        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
-      },
-      "artists": [
-        {
-          "name": "Frede",
-          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
-        }
-      ],
-      "duration_ms": 264269,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Pax Americana",
         "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "The Walk",
+        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
+      },
+      "artists": [
+        {
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Oppkok",
         "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 303282,
       "name": "Nitten Nitti - Harvey's Not Normal Mix",
       "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Maskindans",
+        "url": "https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        },
+        {
+          "name": "Det Gylne Triangel",
+          "url": "https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Maskindans - Radio Edit",
+      "url": "https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -807,42 +827,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Tea In The Desert",
-        "url": "https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ"
-      },
-      "artists": [
-        {
-          "name": "Bonada",
-          "url": "https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ"
-        }
-      ],
-      "duration_ms": 210841,
-      "name": "Tea In The Desert",
-      "url": "https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Maskindans",
-        "url": "https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        },
-        {
-          "name": "Det Gylne Triangel",
-          "url": "https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Maskindans - Radio Edit",
-      "url": "https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "This Time (Lindstr\u00f8m Remix)",
         "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 569159,
       "name": "This Time - Lindstr\u00f8m Remix",
       "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Tea In The Desert",
+        "url": "https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ"
+      },
+      "artists": [
+        {
+          "name": "Bonada",
+          "url": "https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ"
+        }
+      ],
+      "duration_ms": 210841,
+      "name": "Tea In The Desert",
+      "url": "https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae"
     },
     {
       "added_at": "2023-01-19 23:00:00",

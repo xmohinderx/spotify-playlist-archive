@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ROSSY & Pauline Herr.",
-  "num_followers": 954887,
+  "num_followers": 955031,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDM4NTA3MDkxOWVmMTA2ZWE5M2Y5YjIyNWE5OWQ3ODkz",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDE1NThmOTQwMDAzZDFkZGQwODljZjM3MzYwZTE0NTA1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "PEW PEW",
         "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 199111,
       "name": "PEW PEW",
       "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
-      },
-      "artists": [
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "333",
-      "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1411,6 +1395,42 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
+      },
+      "artists": [
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "333",
+      "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Move Back",
+        "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Move Back",
+      "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1451,26 +1471,6 @@
       "duration_ms": 143076,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Move Back",
-        "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Move Back",
-      "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1631,6 +1631,34 @@
       "duration_ms": 233600,
       "name": "Angels Landing",
       "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "BACK ONLINE",
+        "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "BACK ONLINE",
+      "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1819,30 +1847,38 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "BACK ONLINE",
-        "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         },
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
         }
       ],
-      "duration_ms": 217846,
-      "name": "BACK ONLINE",
-      "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1895,18 +1931,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+        "name": "Meditate",
+        "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
         }
       ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
+      "duration_ms": 359778,
+      "name": "Meditate",
+      "url": "https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1931,38 +1967,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Meditate",
-        "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
+        "name": "FAR OUT",
+        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
       },
       "artists": [
         {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
         }
       ],
-      "duration_ms": 359778,
-      "name": "Meditate",
-      "url": "https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+      "duration_ms": 204000,
+      "name": "FAR OUT",
+      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2007,6 +2023,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "THIEF IN THE NIGHT",
+        "url": "https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Krash",
+          "url": "https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "THIEF IN THE NIGHT",
+      "url": "https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Between Two",
         "url": "https://open.spotify.com/album/1zp3TAlnDa1X6Fob4hViWu"
       },
@@ -2027,26 +2063,6 @@
       "duration_ms": 167467,
       "name": "Between Two",
       "url": "https://open.spotify.com/track/5mQaLrxEBrqBbZFVtCCKUE"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "THIEF IN THE NIGHT",
-        "url": "https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Krash",
-          "url": "https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb"
-        },
-        {
-          "name": "COUCOU CHLOE",
-          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "THIEF IN THE NIGHT",
-      "url": "https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2171,22 +2187,6 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "FAR OUT",
-        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "FAR OUT",
-      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "EMBRACE",
         "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 196800,
       "name": "Within The Boundaries",
       "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "MIDHEAVEN: OPUS 04",
+        "url": "https://open.spotify.com/album/1YCcu7dz8NqUS7m24YTKH3"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "AXIOM",
+      "url": "https://open.spotify.com/track/6qhkbEzLyKmBlFTIGn7L8p"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "LEVIATHAN",
         "url": "https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 179692,
       "name": "CASHMERE",
       "url": "https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "MIDHEAVEN: OPUS 04",
-        "url": "https://open.spotify.com/album/1YCcu7dz8NqUS7m24YTKH3"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "AXIOM",
-      "url": "https://open.spotify.com/track/6qhkbEzLyKmBlFTIGn7L8p"
     },
     {
       "added_at": "2023-02-24 05:01:00",

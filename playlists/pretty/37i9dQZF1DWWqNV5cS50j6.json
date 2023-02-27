@@ -1,12 +1,12 @@
 {
   "description": "Ruby Red makes anti pop",
-  "num_followers": 693750,
+  "num_followers": 693847,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI0ODM4NSwwMDAwMDAwMDY4YzMwOTQ3ODUzNjZlMTQxNjAyODI5OWJkZmZlMDJl",
+  "snapshot_id": "MTY3NzI0ODM4NSwwMDAwMDAwMDdlOWZlNzJlNTNjMTk4YzNiNWIwNjFjODg1MTVlZDc1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -249,6 +249,30 @@
       "url": "https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG"
     },
     {
+      "added_at": "2023-02-24 14:19:07",
+      "album": {
+        "name": "Don\u2019t Get Too Close",
+        "url": "https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "BOY",
@@ -285,22 +309,6 @@
       "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "CAROLINE",
-        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 192951,
-      "name": "CAROLINE",
-      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Baby Queen",
@@ -317,28 +325,20 @@
       "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
-      "added_at": "2023-02-24 14:19:07",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Don\u2019t Get Too Close",
-        "url": "https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0"
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
+      "duration_ms": 192951,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -405,26 +405,6 @@
       "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
     },
     {
-      "added_at": "2023-01-04 14:50:34",
-      "album": {
-        "name": "Mamacita (feat. A$AP Rocky)",
-        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
-      },
-      "artists": [
-        {
-          "name": "Smooky MarGielaa",
-          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Mamacita (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Sol",
@@ -443,6 +423,26 @@
       "duration_ms": 159732,
       "name": "Buzzed",
       "url": "https://open.spotify.com/track/46vrZhwggdZuuZGwIQ80O3"
+    },
+    {
+      "added_at": "2023-01-04 14:50:34",
+      "album": {
+        "name": "Mamacita (feat. A$AP Rocky)",
+        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
+      },
+      "artists": [
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Mamacita (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "lazy",
+        "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "lazy (haste)",
+      "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Gold",
@@ -559,22 +575,6 @@
       "duration_ms": 266393,
       "name": "TROJAN HORSE",
       "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "lazy",
-        "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "lazy (haste)",
-      "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -817,6 +817,30 @@
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+        "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
+      },
+      "artists": [
+        {
+          "name": "Zack Bia",
+          "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+      "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "play pretend",
@@ -831,6 +855,22 @@
       "duration_ms": 117774,
       "name": "play pretend",
       "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Leaving You",
+        "url": "https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 113374,
+      "name": "Leaving You",
+      "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -855,18 +895,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Leaving You",
-        "url": "https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O"
+        "name": "Eye Tell (!)",
+        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 113374,
-      "name": "Leaving You",
-      "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
+      "duration_ms": 130692,
+      "name": "Eye Tell (!)",
+      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
     },
     {
       "added_at": "2022-12-20 17:30:46",
@@ -883,22 +923,6 @@
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Eye Tell (!)",
-        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Eye Tell (!)",
-      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1015,30 +1039,6 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
-        "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
-      },
-      "artists": [
-        {
-          "name": "Zack Bia",
-          "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
-      "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {
       "added_at": "2023-02-14 21:52:20",

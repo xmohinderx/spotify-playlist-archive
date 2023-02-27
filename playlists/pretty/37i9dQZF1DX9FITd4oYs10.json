@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMGFmMmI3NjZmNjMwYTY2ODBhYjI3NDA3MjJkMzQzYzYx",
+  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMGI0MGE4OWNmNWU3NDM2YzFhOWM1YzBhYjA4MzNkNTVj",
   "tracks": [
     {
       "added_at": "2022-12-20 21:14:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-12-20 21:14:29",
       "album": {
-        "name": "Slow Flow",
-        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
-      },
-      "artists": [
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "Rosas e Rimas",
-      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
-    },
-    {
-      "added_at": "2022-12-20 21:14:29",
-      "album": {
         "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
         "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 256760,
       "name": "Babylon By Gus",
       "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
+    },
+    {
+      "added_at": "2022-12-20 21:14:29",
+      "album": {
+        "name": "Slow Flow",
+        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "Rosas e Rimas",
+      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
     },
     {
       "added_at": "2022-12-20 21:14:29",

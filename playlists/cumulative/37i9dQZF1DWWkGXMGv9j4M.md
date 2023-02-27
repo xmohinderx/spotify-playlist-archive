@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-161 songs - 9 hr 17 min
+162 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Are You Even Real?](https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Are You Even Real?](https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ) | 3:51 | 2020-12-01 |  |
 | [Bad Idea](https://open.spotify.com/track/5OUGZoUonZ0ksZh3VDIlRP) | [axiiiiiiiii](https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD) | [Archiv3s](https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw) | 1:09 | 2020-12-01 | 2023-01-25 |
 | [bad idea](https://open.spotify.com/track/4gIhQKdskKkhu5KQL0Jn4F) | [lmaopay](https://open.spotify.com/artist/5Lr6vtfzxLavw70fdoex8K), [starrstain](https://open.spotify.com/artist/2hcYnsObiMj0BPiXsGFPyX) | [archiv33](https://open.spotify.com/album/5pRZgTiyCZZfvmBfhEa0WO) | 1:10 | 2020-12-01 | 2023-02-25 |
-| [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 |  |
+| [bad idea](https://open.spotify.com/track/494PD9jp6RhTtrbo9JEEjD) | [overlyhigh](https://open.spotify.com/artist/04dpbxEZqLdRpbLsoOg88Q) | [bad idea](https://open.spotify.com/album/0MyLUYxvi2XmAN7ExmsXzl) | 1:09 | 2020-12-01 |  |
+| [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 | 2023-02-27 |
 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2020-12-01 | 2023-01-05 |
 | [Be Honest](https://open.spotify.com/track/1GDe2pacTrpqTvJANhWRXy) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Be Honest](https://open.spotify.com/album/6Sg9GmRJi0tYgBsG2vwCVl) | 3:57 | 2020-12-01 | 2022-07-29 |
 | [Be Honest](https://open.spotify.com/track/3F7FoSj6zuAVSElSh2edDA) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Be Honest](https://open.spotify.com/album/6jq2nhCkz61Qp9COHmbO6S) | 3:57 | 2020-12-01 |  |

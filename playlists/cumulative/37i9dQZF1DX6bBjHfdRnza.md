@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Surusinghe\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-1,042 songs - 3 day 1 hr 17 min
+1,043 songs - 3 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,6 +695,7 @@
 | [okokok](https://open.spotify.com/track/358ewsqHoXA5UBqcXyCotw) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/5E9xcG1i0ZqYpwzRwaDQn5) | 2:38 | 2022-10-19 | 2022-12-01 |
 | [Old Dogs Groove](https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Old Dogs Groove / Pure NRG](https://open.spotify.com/album/2UphPjQMbhOQ4QaLSTdb5s) | 5:06 | 2022-08-03 | 2022-09-22 |
 | [Ole](https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP) | 2:38 | 2023-02-08 | 2023-02-26 |
+| [Ole](https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen) | 2:38 | 2023-02-08 |  |
 | [Ologramma](https://open.spotify.com/track/6xEVd4IJ4iVwAZoLBAkCmn) | [Blue Mora](https://open.spotify.com/artist/31kQwvaTauJPYSdvVBvxD1) | [Ologramma](https://open.spotify.com/album/406U3PFNmgo1XhedUsypeF) | 4:25 | 2022-01-26 | 2022-03-17 |
 | [Olvido](https://open.spotify.com/track/42v3sjO6HNsN6bITSsK1FE) | [Rafa Barrios](https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl) | [Olvido](https://open.spotify.com/album/7fq9J9FsHSlliMKadHGqgK) | 5:55 | 2023-01-18 |  |
 | [On Greed](https://open.spotify.com/track/2TgfrolQ5cDBDwJe9Bzmpk) | [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn) | [Cycle Twice](https://open.spotify.com/album/29hIcfWWiY26O084yE2iAr) | 6:59 | 2022-04-27 | 2022-06-09 |
@@ -715,7 +716,7 @@
 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 | 2022-11-09 | 2023-02-09 |
 | [Other Side](https://open.spotify.com/track/0YTFkjKiJ2gUNh992lKLtR) | [Dead Space](https://open.spotify.com/artist/7J0vmZ5neXBGAoa8s79R9b), [G\. Felix](https://open.spotify.com/artist/0fKdJgSUpnWcOF4PyB1EYZ) | [Other Side](https://open.spotify.com/album/2n0dyZPA2Iz6ZUy6s8YL9f) | 4:24 | 2023-01-25 | 2023-02-16 |
 | [Over](https://open.spotify.com/track/3QvD7wszYRtz6ApfFaZ45w) | [Krux](https://open.spotify.com/artist/0TeU6ntM5dolIgeVOk21zE) | [Over / Arcade](https://open.spotify.com/album/36hieysbyssl5LiV7DsRl5) | 4:28 | 2022-10-26 | 2022-12-01 |
-| [overgrown](https://open.spotify.com/track/6QqguQTORFhJmRXbXxUde3) | [GABRIEL](https://open.spotify.com/artist/51xf1WYA5V0dLTuJ85YZPD) | [overgrown](https://open.spotify.com/album/7AXDW3MxXrGdus5qPzvPNR) | 5:12 | 2023-02-15 |  |
+| [overgrown](https://open.spotify.com/track/6QqguQTORFhJmRXbXxUde3) | [GABRIEL](https://open.spotify.com/artist/51xf1WYA5V0dLTuJ85YZPD) | [overgrown](https://open.spotify.com/album/7AXDW3MxXrGdus5qPzvPNR) | 5:12 | 2023-02-15 | 2023-02-27 |
 | [Palma](https://open.spotify.com/track/25xCDpudKgR3fKpAoJpDSY) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Palma](https://open.spotify.com/album/1AvJKmHJIWQq0kh8ZUNx7I) | 3:04 | 2022-05-31 | 2022-08-11 |
 | [Palmetto Drive](https://open.spotify.com/track/6EirpiHmRa8dxPfDH11m3q) | [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [Palmetto Drive](https://open.spotify.com/album/1mV3mPY8JL7JH9z6FCIMqL) | 5:12 | 2022-03-16 | 2022-06-09 |
 | [papercuts](https://open.spotify.com/track/7hk6H482fKMzuUQ2Jf8bG3) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [papercuts](https://open.spotify.com/album/5pOt2aPHSirpOt9voInHZv) | 2:13 | 2022-10-26 | 2022-12-01 |

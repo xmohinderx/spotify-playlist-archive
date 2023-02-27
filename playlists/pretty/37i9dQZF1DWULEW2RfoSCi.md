@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the biggest soul tracks from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376,987 likes - 94 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,377,600 likes - 94 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 82 | [You're A Big Girl Now](https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:18 |
 | 83 | [Wake up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:31 |
 | 84 | [Got To Be There](https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Hello World \- The Motown Solo Collection](https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS) | 3:24 |
-| 85 | [\(Do The\) Push And Pull \- Pt\. 1](https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Funkiest Man Alive: The Stax Funk Sessions 1967\-1975](https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp) | 3:18 |
-| 86 | [Jody's Got Your Girl And Gone](https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Chronicle: The 20 Greatest Hits](https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd) | 3:00 |
+| 85 | [Jody's Got Your Girl And Gone](https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Chronicle: The 20 Greatest Hits](https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd) | 3:00 |
+| 86 | [\(Do The\) Push And Pull \- Pt\. 1](https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Funkiest Man Alive: The Stax Funk Sessions 1967\-1975](https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp) | 3:18 |
 | 87 | [Pusherman](https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 5:00 |
 | 88 | [Starting All Over Again](https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Chartbusters, Vol\. 1](https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk) | 3:50 |
 | 89 | [Shame, Shame, Shame](https://open.spotify.com/track/1omsOCgn46ZJ2UfK84qheK) | [Linda Fields](https://open.spotify.com/artist/3PKRTSpBoqD2cYZUVLoHHM), [Funky Boys](https://open.spotify.com/artist/028zxw8cFIPpjGg6BEn86e) | [Super 20 \- Discoparty](https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7) | 3:57 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 93 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 94 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 
-Snapshot ID: `MTY2MDgyNDY2OSwwMDAwMDAwMGIzMTgwOGNiNmFiZDQ3ZTdjMzJmOGI3NGIzMjk2ZGQ4`
+Snapshot ID: `MTY2MDgyNDY2OSwwMDAwMDAwMDkwNGRiZDkyZTRiN2Y5MDIzZTYxMTI5OGQ5ZjdiMTQ2`

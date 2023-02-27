@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,390 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,441 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 2 | [Down By The Bay](https://open.spotify.com/track/6jTZGXH1cOQM3jhh07ZE1y) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:08 |
 | 3 | [If All Of The Raindrops](https://open.spotify.com/track/5POM2lseA6sONqP0O9pxWC) | [Old Town School of Folk Music](https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8) | [Songs for Wiggleworms](https://open.spotify.com/album/4bTD53mtiKyg7wiiHaGxqa) | 1:14 |
 | 4 | [You Are My Sunshine \(Version 1\)](https://open.spotify.com/track/10CsMKlayFJOj4Lai9tAvm) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Sunshine](https://open.spotify.com/album/7jxHX5gjHedHa2vTAZSPfY) | 2:48 |
-| 5 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 |
-| 6 | [I Love](https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 2:06 |
+| 5 | [I Love](https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 2:06 |
+| 6 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 |
 | 7 | [Round Robin](https://open.spotify.com/track/2rdQhu26wrbICsrxjNRwvY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Round Robin](https://open.spotify.com/album/0AiAVo38OkPWYMZDtaoGPO) | 1:33 |
 | 8 | [If I Had a Hammer \- 2004 Remaster](https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:01 |
 | 9 | [This Land is Your Land](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vol\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 24 | [Hello](https://open.spotify.com/track/6rkleD9KWx0iz0RTQYCfY7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:37 |
 | 25 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
 | 26 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
-| 27 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
+| 27 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
 | 28 | [The Bullfrog Opera](https://open.spotify.com/track/40jZFJBVYMzxdEpMptacUM) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:01 |
 | 29 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
-| 30 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
+| 30 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
 | 31 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
-| 32 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
+| 32 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 33 | [Hope Machine](https://open.spotify.com/track/34bqUQ5NteJZjgpu5VW408) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:48 |
-| 34 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
+| 34 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
 | 35 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 |
 | 36 | [All the Pretty Little Horses](https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W) | 2:16 |
 | 37 | [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 |
 | 70 | [Here We Go Looby Loo](https://open.spotify.com/track/4Ponyyh31zaPT5OLr16QeJ) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes, Vol\. 2](https://open.spotify.com/album/2H7OWPAgm35qkKDNNwXxBv) | 2:54 |
 
-Snapshot ID: `MTY3NTE3OTMxMiwwMDAwMDAwMGE2ZTYzYTkxZGZhYmMyNTFiOWJhZmNlYTM5YzkxNTZi`
+Snapshot ID: `MTY3NTE3OTMxMiwwMDAwMDAwMGY0NDViOWIwMjZmOWVlOGE2NTdiNzU3YTJhOGY2YTgw`

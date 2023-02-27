@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1076803,
+  "num_followers": 1077155,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDM2ZjQ5ZTlmMDJmZmFkZTlmZjAyODY3NDA4MTc0MTBl",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDQwYTdlNTljN2I3M2RiMDY5MTkwZTBmYWIyZmNhODVh",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Casa Lopez",
         "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "2nd Exit",
-        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
-      },
-      "artists": [
-        {
-          "name": "2nd Exit",
-          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
-        }
-      ],
-      "duration_ms": 176884,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "2nd Exit",
+        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
+      },
+      "artists": [
+        {
+          "name": "2nd Exit",
+          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Blazing Arrow",
-        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
-      },
-      "artists": [
-        {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Make You Feel That Way",
-      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 253068,
       "name": "2000 Seasons",
       "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Blazing Arrow",
+        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Make You Feel That Way",
+      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Close Distance",
-        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
-        }
-      ],
-      "duration_ms": 162813,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 163636,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Close Distance",
+        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "duration_ms": 162813,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Figure Numatic",
         "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Chino",
+        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1271,26 +1291,6 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Chino",
-        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
-      },
-      "artists": [
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 143903,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Every Eye",
-        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Running Shoes",
-      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Speakthru (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Every Eye",
+        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Running Shoes",
+      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 205080,
       "name": "Three Sixty",
       "url": "https://open.spotify.com/track/00Dl4SEgRut6XaLpOQH6Gk"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
+      },
+      "artists": [
+        {
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Three/Three",
+        "url": "https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf"
+      },
+      "artists": [
+        {
+          "name": "Dabrye",
+          "url": "https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te"
+        },
+        {
+          "name": "Denmark Vessey",
+          "url": "https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "First Law of Nature Rock Day (feat. Denmark Vessey)",
+      "url": "https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
         "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Three/Three",
-        "url": "https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf"
-      },
-      "artists": [
-        {
-          "name": "Dabrye",
-          "url": "https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te"
-        },
-        {
-          "name": "Denmark Vessey",
-          "url": "https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "First Law of Nature Rock Day (feat. Denmark Vessey)",
-      "url": "https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3"
     },
     {
       "added_at": "2023-02-23 23:00:00",

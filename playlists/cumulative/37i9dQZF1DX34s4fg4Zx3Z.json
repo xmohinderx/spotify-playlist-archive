@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
+        "url": "https://open.spotify.com/album/48dw2PjUKYgpDS0OfUCj3y"
+      },
+      "artists": [
+        {
+          "name": "Nam Em",
+          "url": "https://open.spotify.com/artist/7BbU2YunG15r8JwLTgnNyk"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235801,
+      "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
+      "url": "https://open.spotify.com/track/0HPi6mBmKWFWB0OOhb28co"
+    },
+    {
+      "album": {
         "name": "B\u1edfi V\u00ec C\u00f3 Em",
         "url": "https://open.spotify.com/album/33ZPnUg7xgWPdxbaMDRk8l"
       },

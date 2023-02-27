@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-281 songs - 16 hr 9 min
+282 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ) | 5:41 | 2022-01-14 | 2022-07-07 |
 | [Mil Lágrimas](https://open.spotify.com/track/04P15cgMY5f0fPhr9O8TjZ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Baile Y Más Baile](https://open.spotify.com/album/2Qv2HKKuUC2j6b1fWDu7p5) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [Mirame a la Cara](https://open.spotify.com/track/0YpbQWWC1GGG2jLyf9jBi5) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [El Regreso \(Volumen 1\)](https://open.spotify.com/album/0PfumInTIxFDG11X4uT6B5) | 1:59 | 2022-03-18 | 2022-05-11 |
+| [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2023-02-03 |  |
 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 | 2022-01-21 | 2022-07-26 |
 | [Muñequito de Peluche](https://open.spotify.com/track/3PXeR8XO9uPbtEkRHZD3DL) | [Conjunto Musical Orlando Ayunes](https://open.spotify.com/artist/030U2Bb48fTzzhk3NxcQZC) | [Vamos por Mas..](https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-01-14 |  |
@@ -203,7 +204,7 @@
 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 |  |
 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 |  |
 | [Quitame Ese Hombre](https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 3:39 | 2022-01-14 | 2022-07-29 |
-| [Qué Me Van a Hablar de Amor](https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor y Vida](https://open.spotify.com/album/74fb3iRHnLuIrCzKWSj58X) | 4:03 | 2022-07-22 |  |
+| [Qué Me Van a Hablar de Amor](https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor y Vida](https://open.spotify.com/album/74fb3iRHnLuIrCzKWSj58X) | 4:03 | 2022-07-22 | 2023-02-27 |
 | [Recuerdos](https://open.spotify.com/track/1AtZwXCl3sjqdD66j39g9Q) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Recuerdos](https://open.spotify.com/album/5b70gTnDRf5A8J8iodxvyB) | 2:42 | 2022-03-18 | 2022-04-19 |
 | [Sabrás](https://open.spotify.com/track/7vZS3nIRZYjKY2KONHBi3A) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Sabrás](https://open.spotify.com/album/30ttzkpomPtTktP06x89ZE) | 3:08 | 2022-07-22 | 2022-08-13 |
 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 | 2022-01-21 | 2022-07-15 |

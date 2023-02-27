@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: U.S\. Girls
 
-4,870 songs - 11 day 21 hr 46 min
+4,871 songs - 11 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4392,7 +4392,8 @@
 | [Turning](https://open.spotify.com/track/6It2pydpSo0FUQ3HdQES97) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Turning](https://open.spotify.com/album/614cwAiCbxTJz6QBafC4zm) | 2:53 | 2022-01-28 | 2022-04-02 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-30 | 2022-11-12 |
 | [Turning Point](https://open.spotify.com/track/3UB8mRpG0rMpzgBb347JiL) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 4:26 | 2021-09-11 | 2021-10-23 |
-| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [TV](https://open.spotify.com/track/0WK392numZ1jgdPxVyRHYC) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [TV](https://open.spotify.com/album/1TWNGaTwcFlWJB48YzRTHx) | 4:06 | 2020-08-07 | 2020-09-18 |
 | [TV Dinners](https://open.spotify.com/track/5Rn3EtXFsSOYqv6eA4tqsS) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [TV Dinners](https://open.spotify.com/album/6io6HiRxJBHlCDMj8ASioh) | 5:09 | 2022-08-26 | 2022-09-10 |
 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-15 | 2022-08-20 |

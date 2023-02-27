@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 207096,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 158330,
       "name": "Bark Me",
       "url": "https://open.spotify.com/track/3V9WaNSklacDxsCwnpzhSa"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 318720,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 159344,
       "name": "Make It Good",
       "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
@@ -6234,7 +6234,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 157862,
       "name": "Rock Like This",
       "url": "https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke"
@@ -6260,6 +6260,28 @@
       "duration_ms": 144590,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco"
+    },
+    {
+      "album": {
+        "name": "Rumble Slow (StereoKilla Remix)",
+        "url": "https://open.spotify.com/album/5QySCEHPgrnu9BXuH0qama"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        },
+        {
+          "name": "StereoKilla",
+          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "Rumble Slow - StereoKilla Remix",
+      "url": "https://open.spotify.com/track/3YF5YQbHoUYzyAxuSz6S6U"
     },
     {
       "album": {
@@ -7804,7 +7826,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Westcoaster - AC Slater Remix",
       "url": "https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO"
@@ -7928,7 +7950,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 161574,
       "name": "Who U With",
       "url": "https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm"

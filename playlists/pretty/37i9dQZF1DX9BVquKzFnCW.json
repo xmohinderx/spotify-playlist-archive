@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 13661,
+  "num_followers": 13765,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODM4MSwwMDAwMDAwMGJjNDhkMjVkZmNjZTNhZDNhNjk1M2I4NWIzNzgzZTQz",
+  "snapshot_id": "MTY3NzE0ODM4MSwwMDAwMDAwMDFmZWU5M2MwZDI5MDQxMTg1ZjFmZGMzMzE5NDlkZDU3",
   "tracks": [
     {
       "added_at": "2023-02-23 10:33:01",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 332333,
-      "name": "Inside Impromptu",
-      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+      "duration_ms": 370400,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -327,6 +311,22 @@
       "duration_ms": 287400,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Inside Impromptu",
+      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -431,18 +431,26 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
+        "name": "Brown And Roach Incorporated",
+        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
         }
       ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
+      "duration_ms": 387000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -467,26 +475,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Brown And Roach Incorporated",
-        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 387000,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Everybody Gets the Blues",
         "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 229226,
       "name": "Everybody Gets the Blues",
       "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1011,50 +1011,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Rollins Plays For Bird",
-        "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 292426,
-      "name": "I've Grown Accustomed To Your Face",
-      "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Bags Meets Wes [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        },
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 317413,
-      "name": "S.K.J.",
-      "url": "https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Legacy Of A Legend",
         "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
       },
@@ -1079,6 +1035,30 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "Rollins Plays For Bird",
+        "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 292426,
+      "name": "I've Grown Accustomed To Your Face",
+      "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Stan Getz And The Cool Sounds",
         "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
@@ -1091,6 +1071,42 @@
       "duration_ms": 204200,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Bags Meets Wes [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 317413,
+      "name": "S.K.J.",
+      "url": "https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "On a Slow Boat to China",
+        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "On a Slow Boat to China",
+      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1111,22 +1127,6 @@
       "duration_ms": 244706,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "On a Slow Boat to China",
-        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "On a Slow Boat to China",
-      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 404826,
       "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 294973,
-      "name": "The Touch Of Your Lips - Remastered",
-      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "The Dancing Monk",
         "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Bird Feathers (Remastered)",
-        "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
       },
       "artists": [
         {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
         }
       ],
-      "duration_ms": 352440,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
+      "duration_ms": 294973,
+      "name": "The Touch Of Your Lips - Remastered",
+      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "Bird Feathers (Remastered)",
+        "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 380666,
       "name": "Shiny Stockings",
       "url": "https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 518733,
-      "name": "I Get a Kick out of You",
-      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1523,6 +1507,38 @@
       "duration_ms": 414466,
       "name": "Charcoal Blues - Remastered 2004",
       "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 518733,
+      "name": "I Get a Kick out of You",
+      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Just You, Just Me",
+        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1559,22 +1575,6 @@
       "duration_ms": 537866,
       "name": "Better Go",
       "url": "https://open.spotify.com/track/17boI3WdTRx4eCXKsVg5Ol"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Just You, Just Me",
-        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1623,6 +1623,22 @@
       "duration_ms": 394080,
       "name": "You Stepped Out Of A Dream - Remastered",
       "url": "https://open.spotify.com/track/1PiW5cq6ReVpNbSGMw2x1o"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1731,22 +1747,6 @@
       "duration_ms": 647946,
       "name": "Uh Huh - Remastered 2005",
       "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Laughin' to Keep From Cryin'",
-        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 512266,
-      "name": "Salute To Benny",
-      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     }
   ],
   "unique_name": "Brunch Jazz",

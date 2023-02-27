@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,586 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,559 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 63 | [Cheer](https://open.spotify.com/track/4pK7lH8K4GrsRIWcJ9DTFk) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Cheer](https://open.spotify.com/album/21Txm9MFkx4lEuO4h7CAFY) | 2:57 |
 | 64 | [What Christmas Means to Me](https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [What Christmas Means to Me](https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0) | 3:11 |
 | 65 | [Blue Christmas](https://open.spotify.com/track/3ZZJVte1oyK5z4BEq1S5G6) | [Casey Bishop](https://open.spotify.com/artist/6LfA72Ad6LWcDYOwUMqpce) | [Blue Christmas](https://open.spotify.com/album/3kivv99gLSl6CT7N96Bc7r) | 2:36 |
-| 66 | [I'll Be Home For Christmas](https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3Es0nbwli8bIfJTRgAHwAQ) | 2:59 |
+| 66 | [I'll Be Home For Christmas](https://open.spotify.com/track/5qXRonXukhWNIyNDjWLwtU) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [I'll Be Home For Christmas](https://open.spotify.com/album/1nQQy8u9dEMRUshhfMKGdA) | 2:59 |
 | 67 | [Waiting On A Miracle](https://open.spotify.com/track/2P59qa8ZlfJVjzKDbq5YQH) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [Waiting On A Miracle](https://open.spotify.com/album/2azuAWPuD65l91vwJDZ0PC) | 2:23 |
 | 68 | [Christmas Miracle](https://open.spotify.com/track/5VZeRfpdY94ePLTes5Uixq) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Miracle](https://open.spotify.com/album/1SOm9qr3NOTp3tpWgAT3GW) | 3:59 |
 | 69 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDEyYTQyOWIwNGM2OTExODc5N2VkOWUzNTVjNThmMTBl`
+Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDQzMTYyMDQzMjFmYTE3ZmMxZGQ0YjAzZDM5M2IxZjlk`

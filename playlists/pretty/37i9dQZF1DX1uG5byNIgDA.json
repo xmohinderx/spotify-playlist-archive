@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 220661,
+  "num_followers": 220680,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMDBjZTFkMDQ5MDE5NzlkMTY5MTNlYmMwZGYzZjFiNDU0",
+  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMDQwMzA0MmNlM2QwZmFjYTE0YTc2NTU4Y2Q1MjVhNWMy",
   "tracks": [
     {
       "added_at": "2022-11-15 13:55:43",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "The Dream Chapter: STAR",
-        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "CROWN",
-      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 197320,
       "name": "HWAA",
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
     },
     {
       "added_at": "2022-11-15 13:55:43",

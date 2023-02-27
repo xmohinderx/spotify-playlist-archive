@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,578 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,605 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 42 | [After You](https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:50 |
 | 43 | [Who Wants To Be A Millionaire](https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Celeste Holm](https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:07 |
 | 44 | [Too Darn Hot](https://open.spotify.com/track/6hY98FQBkn7yb0UjaneOOg) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 2:48 |
-| 45 | [Rosalie](https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:49 |
+| 45 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
 | 46 | [I Concentrate On You](https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 2:44 |
-| 47 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
+| 47 | [Rosalie](https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:49 |
 | 48 | [Always True To You \(In My Fashion\)](https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Whatever Julie Wants](https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k) | 2:31 |
 | 49 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
 | 50 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
 | 51 | [True Love](https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 3:23 |
 | 52 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
-| 53 | [Old Fashioned Garden](https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 3:03 |
-| 54 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
+| 53 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
+| 54 | [Old Fashioned Garden](https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 3:03 |
 | 55 | [Blue Swing](https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 4:41 |
 | 56 | [Why Shouldn't I?](https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker & Strings](https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S) | 3:33 |
 | 57 | [Looking at You](https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 75 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 
-Snapshot ID: `MTY3NjU0MjU4OCwwMDAwMDAwMDVjZjFlNTJjYWRlNzkyMTZhZjI4YWUxMzkzMWVkNjNi`
+Snapshot ID: `MTY3NjU0MjU4OCwwMDAwMDAwMDQ4M2FmN2Q2MWVhMzY1Mzg1MjYyN2QyZDMzNzNiMzRl`

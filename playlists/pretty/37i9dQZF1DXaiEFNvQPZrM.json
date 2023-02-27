@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 643182,
+  "num_followers": 643565,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGMwMWZkNTg3ZTlmNGI5N2JjYzUxYzA5OTY5OGFiOWM4",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDY0YWI4MTcwM2NkNDg3NmMyNzUyYzA4OTZhNTZjZWQy",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Things A Man Oughta Know",
-      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 201986,
       "name": "Fishing In The Dark",
       "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "The Deana Carter Collection",
-        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
       },
       "artists": [
         {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 290466,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Don't Close Your Eyes",
-        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+        "name": "The Deana Carter Collection",
+        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
         }
       ],
-      "duration_ms": 252626,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
+      "duration_ms": 290466,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Outlaws Like Me",
-        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "If Heaven Wasn't So Far Away",
-      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Outlaws Like Me",
+        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "If Heaven Wasn't So Far Away",
+      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "On The Rocks",
         "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 218666,
       "name": "I'll Think Of A Reason Later",
       "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "There's More Where That Came From",
-        "url": "https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "I May Hate Myself In The Morning",
-      "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Little Miss Saturday Night",
         "url": "https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 200438,
       "name": "Little Miss Saturday Night",
       "url": "https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "There's More Where That Came From",
+        "url": "https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "I May Hate Myself In The Morning",
+      "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
     },
     {
       "added_at": "2023-02-03 05:00:00",

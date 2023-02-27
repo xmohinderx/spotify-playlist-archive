@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,336 likes - 80 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,385 likes - 80 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 72 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
 | 73 | [Eze Ebube II](https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Ebube II](https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh) | 7:12 |
 | 74 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 |
-| 75 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 |
-| 76 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 |
+| 75 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 |
+| 76 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 |
 | 77 | [Wade In The Water \- Live](https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Black History Project \(Live from London\)](https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6) | 3:19 |
 | 78 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 |
 | 79 | [Merciful](https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G) | [Benita Okojie](https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a) | [Merciful](https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ) | 3:04 |
 | 80 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGNjNmYyOWMyNGNjMWQxZWUwYTU5N2I1NThlYzcwMWRl`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDc2OGYyY2ZjYWM1NDQ5MDhiMTVjZDA1MmY1ZjBjYjVh`

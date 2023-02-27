@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8855,
+  "num_followers": 8862,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGM4MjNjODdiZGZjYWI3MDMyYmI4MmNlNmVhYmFlYzJk",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGI4Y2VkNDJmZjQ4MzIwN2YwYjBhM2FhZmNiNDJmNTJi",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Arch & Bend Riddim Reloaded",
         "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 136663,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
     },
     {
       "added_at": "2022-02-24 18:00:00",

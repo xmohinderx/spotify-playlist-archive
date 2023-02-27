@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,174 likes - 86 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,211 likes - 86 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 47 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 48 | [Somethingood](https://open.spotify.com/track/29T6HQEYLAc8syLr3I4SRK) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 6:30 |
 | 49 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 |
-| 50 | [Come on with the Good Thing](https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Come on with the Good Thing](https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F) | 5:19 |
+| 50 | [Come On With the Good Thing](https://open.spotify.com/track/1Mw4DeEuHwD0sQTOaTK6fH) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music For Robots](https://open.spotify.com/album/6DZLwcY6pDXTGOi0qtrCeJ) | 5:19 |
 | 51 | [Why Do I Do \(La Felix Remix\) \[feat\. Jason Gaffner\]](https://open.spotify.com/track/2sUKbuWG7ueFa93Sti3Svr) | [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF), [Jason Gaffner](https://open.spotify.com/artist/6neAZyHgBG8SyAaIdLpRBe) | [Why Do I Do \(The Remixes\)](https://open.spotify.com/album/0JASYasDsRGpNVcKfKNop5) | 3:52 |
 | 52 | [Sophisticated](https://open.spotify.com/track/090R7oRx5xvbR7zUUWTQrm) | [Corey El](https://open.spotify.com/artist/7MiIOLb4zegDIU0Uq7UKhd), [FAM Band](https://open.spotify.com/artist/6ceUEbpJTwC4lsSePVwfpx) | [Sophisticated](https://open.spotify.com/album/5fAlMjJiNO35cqFnzr0tHM) | 4:05 |
 | 53 | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/track/0WF0028K8mwsg2A4C1cm6p) | [The Doggett Brothers](https://open.spotify.com/artist/5JRS1wbye5NN8Pfgixxofg), [Laura Jackson](https://open.spotify.com/artist/4nNJsw5eLM1kBcGMMZJOAu), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt) | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/album/21zO039GPjGBWUdzowcofq) | 5:36 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 75 | [Eight\-Nine](https://open.spotify.com/track/4UWWVgwWdWZHJrUoqcwuau) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:16 |
 | 76 | [Ice Cold](https://open.spotify.com/track/6g3dWdveVFaFrBR6cZTLHx) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/55OKR2BbANR7aq9UwA9u08) | 3:16 |
 | 77 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 |
-| 78 | [The Night is Calling](https://open.spotify.com/track/2NDQYOxU5QDH9DQLEPFSY4) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [The Night is Calling](https://open.spotify.com/album/7qDTP6pmqRSZJ03Qd8McKM) | 4:19 |
+| 78 | [The Night is Calling](https://open.spotify.com/track/2er5pBUptyyOONLjcNt3qj) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music For Robots](https://open.spotify.com/album/6DZLwcY6pDXTGOi0qtrCeJ) | 4:19 |
 | 79 | [Ice Cold](https://open.spotify.com/track/4yGlV4Vw5uhcCOCefmy4N4) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx) | [Ice Cold](https://open.spotify.com/album/3NR9ek3Wzl2ONf0HCm7u8m) | 3:49 |
 | 80 | [Deja Vu](https://open.spotify.com/track/3d1dmoGXXFhgL9OSQi0o9b) | [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Deja Vu](https://open.spotify.com/album/24n3BIYvKzcZ3Z9gFvqMh3) | 3:37 |
 | 81 | [Play Your Cards Rite](https://open.spotify.com/track/1yruiYdVJaIV1SzitlHkBO) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Charge It To The Game](https://open.spotify.com/album/4rkOYVGaJHlaeBLJ9ppuGL) | 3:21 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 85 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 86 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDE4M2EyYjQ0Mjg1ODI5YjY5ODIxYTQzNDNjZTI2MTU5`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDQ3ODc0ZDAzZDM1ZTk5NmZjYWUyOGQyNWRkZTJiNWZh`

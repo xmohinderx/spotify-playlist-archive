@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Muero por Ti",
+        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "Muero por T\u00ed",
+      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
+    },
+    {
+      "album": {
         "name": "En la Ciudad de los Vivos",
         "url": "https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz"
       },
@@ -3734,7 +3752,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 243227,
       "name": "Qu\u00e9 Me Van a Hablar de Amor",
       "url": "https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte"

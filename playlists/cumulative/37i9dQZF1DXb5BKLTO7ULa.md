@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-101 songs - 5 hr 15 min
+102 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-02-24 |  |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 |  |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 |  |
-| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-24 |  |
 | [Verblind](https://open.spotify.com/track/46OBejmjKbTvFv2MCLT3fH) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Verblind](https://open.spotify.com/album/1ixBDYTp7EuHYTJpiYoIFa) | 2:26 | 2023-02-24 |  |
 | [Verstoppertje](https://open.spotify.com/track/1anlPFtoqIqt80I5XVxauQ) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Verstoppertje](https://open.spotify.com/album/2sg26L0cngTtN5yVcSnOPy) | 3:01 | 2023-02-24 |  |
@@ -108,6 +109,6 @@
 | [Wings](https://open.spotify.com/track/4l61TlfmTwxt7PdzEe28rz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Wings](https://open.spotify.com/album/1gZbP4bJhkyyompPUyfAdj) | 1:58 | 2023-02-24 |  |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-02-24 |  |
 | [Zilver](https://open.spotify.com/track/1kBqF2rRhxk6ho9lbU39e1) | [BARNSTEEN](https://open.spotify.com/artist/0OqM9K8DOCzx6dU8ZzIUcF) | [Zilver](https://open.spotify.com/album/70IsaZdOyxGPnCNKngX2jO) | 3:31 | 2023-02-24 |  |
-| [Zonder Jou](https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Zonder Jou](https://open.spotify.com/album/59FBX1katrnJ8coGBtiDfw) | 2:14 | 2023-02-24 |  |
+| [Zonder Jou](https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Zonder Jou](https://open.spotify.com/album/59FBX1katrnJ8coGBtiDfw) | 2:14 | 2023-02-24 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

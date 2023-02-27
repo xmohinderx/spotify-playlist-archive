@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-132 songs - 7 hr 52 min
+133 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-05-27 | 2022-06-18 |
 | [Lollipop](https://open.spotify.com/track/4AFdUHHDslEOgQOzGjIJwJ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Faster](https://open.spotify.com/artist/1amWffp8N3JVSxoYyu76jh) | [Lollipop](https://open.spotify.com/album/2v6SxsjFheEb9RlG7szJIh) | 3:47 | 2022-03-11 | 2022-07-29 |
 | [Lollipop \(feat\. Faster\)](https://open.spotify.com/track/5Kuz2B5fkTmTGFXUYz1tO5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Faster](https://open.spotify.com/artist/1amWffp8N3JVSxoYyu76jh) | [Lollipop \(feat\. Faster\)](https://open.spotify.com/album/5gT5UTgfm278U4QRLobMSV) | 3:47 | 2022-07-22 |  |
-| [Los Arranca Máscaras](https://open.spotify.com/track/1ThOmfjjdi05EARog27j6J) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Dj Albisin](https://open.spotify.com/artist/3wnVQAV23MClF5xwbMVKbF) | [Los Arranca Máscaras](https://open.spotify.com/album/2FpCAo1rGFwhWFNHjvHRxE) | 5:00 | 2022-08-19 |  |
+| [Los Arranca Máscaras](https://open.spotify.com/track/1ThOmfjjdi05EARog27j6J) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Dj Albisin](https://open.spotify.com/artist/3wnVQAV23MClF5xwbMVKbF) | [Los Arranca Máscaras](https://open.spotify.com/album/2FpCAo1rGFwhWFNHjvHRxE) | 5:00 | 2022-08-19 | 2023-02-27 |
+| [Los Arranca Máscaras](https://open.spotify.com/track/3Sf2MM1RJateiC58Ui2ENG) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Dj Albisin](https://open.spotify.com/artist/3wnVQAV23MClF5xwbMVKbF) | [Los Arranca Máscaras](https://open.spotify.com/album/3iNhepORDiI8NEUKt7hJyY) | 5:00 | 2023-02-10 |  |
 | [LXLX \(Lollipop\)](https://open.spotify.com/track/2SVLcay6uy7Psku6y2dhBd) | [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Niño30](https://open.spotify.com/artist/4AmZiJPjlxofcBB9AbdPDD) | [LXLX \(Lollipop\)](https://open.spotify.com/album/08g5ILQblkcTSRheoLfqiF) | 2:46 | 2022-08-12 | 2022-09-03 |
 | [Mala](https://open.spotify.com/track/4tdhd2OlzDt0j2EMPaPyK4) | [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux) | [Mala](https://open.spotify.com/album/3whhRXIzel6vFSJRG4D142) | 2:54 | 2022-06-17 | 2022-07-02 |
 | [Marea](https://open.spotify.com/track/0Tc8CHVs3vUi13dXQempoo) | [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Mariianna](https://open.spotify.com/artist/0KXcK3hXagWrCmu6vGVYsR), [Lanalizer](https://open.spotify.com/artist/0YISM1jDMb11UHp2LQCX45) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 3:15 | 2022-03-11 | 2022-06-25 |

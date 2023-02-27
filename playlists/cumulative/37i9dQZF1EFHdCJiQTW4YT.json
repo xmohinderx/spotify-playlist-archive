@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "on the way down",
+        "url": "https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "on the way down",
+      "url": "https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd"
+    },
+    {
+      "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
       },

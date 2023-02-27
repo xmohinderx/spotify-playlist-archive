@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 
 > Bollywood Love Songs\-Best Hindi Love Songs\-Top Love Songs\-Romantic \-Love Songs from Hindi Films\-Love Songs\-Romantic Songs\-Hindi Love Songs\-Romantic Hindi Bollywood Songs\-Romantic Songs\-Arijit Singh\-Shahrukh Khan\-Classic love songs
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 194,870 likes - 127 songs - 10 hr 0 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 196,481 likes - 127 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

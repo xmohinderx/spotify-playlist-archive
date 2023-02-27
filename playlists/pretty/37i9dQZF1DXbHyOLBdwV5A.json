@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 96529,
+  "num_followers": 96595,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzY0MSwwMDAwMDAwMDA5YTllYTdkMTcyOWJhMmYwOGQwNGY2M2M1ODRjYmVj",
+  "snapshot_id": "MTY3NzIzNzY0MSwwMDAwMDAwMDkxNTI3NTg3YzcyZmVhZTllMzQzY2ZhOTU4ZjczNGEw",
   "tracks": [
     {
       "added_at": "2023-02-03 14:17:36",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-02-03 14:17:36",
       "album": {
+        "name": "Inunda Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/3YgLDde5Mm54H0f93pNzqz"
+        }
+      ],
+      "duration_ms": 220142,
+      "name": "Inunda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
+    },
+    {
+      "added_at": "2023-02-03 14:17:36",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2023-02-03 14:17:36",
-      "album": {
-        "name": "Inunda Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/3YgLDde5Mm54H0f93pNzqz"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Inunda Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
     },
     {
       "added_at": "2023-02-03 14:17:36",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-02-03 14:17:36",
       "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
-    },
-    {
-      "added_at": "2023-02-03 14:17:36",
-      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 142285,
       "name": "Joquebede - Remix",
       "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
+    },
+    {
+      "added_at": "2023-02-03 14:17:36",
+      "album": {
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2023-02-03 14:17:36",
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "Balada do Senhor (Remixes)",
         "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
@@ -1321,7 +1321,7 @@
       "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
         "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
@@ -1345,7 +1345,7 @@
       "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "DJ Prince Hits (Remix)",
         "url": "https://open.spotify.com/album/1N3ZpP17GGlFTNd6dPXtT2"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "Rei da Revoada (Remix)",
         "url": "https://open.spotify.com/album/0KrAlUgsvBss83xPJbILNS"
@@ -1445,7 +1445,7 @@
       "url": "https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "Tudo Novo (New Age)",
         "url": "https://open.spotify.com/album/0Le6v4yCxywKxJqX3D8xW3"
@@ -1505,7 +1505,7 @@
       "url": "https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "Festa de Crente",
         "url": "https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ"
@@ -1593,7 +1593,7 @@
       "url": "https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2"
     },
     {
-      "added_at": "2023-02-26 01:06:38",
+      "added_at": "2023-02-27 00:56:39",
       "album": {
         "name": "Nothing But The Blood",
         "url": "https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH"

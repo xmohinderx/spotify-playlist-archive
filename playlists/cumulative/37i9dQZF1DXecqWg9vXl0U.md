@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Foudeqush.
 
-223 songs - 12 hr 15 min
+224 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 | 2022-09-23 |  |
 | [A Veces](https://open.spotify.com/track/1c8OwMD1nzoKnLnxXyaP54) | [Rayo Ultravioleta](https://open.spotify.com/artist/7qCyS1SJOxtniq2SuhpHpB), [Velero Norte](https://open.spotify.com/artist/6TBD2rLl4F6tIPF3oO62Ot), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI) | [A Veces](https://open.spotify.com/album/5qQHr5uOjIzDqw9WOwkXFr) | 2:13 | 2022-10-07 | 2022-11-12 |
 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 | 2022-04-08 | 2022-08-27 |
+| [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-02-24 |  |
 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-02-17 |  |
 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 | 2022-03-25 | 2022-07-29 |
 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 | 2022-10-14 |  |
@@ -222,7 +223,7 @@
 | [x 1 minuto](https://open.spotify.com/track/3br3NQQzQ6gyBNO87qimqN) | [Yellow Dudes](https://open.spotify.com/artist/2vy5oloPxplakUsZR3chVY) | [x 1 minuto](https://open.spotify.com/album/3zN9jgURM2rejkuctjl4W2) | 3:37 | 2022-03-25 | 2022-07-28 |
 | [XAT \(Juanita La O Remix\)](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-03-25 | 2022-06-24 |
 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 | 2022-09-02 | 2022-12-17 |
-| [ya no me quieres](https://open.spotify.com/track/7D4FD2YZTEeRGt33QJQ0Qq) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [serpiente](https://open.spotify.com/album/7ElzcGBp1I4fyWP9VfRaSz) | 2:00 | 2023-01-20 |  |
+| [ya no me quieres](https://open.spotify.com/track/7D4FD2YZTEeRGt33QJQ0Qq) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [serpiente](https://open.spotify.com/album/7ElzcGBp1I4fyWP9VfRaSz) | 2:00 | 2023-01-20 | 2023-02-27 |
 | [Ya No Quiero Estar \- Can I Call You?](https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Ya No Quiero Estar \(Can I Call You?\)](https://open.spotify.com/album/5uHfoPSnsnoRUlNyTHHp16) | 2:18 | 2022-03-25 | 2022-07-28 |
 | [Yo Me Quedo Aquí](https://open.spotify.com/track/72byZ3SN2ADeGNjajCnnmL) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Me Doy Cuenta](https://open.spotify.com/album/4bpYCeCtBbGlLDoIouoyD0) | 3:21 | 2022-12-02 |  |
 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 | 2023-02-03 |  |

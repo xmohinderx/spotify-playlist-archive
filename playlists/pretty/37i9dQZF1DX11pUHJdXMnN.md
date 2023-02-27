@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,986 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,007 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 20 | [Silver Machine](https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ) | 7:24 |
 | 21 | [Giving Up On \- Alan Dixon Remix](https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Giving Up On \(Alan Dixon Remix\)](https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t) | 7:32 |
 | 22 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
-| 23 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
-| 24 | [Blue Tuesday](https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 1](https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG) | 6:25 |
+| 23 | [Blue Tuesday](https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 1](https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG) | 6:25 |
+| 24 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
 | 25 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
 | 26 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 |
 | 27 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGNmZTBjYTBkZWU2YThmZTlhYTBjMjIxN2NhMzhkMGVk`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGE2NDQxYzhlYmI4NjM1Y2IzYTMwYzk3OGYyMmI2Yjlm`

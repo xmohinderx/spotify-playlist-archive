@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Oruam, Borges, Chefin
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,785 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,940 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 36 | [Silenciador](https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Silenciador](https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM) | 2:44 |
 | 37 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |
 | 38 | [Nasci Pra Vencer](https://open.spotify.com/track/1XO1fmOVCn0vtZTEocpG42) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nasci Pra Vencer / Sou Má](https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb) | 2:28 |
-| 39 | [SUV PRATA](https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [SUV PRATA](https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy) | 2:29 |
-| 40 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
+| 39 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
+| 40 | [SUV PRATA](https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [SUV PRATA](https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy) | 2:29 |
 | 41 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 |
 | 42 | [Hugo Boss](https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Hugo Boss](https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho) | 3:34 |
 | 43 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 50 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 
-Snapshot ID: `MTY3NjI5NTYzNiwwMDAwMDAwMGE5YzQ1NmMwZTliZDc1NjBmNjE2NjUzOTQ5NGM3ZmY1`
+Snapshot ID: `MTY3NjI5NTYzNiwwMDAwMDAwMDQ4OTM3ZDk3NDdjNzU3YzI2ODE2MGFlOWFkMTlkZmQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Cookiee Kawaii
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,609 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,867 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 39 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
 | 40 | [Saint Laurent](https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Saint Laurent](https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj) | 2:32 |
 | 41 | [POZZ](https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp), [COSMO ENVOIE DES TRACKS](https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI) | [POZZ](https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F) | 2:08 |
-| 42 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
-| 43 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
+| 42 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
+| 43 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 44 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 45 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
 | 46 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [Look Back It \(Club Mix\)](https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Ziggy Reloaded II](https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil) | 1:42 |
 | 50 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 
-Snapshot ID: `MTY3NzI0Nzk5MCwwMDAwMDAwMDM3NTA0Y2U1NjhmNDJjZjk3NmI3NzRmOTBhZDBkOTlm`
+Snapshot ID: `MTY3NzI0Nzk5MCwwMDAwMDAwMDc2ZDNmNjhmYzQ0MmYzZTczNjdhZDI3MWI4NGY5MDli`

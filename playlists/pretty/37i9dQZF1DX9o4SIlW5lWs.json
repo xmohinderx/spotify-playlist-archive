@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 148856,
+  "num_followers": 149084,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5NDQ0MCwwMDAwMDAwMGFlY2ZlZmI4NWFkMGY1MTBiZjllNmRhZjY3NGI4ZmNj",
+  "snapshot_id": "MTY3NzE5NDQ0MCwwMDAwMDAwMDdkYzNjZTBjMzVjNTQ3MDUzZjIxZjJjNTQ4ZWVjYmI0",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -495,8 +495,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
@@ -504,25 +504,9 @@
           "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 192075,
-      "name": "Yo me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Renovado",
-        "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -543,22 +527,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "El Color De Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Renovado",
+        "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+      "duration_ms": 192075,
+      "name": "Yo me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Regalo de Dios",
         "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 178893,
       "name": "Esa Te Dej\u00f3",
       "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -995,6 +995,22 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Y la cumbia se baila as\u00ed...",
-        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Sigo Mi Camino",
-        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Yo Te Esperare",
-      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Creciendo",
         "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 235933,
       "name": "Tan Solo Amantes",
       "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Sigo Mi Camino",
+        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Yo Te Esperare",
+      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 211044,
-      "name": "Quitame Ese Hombre",
-      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+      "duration_ms": 211044,
+      "name": "Quitame Ese Hombre",
+      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1443,6 +1443,22 @@
       "duration_ms": 195893,
       "name": "Amor Pirata",
       "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1465,20 +1481,24 @@
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
     },
     {
-      "added_at": "2023-02-03 03:00:00",
+      "added_at": "2023-02-27 01:40:35",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+        "name": "Cumbia de los Dos",
+        "url": "https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi"
       },
       "artists": [
         {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Natalia Oreiro",
+          "url": "https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+      "duration_ms": 264149,
+      "name": "Cumbia de los Dos",
+      "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 187533,
       "name": "Vete de Mi Lado",
       "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2023-02-26 01:45:03",
-      "album": {
-        "name": "Cumbia de los Dos",
-        "url": "https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Natalia Oreiro",
-          "url": "https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo"
-        }
-      ],
-      "duration_ms": 264149,
-      "name": "Cumbia de los Dos",
-      "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amor y Vida",
-        "url": "https://open.spotify.com/album/74fb3iRHnLuIrCzKWSj58X"
+        "name": "Muero por Ti",
+        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
       },
       "artists": [
         {
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 243227,
-      "name": "Qu\u00e9 Me Van a Hablar de Amor",
-      "url": "https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte"
+      "duration_ms": 236840,
+      "name": "Muero por T\u00ed",
+      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
     },
     {
       "added_at": "2023-02-03 03:00:00",

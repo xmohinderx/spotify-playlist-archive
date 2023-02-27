@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 275874,
+  "num_followers": 276132,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMGY4ZmU4M2Q3YThjMTY4ZTYzYzFiZmZlNjFjZTVkNTEy",
+  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMGY2ZDgwZjk1YmNjNTY3YTA1OWE5NzMyMmYyNmIxZmVm",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ricky Sings Again (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Lonesome Town",
-      "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 199600,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Ricky Sings Again (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Lonesome Town",
+      "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Conway Twitty Sings",
         "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 145133,
       "name": "Mr. Blue",
       "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 150893,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+        "name": "It\u2019s All In The Game: The Best Of Tommy Edwards",
+        "url": "https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
         }
       ],
-      "duration_ms": 140773,
-      "name": "A Teenager's Romance",
-      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+      "duration_ms": 159040,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -655,34 +655,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "It\u2019s All In The Game: The Best Of Tommy Edwards",
-        "url": "https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
       "artists": [
         {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 159040,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
-        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
+      "duration_ms": 140773,
+      "name": "A Teenager's Romance",
+      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -699,6 +683,22 @@
       "duration_ms": 144933,
       "name": "Come Softly To Me",
       "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
+        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 164413,
       "name": "You're Gonna Miss Me",
       "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 168906,
       "name": "Don't",
       "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
     },
     {
       "added_at": "2022-05-30 12:59:00",

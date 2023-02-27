@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-299 songs - 12 hr 59 min
+300 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-04-14 |  |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2022-04-14 | 2022-05-14 |
 | [Berceuse](https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Berceuse](https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg) | 2:31 | 2022-12-22 |  |
-| [Berceuse Lunaire](https://open.spotify.com/track/0u7orD5v4Yrw6NwaWdBh5Q) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/0oe2Iw47umB4rnfgeiAhrB) | 2:53 | 2022-08-03 |  |
+| [Berceuse Lunaire](https://open.spotify.com/track/0u7orD5v4Yrw6NwaWdBh5Q) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/0oe2Iw47umB4rnfgeiAhrB) | 2:53 | 2022-08-03 | 2023-02-27 |
+| [Berceuse Lunaire](https://open.spotify.com/track/0zmrJp1U0cMtlYPmYw8nQU) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/16LXWruj5pIr0cJ9dVntNL) | 2:53 | 2023-02-21 |  |
 | [Better times](https://open.spotify.com/track/18JB1Jm8SkaeVWn9a2P8fn) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Better times](https://open.spotify.com/album/0vXDqElEDfg9rc0PfA4VDb) | 2:10 | 2023-01-20 |  |
 | [Beyond Our Walls \- Original Studio Version](https://open.spotify.com/track/0FyNIWrcV08RFgRLuoHtd5) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Beyond Our Walls \(Original Studio Version\)](https://open.spotify.com/album/19JVqi1U0tdaeV93daaEGJ) | 2:21 | 2022-08-03 |  |
 | [Bibliothèque](https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Bibliothèque](https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530) | 2:54 | 2022-05-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,032 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,258 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 60 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 |
 | 61 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 |
 | 62 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 |
-| 63 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 |
-| 64 | [Winter Bane](https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Abbath](https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q) | 6:49 |
+| 63 | [Winter Bane](https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Abbath](https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q) | 6:49 |
+| 64 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 |
 | 65 | [Fn .380 Acp\#19074](https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Where Fear and Weapons Meet](https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW) | 5:54 |
 | 66 | [Blashyrkh \- Mighty Ravendark](https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Battles in the North](https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw) | 4:34 |
 | 67 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 79 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 |
 | 80 | [Hamartia](https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia](https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS) | 6:03 |
 | 81 | [I Am Abomination](https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Hellfire](https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2) | 4:10 |
-| 82 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 |
-| 83 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 |
+| 82 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 |
+| 83 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 |
 | 84 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 |
 | 85 | [Harvest Pyre](https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Outstrider](https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ) | 4:12 |
 | 86 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 |
 | 87 | [Born from the Serpent's Eye](https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Thrice Woven](https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk) | 9:36 |
 | 88 | [Kill for Satan](https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj) | 4:54 |
-| 89 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 |
-| 90 | [Ecclesia](https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp) | [Ecclesia](https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q) | 7:44 |
-| 91 | [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 |
-| 92 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 |
+| 89 | [Ecclesia](https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp) | [Ecclesia](https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q) | 7:44 |
+| 90 | [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 |
+| 91 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 |
+| 92 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 |
 | 93 | [The Third of the Storms \(Evoked Damnation\)](https://open.spotify.com/track/3isS9hdnmyMePPrKm6qEQU) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Apocalyptic Raids](https://open.spotify.com/album/5KdSSGj5tKCQUJEKeGedKU) | 2:57 |
 | 94 | [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 |
 | 95 | [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 |
 | 96 | [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 |
 | 97 | [Emphase der Seelenpein](https://open.spotify.com/track/1QZkI3uje1XvVyDKqsuJxU) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Emphase der Seelenpein](https://open.spotify.com/album/6aSxIbblqUHH0k1wREG6HI) | 6:57 |
-| 98 | [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 |
-| 99 | [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 |
+| 98 | [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 |
+| 99 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 |
 | 100 | [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDc0ZmE5OTI5ZGE0NWEzZmU3MmI4YjgzOTJkNjU3Mjk3`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGRkN2ZlYjUzNzNkZWY2MzVhMjExOWYzMzQ3ODc3Y2Fm`

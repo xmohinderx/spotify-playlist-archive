@@ -3225,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "I Feel Like Dancing",
+        "url": "https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218701,
+      "name": "I Feel Like Dancing",
+      "url": "https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP"
+    },
+    {
+      "album": {
         "name": "I Feel Love",
         "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
       },
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 193621,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"

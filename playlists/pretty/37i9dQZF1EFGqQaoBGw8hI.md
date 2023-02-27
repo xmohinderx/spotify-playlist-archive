@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917 likes - 477 songs - 1 day 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922 likes - 477 songs - 1 day 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 188 | [Mexican Vacation \(Kids In The Candlelight\)](https://open.spotify.com/track/4deaZiYMv945qTgQVQCoK8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 3:33 |
 | 189 | [Someday Out Of The Blue \(Theme From El Dorado\) \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/1MtLyoONKfK41bQONcARsn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:47 |
 | 190 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 |
-| 191 | [Guilty Pleasure](https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:38 |
-| 192 | [Runaway Train](https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:22 |
+| 191 | [Runaway Train](https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:22 |
+| 192 | [Guilty Pleasure](https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:38 |
 | 193 | [Have Mercy On The Criminal](https://open.spotify.com/track/1PHBBJNH4WFuDBlAuVKWMA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:57 |
 | 194 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 |
 | 195 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc5NTYxODEsMDAwMDAwMDBhNjZhYTg5YzhjMDg2YTFhOThmYTk1YTc3Y2Y0ZDlhMA==`
+Snapshot ID: `Mjc5NTc2MjEsMDAwMDAwMDBlZjQ1YWMzYTkxODkyNDdhOWU5YTEwN2IzOTZlN2M5MA==`

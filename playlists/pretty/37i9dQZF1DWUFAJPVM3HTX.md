@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: MAUIMØON\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,295 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,378 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 86 | [Wrong Side](https://open.spotify.com/track/3LQOO4nWT6iadSPNrISZ6J) | [Solo Smith](https://open.spotify.com/artist/2YqNtjy3H18pNgmUhq5fcD) | [Wrong Side](https://open.spotify.com/album/1MAnyGNwL0gTmQR3kctB55) | 3:14 |
 | 87 | [Fifty Fifty](https://open.spotify.com/track/4NMpg12KxtwBh1eO1Bvbcd) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8) | [Fifty Fifty](https://open.spotify.com/album/4oM49FpswfCebXvSQxqMqb) | 4:25 |
 | 88 | [Suga](https://open.spotify.com/track/1F5g8k6TxDecoXmI9NZJ0P) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Prezz Play](https://open.spotify.com/album/18u8kTxT4UzQQ97waiW23l) | 2:40 |
-| 89 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
+| 89 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
 | 90 | [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 |
 | 91 | [Silk Sheets](https://open.spotify.com/track/5b9h3qSZj7TOm2TSRSFsXD) | [Daizha](https://open.spotify.com/artist/3Rrg3qxCFC6sXCT8yIPjn6) | [Silk Sheets](https://open.spotify.com/album/16v5yqOyihzRxqYlEJ2Td7) | 3:20 |
 | 92 | [Nostalgia](https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7) | [J\-Felix](https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4), [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [The Mint Experiment Volume 1](https://open.spotify.com/album/3xisuEQkOGPRIj5ldxkg7p) | 3:04 |

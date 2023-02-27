@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 7 hr 9 min
+123 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Not Your Boyfriend](https://open.spotify.com/track/4SjGJs9EEZlJ36jysMv5R9) | [2AM Club](https://open.spotify.com/artist/1Sjs7s2hvAakgayaa0f34j) | [Not Your Boyfriend](https://open.spotify.com/album/6AmNrR3TVYPTU3DPhEsjtU) | 3:56 | 2022-09-08 |  |
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2022-09-08 |  |
 | [Oh Love](https://open.spotify.com/track/0xsn9P9Z93H3uLRs8r1IAl) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Oh Love](https://open.spotify.com/album/1itQ8XH3mTPrDcT3QC7iLX) | 3:35 | 2022-09-08 |  |
+| [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 | 2023-02-26 |  |
 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 | 2022-09-08 |  |
 | [Poetry](https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 4:09 | 2022-09-08 |  |
 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 | 2022-10-29 |  |

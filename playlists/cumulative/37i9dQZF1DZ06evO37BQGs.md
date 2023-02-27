@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 8 min
+55 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 | 2022-11-17 | 2022-12-09 |
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-12-08 |  |
 | [Harmony](https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:34 | 2022-11-17 |  |
-| [How Soon Is Now?](https://open.spotify.com/track/7uTonF04lKwInBrzr2Bfpj) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [How Soon Is Now? the Songs of the Smiths](https://open.spotify.com/album/3p01b3ewF4WNRjE7uBXycI) | 4:16 | 2022-11-17 |  |
+| [How Soon Is Now?](https://open.spotify.com/track/7uTonF04lKwInBrzr2Bfpj) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [How Soon Is Now? the Songs of the Smiths](https://open.spotify.com/album/3p01b3ewF4WNRjE7uBXycI) | 4:16 | 2022-11-17 | 2023-02-27 |
 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 | 2022-11-17 |  |
 | [I'll Never Know](https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:03 | 2022-11-17 |  |
 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 | 2022-11-17 |  |
@@ -49,6 +49,7 @@
 | [Shine](https://open.spotify.com/track/3k0W0Lim50fBU1bmo7otBN) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 1:28 | 2023-02-20 |  |
 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 | 2022-11-17 |  |
 | [Silver](https://open.spotify.com/track/1iP5nJRIag9Kem1RuqCVXt) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:17 | 2022-11-17 |  |
+| [Slipping Away](https://open.spotify.com/track/4a6YD5loEsBYi6eBy53y9I) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 4:16 | 2023-02-26 |  |
 | [Slipping Away](https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 4:16 | 2023-01-02 | 2023-01-24 |
 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-04 |  |
 | [So So Soon](https://open.spotify.com/track/0zIpmkbHfzoo3A8lga2Rmv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/73jq7GCwgsVjkV4TJMHF35) | 3:48 | 2023-02-02 | 2023-02-05 |

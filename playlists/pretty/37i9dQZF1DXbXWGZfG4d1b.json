@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 16920,
+  "num_followers": 16932,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDc3ZDlkN2Y2ZTcxODBkZjU0YWZlZWIxMmVlZDUwZjdi",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDQ1NDk5YzIwYjNlZWFhMjU0MWQ4Y2UyYThjNmY2YTNi",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Suavemente Entusiasmado",
-        "url": "https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 236445,
-      "name": "Suavemente Entusiasmado",
-      "url": "https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "La Cuesta del Sol",
         "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 245034,
       "name": "La Cuesta del Sol",
       "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Suavemente Entusiasmado",
+        "url": "https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 236445,
+      "name": "Suavemente Entusiasmado",
+      "url": "https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Otro Vals",
-        "url": "https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Otro Vals",
-      "url": "https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Mujer Cebra",
-        "url": "https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3"
-      },
-      "artists": [
-        {
-          "name": "Mujer Cebra",
-          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
-        }
-      ],
-      "duration_ms": 166536,
-      "name": "XXYY",
-      "url": "https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Berl\u00edn",
         "url": "https://open.spotify.com/album/07iIJt6tnM1Yem3hOhdCO4"
       },
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Mujer Cebra",
+        "url": "https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "duration_ms": 166536,
+      "name": "XXYY",
+      "url": "https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Sin Condiciones",
         "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Otro Vals",
+        "url": "https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Otro Vals",
+      "url": "https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/3r7eP1HC8gR0niX2MGo2mx"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 211988,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/4HbJxi8ErGbIrdFjaKyGEi"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Me Siento Que No",
         "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/3r7eP1HC8gR0niX2MGo2mx"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 211988,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/4HbJxi8ErGbIrdFjaKyGEi"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Lucy Patan\u00e9",
         "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Frutillas con Crema",
         "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 207014,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Somos 2",
+        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 152264,
+      "name": "Somos 2",
+      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Bronce",
         "url": "https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Somos 2",
-        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 152264,
-      "name": "Somos 2",
-      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 274414,
       "name": "Desvelo",
       "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 203892,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1531,38 +1515,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Fuego Artificial",
-        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "Fin de A\u00f1o",
-      "url": "https://open.spotify.com/track/0HzbErlnjg2RlYi7Nr9NEU"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "ORDEN Y PROGRESO",
         "url": "https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx"
       },
@@ -1579,6 +1531,54 @@
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 203892,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Fuego Artificial",
+        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "Fin de A\u00f1o",
+      "url": "https://open.spotify.com/track/0HzbErlnjg2RlYi7Nr9NEU"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
-      },
-      "artists": [
-        {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "El Ataque Suave",
         "url": "https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI"
       },
@@ -1663,6 +1647,38 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Sigo Dando Amor",
+        "url": "https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 281750,
+      "name": "Sigo Dando Amor",
+      "url": "https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 182937,
       "name": "El Podio del TC",
       "url": "https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Recopilatorio",
-        "url": "https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy"
-      },
-      "artists": [
-        {
-          "name": "Martina Lluvias",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W"
     }
   ],
   "unique_name": "6PM Indie",

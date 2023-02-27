@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Caylee Hammack
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,124 likes - 150 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,193 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 25 | [Petty](https://open.spotify.com/track/7qQy2zQ0DfkNB5Dmw7VFF4) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Petty](https://open.spotify.com/album/5czCthjz5U1KKLJiFa95yE) | 3:07 |
 | 26 | [Goin' Crazy](https://open.spotify.com/track/3DJ3Nnpd6j5TKW8SWu1zFw) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Goin' Crazy + Holding Me Back](https://open.spotify.com/album/4tezcS8w7Cr9sVhbgDNqXy) | 3:17 |
 | 27 | [Country As Shit \(feat\. Jelly Roll\)](https://open.spotify.com/track/3V7wF51Xwe64NIxrUgyiuw) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Country As Shit \(feat\. Jelly Roll\)](https://open.spotify.com/album/6l09ei7wbqscQclmkCbw9S) | 3:21 |
-| 28 | [Settle Up](https://open.spotify.com/track/5lkdtsMTVc0pRZOVl3PhFg) | [Spencer Burns](https://open.spotify.com/artist/4NmjSQ0m4Z3vtiz08n2o08) | [Settle Up](https://open.spotify.com/album/4DGjQyPDldI0CeRCadyxvd) | 2:47 |
+| 28 | [Settle Up](https://open.spotify.com/track/5lkdtsMTVc0pRZOVl3PhFg) | [Spencer Burns](https://open.spotify.com/artist/7wgrl0tqd33delbiGKendC) | [Settle Up](https://open.spotify.com/album/4DGjQyPDldI0CeRCadyxvd) | 2:47 |
 | 29 | [Over a Girl](https://open.spotify.com/track/2f9t0AgnGsYwFguFLsyv19) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Over a Girl](https://open.spotify.com/album/5DjVp2LUzfz8iBY3K4tgbp) | 2:53 |
 | 30 | [Make Her Me](https://open.spotify.com/track/7vWkoaFmFPw0wDC45AMkUB) | [Hunter Rae](https://open.spotify.com/artist/5O0EXl0DwXZHRbzeJVFh6y) | [Make Her Me](https://open.spotify.com/album/4DeMZ9d3OpDnTFph8MjPHU) | 3:27 |
 | 31 | [The Way I Am](https://open.spotify.com/track/02k3qzcqJqQ5NsH31o9Ka8) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [The Way I Am](https://open.spotify.com/album/5K96zK66k5jQ4lWRDuSfpa) | 2:54 |

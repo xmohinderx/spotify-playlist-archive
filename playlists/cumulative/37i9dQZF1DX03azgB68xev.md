@@ -4,13 +4,13 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-331 songs - 18 hr 32 min
+332 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10K](https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [10K](https://open.spotify.com/album/5rwY84Tz6gnlCAdz1fdVwr) | 3:16 | 2021-10-31 | 2023-01-14 |
 | [9th Grade](https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:51 | 2021-10-31 | 2022-06-25 |
-| [Adoration](https://open.spotify.com/track/4JEZLVhxcUs3LDJlShOVKc) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Adoration](https://open.spotify.com/album/66aPP7iMWgeSRJ6mx0hKYI) | 1:53 | 2023-01-13 |  |
+| [Adoration](https://open.spotify.com/track/4JEZLVhxcUs3LDJlShOVKc) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Adoration](https://open.spotify.com/album/66aPP7iMWgeSRJ6mx0hKYI) | 1:53 | 2023-01-13 | 2023-02-27 |
 | [After My Heart](https://open.spotify.com/track/0IV6tVX1MvMtDmO9i1FUlz) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [After My Heart](https://open.spotify.com/album/46KGjNha6We99FCDDt0mpc) | 3:30 | 2021-10-31 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/14GwOACdb5fWsPPcbY9Ysh) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Alive](https://open.spotify.com/album/1dINtDPDZj38vFroPmyYSV) | 2:40 | 2021-10-31 | 2022-07-28 |
 | [Alive](https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:19 | 2023-01-13 |  |
@@ -207,6 +207,7 @@
 | [Missing Piece](https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Missing Piece](https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0) | 3:13 | 2023-01-13 |  |
 | [Monument](https://open.spotify.com/track/0kJZE2FNjgout3feExuMOP) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Monument](https://open.spotify.com/album/1z5zOlIBEP8fTGlOIdaecM) | 3:46 | 2021-10-31 | 2022-07-22 |
 | [Moon \- Saint James Remix](https://open.spotify.com/track/2jR1tJBeyNDwau1JhPHNB6) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Moon \(Saint James Remix\)](https://open.spotify.com/album/5u1PbpYb3Nifhj29Z9Bozk) | 3:45 | 2021-10-31 | 2022-06-03 |
+| [More Than Halfway](https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [More Than Halfway](https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n) | 3:41 | 2023-01-13 |  |
 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 | 2023-01-13 |  |
 | [Move Of God \- Remix](https://open.spotify.com/track/1XeKLH3LYoIPTZKvlv6tuW) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Youth Group Foyer Vibes, Vol\. 2](https://open.spotify.com/album/3hlDpwP0pfH2qSEoueVi21) | 2:30 | 2023-01-13 | 2023-02-10 |
 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 | 2021-10-31 | 2023-01-14 |

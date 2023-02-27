@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 358 likes - 207 songs - 12 hr 26 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 358 likes - 208 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,5 +215,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 205 | [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 |
 | 206 | [Nose to the Grindstone \(Skeler Remix\)](https://open.spotify.com/track/5AnatZYN8dVeZnLYiEK5Ei) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Nose to the Grindstone \(Skeler Remix\)](https://open.spotify.com/album/3bRK3Lre4FftIREJwicAUO) | 3:19 |
 | 207 | [Contracts](https://open.spotify.com/track/5cJbTzX6S4t1Zw49qBVLGd) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Contracts](https://open.spotify.com/album/08hratSaDsTw0vv1Cci0Di) | 3:24 |
+| 208 | [ETERNAL PAIN](https://open.spotify.com/track/3peSjzHxueZ5Us5IoNFQmL) | [TRPLSFL](https://open.spotify.com/artist/2TVP0556fwFwUW0TjHCww2) | [ETERNAL PAIN](https://open.spotify.com/album/1p8hIh8lVbRtbgnNQVprJ4) | 3:58 |
 
-Snapshot ID: `MjIzLGQ5NTE4ZGNlMGM3MjgwZWZmMDA1Yzg3ZjZjNzE0ZDlkOTY1ZTBiN2M=`
+Snapshot ID: `MjI0LDViYjU5ZjhkYTk5NGQwNGJlMWZlNjg3OWUwODRlNmNlOWMwY2MyYzU=`

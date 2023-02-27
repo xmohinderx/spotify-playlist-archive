@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 28185,
+  "num_followers": 28231,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGIyNzk5MWJiOWJmMzdhZDI1MTQzMWQ4NDVlZDk4YWI4",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMDVlNGRkZTcwMWMzYTdjZTk2ZjJkOTkwYTQ0ZTdiMWM0",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -141,38 +141,6 @@
       "url": "https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Canciones y Mujeres de Cabaret",
-        "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
-      },
-      "artists": [
-        {
-          "name": "La Santanera",
-          "url": "https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Fue en un Cabaret",
-      "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
-    },
-    {
-      "added_at": "2022-09-30 03:45:40",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Ag\u00fcita de Manantial",
-      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "La Cantina",
@@ -195,6 +163,38 @@
       "duration_ms": 250466,
       "name": "La Cumbia Del Mole",
       "url": "https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV"
+    },
+    {
+      "added_at": "2022-09-30 03:45:40",
+      "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Canciones y Mujeres de Cabaret",
+        "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
+      },
+      "artists": [
+        {
+          "name": "La Santanera",
+          "url": "https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Fue en un Cabaret",
+      "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -277,30 +277,6 @@
       "url": "https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Ra\u00edz",
-        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Cumbia del Mole",
-      "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
-    },
-    {
       "added_at": "2022-08-03 01:15:37",
       "album": {
         "name": "15 \u00c9xitos",
@@ -331,6 +307,30 @@
       "duration_ms": 166093,
       "name": "Por Las Calles De M\u00e9xico",
       "url": "https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Ra\u00edz",
+        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Cumbia del Mole",
+      "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "Cempas\u00fachil",
-      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Afro",
@@ -563,6 +547,22 @@
       "duration_ms": 261426,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "Cempas\u00fachil",
+      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
     },
     {
-      "added_at": "2022-04-19 19:22:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Duelo Tropical Exitos de Oro, Vol. 1",
@@ -807,6 +791,22 @@
       "duration_ms": 198608,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
+    },
+    {
+      "added_at": "2022-04-19 19:22:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
-      },
-      "artists": [
-        {
-          "name": "Los Super Seven",
-          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Me Voy Pa'l Pueblo",
-      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "No Tiene Fin",
         "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
       },
@@ -941,20 +925,20 @@
       "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
       },
       "artists": [
         {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+          "name": "Los Super Seven",
+          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
         }
       ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+      "duration_ms": 324333,
+      "name": "Me Voy Pa'l Pueblo",
+      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -971,6 +955,22 @@
       "duration_ms": 160679,
       "name": "Oracion caribe",
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "The Roots of Chicha 2",
+        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+      },
+      "artists": [
+        {
+          "name": "Manzanita",
+          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Paga la Cuenta Sinverguenza",
+      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
         "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 158467,
       "name": "Maria Cristina - Remastered",
       "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "The Roots of Chicha 2",
-        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
-      },
-      "artists": [
-        {
-          "name": "Manzanita",
-          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Paga la Cuenta Sinverguenza",
-      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1505,6 +1505,26 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "The Power of the Latin Music",
+        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Quantic and His Combo Barbaro",
+          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Mambo Los Quantic",
+      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Dedicated To Nelson",
@@ -1535,26 +1555,6 @@
       "duration_ms": 239213,
       "name": "La Xochipitzahuatl",
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "The Power of the Latin Music",
-        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Mambo Los Quantic",
-      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
     },
     {
       "added_at": "2022-01-11 03:10:29",

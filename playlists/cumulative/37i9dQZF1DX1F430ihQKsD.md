@@ -4,14 +4,15 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Robert Robert
 
-274 songs - 15 hr 54 min
+275 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:58 | 2022-06-10 | 2022-09-24 |
+| [5AM](https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:26 | 2023-02-26 |  |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 |  |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 | 2022-11-26 |
-| [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 |  |
+| [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-02-27 |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 |  |
 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 |  |

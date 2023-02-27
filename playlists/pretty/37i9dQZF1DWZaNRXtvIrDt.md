@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Surusinghe
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,453 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,457 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 13 | [Need U](https://open.spotify.com/track/6OAlog0TfLYgmT1LVXPOQU) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Need U](https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT) | 3:22 |
 | 14 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 15 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 |
-| 16 | [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5Knw9biZRSrQBxigmydZD8) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/2ZJEAO6ymyjw2OkC33N8jQ) | 3:46 |
+| 16 | [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5mPSGfCAWxYYgbRf9ePCrh) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/4TKFUJgDQmeMoLguoUpOyW) | 3:46 |
 | 17 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 18 | [Don't Hurt Me](https://open.spotify.com/track/1UptW89gc2ATGaWegfuSQV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Don't Hurt Me](https://open.spotify.com/album/5C9wrneIR28xvm1TpUQjJg) | 3:31 |
 | 19 | [Beyond Control](https://open.spotify.com/track/6WhTKGrJaMbTbEtQvU5yKR) | [Fantastic Man](https://open.spotify.com/artist/2eiwJhqnolYJf3iUMLFDpy) | [Beyond Control](https://open.spotify.com/album/5dAhZLZ3qgaPQGpxwJCSDw) | 6:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Takes Me To You](https://open.spotify.com/track/7z5fqVuCMLTqQyI3R6jmOW) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Takes Me To You](https://open.spotify.com/album/1LSqyxsEsVsJcx7wvt9b1x) | 5:04 |
 | 70 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
 
-Snapshot ID: `MTY3NzE1NzIwMCwwMDAwMDAwMDQxNDZiYTdmOGQxYzJkYjkwNmI2MmQyNTM5ZjQ2M2I1`
+Snapshot ID: `MTY3NzE1NzIwMCwwMDAwMDAwMDNjZWY1OGY3ZjE0Mzg3ZDZmNWE2OTc4ZjczZjY3MmI2`

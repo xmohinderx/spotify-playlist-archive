@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 33916,
+  "num_followers": 33970,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDYwMDNmMzhkZmY5ZDQ0NzVkYzczOTA2YzU2YmM1MjZm",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGU0NDZhNmFkNWQ4MzY4Zjk3MTkyZjc5NzMyMTVjYmJk",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -311,18 +311,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+        "name": "Click Click Domino",
+        "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
       },
       "artists": [
         {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+      "duration_ms": 203099,
+      "name": "Click Click Domino (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -343,22 +347,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Click Click Domino",
-        "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
       "artists": [
         {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 203099,
-      "name": "Click Click Domino (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge"
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Love Your Lies",
-      "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Chocolate Samurai",
         "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Love Your Lies",
+      "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Difference Between Me & You",
-        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Nothing but a Clich\u00e9",
-      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Tell Me No Lies",
         "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 147423,
       "name": "Don't Tell Me No Lies",
       "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Difference Between Me & You",
+        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Nothing but a Clich\u00e9",
+      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 225551,
       "name": "Searching for Captain Save a Hoe",
       "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     }
   ],
   "unique_name": "Alt-Blue",

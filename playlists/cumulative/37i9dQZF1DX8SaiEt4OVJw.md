@@ -4,7 +4,7 @@
 
 > Sénégal Rek!🇸🇳🇸🇳🇸🇳
 
-136 songs - 8 hr 19 min
+138 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 | 2022-03-27 | 2022-11-30 |
 | [Foula ak Fayda](https://open.spotify.com/track/6KIfRbNRc0baU1NqVi4HBU) | [Élage Diouf](https://open.spotify.com/artist/1IjC1jUjeLi2VXaxGT1B76) | [Melokáane](https://open.spotify.com/album/2m1EoiPNmUnMmSXkPenClq) | 3:27 | 2022-11-29 |  |
 | [FYN](https://open.spotify.com/track/2zqpSA52RITFoB8vBBeO7R) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/58ouLJHD5f2OpV3Katlqez) | 3:27 | 2022-03-27 | 2022-11-30 |
-| [Gainde](https://open.spotify.com/track/2euLlfO4KZLyvsRLH34LhL) | [Ashs The Best](https://open.spotify.com/artist/0VLSACiskWZ7DUL0TJHXFx) | [Gainde](https://open.spotify.com/album/3Wgqsgxx24W31niRD7bxR1) | 2:05 | 2022-11-29 |  |
+| [Gainde](https://open.spotify.com/track/2euLlfO4KZLyvsRLH34LhL) | [Ashs The Best](https://open.spotify.com/artist/0VLSACiskWZ7DUL0TJHXFx) | [Gainde](https://open.spotify.com/album/3Wgqsgxx24W31niRD7bxR1) | 2:05 | 2022-11-29 | 2023-02-27 |
+| [Gainde](https://open.spotify.com/track/7w0wQm955TXVUMtD3bvkfx) | [Ashs The Best](https://open.spotify.com/artist/0VLSACiskWZ7DUL0TJHXFx) | [Gainde](https://open.spotify.com/album/4t0d1GpzuSLDJ5k5FtQPUJ) | 2:05 | 2022-11-29 |  |
 | [Gainde](https://open.spotify.com/track/5y2vQ3iWQVcurvrOdG1IRh) | [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N), [Le Super Diamono](https://open.spotify.com/artist/1STm0AYsnhrGFgWxGBi1m2) | [Omar Péné, 30 ans déjà \(Live\)](https://open.spotify.com/album/2Tb6pLYWYTZDmDLWRpdmgG) | 6:00 | 2022-11-29 |  |
 | [Gainde](https://open.spotify.com/track/4Gkr2OG8qyoHoo5eS68lcD) | [Sabel Dieng](https://open.spotify.com/artist/3dJ25CMDAFc0YrlJTLDTKT) | [Gainde](https://open.spotify.com/album/2kt8s8pn5p16mNziF4WMML) | 4:20 | 2022-11-29 |  |
 | [Gainde](https://open.spotify.com/track/1R3MhIdYyobFnQOHPdxyel) | [Yandé Codou Sène](https://open.spotify.com/artist/73Z0aeh16t1h0S5jRDizuJ), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Gainde \- Voices From the Heart of Africa](https://open.spotify.com/album/427okyQRjN9MOrRhsobZbD) | 3:54 | 2022-11-29 |  |
@@ -123,7 +124,8 @@
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-11-28 | 2022-11-30 |
 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 | 2022-11-28 | 2022-11-30 |
 | [Sunu Society \- vocal](https://open.spotify.com/track/2lDIc2OaqXQhiFODTFO2am) | [Positive Black Soul](https://open.spotify.com/artist/3ESsXVMhBm2vfZaWmMdHAi), [Gary "The Mon" Noble](https://open.spotify.com/artist/3X8ZKF763nMipHVDC2BzHP) | [Run Cool](https://open.spotify.com/album/4V0PdiIq8Pc7VKfl0fEmqq) | 1:07 | 2022-11-29 |  |
-| [Sunu société, sunu Sénégal](https://open.spotify.com/track/2OLPTc5pavMiiOtisGiTRh) | [Lamine Mbengue](https://open.spotify.com/artist/72ONjqs8WZu8xYikqWg6Dn) | [Chansons et comptines du Sénégal \(En Wolof\)](https://open.spotify.com/album/1mNUNyEsP9Nj4Ee6CtZ7Ga) | 2:39 | 2022-11-29 |  |
+| [Sunu société, sunu Sénégal](https://open.spotify.com/track/2OLPTc5pavMiiOtisGiTRh) | [Lamine Mbengue](https://open.spotify.com/artist/72ONjqs8WZu8xYikqWg6Dn) | [Chansons et comptines du Sénégal \(En Wolof\)](https://open.spotify.com/album/1mNUNyEsP9Nj4Ee6CtZ7Ga) | 2:39 | 2022-11-29 | 2023-02-27 |
+| [Sunu société, sunu Sénégal](https://open.spotify.com/track/4AhGlo8MwEKf6Hp5ev3Wow) | [Lamine Mbengue](https://open.spotify.com/artist/72ONjqs8WZu8xYikqWg6Dn) | [Chansons et comptines du Sénégal \(En Wolof\)](https://open.spotify.com/album/6vfhWbh8NhTp86TnBEgfrN) | 2:39 | 2022-11-29 |  |
 | [Supporter](https://open.spotify.com/track/4K9HeuRUx1U1MpmE5a2dGP) | [Super Diamono](https://open.spotify.com/artist/7AMycMqOYq99M65svYeKLr), [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N) | [Fari](https://open.spotify.com/album/3wcc9f7uvfpDuuF8zkq9OR) | 4:21 | 2022-11-29 |  |
 | [Sénégal](https://open.spotify.com/track/0nfzcEx8zmGT9kUAKok6yf) | [Pape Diouf](https://open.spotify.com/artist/54SeJkg1IKFUMgXde8cgaj) | [Ràkkaaju](https://open.spotify.com/album/4FTZdFwrV3O0HK5B6qDnm5) | 6:42 | 2022-11-29 |  |
 | [Telemo](https://open.spotify.com/track/4xpxDfHUzG8EIxKLYvlS2n) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3), [Capasta](https://open.spotify.com/artist/0H8TqgST0J8syd64HA4itY) | [Telemo \(feat\. Capasta\)](https://open.spotify.com/album/5dXM6xMvgQr7NcUIkml7p0) | 4:14 | 2022-11-28 | 2022-11-30 |

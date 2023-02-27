@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "POR EMPEZAR",
+        "url": "https://open.spotify.com/album/5InAJ1YTxx2sxxmDtxFGsU"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bun",
+          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "HERMANITA",
+      "url": "https://open.spotify.com/track/2TT4dPryN7Ztazy4eGLNjc"
+    },
+    {
+      "album": {
         "name": "Hermanita",
         "url": "https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 208032,
       "name": "Hermanita",
       "url": "https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6"

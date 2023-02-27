@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 172264,
       "name": "Als Ik God Was",
       "url": "https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
@@ -14876,7 +14876,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 205636,
       "name": "Rovers",
       "url": "https://open.spotify.com/track/51lsijGggecx26FK6yLKkR"
@@ -17074,7 +17074,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 163833,
       "name": "Terugweg",
       "url": "https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs"
@@ -17552,6 +17552,24 @@
       "duration_ms": 140322,
       "name": "Trompetisto",
       "url": "https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm"
+    },
+    {
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
     },
     {
       "album": {

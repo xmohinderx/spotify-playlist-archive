@@ -4,7 +4,7 @@
 
 > The best side! Cover: Mount Westmore
 
-114 songs - 8 hr 27 min
+115 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Keep Their Heads Ringin'](https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Keep Their Heads Ringin'](https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP) | 5:10 | 2020-05-04 | 2022-07-29 |
 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 | 2022-02-11 |  |
 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 | 2021-08-27 |  |
-| [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 | 2022-02-11 |  |
+| [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 | 2022-02-11 | 2023-02-27 |
 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 | 2022-12-09 |  |
 | [Let Me Ride](https://open.spotify.com/track/1pjDKRg5WddCDSlG5PXcKy) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 4:21 | 2020-05-04 | 2022-07-29 |
 | [Let's Play House](https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Dogg Food](https://open.spotify.com/album/37VmP0VgIeJWHMurcTMeJL) | 3:24 | 2021-08-27 | 2022-07-27 |
@@ -104,6 +104,7 @@
 | [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:18 | 2020-05-04 | 2022-02-10 |
 | [Straight Up Menace](https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [The Best of MC Eiht](https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB) | 4:34 | 2020-05-04 | 2023-02-22 |
 | [Strap On The Side](https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6) | [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [Amerikkka's Nightmare](https://open.spotify.com/album/7zOLP3fNyHcY3kKlhGhl9o) | 4:47 | 2021-08-27 | 2022-08-19 |
+| [Streiht Up Menace](https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [When We Wuz Bangin](https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w) | 4:34 | 2022-12-09 |  |
 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 | 2020-05-04 |  |
 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 | 2021-08-27 |  |
 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 | 2022-02-11 |  |

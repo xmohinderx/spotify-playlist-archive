@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 101082,
+  "num_followers": 101355,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE4NDg1OSwwMDAwMDAwMGE4ODk0NGE5NmFhZDc4N2Q5NWYyOWEzYzUyYjgwMjIw",
+  "snapshot_id": "MTY3NzE4NDg1OSwwMDAwMDAwMGYzMGZhYTYyN2FhZDhhYzI1ZmI4ZjcwYTljYjIxMWMy",
   "tracks": [
     {
       "added_at": "2023-02-23 20:40:59",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-23 20:40:59",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 267450,
-      "name": "Get to You Again",
-      "url": "https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir"
-    },
-    {
-      "added_at": "2023-02-23 20:40:59",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -767,22 +751,18 @@
     {
       "added_at": "2023-02-23 20:40:59",
       "album": {
-        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
         }
       ],
-      "duration_ms": 238965,
-      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+      "duration_ms": 267450,
+      "name": "Get to You Again",
+      "url": "https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir"
     },
     {
       "added_at": "2023-02-23 20:40:59",
@@ -799,6 +779,26 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-02-23 20:40:59",
+      "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
     },
     {
       "added_at": "2023-02-23 20:40:59",

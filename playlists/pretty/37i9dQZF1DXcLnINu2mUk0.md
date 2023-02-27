@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,675 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,710 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 34 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 35 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 36 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
-| 37 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 |
-| 38 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
+| 37 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
+| 38 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 |
 | 39 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 40 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 41 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
 | 60 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDc3MTM1NGQzNDRlZWVlOGFkZTE4YjE4YWZmMTY1ZGQw`
+Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMDdmYjFhNTdiZmMwNWY3Mzc3ODNjMjc0NDA2OTBlMzA0`

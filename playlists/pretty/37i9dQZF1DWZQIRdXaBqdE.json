@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 339543,
+  "num_followers": 339770,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDA4ZDFiM2E5YTIzZTk3NzAzNmJlN2FmNTI1YzViZDM4",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDYwMTBmYTBjMmFlZTJlOWRlMmI3MTA5YzBkMmUyMjIz",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Okie From Muskogee",
         "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 230993,
       "name": "I Think I ll Just Stay Here And Drink - Re-Recorded",
       "url": "https://open.spotify.com/track/6DmyknyzXRbIKZe3ySDA6Y"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "He Stopped Loving Her Today",
-      "url": "https://open.spotify.com/track/6qMgx8ys4MNNxypaIvbG0i"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "The Very Best Of David Frizzell & Shelly West",
         "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/6qMgx8ys4MNNxypaIvbG0i"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Chiseled In Stone",
         "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Kitty Wells\u2019 Country Hit Parade",
-        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
-      },
-      "artists": [
-        {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
-        }
-      ],
-      "duration_ms": 152866,
-      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
-      "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 174520,
       "name": "Talking In Your Sleep",
       "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Kitty Wells\u2019 Country Hit Parade",
+        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
+      "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
-      },
-      "artists": [
-        {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 186866,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+      },
+      "artists": [
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
     },
     {
       "added_at": "2022-05-06 19:37:58",

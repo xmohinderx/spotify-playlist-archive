@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the women of the world at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,337 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,296 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 |
 | 12 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 |
 | 13 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
-| 14 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 |
-| 15 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 |
+| 14 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 |
+| 15 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 |
 | 16 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 |
 | 17 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 |
 | 18 | [ça m'ennuie pas](https://open.spotify.com/track/7siHCotFdZC5xbITODUm2U) | [Chérine](https://open.spotify.com/artist/3O9jaKAXthR1nO4CTCAzRM) | [ça m'ennuie pas](https://open.spotify.com/album/78CAyyGUofZpcsX7daKIrc) | 3:01 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 |
 | 42 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 |
 | 43 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
-| 44 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 |
-| 45 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
+| 44 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
+| 45 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 |
 | 46 | [Wytrzymam](https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Wytrzymam](https://open.spotify.com/album/2NKBpcoWvoqam8c3JlBUYf) | 4:03 |
 | 47 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 |
 | 48 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 55 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O quarto \(fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 |
 | 56 | [Kiazaki](https://open.spotify.com/track/5OdS5djlUSr1onn5dUgX3z) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS) | [Kiazaki](https://open.spotify.com/album/426YtAuT6tUO7MXo9xLjA2) | 3:46 |
 | 57 | [Aside](https://open.spotify.com/track/5Fe9Bj6scJb9GDXbpyCb7q) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Aside](https://open.spotify.com/album/3riw3aRUSoj595rdQ7E4wP) | 4:49 |
-| 58 | [The One \(I Haven't Met\)](https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [The One \(I Haven't Met\)](https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1) | 3:07 |
-| 59 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
+| 58 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
+| 59 | [The One \(I Haven't Met\)](https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [The One \(I Haven't Met\)](https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1) | 3:07 |
 | 60 | [他来时的脚步](https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [嘟声后请留恋](https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2) | 3:03 |
 | 61 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 |
 | 62 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 72 | [Laal Ishq](https://open.spotify.com/track/538KG2KvN1nMhMdXAJa49N) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Laal Ishq](https://open.spotify.com/album/3DwG13lfiH3IL5DWgmyQuR) | 1:53 |
 | 73 | [la jaula](https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [la jaula](https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf) | 3:02 |
 
-Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMGI3ZTg4Y2Y4MTFiM2QxZWQ3MzEwNThhZjgzYTJkYWVl`
+Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMGNiOTU2ODc1ZWI5MTJhMTlkMjBmOGM3YTI1MzJiNTMy`

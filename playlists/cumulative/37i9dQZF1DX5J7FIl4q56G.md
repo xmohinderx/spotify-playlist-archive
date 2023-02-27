@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Archetypes Collide
 
-2,779 songs - 7 day 20 hr 16 min
+2,780 songs - 7 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1403,7 +1403,8 @@
 | [Knee Deep](https://open.spotify.com/track/08WzAPtFjBJ3P6Eco1JjuO) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Knee Deep](https://open.spotify.com/album/7z4YvX66QkqRJXTqhSt9EM) | 4:38 | 2023-01-27 | 2023-02-04 |
 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-02-24 |  |
 | [Knife Slice, Axe Chop](https://open.spotify.com/track/10M2JqXYA6yceZZqjAJjB1) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Knife Slice, Axe Chop](https://open.spotify.com/album/5qSoEyhIRhBrqNwJTL4xo1) | 2:49 | 2022-09-23 | 2022-10-01 |
-| [Koaitra](https://open.spotify.com/track/1piJMtAVSSv0nZoeck86lo) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/5joOB6mLIIeNmSsMsUctnn) | 2:51 | 2023-02-24 |  |
+| [Koaitra](https://open.spotify.com/track/1piJMtAVSSv0nZoeck86lo) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/5joOB6mLIIeNmSsMsUctnn) | 2:51 | 2023-02-24 | 2023-02-27 |
+| [Koaitra](https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/28QBnbAKQQnvYjE1leuV6n) | 2:51 | 2023-02-24 |  |
 | [Krystallomantia](https://open.spotify.com/track/3jn6gkULqr92E0UJ3HJC92) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Krystallomantia](https://open.spotify.com/album/4IueXNAKFBqxEbj1Ps8YDv) | 4:39 | 2022-08-26 | 2022-09-03 |
 | [Kuolettavia Vammoja](https://open.spotify.com/track/7A6WhsCwPa9qb87Q7iXNa6) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Kuolettavia Vammoja](https://open.spotify.com/album/0Z4cST3ywuPwb4dBL4mQBJ) | 3:25 | 2022-12-09 | 2022-12-17 |
 | [La Danza del Diablo \(feat\. Barilari\)](https://open.spotify.com/track/47zgqG0hEFP5JpMokdHSbC) | [Zenobia](https://open.spotify.com/artist/4O7u6U3eHpMq6YeOWsmutH), [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [La Danza del Diablo \(feat\. Barilari\)](https://open.spotify.com/album/36MZQ4IBlA0BIiyQBBRGBd) | 3:59 | 2022-03-18 | 2022-03-25 |

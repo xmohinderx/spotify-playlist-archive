@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 29799,
+  "num_followers": 29805,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGU2NzU0NjIxZDI0YTFiODNmYzA3YjFlOTYwNzlmYTcw",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDc1YTBlOWNkNDVhZDgwMzUwNWM1YzMwNDE1NTE4OTE2",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+      },
+      "artists": [
+        {
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "ROM\u00c1N",
         "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 291561,
       "name": "Bill's Groove",
       "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
-      },
-      "artists": [
-        {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Piano Tuerto",
         "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
       },
@@ -763,26 +779,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
-      },
-      "artists": [
-        {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
-        }
-      ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Piazzolla Plays Piazzolla",
         "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
       },
@@ -795,50 +791,6 @@
       "duration_ms": 382989,
       "name": "Lunfardo",
       "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Pettinato Plays Garc\u00eda",
-        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pettinato",
-          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
-        },
-        {
-          "name": "Andr\u00e9s Marino",
-          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
-        },
-        {
-          "name": "Hern\u00e1n Cassibba",
-          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
-        },
-        {
-          "name": "Omar Menendez",
-          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
-        }
-      ],
-      "duration_ms": 339612,
-      "name": "Veinte Trajes Verdes",
-      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -871,6 +823,54 @@
       "duration_ms": 374748,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
+      },
+      "artists": [
+        {
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
+        }
+      ],
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Pettinato Plays Garc\u00eda",
+        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
+      },
+      "artists": [
+        {
+          "name": "Roberto Pettinato",
+          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
+        },
+        {
+          "name": "Andr\u00e9s Marino",
+          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
+        },
+        {
+          "name": "Hern\u00e1n Cassibba",
+          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
+        },
+        {
+          "name": "Omar Menendez",
+          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
+        }
+      ],
+      "duration_ms": 339612,
+      "name": "Veinte Trajes Verdes",
+      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Mensajes Secretos",
         "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 524134,
       "name": "Wave",
       "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 319386,
+      "name": "Superestrella",
+      "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 216099,
       "name": "El Reino del Rev\u00e9s",
       "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 319386,
-      "name": "Superestrella",
-      "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "El Ombligo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Amstein",
-          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
-        },
-        {
-          "name": "Gabriel Domenicucci",
-          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
-        }
-      ],
-      "duration_ms": 324506,
-      "name": "Pretos",
-      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 192000,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "El Ombligo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Amstein",
+          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
+        },
+        {
+          "name": "Gabriel Domenicucci",
+          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
+        }
+      ],
+      "duration_ms": 324506,
+      "name": "Pretos",
+      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Grabaciones In\u00e9ditas Vol. 1",
         "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 254120,
       "name": "In a Middle Tone",
       "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
+      },
+      "artists": [
+        {
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Infinite Universe",
         "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "All the Things You Are",
         "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
       "artists": [
         {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
         }
       ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     }
   ],
   "unique_name": "Jazz Argentino",

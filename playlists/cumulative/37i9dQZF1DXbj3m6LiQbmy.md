@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-250 songs - 15 hr 9 min
+251 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 | 2022-04-01 | 2023-01-25 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-06-12 | 2022-06-27 |
 | [Don't Hold Back](https://open.spotify.com/track/5bFYFeG8PWkUr4z3561aAH) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Don't Hold Back](https://open.spotify.com/album/4GMHdkSjnkKrj5BqfhCG9x) | 3:43 | 2021-11-19 | 2022-07-29 |
-| [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 | 2022-05-19 |  |
+| [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 | 2022-05-19 | 2023-02-27 |
 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 | 2021-11-19 |  |
 | [Ecco la Notte](https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Ecco la Notte](https://open.spotify.com/album/3KvGybqvwIKaGSSUGefaZ0) | 5:44 | 2021-11-19 |  |
 | [Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:17 | 2022-06-12 | 2022-06-27 |
@@ -126,6 +126,7 @@
 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 | 2021-11-19 |  |
 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 | 2022-06-26 |  |
 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 | 2021-11-19 | 2023-02-25 |
+| [lasciami andare!](https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/261yOLUxpmPNulXOMWg1Ky) | 3:15 | 2023-02-23 |  |
 | [Le Luci](https://open.spotify.com/track/3ThHeglogd70AKdhIk65Nq) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7) | [Le Luci](https://open.spotify.com/album/3VBoAvvF9RvsTwUysFKSGg) | 2:56 | 2023-01-25 |  |
 | [Lia X](https://open.spotify.com/track/2KVYLfT8ZUPF4mbNiksvVA) | [Ali + The Stolen Boy](https://open.spotify.com/artist/7fmGhiBoXd9KVhqtFc4yTo) | [Garçon Raté](https://open.spotify.com/album/1Gw7mB4b454HqnKePBCuKN) | 3:54 | 2022-07-04 | 2022-07-16 |
 | [Lick Down](https://open.spotify.com/track/1oGoUrWkVQRGEDTUi89ml1) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [Lick Down](https://open.spotify.com/album/75rbIzYrEKOOvpKmVRA8gR) | 3:25 | 2021-11-19 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo\-Vrpgsw"> Lindsey Abudei</a>
 
-80 songs - 4 hr 59 min
+82 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 |  |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 |  |
 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 | 2022-12-08 |  |
-| [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 |  |
+| [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 | 2023-02-27 |
+| [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-01-27 |  |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 |  |
 | [Luendu](https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Mopero Mupemba](https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs) | [Archeology](https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3) | 3:08 | 2022-10-21 | 2022-11-04 |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 | 2022-12-09 |
@@ -81,7 +82,8 @@
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 |  |
 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 | 2020-12-17 |  |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 |  |
-| [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 |  |
+| [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2023-02-27 |
+| [Waxtu](https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/6yxgpB7XI5e72889GB0G9i) | 3:27 | 2023-01-27 |  |
 | [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-25 | 2022-12-02 |
 | [What You Want](https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [What You Want](https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki) | 2:56 | 2020-09-10 | 2023-02-17 |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 | 2022-11-04 |

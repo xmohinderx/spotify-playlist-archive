@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-861 songs - 1 day 13 hr 36 min
+862 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Approaching Storm](https://open.spotify.com/track/6Dbj0uORBKm2QhSvFtUe0B) | [Mia Strass](https://open.spotify.com/artist/2KhAW1n5DKiVmDcS2s0dIG) | [Horizon](https://open.spotify.com/album/4ueTAW6BZQPkAcFnnoiPKg) | 2:57 | 2020-08-14\* | 2020-10-15 |
 | [Apricity](https://open.spotify.com/track/0gqETOpvyX2eAbcbfjjqGz) | [Ivalu Karlsen](https://open.spotify.com/artist/4RHvOz3KD1p3LmEEnpVN8a) | [Apricity](https://open.spotify.com/album/4EV4xaMY99ldNfGanMgaoe) | 2:12 | 2020-08-14\* | 2020-09-16 |
 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 | 2021-11-11 | 2022-06-08 |
+| [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-02-06 |  |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2021-05-06 | 2022-07-20 |
 | [As I Was](https://open.spotify.com/track/7FXTsAqtuTMc7UMuRyY95D) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [As I Was](https://open.spotify.com/album/1yp2jl5uXSD8b9yw3LMc85) | 3:27 | 2021-05-20 | 2021-11-11 |
 | [As if She Were The Sun](https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD) | [Avery Hall](https://open.spotify.com/artist/13iFrunlI1q3bWFisDA4k1) | [As if She Were The Sun](https://open.spotify.com/album/4zAI7PqqyswWjYoATzLDde) | 2:10 | 2020-09-02 |  |
@@ -303,7 +304,7 @@
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-07-05 |  |
 | [Hiányérzet](https://open.spotify.com/track/0TaFyNST7wUeJ8ymvt6sqR) | [Lôrinc Tzigane](https://open.spotify.com/artist/6vWNxay1gwQXx4uuB6pgms) | [Hiányérzet](https://open.spotify.com/album/3kSodbe541Sst0OYivwNmM) | 2:30 | 2020-08-14\* | 2020-09-16 |
 | [Hoffnungen](https://open.spotify.com/track/5MB8U2Q1V1RDhPWl16ojSG) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Hoffnungen](https://open.spotify.com/album/4QlOD9tJ3PX7gRRQcPzv2a) | 2:13 | 2021-06-18 | 2021-08-04 |
-| [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-20 |  |
+| [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-20 | 2023-02-27 |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2022-06-08 |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-01 | 2022-06-08 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-05-20 | 2021-08-18 |
@@ -393,7 +394,7 @@
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-09-02 | 2022-03-31 |
 | [Le Pont De L'amour](https://open.spotify.com/track/0UhArwSZP4TGYxPfj7XF4y) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Le Pont De L'amour](https://open.spotify.com/album/3b3PShJsSRVsqmPXBSPQgh) | 2:48 | 2020-09-16 | 2021-02-06 |
 | [Le Saut](https://open.spotify.com/track/0L9UEpsXp2MxjxxCq6WbBC) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Le Saut](https://open.spotify.com/album/2JmEEAB95pP88S4YAOILxm) | 3:10 | 2020-08-14\* | 2022-03-17 |
-| [Le soleil printanier](https://open.spotify.com/track/1k1BWZh9UpPcf3rDHUl0Ly) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Le soleil printanier](https://open.spotify.com/album/6UpR7OvugbL76JUpTxUzOO) | 2:41 | 2021-02-12 | 2023-02-26 |
+| [Le soleil printanier](https://open.spotify.com/track/1k1BWZh9UpPcf3rDHUl0Ly) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Le soleil printanier](https://open.spotify.com/album/6UpR7OvugbL76JUpTxUzOO) | 2:41 | 2021-02-12 |  |
 | [Leaf To Leaf](https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Leaf To Leaf](https://open.spotify.com/album/0qUdp5c99oFrf8WZ47HUYz) | 2:26 | 2021-04-22 |  |
 | [Learning](https://open.spotify.com/track/7ndJq3FTs0QIzag0nYw7BX) | [Gareth Riley](https://open.spotify.com/artist/4MV0ijpQhdnte0lJh2tilX) | [Learning](https://open.spotify.com/album/04uA73Nx9vnxlpZJfktKNp) | 2:02 | 2020-08-14\* | 2022-07-20 |
 | [Leatherwood Lane](https://open.spotify.com/track/2cpvqneVD7dxyD2x1Q2N1U) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Leatherwood Lane](https://open.spotify.com/album/0T3CYxFdDWnW9CGoCtY0jZ) | 2:43 | 2020-08-14\* | 2022-09-24 |
@@ -631,7 +632,7 @@
 | [Sea Of Revival](https://open.spotify.com/track/2uiKpgfOX9OHiE6UuYAkU8) | [Martha Sines](https://open.spotify.com/artist/6nAvfA2VeuvrAm6HWNR1ID) | [Sea Of Revival](https://open.spotify.com/album/1thtdvev81NypFN6ZSrbgw) | 2:30 | 2020-09-02 | 2022-06-08 |
 | [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 | 2021-04-23 | 2021-05-06 |
 | [Seasons](https://open.spotify.com/track/1jMM8TGkXgRS2mrBviT1CB) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:28 | 2020-08-14\* | 2021-01-28 |
-| [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2020-11-12 |  |
+| [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2020-11-12 | 2023-02-27 |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-07-01 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2020-12-10 | 2022-06-08 |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2020-08-14\* | 2020-09-30 |

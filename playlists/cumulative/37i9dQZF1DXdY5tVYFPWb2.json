@@ -3973,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Saitei Na Drama",
+        "url": "https://open.spotify.com/album/5bfDxgPMtsIbWp6Rj5TPPZ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u96c4\u58eb",
+          "url": "https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225038,
+      "name": "Saitei Na Drama",
+      "url": "https://open.spotify.com/track/01yyhN908OiuvbFjCtBBXA"
+    },
+    {
+      "album": {
         "name": "SANDIE",
         "url": "https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T"
       },
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 278290,
       "name": "Talk",
       "url": "https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99"

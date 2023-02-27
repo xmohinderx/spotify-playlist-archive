@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Ke Personajes & La K'onga.",
-  "num_followers": 577821,
+  "num_followers": 578268,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMDQ4ZTM4MzkyMDBhZmI4NDZmNGQwYTMwYzI1MWZkNmIw",
+  "snapshot_id": "MTY3NzIwNzYwMCwwMDAwMDAwMGE5YWY5ZDVkMGZiMTJmNDVlYzhkNDc3ZTI4NzU1MjMz",
   "tracks": [
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
@@ -1439,26 +1455,18 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Todo de T\u00ed",
-        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
       },
       "artists": [
         {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "El Joaco",
-          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 179855,
-      "name": "Todo de T\u00ed",
-      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1495,22 +1503,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Luna En Capricornio",
-        "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 179957,
-      "name": "Luna En Capricornio",
-      "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Para Rato!",
         "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
       },
@@ -1543,6 +1535,46 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "Todo de T\u00ed",
+        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "El Joaco",
+          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
+        }
+      ],
+      "duration_ms": 179855,
+      "name": "Todo de T\u00ed",
+      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Luna En Capricornio",
+        "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 179957,
+      "name": "Luna En Capricornio",
+      "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "La Fiesta Es de Primera",
         "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
@@ -1571,38 +1603,6 @@
       "duration_ms": 230546,
       "name": "Noche De Travesura",
       "url": "https://open.spotify.com/track/47YL75nTX9rVZ4gJT9Q8W7"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Tiburona",
-        "url": "https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        }
-      ],
-      "duration_ms": 213697,
-      "name": "Tiburona",
-      "url": "https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
         "name": "Tu Peor Enemigo",
         "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
       },
@@ -1671,74 +1655,6 @@
       "duration_ms": 201109,
       "name": "Tu Peor Enemigo",
       "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Ta' Buenisimo",
-        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "200 Copas (En Vivo)",
-        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
-      },
-      "artists": [
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "200 Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "Que No Le Hago Falta",
-        "url": "https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H"
-      },
-      "artists": [
-        {
-          "name": "El Rejunte",
-          "url": "https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG"
-        }
-      ],
-      "duration_ms": 256914,
-      "name": "Que No Le Hago Falta",
-      "url": "https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I"
-    },
-    {
-      "added_at": "2023-02-24 03:00:00",
-      "album": {
-        "name": "CHANGA CHANGA",
-        "url": "https://open.spotify.com/album/4WzDDha7t7nCAOuhVrCCOo"
-      },
-      "artists": [
-        {
-          "name": "Nolberto Al k la",
-          "url": "https://open.spotify.com/artist/0y2UIyqXN4KctxsMLgSMhm"
-        },
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        }
-      ],
-      "duration_ms": 172183,
-      "name": "CHANGA CHANGA",
-      "url": "https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6"
     },
     {
       "added_at": "2023-02-24 03:00:00",
@@ -1759,6 +1675,38 @@
     {
       "added_at": "2023-02-24 03:00:00",
       "album": {
+        "name": "200 Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "200 Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Tiburona",
+        "url": "https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        }
+      ],
+      "duration_ms": 213697,
+      "name": "Tiburona",
+      "url": "https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
         "name": "Espectacular Monada",
         "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
@@ -1771,6 +1719,58 @@
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Que No Le Hago Falta",
+        "url": "https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H"
+      },
+      "artists": [
+        {
+          "name": "El Rejunte",
+          "url": "https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG"
+        }
+      ],
+      "duration_ms": 256914,
+      "name": "Que No Le Hago Falta",
+      "url": "https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "Ta' Buenisimo",
+        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
+    },
+    {
+      "added_at": "2023-02-24 03:00:00",
+      "album": {
+        "name": "CHANGA CHANGA",
+        "url": "https://open.spotify.com/album/4WzDDha7t7nCAOuhVrCCOo"
+      },
+      "artists": [
+        {
+          "name": "Nolberto Al k la",
+          "url": "https://open.spotify.com/artist/0y2UIyqXN4KctxsMLgSMhm"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "duration_ms": 172183,
+      "name": "CHANGA CHANGA",
+      "url": "https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6"
     },
     {
       "added_at": "2023-02-24 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 334333,
+  "num_followers": 334625,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMGJhZTJkN2MyOTUyNzlkOGY5Y2I1YjU1ZjRiODIzOTMx",
+  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMGM5ZThlYWJmMjI2YzEyNjM4YjI3ZWZhYWFhMzgxNzli",
   "tracks": [
     {
       "added_at": "2023-02-21 15:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Ottilia",
-        "url": "https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s"
-      },
-      "artists": [
-        {
-          "name": "Yana Couto",
-          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ottilia",
-      "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Abstractions",
         "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 117800,
       "name": "Delightful",
       "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Ottilia",
+        "url": "https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s"
+      },
+      "artists": [
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ottilia",
+      "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Staden",
-        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 121946,
-      "name": "Staden",
-      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Casa luminosa",
         "url": "https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03"
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
       },
       "artists": [
         {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
         }
       ],
-      "duration_ms": 101825,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k"
+      "duration_ms": 121946,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 101825,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
         "name": "Khione",
         "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 179768,
       "name": "Ruise\u00f1or",
       "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
-        }
-      ],
-      "duration_ms": 219565,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
       },
       "artists": [
         {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
         }
       ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+      "duration_ms": 219565,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+      },
+      "artists": [
+        {
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+        }
+      ],
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Chiral",
-        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
-      },
-      "artists": [
-        {
-          "name": "Sven Grimm",
-          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Chiral",
-      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 152068,
       "name": "Water",
       "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+      },
+      "artists": [
+        {
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Le jardin de ma grand-m\u00e8re",
-        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Kowalski",
-          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
-        }
-      ],
-      "duration_ms": 176567,
-      "name": "Le jardin de ma grand-m\u00e8re",
-      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Mullaghmore",
         "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 122766,
       "name": "Mullaghmore",
       "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Le jardin de ma grand-m\u00e8re",
+        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "duration_ms": 176567,
+      "name": "Le jardin de ma grand-m\u00e8re",
+      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "A Simpler Time",
-        "url": "https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4"
-      },
-      "artists": [
-        {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
-        }
-      ],
-      "duration_ms": 147124,
-      "name": "A Simpler Time",
-      "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Valse",
-        "url": "https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK"
+        "name": "A Simpler Time",
+        "url": "https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4"
       },
       "artists": [
         {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
         }
       ],
-      "duration_ms": 131254,
-      "name": "Valse",
-      "url": "https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv"
+      "duration_ms": 147124,
+      "name": "A Simpler Time",
+      "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Hour of Rest",
+        "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
+      },
+      "artists": [
+        {
+          "name": "William Cas",
+          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
+        }
+      ],
+      "duration_ms": 112653,
+      "name": "Hour of Rest",
+      "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
     }
   ],
   "unique_name": "Coffee and Piano",

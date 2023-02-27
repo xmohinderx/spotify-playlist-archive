@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,472 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,488 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 7 | [In The Morning](https://open.spotify.com/track/0ACfiXjjR1eqnxbqPxrdIC) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [In The Morning](https://open.spotify.com/album/7BiuvPTHrqJbZreJXJTklq) | 2:38 |
 | 8 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 | 9 | [Blinds](https://open.spotify.com/track/53mjXvZqGOSvrQ4B8qVYXH) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Honeycomb Shades](https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9) | 3:17 |
-| 10 | [Zonder Jou](https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Zonder Jou](https://open.spotify.com/album/59FBX1katrnJ8coGBtiDfw) | 2:14 |
+| 10 | [Zonder Jou](https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Zonder Jou](https://open.spotify.com/album/59FBX1katrnJ8coGBtiDfw) | 2:14 |
 | 11 | [Bruises](https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone \(Deluxe\)](https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX) | 2:41 |
 | 12 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 13 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 90 | [House On Fire](https://open.spotify.com/track/3wX0VBJPujhLqaVnHhx0Wm) | [Vandenberg](https://open.spotify.com/artist/3hAv15rFpsTe7zteKhhJTx) | [House On Fire](https://open.spotify.com/album/7569iiE6w4AGpcUgGKDmTz) | 3:52 |
 | 91 | [IK](https://open.spotify.com/track/5VQCOQeo0CYIAstYCM2BAE) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [IK](https://open.spotify.com/album/0ox6fOR4AvBg2N38RmLKQI) | 2:17 |
 | 92 | [Modern Boys](https://open.spotify.com/track/1xwCKSqSC6E0BXPbT58R11) | [GUYY](https://open.spotify.com/artist/1Avpzfhxj57slup7xcb457) | [Modern Boys \(Side B\)](https://open.spotify.com/album/5v9l6tMkMn6lhERkqII5s0) | 3:53 |
-| 93 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 93 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 94 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 |
 | 95 | [Talking To Myself](https://open.spotify.com/track/76EgNiEak8B77qCzPlsS0C) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [Talking To Myself](https://open.spotify.com/album/59S8OkKoap1ZSrwRRKBsez) | 2:17 |
 | 96 | [Miracles](https://open.spotify.com/track/7sNVnxp5LqQAnbkHmn8L2p) | [Certain Animals](https://open.spotify.com/artist/63B62h8zh5sHiv6iCvHMhZ) | [Miracles](https://open.spotify.com/album/25XtjBblToOoIhfUDdlEtU) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Diamonds](https://open.spotify.com/track/41SR1dMrx8vrBn3GWJ1Ika) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Diamonds](https://open.spotify.com/album/6JoxzAuwa8YOL0DafpgX1u) | 4:48 |
 | 100 | [I Won't Hurt You Again](https://open.spotify.com/track/3Q4maXH2ZZrXAmMNDo2jso) | [Wyke van Weelden](https://open.spotify.com/artist/49AdzUx2lR8JtzYBEyPZNB) | [I Won't Hurt You Again](https://open.spotify.com/album/2XlM06SQfHxdrPOYmiR1On) | 1:34 |
 
-Snapshot ID: `MTY3NzIzMzk3MiwwMDAwMDAwMGE2ZTkyNGRhMDQyMDliNGMwZjNlZTA4OGY0N2RmMzMy`
+Snapshot ID: `MTY3NzIzMzk3MiwwMDAwMDAwMDIxZDk4NDQxODBiOTMyOTdlZjBhMTcxODNkOWRmZGMz`

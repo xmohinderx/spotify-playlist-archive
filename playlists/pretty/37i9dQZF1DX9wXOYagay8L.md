@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=6ktild1hQoCw3KMUzfFQ8A">Aubrey Qwana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,661 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,769 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

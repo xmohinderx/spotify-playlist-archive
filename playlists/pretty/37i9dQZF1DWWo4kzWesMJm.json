@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 64229,
+  "num_followers": 64330,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDM5MjA5ZjhkMTViYjJlNTNmN2U4ZTliNDk4YTM3ODE3",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDI2ODBhMDAwNWJkZDNlNTBmNzAwNjQxOWRiOWI0YzMy",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -223,30 +223,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "\u00c9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        },
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Tailler la route",
-      "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Debout les yeux ouverts",
         "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 178786,
       "name": "Tiago",
       "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "\u00c9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        },
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Tailler la route",
+      "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 207400,
       "name": "Bonne id\u00e9e",
       "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Je sais pas si \u00e7a va",
-        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
-      },
-      "artists": [
-        {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Mal barr\u00e9",
-      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Les feux d'artifice",
         "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 294173,
       "name": "Un jour au mauvais endroit",
       "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Je sais pas si \u00e7a va",
+        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Mal barr\u00e9",
+      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 189666,
       "name": "Non non rien n'a chang\u00e9",
       "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
       "artists": [
         {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Dimanche",
-        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Le temps passe",
-      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Dimanche",
+        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/4DDG0gVgUTgGRZBxQ6zscl"
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
       "artists": [
         {
-          "name": "Joyce Jonathan",
-          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
         }
       ],
-      "duration_ms": 222453,
-      "name": "On",
-      "url": "https://open.spotify.com/track/1irx7iNjFWPDo5qqO5wdAu"
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/4DDG0gVgUTgGRZBxQ6zscl"
+      },
+      "artists": [
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "On",
+      "url": "https://open.spotify.com/track/1irx7iNjFWPDo5qqO5wdAu"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Nos c\u00e9l\u00e9brations",
         "url": "https://open.spotify.com/album/7KvQlSvxXWsxKnEhOdWP6N"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Tomb\u00e9",
-      "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Unis vers l'uni",
         "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 182047,
       "name": "La bo\u00eete de jazz",
       "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
     },
     {
       "added_at": "2023-01-12 23:00:00",

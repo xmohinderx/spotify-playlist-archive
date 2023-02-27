@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 180326,
+  "num_followers": 180442,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGJhOTBhNmRlNTdiMWFlNjI0YmU1MDU2NTM3ZTI0MTQ1",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDMxNWI3M2M5YjcyNzBmY2RmMTEyYzIzZWIwMmUzZTY5",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Ghosts Again",
-        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "Ghosts Again",
-      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Una Noche Sin Pensar",
         "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 161173,
       "name": "Una Noche Sin Pensar",
       "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Ghosts Again",
+        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 238945,
+      "name": "Ghosts Again",
+      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Welcome To My Island",
-        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
+      "duration_ms": 162909,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
+        "name": "Welcome To My Island",
+        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
       },
       "artists": [
         {
@@ -724,25 +724,9 @@
           "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 162909,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+      "duration_ms": 232625,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 166680,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 180907,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 191983,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Nothing's Real",
         "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 214754,
       "name": "What's It Gonna Be?",
       "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 191983,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
-      },
-      "artists": [
-        {
-          "name": "GRANT KNOCHE",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 155327,
-      "name": "ICARUS",
-      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 241776,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 155327,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Slow Dancing (The Remixes)",
-        "url": "https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK"
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        },
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Slow Dancing - Hazel English Remix",
-      "url": "https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1"
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
     },
     {
       "added_at": "2023-02-24 05:00:00",

@@ -4,14 +4,14 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 33 min
+72 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Scale \(feat\. G Herbo\)](https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:56 | 2022-10-28 |  |
 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2022-10-28 |  |
 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-11-11 | 2022-12-08 |
-| [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n) | 2:49 | 2022-12-26 |  |
+| [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n) | 2:49 | 2022-12-26 | 2023-02-27 |
 | [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 |  |
 | [Aye \(feat\. Offset\)](https://open.spotify.com/track/3O0W0PorDwqsEuZRl7A9Pi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:11 | 2022-10-28 |  |
 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 | 2022-10-28 |  |
@@ -58,6 +58,7 @@
 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 | 2022-10-28 |  |
 | [Pull Up](https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans](https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0) | 3:28 | 2023-01-12 |  |
 | [PURE \(feat\. G Herbo\)](https://open.spotify.com/track/1GOifqA2EoXqxwFB5aFrWI) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:14 | 2023-01-21 |  |
+| [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 | 2023-02-26 |  |
 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 | 2022-10-28 |  |
 | [Ridin Wit It](https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:18 | 2022-10-28 |  |
 | [Sessions](https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sessions](https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx) | 3:08 | 2022-10-28 |  |

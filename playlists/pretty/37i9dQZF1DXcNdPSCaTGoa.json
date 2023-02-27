@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 31961,
+  "num_followers": 31991,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMDk3YTQwZThkMzM1MDlmNTBiYTNmNjg4N2UwOGU5Zjk0",
+  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMGZiNzRmNmY1NzRkM2Y5ZTg0NmZkZjMyODViOWY2YTEx",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Uit Die Diepte Van My Hart",
+        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Kaptein",
+      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Skhanda Republic",
         "url": "https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf"
       },
@@ -139,26 +155,6 @@
       "duration_ms": 226321,
       "name": "Caracara",
       "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "DaKAR II",
-        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Ngud' (feat. Cassper Nyovest)",
-      "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -183,18 +179,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Uit Die Diepte Van My Hart",
-        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
+        "name": "DaKAR II",
+        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
         }
       ],
-      "duration_ms": 229586,
-      "name": "Kaptein",
-      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+      "duration_ms": 271186,
+      "name": "Ngud' (feat. Cassper Nyovest)",
+      "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Sister Bethina",
+        "url": "https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8"
+      },
+      "artists": [
+        {
+          "name": "Mgarimbe",
+          "url": "https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY"
+        }
+      ],
+      "duration_ms": 261946,
+      "name": "Sister Bethina",
+      "url": "https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Loliwe",
         "url": "https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Sister Bethina",
-        "url": "https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8"
-      },
-      "artists": [
-        {
-          "name": "Mgarimbe",
-          "url": "https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY"
-        }
-      ],
-      "duration_ms": 261946,
-      "name": "Sister Bethina",
-      "url": "https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Dark Days Exit",
-        "url": "https://open.spotify.com/album/6QJmhprG4QVLv2nrqmRKYq"
+        "name": "Boom Shaka",
+        "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
       },
       "artists": [
         {
-          "name": "Felix Laband",
-          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
         }
       ],
-      "duration_ms": 471973,
-      "name": "Whistling in Tongues",
-      "url": "https://open.spotify.com/track/3yGPPz2VJbscAtwWpyHaqj"
+      "duration_ms": 339000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Boom Shaka",
-        "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
+        "name": "Dark Days Exit",
+        "url": "https://open.spotify.com/album/6QJmhprG4QVLv2nrqmRKYq"
       },
       "artists": [
         {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
         }
       ],
-      "duration_ms": 339000,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+      "duration_ms": 471973,
+      "name": "Whistling in Tongues",
+      "url": "https://open.spotify.com/track/3yGPPz2VJbscAtwWpyHaqj"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -663,6 +663,22 @@
       "duration_ms": 285853,
       "name": "Impi",
       "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Best of TK",
+        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
+        }
+      ],
+      "duration_ms": 306786,
+      "name": "How Do You Feel",
+      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -699,22 +715,6 @@
       "duration_ms": 311880,
       "name": "Doo Be Doo",
       "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Best of TK",
-        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
-      },
-      "artists": [
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
-        }
-      ],
-      "duration_ms": 306786,
-      "name": "How Do You Feel",
-      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "It's Our Game (No Need To Claim)",
         "url": "https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m"
       },
@@ -823,22 +807,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Ibokwe",
         "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
       },
@@ -855,18 +823,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
       "artists": [
         {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -880,9 +848,25 @@
           "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404360,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 404360,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2023-01-23 13:10:38",

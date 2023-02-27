@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Sénégal Rek!🇸🇳🇸🇳🇸🇳
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,153 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 8 | [Abadane](https://open.spotify.com/track/4nt5o7sX9ZVRrDUXwHEnJJ) | [Baye Mass](https://open.spotify.com/artist/0sjV77WupRucJ27YaMtFzx) | [Abadane](https://open.spotify.com/album/0uKApafzbKSnlBP6MI8Z2V) | 2:34 |
 | 9 | [Effect Mere](https://open.spotify.com/track/4KjAxGfPwGKYzipnVavtrc) | [Akhlou Brick](https://open.spotify.com/artist/6Lq4CjT2j15j6UkqqjEguO) | [Effect Mere](https://open.spotify.com/album/0iOR6KmTgnD6ELXSIz4XpI) | 4:18 |
 | 10 | [Idda](https://open.spotify.com/track/1MI8d88U2gBYEXAjCXzkXF) | [Mia Guisse](https://open.spotify.com/artist/0S17uH3c9zczQrichFl24S) | [Idda](https://open.spotify.com/album/0oofqp32mNMf1zIPx48fiJ) | 3:11 |
-| 11 | [Gainde](https://open.spotify.com/track/2euLlfO4KZLyvsRLH34LhL) | [Ashs The Best](https://open.spotify.com/artist/0VLSACiskWZ7DUL0TJHXFx) | [Gainde](https://open.spotify.com/album/3Wgqsgxx24W31niRD7bxR1) | 2:05 |
+| 11 | [Gainde](https://open.spotify.com/track/7w0wQm955TXVUMtD3bvkfx) | [Ashs The Best](https://open.spotify.com/artist/0VLSACiskWZ7DUL0TJHXFx) | [Gainde](https://open.spotify.com/album/4t0d1GpzuSLDJ5k5FtQPUJ) | 2:05 |
 | 12 | [Rëkkënte Bi](https://open.spotify.com/track/3Bb2UpUgjkgSD8e3DDCbLK) | [Pape Diouf](https://open.spotify.com/artist/54SeJkg1IKFUMgXde8cgaj), [La Génération Consciente](https://open.spotify.com/artist/0bCbA7fKSoubwnuYUxBkLP) | [Enjoy](https://open.spotify.com/album/2hvGrsPNGQE8uecMTRUb65) | 5:03 |
 | 13 | [Liggeey](https://open.spotify.com/track/1vL4zn5vWOU4FbWDa7s7nw) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Joko: The Link](https://open.spotify.com/album/1zqKXsZQLONrHxoI5rUW37) | 4:41 |
 | 14 | [Du Deñ](https://open.spotify.com/track/6KaabakThXwVdWv08Q2s9y) | [Pape Diouf](https://open.spotify.com/artist/54SeJkg1IKFUMgXde8cgaj) | [Ràkkaaju](https://open.spotify.com/album/4FTZdFwrV3O0HK5B6qDnm5) | 7:03 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 27 | [Go Gaïndé](https://open.spotify.com/track/2xZjfo8QdncxKwaibPl8M5) | [Kheuch Boy](https://open.spotify.com/artist/6e9La3olRooVF1laXsh6E8) | [Go Gaïndé](https://open.spotify.com/album/4XiAS9heCr0lIU2jOWasEZ) | 3:12 |
 | 28 | [Coupe Bi \- Wurus Remix](https://open.spotify.com/track/6B9zjL6K3zfwnCJZduh7nv) | [Singom](https://open.spotify.com/artist/0irLAzm9SysPMkXleeJ4DM), [Wurus](https://open.spotify.com/artist/3TqhJB8n9zvfo4Zcs2RSo1) | [Coupe Bi \(Wurus Remix\)](https://open.spotify.com/album/1i2CavuGCi594A5p34Pd4X) | 2:36 |
 | 29 | [Gainde](https://open.spotify.com/track/5y2vQ3iWQVcurvrOdG1IRh) | [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N), [Le Super Diamono](https://open.spotify.com/artist/1STm0AYsnhrGFgWxGBi1m2) | [Omar Péné, 30 ans déjà \(Live\)](https://open.spotify.com/album/2Tb6pLYWYTZDmDLWRpdmgG) | 6:00 |
-| 30 | [Sunu société, sunu Sénégal](https://open.spotify.com/track/2OLPTc5pavMiiOtisGiTRh) | [Lamine Mbengue](https://open.spotify.com/artist/72ONjqs8WZu8xYikqWg6Dn) | [Chansons et comptines du Sénégal \(En Wolof\)](https://open.spotify.com/album/1mNUNyEsP9Nj4Ee6CtZ7Ga) | 2:39 |
+| 30 | [Sunu société, sunu Sénégal](https://open.spotify.com/track/4AhGlo8MwEKf6Hp5ev3Wow) | [Lamine Mbengue](https://open.spotify.com/artist/72ONjqs8WZu8xYikqWg6Dn) | [Chansons et comptines du Sénégal \(En Wolof\)](https://open.spotify.com/album/6vfhWbh8NhTp86TnBEgfrN) | 2:39 |
 | 31 | [Sunu Society \- vocal](https://open.spotify.com/track/2lDIc2OaqXQhiFODTFO2am) | [Positive Black Soul](https://open.spotify.com/artist/3ESsXVMhBm2vfZaWmMdHAi), [Gary "The Mon" Noble](https://open.spotify.com/artist/3X8ZKF763nMipHVDC2BzHP) | [Run Cool](https://open.spotify.com/album/4V0PdiIq8Pc7VKfl0fEmqq) | 1:07 |
 | 32 | [Rosa](https://open.spotify.com/track/5v7Wdwht1uUq9yuv7wkC1c) | [Didier Awadi](https://open.spotify.com/artist/4ydTQzghrxvKHQGLPo9h5F) | [Sunugaal](https://open.spotify.com/album/6DymYR1CVPDajNQrwDP8Uz) | 3:13 |
 | 33 | [Senegal](https://open.spotify.com/track/27nWLmwZhpZHCrcPc6p4Rd) | [Daara J Family](https://open.spotify.com/artist/4MvdDpI9EsfvDfKrr07H46) | [Foundation](https://open.spotify.com/album/1GA36VOnII3zU2kgVJgj3Q) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 49 | [Dila Beug](https://open.spotify.com/track/1p6fwH9J5T5hzY9k1CrwLe) | [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N), [Le Super Diamono](https://open.spotify.com/artist/1STm0AYsnhrGFgWxGBi1m2) | [Omar Péné, 30 ans déjà \(Live\)](https://open.spotify.com/album/2Tb6pLYWYTZDmDLWRpdmgG) | 8:50 |
 | 50 | [Senegal](https://open.spotify.com/track/5nPGKwUDZviNlPxaeUHChm) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 2:52 |
 
-Snapshot ID: `MTY2OTc0NDgyOCwwMDAwMDAwMDRjNzZjMTZlMTg1ODA1MjEzNjEzOGUzZDYyOWY0YjNk`
+Snapshot ID: `MTY2OTc0NDgyOCwwMDAwMDAwMDYzY2NlNmQ5OGMyMDVjODE5ZWYxZWU4YjRlYWMxOGM1`

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5304,
+  "num_followers": 5313,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTAwNSwwMDAwMDAwMDIyOWZhOWQ5ZTQ0MzU0NmNiOWVkZmJhNDhmOGFhMjEw",
+  "snapshot_id": "MTY3NzIzNTAwNSwwMDAwMDAwMDBkY2IzY2NlZTQyOTMwZTgyMjg4ZDgwYjY4NDVlM2E0",
   "tracks": [
     {
       "added_at": "2023-02-24 10:36:44",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "daisy.",
+        "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "daisy.",
+      "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -83,34 +99,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "daisy.",
-        "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "daisy.",
-      "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
-      },
-      "artists": [
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
         {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
         }
       ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -131,22 +135,18 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "I Mean You",
-        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
-      },
-      "artists": [
-        {
-          "name": "Diana",
-          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
-        }
-      ],
-      "duration_ms": 195150,
-      "name": "I Mean You",
-      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
         "name": "kibun (feat. vntermude)",
         "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "I Mean You",
+        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
+      },
+      "artists": [
+        {
+          "name": "Diana",
+          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
+        }
+      ],
+      "duration_ms": 195150,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "Hold tight",
         "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 174975,
       "name": "Hold tight",
       "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
+        "name": "Bad words with KozyPop",
+        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Housekeepers",
+          "url": "https://open.spotify.com/artist/70uwRJV7crAG7mkFtfde0K"
+        }
+      ],
+      "duration_ms": 197687,
+      "name": "Bad words",
+      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -803,26 +823,6 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "Bad words with KozyPop",
-        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "Housekeepers",
-          "url": "https://open.spotify.com/artist/70uwRJV7crAG7mkFtfde0K"
-        }
-      ],
-      "duration_ms": 197687,
-      "name": "Bad words",
-      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
         "name": "Kangaroo",
         "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
         "name": "#mood",
         "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 181120,
       "name": "#mood",
       "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     },
     {
       "added_at": "2023-02-24 10:36:44",

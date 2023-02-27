@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAROL G & Shakira, The Weeknd & Ariana Grande, Halsey, and Tenille Townes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,670 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,705 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 40 | [Outside Freestyle](https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F) | 2:50 |
 | 41 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 |
 | 42 | [King of the Crop](https://open.spotify.com/track/62eCdSoP9bVA1kknmUfnLr) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Healing Phase](https://open.spotify.com/album/3PGgJjwXDoj59jPI5RCeQe) | 2:31 |
-| 43 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 43 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 44 | [Pay It No Mind](https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Pay It No Mind](https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV) | 3:47 |
 | 45 | [Estar conmigo](https://open.spotify.com/track/5cqoZtIv0wxZaGkepclEWr) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Estar conmigo](https://open.spotify.com/album/4ARNULDEFCJ6V38PnNwVIf) | 3:10 |
 | 46 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 |
 | 47 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 |
-| 48 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
+| 48 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
 | 49 | [I Am](https://open.spotify.com/track/5VlZvuR3Ja1l2T3ZJNeaUK) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Am](https://open.spotify.com/album/0cmlAf4hqZGNXwcSxfmu5B) | 3:14 |
 | 50 | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 |
 | 51 | [5AM](https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Easy Money](https://open.spotify.com/track/47rtlTlCeQpDVZofVFHwYN) | [Michelle Treacy](https://open.spotify.com/artist/0YhQcdSViCHOPY7QDb9tiV) | [Easy Money](https://open.spotify.com/album/0yvPMgLvDvxhRfL4RTjy04) | 2:39 |
 | 100 | [Some Kind Of Drug](https://open.spotify.com/track/04ff2QCyhRMdSRrC7TTmis) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [The Nighttime Is All In The Timing](https://open.spotify.com/album/223TYLeVZ5uz67RB1SwTsA) | 4:11 |
 
-Snapshot ID: `MTY3NzIxNTk2MSwwMDAwMDAwMDQzNDJlOTU3NjE1MDdhMzBjZjVlMTEwNjM0MjRlYjZl`
+Snapshot ID: `MTY3NzIxNTk2MSwwMDAwMDAwMGU2MmMzMzkzYjQ4OTJmOWUyMDZjODRiZmIwODNjNDUx`

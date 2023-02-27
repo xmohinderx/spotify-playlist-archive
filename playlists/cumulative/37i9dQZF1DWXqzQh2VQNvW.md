@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-234 songs - 12 hr 10 min
+235 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Problems](https://open.spotify.com/track/7cQtmj6nINXayCH7mqif4B) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Problems](https://open.spotify.com/album/16ZC16vNgzzuU2Y4uQ69o9) | 2:25 | 2023-01-20 | 2023-02-04 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2022-01-25 | 2022-07-29 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2022-07-25 | 2022-09-06 |
-| [Recharge My Heart](https://open.spotify.com/track/7ltvazcssAldoNhI5W6bYc) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Recharge My Heart](https://open.spotify.com/album/4mJOcfahsF3JULnHQiVUWV) | 2:41 | 2022-10-21 |  |
+| [Recharge My Heart](https://open.spotify.com/track/7KHMMbIs79TNhSBpqg2Lgy) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Recharge My Heart](https://open.spotify.com/album/48g0UapY0EzgcNvxrJGdTd) | 2:41 | 2023-02-24 |  |
+| [Recharge My Heart](https://open.spotify.com/track/7ltvazcssAldoNhI5W6bYc) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Recharge My Heart](https://open.spotify.com/album/4mJOcfahsF3JULnHQiVUWV) | 2:41 | 2022-10-21 | 2023-02-27 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-01-25 |  |
 | [Recovering People Pleaser](https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Recovering People Pleaser](https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL) | 3:22 | 2023-01-20 |  |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-01-25 | 2022-11-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36984,
+  "num_followers": 36989,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMDAzOWUwY2E4MGNhMTI3OGRiMjBmM2RhNjUyNzBkNWM1",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGY3NjBhYjM4YmI0OGMwMzI0ZTdjYjg3MTc0ZTNiYzc1",
   "tracks": [
     {
       "added_at": "2023-01-06 17:22:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "Never Get It Right",
-        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
-      },
-      "artists": [
-        {
-          "name": "Ines Rae",
-          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Never Get It Right",
-      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "Never Get It Right",
+        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
+      },
+      "artists": [
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Never Get It Right",
+      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -1043,6 +1043,22 @@
       "duration_ms": 196682,
       "name": "Blue",
       "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "New Wave EP",
+        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -1083,22 +1099,6 @@
       "duration_ms": 247050,
       "name": "Godlight",
       "url": "https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
-        "name": "New Wave EP",
-        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Wave",
-      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
+        "name": "Cloudy Day (Acoustic)",
+        "url": "https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ"
       },
       "artists": [
         {
-          "name": "Bevan",
-          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 246750,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+      "duration_ms": 185139,
+      "name": "Cloudy Day - Acoustic",
+      "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
     }
   ],
   "unique_name": "Wholesome",

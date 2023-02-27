@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-678 songs - 1 day 21 hr 9 min
+679 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Better Apart](https://open.spotify.com/track/3MRHPazKdgLvqjWmxVyaBo) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Better Apart](https://open.spotify.com/album/0A5gXZPfmA4G0jpGjQv42o) | 2:47 | 2021-09-17 | 2022-04-20 |
 | [Better For Me](https://open.spotify.com/track/1fPgAlasrmolLvq1vDtkq3) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [Better For Me](https://open.spotify.com/album/4zbPfW4Riu2mVCRAXFOwaD) | 4:15 | 2021-04-02 | 2022-04-21 |
 | [Black Iris](https://open.spotify.com/track/03O3mBPounvOKETKr1aS3s) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 2:52 | 2022-04-20 | 2022-07-25 |
-| [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 | 2023-02-26 |
+| [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 |  |
 | [Blue Beam Baby](https://open.spotify.com/track/1EHjjrAWfCitHRAcfKVrrh) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Deep States](https://open.spotify.com/album/7uPrpLvtLEl1R57GLpDvoW) | 5:08 | 2021-08-20 | 2022-02-01 |
 | [Blue Blood](https://open.spotify.com/track/2SawSPvB0js6IATRqf69qs) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Blue Blood](https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu) | 3:50 | 2021-04-02 | 2022-04-19 |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2021-04-02 | 2022-07-09 |
@@ -300,7 +300,7 @@
 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-16 | 2023-02-23 |
 | [In Your Arms](https://open.spotify.com/track/2DgaPZppYXSYGCaBceXfTw) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Wonderer](https://open.spotify.com/album/3zmWJr754RgoD1u7BEk2Nk) | 4:39 | 2022-05-23 | 2022-07-30 |
 | [Inner Meet Me](https://open.spotify.com/track/13peHGuZastwBnvw1fVfff) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three EP's](https://open.spotify.com/album/387kRGMURjq8rAquMi3LLN) | 6:20 | 2021-04-02 | 2022-04-05 |
-| [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 |  |
+| [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2023-02-27 |
 | [Interface](https://open.spotify.com/track/6jneoPK80OLlFMDZ47fGPY) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Interface](https://open.spotify.com/album/4RtydL39WN7V55HaGO8iy5) | 3:18 | 2021-08-20 | 2022-04-20 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-06-11 | 2022-07-06 |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-04-02 | 2022-07-06 |
@@ -391,7 +391,7 @@
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2021-06-04 | 2022-07-09 |
 | [Midnight Wine](https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Midnight Wine](https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj) | 3:18 | 2021-08-20 | 2022-04-21 |
 | [Minor Miracles](https://open.spotify.com/track/0KVyDDdzOn6Vubo7gEPP5r) | [group O](https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC) | [Minor Miracles](https://open.spotify.com/album/2KzZNMpT3T4Ai4CjdvoWfB) | 7:11 | 2022-09-02 | 2022-10-08 |
-| [Miracles](https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:16 | 2022-10-24 |  |
+| [Miracles](https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:16 | 2022-10-24 | 2023-02-27 |
 | [Miracles3](https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles \(alt\)](https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA) | 3:30 | 2023-01-06 | 2023-02-16 |
 | [Moment to Change](https://open.spotify.com/track/1ML1hKOswbviGfAGVLXA3k) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 3:11 | 2021-08-20 | 2022-07-30 |
 | [Monaka](https://open.spotify.com/track/19qWKBcwJt3Zu3IoW6KILf) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC) | 5:15 | 2022-07-11 | 2022-10-16 |
@@ -572,6 +572,7 @@
 | [Taste](https://open.spotify.com/track/6kcRaRTILeTqwZGnsDLjsy) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Taste](https://open.spotify.com/album/6qt5yQOrotsGW6K0pNMRke) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Taxi’s Here](https://open.spotify.com/track/1T5tDibcj3AmFmPxYGm6vp) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:47 | 2021-04-02 | 2022-06-01 |
 | [Tears of Change](https://open.spotify.com/track/6J1ntyV5SSlaXYu4UWiSz2) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Tears of Change](https://open.spotify.com/album/7AIdAe6CcQC3CLdJxY4gXl) | 4:09 | 2022-10-07 | 2022-11-15 |
+| [Technicolor Love](https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love](https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC) | 3:14 | 2023-02-24 |  |
 | [Terminal](https://open.spotify.com/track/40wkW3SBJMhemcvtzKjxkO) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:22 | 2022-09-02 | 2022-10-08 |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-17 | 2022-09-09 |
 | [Tesselation](https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:32 | 2022-07-11 | 2022-11-17 |

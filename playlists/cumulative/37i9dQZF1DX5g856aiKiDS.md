@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-266 songs - 15 hr 3 min
+267 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Be\-e\-e\-e](https://open.spotify.com/track/3SReD892lOtkOUL4p8Tu92) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Be\-e\-e\-e](https://open.spotify.com/album/3foqu7kaVnLvLPUNmgbNUS) | 2:20 | 2022-08-18 | 2022-09-06 |
 | [Beautiful](https://open.spotify.com/track/6ZfBdeyXWs5E3hpdL0WhzW) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:01 | 2022-05-11 | 2022-06-22 |
 | [Beginning](https://open.spotify.com/track/5jlv8wYYeoyh6tP1idp97O) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [THE LOVE OF AUTUMN](https://open.spotify.com/album/53yqKBW2t1Istf4yVxgxW5) | 3:47 | 2022-04-12 | 2022-04-21 |
-| [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-04-12 |  |
+| [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-04-12 | 2023-02-27 |
 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2022-04-21 | 2023-01-26 |
 | [BEST FRIEND](https://open.spotify.com/track/1j0BU9IWKxfWKX0ajT2jBe) | [DUNK](https://open.spotify.com/artist/2MAFUSScUrgDSBlR9TRrKq) | [BEST FRIEND](https://open.spotify.com/album/0ZJdSkSum5efhLKm8QUKZa) | 3:09 | 2022-05-03 | 2022-05-12 |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-02 |  |
@@ -109,6 +109,7 @@
 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 | 2022-04-12 | 2022-07-27 |
 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 | 2022-04-21 |  |
 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2022-04-12 | 2023-02-03 |
+| [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 | 2023-02-24 |  |
 | [If you like this song](https://open.spotify.com/track/7E3EiLDgVAqMpZiNQO6aTX) | [Shin minjung](https://open.spotify.com/artist/6l5p38S3mEFw9T0AEQGzUy) | [If you like this song](https://open.spotify.com/album/5p6LsK3QDKbPyjF4KHkLk4) | 3:17 | 2022-04-12 | 2022-04-21 |
 | [In December](https://open.spotify.com/track/796UQ9iCOw6kzuXY7ioeGg) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [In December](https://open.spotify.com/album/4hhLGC6BiYks70hePtzJQs) | 2:56 | 2022-07-04 | 2022-07-23 |
 | [Ing..](https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC) | 4:00 | 2022-04-12 | 2022-07-29 |

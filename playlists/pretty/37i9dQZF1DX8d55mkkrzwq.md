@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 42 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017 likes - 42 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 14 | [Shake Break](https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:35 |
 | 15 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 |
 | 16 | [Limbo Rock](https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Chubby Checker Classics](https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi) | 2:28 |
-| 17 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
-| 18 | [Jump](https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Play With Me, Sing Along!](https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ) | 2:50 |
-| 19 | [Locomotion](https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Loco\-Motion](https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0) | 3:13 |
-| 20 | [The BeeeeeOOP Walk](https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 2:18 |
+| 17 | [The BeeeeeOOP Walk](https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 2:18 |
+| 18 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
+| 19 | [Jump](https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Play With Me, Sing Along!](https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ) | 2:50 |
+| 20 | [Locomotion](https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Loco\-Motion](https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0) | 3:13 |
 | 21 | [Chicken Dance](https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 2:08 |
 | 22 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 |
 | 23 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 |
 | 24 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
-| 25 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
-| 26 | [Dance Mode](https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 1:58 |
+| 25 | [Dance Mode](https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 1:58 |
+| 26 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
 | 27 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
 | 28 | [Electric Slide](https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 3:57 |
 | 29 | [Cotton Eyed Joe](https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe) | [Macarena Party Kids](https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d) | [Macarena Kids](https://open.spotify.com/album/3O4JZycOK2GcM079we6urz) | 4:13 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 41 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 | 42 | [Stomp & Clap Dance](https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Stomp & Clap Dance](https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd) | 2:30 |
 
-Snapshot ID: `MTY3NzIyOTY5NCwwMDAwMDAwMDI5MGI5ODc5YjRkMzViODM1ZjU2YWQ0NmI3NjAwYWJk`
+Snapshot ID: `MTY3NzIyOTY5NCwwMDAwMDAwMDM3ODIyYmQxYWJjNmQ0OTgzNDEwODkwNjk1YjFkOTY5`

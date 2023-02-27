@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-298 songs - 1 day 1 hr 23 min
+299 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-11-22 | 2023-02-02 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2023-01-20 |  |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 |  |
-| [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/track/1hXkvSqFLOBkpWTwO3bvbk) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2), [Heinrich Kobberling](https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV) | 6:04 | 2021-12-26 |  |
+| [Chapter 7 \(feat\. Laurel Halo\)](https://open.spotify.com/track/1hXkvSqFLOBkpWTwO3bvbk) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2), [Heinrich Kobberling](https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chapter 7](https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV) | 6:04 | 2021-12-26 |  |
 | [CHIAROSCURO](https://open.spotify.com/track/6v5vNUiUrdFWvOkq6ViJE1) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VERDE](https://open.spotify.com/album/5q7wnQwXduhyYg9XZ6RSNS) | 7:56 | 2021-12-26 | 2022-07-27 |
 | [Choisis Ton Arme \- Pal Parallax Remix](https://open.spotify.com/track/1WW45Hqf4fwb0gQbWB0xob) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND), [Pal Parallax](https://open.spotify.com/artist/6slcGVBtWnlN3Pvo9XGAA4) | [Choisis Ton Arme \(Pal Parallax Remix\)](https://open.spotify.com/album/6TVTi9KVolcp4uvzbPUvNy) | 2:21 | 2021-12-26 | 2022-01-28 |
 | [Chrome Dreams](https://open.spotify.com/track/2EpCRT1cRcG72NeSI5dYYV) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/1bdCUM3Vb48oetafSWkFna) | 6:16 | 2022-12-30 |  |
@@ -97,6 +97,7 @@
 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 | 2022-04-01 |  |
 | [Earthship](https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce) | [LAV](https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Earth and Beyond](https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR) | 9:56 | 2022-01-28 |  |
 | [Emanation](https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6) | [SaffronKeira](https://open.spotify.com/artist/69l2nkHclpJMHqqgDuo8MW), [Siavash Amini](https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo) | [Emanation](https://open.spotify.com/album/0qwJUyjwJhWKujcFPNFjMk) | 3:02 | 2021-12-26 |  |
+| [Entropic Decay](https://open.spotify.com/track/6ubkzRStCdbHkFJ0E04RHJ) | [Arpanet](https://open.spotify.com/artist/0nkHQhAX7bZUNGeEDnvFQ6) | [Quantum Transposition](https://open.spotify.com/album/7zjgIJ7DrGKmtQUOAUCULT) | 2:48 | 2023-02-24 |  |
 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 | 2022-01-24 | 2022-11-20 |
 | [Entropy](https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ) | 4:49 | 2022-11-22 |  |
 | [Equipe Exploratória Papai Natal](https://open.spotify.com/track/4vAPIRoDB43e9MYR8X5P1T) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Equipe Exploratória Papai Natal](https://open.spotify.com/album/3gXwjVuC49IRoCvvvMA6pS) | 2:35 | 2022-12-30 |  |
@@ -263,7 +264,7 @@
 | [The Days Long](https://open.spotify.com/track/7ssy28TjOrbFs0kM5PHhaK) | [Duane Pitre](https://open.spotify.com/artist/3zWC1AijX1Sgta3Ph9ckJO) | [The Days Long](https://open.spotify.com/album/4fTVMv5ddpAFevBUxvFm9c) | 8:52 | 2021-12-26 | 2022-07-29 |
 | [The Earthbound Fox](https://open.spotify.com/track/6Tp1E7yuE0KfRYpm9cRf2l) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Struktura Revisited](https://open.spotify.com/album/5GMshq1ntV5Be9nZ4Jqby0) | 4:56 | 2022-02-04 |  |
 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 | 2021-12-26 |  |
-| [The Gulf of Valencia](https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Sub Rosa](https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs) | 4:36 | 2021-12-26 |  |
+| [The Gulf of Valencia](https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Sub Rosa](https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs) | 4:36 | 2021-12-26 | 2023-02-27 |
 | [The Hole](https://open.spotify.com/track/1q1ne8Zr1GuiVafFHD4YEe) | [Annihilation Of Self](https://open.spotify.com/artist/5DaYScQGBRXnrpi9WubEQR) | [The Nauts Log \(Chapter 1\-4\)](https://open.spotify.com/album/15iBdhwM1FXf8sIRXlv6Rl) | 9:00 | 2022-01-14 |  |
 | [The Killing Of Wild Animals](https://open.spotify.com/track/1dm03UsG1jXMwmKFTE403i) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB), [Fernando Esteban](https://open.spotify.com/artist/0ViWQo9bhm8NeoiAqpPurg) | [Teresa /// Fortuna](https://open.spotify.com/album/7ae5Zd4cWlEJs1UFM7e40n) | 6:33 | 2021-12-26 |  |
 | [The Richest Garden in your Memory](https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 2:57 | 2022-12-30 |  |

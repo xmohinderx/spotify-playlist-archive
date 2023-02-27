@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 42265,
+  "num_followers": 42303,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMGUwMDcwOTU5ODM5YmVlMGRlNmUzOGM1ZGQ3ZjE4OTA0",
+  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMGQwNTg0MWYyNDg4Y2MwN2I3OWI4OTgzZDkwMmNmNTc5",
   "tracks": [
     {
       "added_at": "2023-01-25 08:21:22",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Lyricist",
-        "url": "https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Lyricist",
-      "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "vacation",
         "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
@@ -285,7 +269,23 @@
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
     },
     {
-      "added_at": "2023-02-26 01:04:26",
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Lyricist",
+        "url": "https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Lyricist",
+      "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
+    },
+    {
+      "added_at": "2023-02-27 01:03:52",
       "album": {
         "name": "Snowy Stars",
         "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "How Is It?",
-        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
-      },
-      "artists": [
-        {
-          "name": "Tarin",
-          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "How Is It?",
-      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Seoul Check-in OST Part 6",
         "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 191208,
       "name": "Check-In",
       "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "How Is It?",
+        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
+      },
+      "artists": [
+        {
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "How Is It?",
+      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
     },
     {
       "added_at": "2023-01-25 08:21:22",

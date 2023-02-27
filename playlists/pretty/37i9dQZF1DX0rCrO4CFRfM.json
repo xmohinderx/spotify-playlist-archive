@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 876948,
+  "num_followers": 877351,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMGJiY2Y0NjYzMmJlNTcxNWZkZjRmM2VjZmNmOWRjM2E5",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMGQ0MTMzY2ZkM2IzYWJmMzlkOTZlY2JlYzdhMGMwMzMz",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Love Sux (Deluxe)",
-        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "The Best Of - Volume One",
         "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230666,
       "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
       "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Space (Orchestral Version)",
+        "url": "https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Space - Acoustic Version",
+      "url": "https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od"
     }
   ],
   "unique_name": "Acoustic Rock",

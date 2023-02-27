@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 5908,
+  "num_followers": 5938,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGIwZGRiYTBlOTMwOGIwNWYyMTY1YmExYmY2N2NkNTAz",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDNiMGNlODM0ZjA1YWNkMTBlYzhmMTMxMWNjNjBlNGVj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+      "duration_ms": 201522,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -671,22 +687,6 @@
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 201522,
-      "name": "Stars Align",
-      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
     },
     {
       "added_at": "2022-10-01 16:00:00",

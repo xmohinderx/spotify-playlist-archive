@@ -1,29 +1,13 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 40494,
+  "num_followers": 40531,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGY1ZjQzOTZhMDYwMmQ5YTMyZmI4Mzk0ZDc5MmE1OTdj",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGMyOGE4ZjJiYmIwZjRjNWZhNjM5MGEwNDViMDMyNDgz",
   "tracks": [
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 606160,
-      "name": "You've Got to Have Freedom",
-      "url": "https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4"
-    },
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
@@ -75,6 +59,22 @@
       "duration_ms": 169173,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/4IfjnNG3AA8ZIlYBSWiHyt"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Thembi",
+        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Thembi",
-        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
-    },
-    {
       "added_at": "2020-11-06 04:01:00",
       "album": {
         "name": "Blind Fury",
@@ -231,6 +215,22 @@
       "duration_ms": 463330,
       "name": "Cancellation - Digital Remaster/2006",
       "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Arms & Hands",
+        "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
+      },
+      "artists": [
+        {
+          "name": "Kirk Knuffke",
+          "url": "https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Safety Shoes",
+      "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
     },
     {
       "added_at": "2020-11-14 05:01:00",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Arms & Hands",
-        "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
-      },
-      "artists": [
-        {
-          "name": "Kirk Knuffke",
-          "url": "https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Safety Shoes",
-      "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -317,22 +301,6 @@
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
     },
     {
-      "added_at": "2020-10-23 19:03:00",
-      "album": {
-        "name": "Supersense",
-        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
-      },
-      "artists": [
-        {
-          "name": "Steph Richards",
-          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Where Is Brooklyn",
@@ -347,6 +315,22 @@
       "duration_ms": 415840,
       "name": "Awake Nu - 2005 Remastered",
       "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
+    },
+    {
+      "added_at": "2020-10-23 19:03:00",
+      "album": {
+        "name": "Supersense",
+        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
+      },
+      "artists": [
+        {
+          "name": "Steph Richards",
+          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -397,6 +381,22 @@
       "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
+        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+      },
+      "artists": [
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Straight Horns of Plenty",
+      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+    },
+    {
       "added_at": "2020-12-04 05:02:00",
       "album": {
         "name": "Nothing Unspoken Under The Sun",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
-        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
-      },
-      "artists": [
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Straight Horns of Plenty",
-      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Dolunay",
@@ -461,6 +445,22 @@
       "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+    },
+    {
       "added_at": "2022-10-21 04:01:00",
       "album": {
         "name": "Water & Tools",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
       },
       "artists": [
         {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+      "duration_ms": 320306,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -511,22 +511,6 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -655,22 +639,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "The Piano Equation",
-        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "Piano Equation",
-      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Alexander Hawkins Trio",
         "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
       },
@@ -687,18 +655,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Translinear Light",
-        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
+        "name": "The Piano Equation",
+        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
       },
       "artists": [
         {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
         }
       ],
-      "duration_ms": 382693,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
+      "duration_ms": 314786,
+      "name": "Piano Equation",
+      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
       "added_at": "2020-10-02 04:02:00",
@@ -723,6 +691,38 @@
       "duration_ms": 476000,
       "name": "Equation",
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Translinear Light",
+        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
+      },
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+        }
+      ],
+      "duration_ms": 382693,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Four For Trane",
+        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "duration_ms": 461626,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -767,22 +767,6 @@
       "duration_ms": 763674,
       "name": "Boltzmann Brain",
       "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Four For Trane",
-        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
-      },
-      "artists": [
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        }
-      ],
-      "duration_ms": 461626,
-      "name": "Mr. Syms",
-      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -873,30 +857,6 @@
       "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Circle Down",
-        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
-      },
-      "artists": [
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Angelica Sanchez",
-          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
-        },
-        {
-          "name": "Chris Lightcap",
-          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
-        }
-      ],
-      "duration_ms": 359466,
-      "name": "Box Step",
-      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "BASFE",
@@ -941,6 +901,50 @@
       "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Circle Down",
+        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
+      },
+      "artists": [
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Angelica Sanchez",
+          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
+        },
+        {
+          "name": "Chris Lightcap",
+          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
+        }
+      ],
+      "duration_ms": 359466,
+      "name": "Box Step",
+      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "The Dorothy Wallace Suite",
+        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
+      },
+      "artists": [
+        {
+          "name": "Ran Blake",
+          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Symphony in Green",
+      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
+    },
+    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "We Met - and Then",
@@ -967,22 +971,26 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "The Dorothy Wallace Suite",
-        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
+        "name": "Morph",
+        "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
       },
       "artists": [
         {
-          "name": "Ran Blake",
-          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
+          "name": "Whit Dickey",
+          "url": "https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo"
         },
         {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+        },
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
         }
       ],
-      "duration_ms": 284333,
-      "name": "Symphony in Green",
-      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
+      "duration_ms": 210440,
+      "name": "Blue Threads",
+      "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
     }
   ],
   "unique_name": "Avant-Jazz",

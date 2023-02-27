@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-325 songs - 19 hr 29 min
+326 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 | 2022-12-03 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
-| [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 |  |
+| [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 |  |
+| [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 | 2023-02-27 |
 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 | 2023-02-10 |  |
 | [Leave When You Go](https://open.spotify.com/track/0SXeE6kClNXeYd4o5blyZZ) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Big Hurt Boy](https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz) | 3:30 | 2022-05-13 | 2022-06-25 |
 | [Leave You Lonely](https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Leave You Lonely](https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es) | 4:24 | 2022-08-19 | 2022-09-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
-  "num_followers": 2425074,
+  "num_followers": 2425861,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA1OTA0OSwwMDAwMDAwMDkxMWVkNmNmYzJlYWEyOTM5NjBhOTUxMDExOWMwZThl",
+  "snapshot_id": "MTY3NjA1OTA0OSwwMDAwMDAwMGNiNzk2YjAzODc5NTkxZGQ2Mjk0YWFmNzQ5NmQzNTM2",
   "tracks": [
     {
       "added_at": "2022-12-30 17:23:40",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
         "name": "Straight Outta Compton",
         "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 324306,
       "name": "I Know What You Want (feat. Flipmode Squad)",
       "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "Man On The Moon: The End Of Day",
-        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Day 'N' Nite (nightmare)",
-      "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
-    },
-    {
-      "added_at": "2022-12-30 17:23:40",
-      "album": {
         "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 251573,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
+    },
+    {
+      "added_at": "2022-12-30 17:23:40",
+      "album": {
+        "name": "Man On The Moon: The End Of Day",
+        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Day 'N' Nite (nightmare)",
+      "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
     },
     {
       "added_at": "2022-12-30 17:23:40",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-12-30 17:23:40",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2022-12-30 17:23:40",

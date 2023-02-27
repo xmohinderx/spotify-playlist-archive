@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Kate NV on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,183 songs - 4 day 0 hr 34 min
+1,184 songs - 4 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1048,7 +1048,8 @@
 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 | 2022-08-03 | 2022-09-01 |
 | [Toquei no Sol](https://open.spotify.com/track/5yzDkcVeP5kiYnVOfNt2sJ) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [Toquei no Sol](https://open.spotify.com/album/0YRfD14jQxCxdiNF2naUJb) | 5:42 | 2023-02-01 |  |
 | [Toska](https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Toska](https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer) | 5:42 | 2021-08-05 | 2022-03-10 |
-| [Tous Ensemble](https://open.spotify.com/track/1MGE7HCWJq1uECxeLkdJds) | [Ouai Stéphane](https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf) | [Tous Ensemble](https://open.spotify.com/album/1wJoPP4bfL21RIJ1PUVjXv) | 3:30 | 2023-02-01 |  |
+| [Tous Ensemble](https://open.spotify.com/track/172OO0aGapGphSl7nPZVGa) | [Ouai Stéphane](https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf) | [Tous Ensemble](https://open.spotify.com/album/07qpnC6pCWz694yQnRM3HX) | 3:30 | 2023-02-01 |  |
+| [Tous Ensemble](https://open.spotify.com/track/1MGE7HCWJq1uECxeLkdJds) | [Ouai Stéphane](https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf) | [Tous Ensemble](https://open.spotify.com/album/1wJoPP4bfL21RIJ1PUVjXv) | 3:30 | 2023-02-01 | 2023-02-27 |
 | [traces of a dream \- Jupi/ter Recycle](https://open.spotify.com/track/03wvhQGRuoMpZBBDt7aw6M) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [traces of a dream \(Jupi/ter Recycle\)](https://open.spotify.com/album/2yt7d3EtoMU62tcDpW2Bqd) | 4:45 | 2022-09-14 | 2022-09-22 |
 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 | 2022-03-30 | 2022-05-19 |
 | [Tragic Sublime 悲剧性崇高](https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn) | [Yikii](https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm) | [Tragic Sublime 悲剧性崇高](https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P) | 3:35 | 2023-02-01 |  |

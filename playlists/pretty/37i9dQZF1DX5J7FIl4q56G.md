@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Archetypes Collide
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,792 likes - 52 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,900 likes - 52 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 36 | [Stand And Deliver \(Shoot 'em Down\)](https://open.spotify.com/track/0uWiz0WAVy53yoIyQhRmpi) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [JUDGEMENT DAY](https://open.spotify.com/album/47Vc1BE06sqdNc9FrZzamk) | 5:09 |
 | 37 | [Destiny Is Calling](https://open.spotify.com/track/2A7QH92lyXJS9hs1seLh9g) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Destiny Is Calling](https://open.spotify.com/album/2SpO7bwY4uJbQw0G5iiw7c) | 3:55 |
 | 38 | [Three Years](https://open.spotify.com/track/3lA7AXHbM9TRYNFvXLq5s6) | [All Faces Down](https://open.spotify.com/artist/0IohuWvOYtIiMCLsIXal8m) | [Three Years](https://open.spotify.com/album/5sScZsaeHahFXtV9vfWlLo) | 3:23 |
-| 39 | [Koaitra](https://open.spotify.com/track/1piJMtAVSSv0nZoeck86lo) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/5joOB6mLIIeNmSsMsUctnn) | 2:51 |
+| 39 | [Koaitra](https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/28QBnbAKQQnvYjE1leuV6n) | 2:51 |
 | 40 | [Virtual Signal](https://open.spotify.com/track/167O2d3iJRRnDAEdJNXJhw) | [Project 86](https://open.spotify.com/artist/7toVzxZQU21OjB5PqXNvTF) | [Virtual Signal](https://open.spotify.com/album/0AbgrMxOW2saI769zdpsiB) | 3:22 |
 | 41 | [Heist](https://open.spotify.com/track/5D9j5zjNyYfJhxeYSAASi5) | [QUEEN KONA](https://open.spotify.com/artist/6fuf34CYUe4klqiMkH2SOr) | [Heist](https://open.spotify.com/album/1XbMIGJiMyQGYvd1l1xXZO) | 4:42 |
 | 42 | [Nonetheless](https://open.spotify.com/track/3DgD7kR6Owbqq7Xmz04chM) | [Hammerhedd](https://open.spotify.com/artist/2hXhcmGIY6NgJL8eQRoA5d) | [Nonetheless](https://open.spotify.com/album/1VlvJFE6vC8ha6MKuT967g) | 3:58 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 51 | [Somos Negocio](https://open.spotify.com/track/7Dtbv6pChk6Qdyxy5BJJJb) | [DELICTIVO](https://open.spotify.com/artist/1G8OSVGFYiuCJSMySDPCbE), [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [Somos Negocio](https://open.spotify.com/album/5HjAP8qa3lBJ7pBIvgP4Ci) | 2:33 |
 | 52 | [Infernal Requiem](https://open.spotify.com/track/2FsQAWJewoJRGJ9M2Ac97Y) | [Draconian Reign](https://open.spotify.com/artist/0SQfK35YYjN6hqkoYvxOkM) | [Infernal Requiem](https://open.spotify.com/album/5E55xNKv2TxDqYUiirjMhN) | 5:24 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDExZDQzNTUwNWY4ZDNkYmQ4YmRjZWZmZmY2NTFkMGU3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDc1YjNhZGYzYmYyMTNlMTExYmE4MDEyNDI0MmU2ODFi`

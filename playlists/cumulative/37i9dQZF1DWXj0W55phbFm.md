@@ -4,7 +4,7 @@
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-133 songs - 13 hr 25 min
+134 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Trance Dance](https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO) | [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Goran Kajfes Subtropic Arkestra](https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7) | [The Reason Why Vol\. 3](https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4) | 8:53 | 2022-05-13 |  |
 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 | 2022-05-13 |  |
 | [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 | 2022-08-17 |  |
-| [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 | 2022-08-12 |  |
+| [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 | 2022-08-12 | 2023-02-27 |
+| [Weather Bird](https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 2:44 | 2023-02-10 |  |
 | [Weaver Of Dreams \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:35 | 2022-05-13 |  |
 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 | 2023-02-10 |  |
 | [West End Blues](https://open.spotify.com/track/2STqplYkSLD5ovON11dwcB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [This Is Jazz \#1](https://open.spotify.com/album/2xRcy7P8BrID3FSCWfD8nQ) | 3:15 | 2022-05-13 | 2023-02-26 |

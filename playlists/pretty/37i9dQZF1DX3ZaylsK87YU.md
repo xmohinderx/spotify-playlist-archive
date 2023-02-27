@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,681 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,962 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 22 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 |
 | 23 | [Be Thou My Vision](https://open.spotify.com/track/2s1a8wNeH6IiOSowWj9veS) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 3:33 |
 | 24 | [Simple Gospel \(Live\)](https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:00 |
-| 25 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
-| 26 | [Out of Hiding \(Father's Song\)](https://open.spotify.com/track/5E0PVkm5wM9hV6zEUwpZb6) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 4:28 |
+| 25 | [Out of Hiding \(Father's Song\)](https://open.spotify.com/track/5E0PVkm5wM9hV6zEUwpZb6) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 4:28 |
+| 26 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 27 | [Lay It All Down](https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 5:51 |
 | 28 | [How He Loves Us](https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 4:50 |
 | 29 | [The Old Rugged Cross](https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Precious Memories](https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe) | 3:06 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 71 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
 | 72 | [Restless](https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [The House You're Building](https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN) | 4:55 |
 | 73 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
-| 74 | [Come, Thou Fount of Every Blessing \(Arr\. Keith McKay Evans\)](https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Lead Thou Me On: Hymns and Inspiration](https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M) | 3:23 |
-| 75 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
+| 74 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
+| 75 | [Come, Thou Fount of Every Blessing \(Arr\. Keith McKay Evans\)](https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Lead Thou Me On: Hymns and Inspiration](https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M) | 3:23 |
 | 76 | [Cecie's Lullaby](https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 4:04 |
 | 77 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
 | 78 | [Be Thou My Vision](https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [Be Thou My Vision](https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Open the Eyes of My Heart](https://open.spotify.com/track/2THCQcUx495TezaDX57Syx) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:59 |
 | 100 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 |
 
-Snapshot ID: `MTY3NjY5NjM5NSwwMDAwMDAwMGRkZWRiZDk3MDcxMjk5OTI0OWJiM2E0OWM2ZDZkNGVm`
+Snapshot ID: `MTY3NjY5NjM5NSwwMDAwMDAwMDI5ZWNiOGNiN2VmYjk4MjM4NGEwYTdkMTg4OTA2ZmZi`

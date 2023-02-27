@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,788 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,452 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 170 | [The W.A.N.D.](https://open.spotify.com/track/2frHiHPVkiNCBMPkYF83Jr) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War with the Mystics](https://open.spotify.com/album/6oVaKzODiXqew6MScEd7T4) | 3:42 |
 | 171 | [December](https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG) | 4:32 |
 | 172 | [Megaton Mile](https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:26 |
-| 173 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
+| 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY3NzI3MTcyNSwwMDAwMDAwMDFhMTYyOTg0YjI1YjY0ODFiOGJkYzkzNTIyNWEzNjRk`
+Snapshot ID: `MTY3NzI3MTcyNSwwMDAwMDAwMDQ2Njg2NzRiOTBkMDkzOTQ2MWM0ODdmMmUzN2MwMzlj`

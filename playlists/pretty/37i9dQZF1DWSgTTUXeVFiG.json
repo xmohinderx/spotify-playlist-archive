@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 13863,
+  "num_followers": 13912,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDVmOWZjMWRkOTkwZDljNDdlYTgyZTNkYTVmZDRmYmNi",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDAwM2MzOWU5MGZkNmY1OGQ3YzY4MjI2YTJkNmFhZDk0",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 392933,
-      "name": "Hazme Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "A Night Of Salsa",
         "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 401466,
       "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
       "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Hazme Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
     },
     {
       "added_at": "2022-03-18 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > all my friends make sweet fun of me, i guess it's funny, but the truth; I bruise easily .\. 🖤💜💜💚💚💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,769 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,785 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

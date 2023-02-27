@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 33344,
+  "num_followers": 33387,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDViN2UxNjdiZTA5OTZjYWM1ZGY3MWI3ODk3MDcyOGEw",
+  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDlmZTczNzViYTliYjEwMTMzOGViM2U2Y2VmNWQ1NWE1",
   "tracks": [
     {
       "added_at": "2023-01-10 17:34:17",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
         "url": "https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241386,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
       },
       "artists": [
         {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
         }
       ],
-      "duration_ms": 188360,
-      "name": "Slider",
-      "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
       "artists": [
         {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
         }
       ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+      "duration_ms": 188360,
+      "name": "Slider",
+      "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Return Of The Boogie Man",
         "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Keep It Coming",
-        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
-      },
-      "artists": [
-        {
-          "name": "Esben Just",
-          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "The Bobby Robinson Story Volume One",
         "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 145278,
       "name": "Shake Baby Shake",
       "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Keep It Coming",
+        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
+      },
+      "artists": [
+        {
+          "name": "Esben Just",
+          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Boogie Woogie",
-        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
       "artists": [
         {
-          "name": "Henning Pertiet",
-          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Get in the Groove, Boys!",
-      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
+      "duration_ms": 200040,
+      "name": "Bluegrass Boogie Woogie",
+      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
       },
       "artists": [
         {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+          "name": "Henning Pertiet",
+          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Bluegrass Boogie Woogie",
-      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
+      "duration_ms": 198733,
+      "name": "Get in the Groove, Boys!",
+      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
     },
     {
       "added_at": "2023-01-10 17:34:17",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 83222,
+  "num_followers": 83254,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUwNjkwNSwwMDAwMDAwMDMwMzYwMGE5NWJlNDNkNDlmNTMwNjQ1YjIxYjNhNjIw",
+  "snapshot_id": "MTY3NjUwNjkwNSwwMDAwMDAwMDc1NDY0ZmExZDI4ZjI1ODAzYjg1ODdmOWQwY2ViMzQz",
   "tracks": [
     {
       "added_at": "2021-10-06 04:42:05",
@@ -285,24 +285,20 @@
       "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
-      "added_at": "2022-09-15 12:23:59",
+      "added_at": "2022-09-21 01:59:31",
       "album": {
-        "name": "Nutrition",
-        "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
       },
       "artists": [
         {
-          "name": "Tenka",
-          "url": "https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw"
-        },
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Nutrition - Single Edit",
-      "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
+      "duration_ms": 186624,
+      "name": "C.A.",
+      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -321,20 +317,24 @@
       "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
     },
     {
-      "added_at": "2022-09-21 01:59:31",
+      "added_at": "2022-09-15 12:23:59",
       "album": {
-        "name": "Feorm Falorx",
-        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+        "name": "Nutrition",
+        "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "Tenka",
+          "url": "https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw"
+        },
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
-      "duration_ms": 186624,
-      "name": "C.A.",
-      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
+      "duration_ms": 279000,
+      "name": "Nutrition - Single Edit",
+      "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
     },
     {
-      "added_at": "2022-09-21 02:21:07",
-      "album": {
-        "name": "Waypoints",
-        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
-      },
-      "artists": [
-        {
-          "name": "Hans Berg",
-          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
-        }
-      ],
-      "duration_ms": 354645,
-      "name": "The Clearing Pt. 2",
-      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
-    },
-    {
       "added_at": "2022-03-30 15:08:41",
       "album": {
         "name": "Between Voids",
@@ -571,6 +555,22 @@
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
+      "added_at": "2022-09-21 02:21:07",
+      "album": {
+        "name": "Waypoints",
+        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
+      },
+      "artists": [
+        {
+          "name": "Hans Berg",
+          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
+        }
+      ],
+      "duration_ms": 354645,
+      "name": "The Clearing Pt. 2",
+      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
     },
     {
       "added_at": "2021-11-25 22:12:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Oquo",
         "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
@@ -757,36 +741,20 @@
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
     },
     {
-      "added_at": "2022-04-12 01:36:14",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
         }
       ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
-    },
-    {
-      "added_at": "2023-01-07 02:10:08",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -809,20 +777,36 @@
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
-      "added_at": "2022-12-29 18:34:46",
+      "added_at": "2023-01-07 02:10:08",
       "album": {
-        "name": "Nannou (Mixed)",
-        "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 115000,
-      "name": "Nannou - Mixed",
-      "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2022-04-12 01:36:14",
+      "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -873,20 +857,20 @@
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-12-29 18:34:46",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "Nannou (Mixed)",
+        "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 115000,
+      "name": "Nannou - Mixed",
+      "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -905,20 +889,20 @@
       "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
     },
     {
-      "added_at": "2022-12-16 01:59:41",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
       },
       "artists": [
         {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
         }
       ],
-      "duration_ms": 244760,
-      "name": "5",
-      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -943,22 +927,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
       },
@@ -971,6 +939,54 @@
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
+    },
+    {
+      "added_at": "2022-12-16 01:59:41",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2022-11-09 13:54:27",
-      "album": {
-        "name": "sssssmilinggggg",
-        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
-      },
-      "artists": [
-        {
-          "name": "Kaho Matsui",
-          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "sssssmilinggggg",
-      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -1067,6 +1051,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2022-11-09 13:54:27",
+      "album": {
+        "name": "sssssmilinggggg",
+        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
+      },
+      "artists": [
+        {
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
+        }
+      ],
+      "duration_ms": 404210,
+      "name": "sssssmilinggggg",
+      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Several Shades of the Same Color",
-        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
-      },
-      "artists": [
-        {
-          "name": "Patricia",
-          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
-        }
-      ],
-      "duration_ms": 303302,
-      "name": "Liminal States",
-      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "L'\u00e9treinte Imaginaire",
         "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 393717,
       "name": "Promise You'll Haunt Me",
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Several Shades of the Same Color",
+        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
+      },
+      "artists": [
+        {
+          "name": "Patricia",
+          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
+        }
+      ],
+      "duration_ms": 303302,
+      "name": "Liminal States",
+      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
     },
     {
-      "added_at": "2022-02-25 03:47:46",
+      "added_at": "2021-12-23 15:50:34",
       "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
         }
       ],
-      "duration_ms": 382111,
-      "name": "Plonk III",
-      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+      "duration_ms": 564154,
+      "name": "Plonk VI",
+      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
     },
     {
       "added_at": "2022-01-12 18:40:19",
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
     },
     {
-      "added_at": "2021-12-23 15:50:34",
+      "added_at": "2022-02-25 03:47:46",
       "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
@@ -1296,25 +1296,9 @@
           "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
         }
       ],
-      "duration_ms": 564154,
-      "name": "Plonk VI",
-      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+      "duration_ms": 382111,
+      "name": "Plonk III",
+      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1331,6 +1315,22 @@
       "duration_ms": 154838,
       "name": "Boreal",
       "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2022-03-11 06:16:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "The Crucible",
-        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
-      },
-      "artists": [
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
-        }
-      ],
-      "duration_ms": 207407,
-      "name": "Green Phase, Part One",
-      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 237750,
       "name": "Blush",
       "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "The Crucible",
+        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
+      },
+      "artists": [
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+        }
+      ],
+      "duration_ms": 207407,
+      "name": "Green Phase, Part One",
+      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
     },
     {
       "added_at": "2022-03-09 04:45:41",
@@ -1661,20 +1661,24 @@
       "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
     },
     {
-      "added_at": "2022-02-18 05:43:49",
+      "added_at": "2022-09-27 21:44:48",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+        "name": "Las Tres Hermanas",
+        "url": "https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9"
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "Las \u00c1\u00f1ez",
+          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
         }
       ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+      "duration_ms": 229000,
+      "name": "Las Tres Hermanas",
+      "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     }
   ],
   "unique_name": "Refractions",

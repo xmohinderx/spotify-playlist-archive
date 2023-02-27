@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Don Toliver, Key Glock and more\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,070 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,227 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 |
 | 7 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |
 | 8 | [Undefeated](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Undefeated](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
-| 9 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
+| 9 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
 | 10 | [Way Too Petty](https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Way Too Petty](https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF) | 2:12 |
 | 11 | [Out of State](https://open.spotify.com/track/5xsr3QA0kvK4VFADzbUhUt) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Out of State](https://open.spotify.com/album/0Cy2QYq6hBh1Y5R21xmlpm) | 1:46 |
 | 12 | [Like A Star](https://open.spotify.com/track/7K2BRlhDFdrViNepbSXGFy) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Star Power](https://open.spotify.com/album/7kRhfYHR1agIzy2W7xwnPK) | 2:27 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [Gangsta Activity](https://open.spotify.com/track/2p5rwAzV8JuCGaN9f9LxbN) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Gangsta Activity](https://open.spotify.com/album/6Cl7ak9lrKHxUcftD4Rlzi) | 1:58 |
 | 46 | [48 \(feat\. Pink Siifu\)](https://open.spotify.com/track/62nCNWIaxfTwrRhbCM8LwQ) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Even God Has A Sense Of Humor](https://open.spotify.com/album/4joXp47OdL7OR96VI80yLF) | 2:39 |
 | 47 | [Chaka Khan \(feat\. BabyTron\)](https://open.spotify.com/track/33ydbei58nqa2j621WAU5B) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Born To Score](https://open.spotify.com/album/6Nm7qcEY3GsDfOt7Nj6iY3) | 3:05 |
-| 48 | [Errybody Hates 90 Intro](https://open.spotify.com/track/4gX5QNCc9NBKWapvj50oSy) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb) | [Errybody Hates 90](https://open.spotify.com/album/1KWRGK41GjDhSgTsu9RbVs) | 1:43 |
+| 48 | [Errbody Hates 90 Intro](https://open.spotify.com/track/4gX5QNCc9NBKWapvj50oSy) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb) | [Errbody Hates 90](https://open.spotify.com/album/1KWRGK41GjDhSgTsu9RbVs) | 1:43 |
 | 49 | [Big Smoke](https://open.spotify.com/track/4N8uD36Xn50DSBg1Swh9do) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Big Smoke](https://open.spotify.com/album/4nTO6s6ainH7OP4S5GynL0) | 2:47 |
 | 50 | [Showing](https://open.spotify.com/track/0TYI2XFZBnKht4ST2x7iIe) | [DaeDalTm](https://open.spotify.com/artist/3nRaPl431Y4WNLU7EF49VW) | [Showing](https://open.spotify.com/album/3qDTmXpBYxvbUa5AOIR0WB) | 2:02 |
 

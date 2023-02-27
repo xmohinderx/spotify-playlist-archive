@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102432,
+  "num_followers": 102457,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDkwNjMwM2Q5YjIxZTJmYTY0ODk3ZjEwOTI4YjYyNmRl",
+  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDIzZDM1ZDYwZjNhOGY0NjU3YTFjZDUyYTc0MmNjMTVl",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 209280,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Continua",
         "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 224393,
       "name": "Condition",
       "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -731,26 +731,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "fall back",
-        "url": "https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj"
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         },
         {
-          "name": "Akemi Fox",
-          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
-        },
-        {
-          "name": "always centered at night",
-          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 252584,
-      "name": "fall back",
-      "url": "https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk"
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -771,22 +767,26 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Giving Up",
-        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+        "name": "fall back",
+        "url": "https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "Akemi Fox",
+          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
+        },
+        {
+          "name": "always centered at night",
+          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
         }
       ],
-      "duration_ms": 203751,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+      "duration_ms": 252584,
+      "name": "fall back",
+      "url": "https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
+        "name": "Closure (feat. Helena)",
+        "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
       "artists": [
         {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        },
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm"
         }
       ],
-      "duration_ms": 191406,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
+      "duration_ms": 270536,
+      "name": "Closure (feat. Helena)",
+      "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Closure (feat. Helena)",
-        "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        },
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm"
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
         }
       ],
-      "duration_ms": 270536,
-      "name": "Closure (feat. Helena)",
-      "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+      "duration_ms": 191406,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Caring EP",
-        "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 274267,
-      "name": "Shapeless",
-      "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "meserole",
         "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 213760,
       "name": "meserole",
       "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Caring EP",
+        "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 274267,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "R\u00caVES",
-        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 268872,
-      "name": "R\u00caVES",
-      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Control EP",
         "url": "https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 239678,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "R\u00caVES",
+        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
+      },
+      "artists": [
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "duration_ms": 268872,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
     },
     {
       "added_at": "2023-02-09 13:00:00",

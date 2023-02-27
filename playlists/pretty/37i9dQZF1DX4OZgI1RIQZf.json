@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 16630,
+  "num_followers": 16777,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDM4ZTBkZmY3NThkOGVlNjY1ZWJmYmUwZjI3ZDQzYTU4",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDg0NjExYmE2MDU0ODdmNTAxYTE2ZTc3NDFkOTMzNDM2",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "We Only Come Out At Night - Remastered 2012",
-      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 138893,
       "name": "Little Ghost",
       "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "We Only Come Out At Night - Remastered 2012",
+      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "We Need Medicine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Halloween Blues",
-      "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "We Need Medicine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
     },
     {
       "added_at": "2023-02-09 23:00:00",

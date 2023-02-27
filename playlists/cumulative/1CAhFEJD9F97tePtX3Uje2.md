@@ -4,7 +4,7 @@
 
 > 
 
-207 songs - 12 hr 26 min
+208 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Enight](https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Enight](https://open.spotify.com/album/0DSsnsN1NWZ8Ykcz7ACTRa) | 4:11 | 2019-09-28 |  |
 | [Enzen](https://open.spotify.com/track/3jBIpmRJaykA2vFyDKRxSr) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Enzen](https://open.spotify.com/album/25E0uiMiVLp2LcyL5u39YU) | 3:17 | 2021-04-29 |  |
 | [ETERNAL](https://open.spotify.com/track/4NjbueibGnxkvgsF5lw6wa) | [WHITE KATANA](https://open.spotify.com/artist/5OtyZM8MxtHrYqOPxetwji), [ANUBIS\-XIII](https://open.spotify.com/artist/7wz8Chs4J8adhaluogDJBl) | [ETERNAL](https://open.spotify.com/album/0yjEEAFj6vPijY5bnaYBtZ) | 2:56 | 2019-04-29 |  |
+| [ETERNAL PAIN](https://open.spotify.com/track/3peSjzHxueZ5Us5IoNFQmL) | [TRPLSFL](https://open.spotify.com/artist/2TVP0556fwFwUW0TjHCww2) | [ETERNAL PAIN](https://open.spotify.com/album/1p8hIh8lVbRtbgnNQVprJ4) | 3:58 | 2023-02-26 |  |
 | [Eternally Yours](https://open.spotify.com/track/3ju6S1v9i1s9hzOm7hMRQr) | [Klimeks](https://open.spotify.com/artist/5JQljNQvDpk1hhKpJHpwNU) | [wave 002](https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W) | 4:22 | 2019-05-26 |  |
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-07-14 |  |
 | [Evoke](https://open.spotify.com/track/1wHJs0FZ2rfnF6WPbf7J9D) | [TIGEREYES](https://open.spotify.com/artist/3qWwKff78uoM5o717OkxZF) | [Time Lapse](https://open.spotify.com/album/2NdvZLJdMxls8T9tgGXIrh) | 2:48 | 2020-07-16 |  |

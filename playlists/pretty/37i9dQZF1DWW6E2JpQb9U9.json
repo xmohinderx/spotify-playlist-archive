@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
-  "num_followers": 96205,
+  "num_followers": 96247,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDJmMGNlYWJjNzVmNzQzZjg2MzA0YTIyZTQ3MTNjOGIx",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGM2Y2VmOTliODZlOWMzNDUzN2UyNWEzMWU4ZTc2Zjkx",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio II)",
-        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
+        "name": "En Vivo en The Theater at Madison Square Garden",
+        "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Homero - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
+      "duration_ms": 417880,
+      "name": "Mal Bicho - En Vivo en Theater at Madison Square Garden",
+      "url": "https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "En Vivo en The Theater at Madison Square Garden",
-        "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
+        "name": "Otra Noche en la Luna (Episodio II)",
+        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 417880,
-      "name": "Mal Bicho - En Vivo en Theater at Madison Square Garden",
-      "url": "https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx"
+      "duration_ms": 259200,
+      "name": "Homero - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 311605,
+      "name": "De la Guitarra - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 218960,
       "name": "Panic Show - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 311605,
-      "name": "De la Guitarra - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Salud! Los Perez Garcia en Vivo",
         "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 299176,
       "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
       "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 461266,
       "name": "Todo un Palo - En Vivo",
       "url": "https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 309720,
-      "name": "Pistolas - En Vivo",
-      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Cactus (En Vivo en Monterrey)",
         "url": "https://open.spotify.com/album/1i2P3wRgVKHdHfnDDpxlFX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 244773,
       "name": "Cactus - En Vivo en Monterrey",
       "url": "https://open.spotify.com/track/7AaxZgnm9gk3yfjVMp1nqe"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 309720,
+      "name": "Pistolas - En Vivo",
+      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Instante Eterno (ac\u00fastico en Vivo)",
-        "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
-      },
-      "artists": [
-        {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        }
-      ],
-      "duration_ms": 253757,
-      "name": "Volando - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/5ba8CYp9PnXs6gISceAzLQ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 431580,
-      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1371,6 +1339,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Instante Eterno (ac\u00fastico en Vivo)",
+        "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        }
+      ],
+      "duration_ms": 253757,
+      "name": "Volando - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/5ba8CYp9PnXs6gISceAzLQ"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Se Fue al Cielo (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+      "duration_ms": 431580,
+      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 276186,
       "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
       "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "La Portuaria En Vivo",
-        "url": "https://open.spotify.com/album/3Pzh6hE7RZofmrIrFyfiDd"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 279289,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/303pHynPWt6fzRQFQwI8SL"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
         "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+        "name": "La Portuaria En Vivo",
+        "url": "https://open.spotify.com/album/3Pzh6hE7RZofmrIrFyfiDd"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+      "duration_ms": 279289,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/303pHynPWt6fzRQFQwI8SL"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Vivo Cosqu\u00edn Rock",
+        "url": "https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 178877,
+      "name": "Ella Es Como un \u00c1ngel - En Vivo Cosqu\u00edn Rock",
+      "url": "https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Strangerdanger (En Vivo)",
         "url": "https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 184919,
       "name": "Strangerdanger - En Vivo",
       "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Vivo Cosqu\u00edn Rock",
-        "url": "https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 178877,
-      "name": "Ella Es Como un \u00c1ngel - En Vivo Cosqu\u00edn Rock",
-      "url": "https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ"
     },
     {
       "added_at": "2022-12-09 03:00:00",

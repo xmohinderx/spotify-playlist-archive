@@ -1,15 +1,15 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129569,
+  "num_followers": 129588,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njg2NDgwNCwwMDAwMDAwMDkwNGNjMmNhY2Y3YjIyMjQzNDJjY2ZmYmFhZDU0OTU3",
+  "snapshot_id": "MTY3Njg2NDgwNCwwMDAwMDAwMDFmODViYjVjNjEwMWYwOWFmMTYyZDA3YTU1NzYwNjY1",
   "tracks": [
     {
-      "added_at": "2023-02-26 01:01:37",
+      "added_at": "2023-02-27 01:37:46",
       "album": {
         "name": "I Feel Like Dancing",
         "url": "https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-02-26 01:01:37",
+      "added_at": "2023-02-27 01:37:46",
       "album": {
         "name": "S.O.L. (Alan Braxe Edit)",
         "url": "https://open.spotify.com/album/6bmSyg9ZxQE038UAwIULxK"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
-      "added_at": "2023-02-26 01:01:37",
+      "added_at": "2023-02-27 01:37:46",
       "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
@@ -1267,6 +1267,30 @@
     {
       "added_at": "2023-02-13 03:05:14",
       "album": {
+        "name": "Big Energy (feat. DJ Khaled) [Remix]",
+        "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 181665,
+      "name": "Big Energy (feat. DJ Khaled) - Remix",
+      "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
+    },
+    {
+      "added_at": "2023-02-13 03:05:14",
+      "album": {
         "name": "When I Get Old",
         "url": "https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2023-02-13 03:05:14",
-      "album": {
-        "name": "Big Energy (feat. DJ Khaled) [Remix]",
-        "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Big Energy (feat. DJ Khaled) - Remix",
-      "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
     },
     {
       "added_at": "2023-02-13 03:05:14",

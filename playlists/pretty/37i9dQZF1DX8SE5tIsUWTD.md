@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,240 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,343 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 43 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 5:01 |
 | 44 | [Shat Iskenderia](https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG), [Alia](https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb) | [Ferqet Americana Show Pt.2](https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS) | 4:25 |
 | 45 | [Ken Yama Disco](https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:02 |
-| 46 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
-| 47 | [Ya Galbi Laih](https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 3:56 |
+| 46 | [Ya Galbi Laih](https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 3:56 |
+| 47 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
 | 48 | [Sahranin](https://open.spotify.com/track/7C4xC1KnhC5Jp3ZQFOqdvI) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 5:09 |
 | 49 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
 | 50 | [Albaki](https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 7:06 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDNlZjY0NTZhOWFiNjEyNTNkZjFmY2NlMjE2ZDBlOTEy`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGU5OTE4NjU2MGQ1OWRlNTY2Njc5NTE4MDM2MzAwZDE1`

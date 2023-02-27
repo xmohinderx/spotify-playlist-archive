@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 47099,
+  "num_followers": 47158,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0OTYwOCwwMDAwMDAwMGQ1N2YzYjBlY2FjOTUyNWVmM2FmM2ViNjgxZjE3Yjk2",
+  "snapshot_id": "MTY3NjY0OTYwOCwwMDAwMDAwMDBhYzExY2YzYzYyZDk4NGRhNTMzYzAzMWJlMjg1YzIx",
   "tracks": [
     {
       "added_at": "2023-02-09 17:04:53",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
     },
     {
+      "added_at": "2023-02-27 00:32:43",
+      "album": {
+        "name": "Rymdresa",
+        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Rymdresa",
+      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
+    },
+    {
       "added_at": "2023-02-09 17:04:53",
       "album": {
         "name": "Tomorrow",
@@ -343,22 +359,6 @@
       "duration_ms": 168000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
-    },
-    {
-      "added_at": "2023-02-26 00:52:31",
-      "album": {
-        "name": "Rymdresa",
-        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
-      },
-      "artists": [
-        {
-          "name": "Juni Ros",
-          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Rymdresa",
-      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
     },
     {
       "added_at": "2023-02-09 17:04:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-09 17:04:53",
       "album": {
-        "name": "Calm Waves",
-        "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Calm Waves",
-      "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
-    },
-    {
-      "added_at": "2023-02-09 17:04:53",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 161012,
       "name": "Hush",
       "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
+    },
+    {
+      "added_at": "2023-02-09 17:04:53",
+      "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Calm Waves",
+      "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
     },
     {
       "added_at": "2023-02-09 17:04:53",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-02-09 17:04:53",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
+    },
+    {
+      "added_at": "2023-02-09 17:04:53",
+      "album": {
         "name": "Capella",
         "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
       },
@@ -1079,54 +1095,6 @@
       "duration_ms": 157402,
       "name": "Capella",
       "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
-    },
-    {
-      "added_at": "2023-02-09 17:04:53",
-      "album": {
-        "name": "A Space Within a Space",
-        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
-      },
-      "artists": [
-        {
-          "name": "Escape Gravity",
-          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "A Space Within a Space",
-      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
-    },
-    {
-      "added_at": "2023-02-09 17:04:53",
-      "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
-    },
-    {
-      "added_at": "2023-02-09 17:04:53",
-      "album": {
-        "name": "Sleep Drifting",
-        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Sleep Drifting",
-      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
     },
     {
       "added_at": "2023-02-09 17:04:53",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2023-02-09 17:04:53",
       "album": {
+        "name": "Sleep Drifting",
+        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Sleep Drifting",
+      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+    },
+    {
+      "added_at": "2023-02-09 17:04:53",
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
       },
@@ -1179,18 +1163,34 @@
     {
       "added_at": "2023-02-09 17:04:53",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
+        "name": "A Space Within a Space",
+        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
       },
       "artists": [
         {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+          "name": "Escape Gravity",
+          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
         }
       ],
-      "duration_ms": 170958,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
+      "duration_ms": 191111,
+      "name": "A Space Within a Space",
+      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
+    },
+    {
+      "added_at": "2023-02-09 17:04:53",
+      "album": {
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2023-02-09 17:04:53",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2023-02-09 17:04:53",
       "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
-      },
-      "artists": [
-        {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
-    },
-    {
-      "added_at": "2023-02-09 17:04:53",
-      "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
-    },
-    {
-      "added_at": "2023-02-09 17:04:53",
-      "album": {
         "name": "Dream Away",
         "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
       },
@@ -1259,6 +1227,22 @@
     {
       "added_at": "2023-02-09 17:04:53",
       "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+    },
+    {
+      "added_at": "2023-02-09 17:04:53",
+      "album": {
         "name": "Among the Clouds",
         "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 173333,
       "name": "Among the Clouds",
       "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
+    },
+    {
+      "added_at": "2023-02-09 17:04:53",
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
     },
     {
       "added_at": "2023-02-09 17:04:53",

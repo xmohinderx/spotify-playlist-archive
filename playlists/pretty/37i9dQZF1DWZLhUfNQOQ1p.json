@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230762,
+  "num_followers": 230764,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGI5NTFhNWYwMTVlYmFjNTVmZWUyYmQxNjVhMTRmOTNh",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDhhYmU1ODBkY2E1MWI2NzM2NDJlZWY4M2FiZDNkNzkw",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Don't Ever Wonder",
         "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
@@ -547,22 +531,6 @@
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "White Heart Sand",
-        "url": "https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd"
-      },
-      "artists": [
-        {
-          "name": "Togo Bao",
-          "url": "https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "White Heart Sand",
-      "url": "https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -583,6 +551,38 @@
       "duration_ms": 200131,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "White Heart Sand",
+        "url": "https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd"
+      },
+      "artists": [
+        {
+          "name": "Togo Bao",
+          "url": "https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "White Heart Sand",
+      "url": "https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
-      },
-      "artists": [
-        {
-          "name": "Julia Bergwall",
-          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
-        }
-      ],
-      "duration_ms": 192472,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Kindisch Presents: Kindisch Steps VI",
         "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
       },
@@ -891,8 +875,24 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "I Need My Girl",
-        "url": "https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq"
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
+      },
+      "artists": [
+        {
+          "name": "Julia Bergwall",
+          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
+        }
+      ],
+      "duration_ms": 192472,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
         }
       ],
-      "duration_ms": 222838,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP"
+      "duration_ms": 243624,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
     },
     {
       "added_at": "2021-08-05 09:09:59",

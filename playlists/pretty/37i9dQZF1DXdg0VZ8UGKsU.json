@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Michael Bolton",
-  "num_followers": 269191,
+  "num_followers": 269468,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMDZhZDdjMjVjZmZiZGVjNDViNzY2YmNjMjRhNzEyNmIw",
+  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMGI3ZTg4ZDg1MDJlMzBhZTEyMmJiZGRkNGE5MTc2NzBh",
   "tracks": [
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Look Sharp!",
-        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -1363,18 +1347,34 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
       },
       "artists": [
         {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
         }
       ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
     }
   ],
   "unique_name": "80s Ballads",

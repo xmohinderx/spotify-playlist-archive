@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 34589,
+  "num_followers": 35088,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk0MzEwMywwMDAwMDAwMDNkZWU0OTJkMzBlODY3MGMyYjIyYjE1YjAxMTIwNjlj",
+  "snapshot_id": "MTY3Njk0MzEwMywwMDAwMDAwMDZhNTFlNWQ4ZjZiMGE5YTYzN2UwNWY3ODE2Mzg5ZTE5",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "11\u202211\u202211",
-        "url": "https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Who's Counting",
-      "url": "https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Everything Else Matters",
@@ -455,6 +439,22 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "11\u202211\u202211",
+        "url": "https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Who's Counting",
+      "url": "https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
-      },
-      "artists": [
-        {
-          "name": "Bedchamber",
-          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
-        }
-      ],
-      "duration_ms": 131674,
-      "name": "Out of Line",
-      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
-    },
-    {
       "added_at": "2022-01-07 19:52:45",
       "album": {
         "name": "Strawberry",
@@ -713,20 +697,36 @@
       "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Despondent Transponder",
-        "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
       },
       "artists": [
         {
-          "name": "Fleeting Joys",
-          "url": "https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH"
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
         }
       ],
-      "duration_ms": 270094,
-      "name": "Go and Come Back",
-      "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
+      "duration_ms": 131674,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+    },
+    {
+      "added_at": "2022-09-21 00:37:05",
+      "album": {
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Air Supply",
+      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -745,20 +745,20 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2022-09-21 00:37:05",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "You Will Never Know Why",
-        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+        "name": "Despondent Transponder",
+        "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
       },
       "artists": [
         {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+          "name": "Fleeting Joys",
+          "url": "https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH"
         }
       ],
-      "duration_ms": 281746,
-      "name": "Air Supply",
-      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+      "duration_ms": 270094,
+      "name": "Go and Come Back",
+      "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -891,22 +907,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "TRU",
         "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Too Wild",
+        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
+      },
+      "artists": [
+        {
+          "name": "Seasurfer",
+          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Too Wild",
+      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -939,22 +955,6 @@
       "duration_ms": 186613,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Too Wild",
-        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
-      },
-      "artists": [
-        {
-          "name": "Seasurfer",
-          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Too Wild",
-      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
       "added_at": "2022-12-15 18:01:43",

@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-160 songs - 8 hr 46 min
+161 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/4QVS8YCpK71R4FsxSMCjhP) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/album/69t8rpgBN1ov5kCU6LDMuR) | 3:38 | 2021-12-03 | 2022-04-21 |
 | [Tokyo](https://open.spotify.com/track/5GRf6zSrCi8gErdN6CyRJT) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Tokyo](https://open.spotify.com/album/00vH1F6IQIDDDOeodKDD2k) | 2:54 | 2021-12-03 | 2022-05-26 |
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-12-03 | 2022-04-21 |
-| [Trench](https://open.spotify.com/track/0KS9J9OECRseMt98OFMRwf) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/4c4cElNGk6clbEo3HMSiC4) | 2:57 | 2023-02-08 |  |
+| [Trench](https://open.spotify.com/track/0KS9J9OECRseMt98OFMRwf) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/4c4cElNGk6clbEo3HMSiC4) | 2:57 | 2023-02-08 | 2023-02-27 |
+| [Trench](https://open.spotify.com/track/3HTiVEVhV1YPbja4nas7iR) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/7Iv5I1zjAnUcxzkKJ4g38V) | 2:57 | 2023-02-08 |  |
 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 | 2021-12-03 | 2022-10-11 |
 | [UCKERS](https://open.spotify.com/track/3CFPJGktOC1KpxwvDjIHfL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/6QSYoJYxiaD5884cvGrytt) | 1:55 | 2021-12-03 | 2022-04-20 |
 | [Umbrella \(with Marnik\)](https://open.spotify.com/track/20PbUoGyGk7jJgLAgqlauh) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Umbrella \(with Marnik\)](https://open.spotify.com/album/47sAd2DEvtYTrkS3YPmPGj) | 3:00 | 2021-12-03 | 2022-04-21 |

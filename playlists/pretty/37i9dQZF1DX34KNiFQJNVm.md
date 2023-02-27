@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Hariel com MC GP e Mc Kadu, Dilsinho com Diego & Vitor Hugo, Agnes Nunes, BaianaSystem com Gilsons, Mc Livinho, Fernanda Takai e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,840,447 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,840,665 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

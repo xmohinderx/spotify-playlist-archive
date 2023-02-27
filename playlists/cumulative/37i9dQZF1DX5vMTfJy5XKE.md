@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-369 songs - 19 hr 23 min
+370 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [I Feel Like A Kid Again](https://open.spotify.com/track/4THXOQpQKTRHWNyyadHUHt) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [I Feel Like A Kid Again](https://open.spotify.com/album/2HIZIJK5KNJ2pJFMvmMFou) | 3:32 | 2021-12-24 | 2022-09-28 |
 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 | 2021-12-24 | 2022-09-28 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 | 2021-12-24 | 2022-09-28 |
-| [I'll Be Home For Christmas](https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3Es0nbwli8bIfJTRgAHwAQ) | 2:59 | 2022-11-18 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/5qXRonXukhWNIyNDjWLwtU) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [I'll Be Home For Christmas](https://open.spotify.com/album/1nQQy8u9dEMRUshhfMKGdA) | 2:59 | 2022-11-18 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3Es0nbwli8bIfJTRgAHwAQ) | 2:59 | 2022-11-18 | 2023-02-27 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/13VqMQNpRUaEHFqerPibVo) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'll Be Home for Christmas](https://open.spotify.com/album/0ggYChoRsfiOvD1h266pFV) | 2:45 | 2021-12-24 | 2022-08-22 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0V2Anxn5pgRHZElbYbCip0) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [I'll Be Home for Christmas](https://open.spotify.com/album/3sJ5zX6tqTL3Mjo9NIkWri) | 3:11 | 2021-12-24 | 2022-09-28 |
 | [I'm Ready For Christmas](https://open.spotify.com/track/7MMXcvgISOTgjwJq8RAj9f) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [I'm Ready For Christmas](https://open.spotify.com/album/7aiiUn98kVj0zp0ZQf6pSO) | 2:25 | 2022-12-02 |  |

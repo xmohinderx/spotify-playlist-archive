@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-721 songs - 1 day 14 hr 15 min
+722 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,7 @@
 | [Sad Song](https://open.spotify.com/track/60myJkGADnezI41vHervyf) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Sad Song](https://open.spotify.com/album/12xJyosypN13weH53RXsVa) | 2:34 | 2019-06-24 | 2020-06-08 |
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2022-09-29 | 2023-02-24 |
 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/5T490vvoFNU6psep0NPmxs) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/0dnmmbHWt1kH47FWDhwBHq) | 2:51 | 2020-06-13 | 2022-04-21 |
-| [Savage Love \(Laxed – Siren Beat\) \[BTS Remix\]](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Savage Love \(Laxed \- Siren Beat\) \[BTS Remix\]](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) | 3:04 | 2020-10-02 |  |
+| [Savage Love \(Laxed – Siren Beat\) \[BTS Remix\]](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Savage Love \(Laxed \- Siren Beat\) \[BTS Remix\]](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) | 3:04 | 2020-10-02 | 2023-02-27 |
 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 | 2019-11-08 | 2020-10-21 |
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2020-07-24 | 2022-04-13 |
 | [SECRETS](https://open.spotify.com/track/7fWmftb04n0GsxEjezNhXt) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [SECRETS](https://open.spotify.com/album/7aXzARyrtGfF6CKADLIDSP) | 2:10 | 2021-05-24 | 2021-05-28 |
@@ -704,6 +704,7 @@
 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 | 2022-02-03 | 2022-07-29 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-21 |  |
 | [Wherever You Go](https://open.spotify.com/track/14nIFzHQf1OBWf6VHVR8DF) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Blue](https://open.spotify.com/album/6x8gRx7RDvPckYBzPodW8w) | 3:28 | 2019-05-26\* | 2020-05-23 |
+| [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-02-23 |  |
 | [White Sky](https://open.spotify.com/track/1W2ox3KxfTEQfO5NdOaK7E) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/23dMwCv6redn6pcyliSlGk) | 2:58 | 2019-07-10 | 2019-07-24 |
 | [Who's Laughing Now](https://open.spotify.com/track/73h4oe03sZy8bXfQLfnqMv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Who's Laughing Now](https://open.spotify.com/album/4mxU9BZA47n0hZbQ220Q5B) | 3:00 | 2020-08-03 | 2022-04-21 |
 | [Why So Serious](https://open.spotify.com/track/50tGR9MkWXug4dCvshHo8s) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Why So Serious](https://open.spotify.com/album/11hecjvc4fhgngamOIxdXW) | 3:43 | 2019-06-26 | 2019-08-27 |

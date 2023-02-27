@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10272,
+  "num_followers": 10289,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDg3MCwwMDAwMDAwMDI2MzQyNWJjMWQzZGZiNDhiMWVkMzcxMjZiZmJkMzcw",
+  "snapshot_id": "MTY3NzIzNDg3MCwwMDAwMDAwMDY3NTViM2E2MGJiM2IwMzUwMGMwODEyNzczODdkYjlj",
   "tracks": [
     {
       "added_at": "2023-02-24 10:34:30",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
-        "name": "No Make Up",
-        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "No Make Up",
-      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
-    },
-    {
-      "added_at": "2023-02-24 10:34:30",
-      "album": {
         "name": "Seasonal Hiatus",
         "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 218706,
       "name": "One Moment",
       "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
+    },
+    {
+      "added_at": "2023-02-24 10:34:30",
+      "album": {
+        "name": "No Make Up",
+        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "No Make Up",
+      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
     },
     {
       "added_at": "2023-02-24 10:34:30",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2023-02-24 10:34:30",
+      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 239499,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2023-02-24 10:34:30",
-      "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-02-24 10:34:30",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
         }
       ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-02-24 10:34:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 199766,
-      "name": "Celeb",
-      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
-    },
-    {
-      "added_at": "2023-02-24 10:34:30",
-      "album": {
         "name": "Crash Course in Romance OST Part 4",
         "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172361,
       "name": "At Night",
       "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
+    },
+    {
+      "added_at": "2023-02-24 10:34:30",
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 199766,
+      "name": "Celeb",
+      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
     },
     {
       "added_at": "2023-02-24 10:34:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-02-24 10:34:30",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2023-02-24 10:34:30",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-02-24 10:34:30",
@@ -799,22 +799,18 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
-        "name": "Film (Feat. Woshi)",
-        "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
+        "name": "LOVE PLAYLIST 4 Part.1",
+        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
       "artists": [
         {
-          "name": "JOPH",
-          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
-        },
-        {
-          "name": "Woshi",
-          "url": "https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq"
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Film (Feat. Woshi)",
-      "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
+      "duration_ms": 215120,
+      "name": "Be My Love",
+      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
     },
     {
       "added_at": "2023-02-24 10:34:30",
@@ -835,18 +831,22 @@
     {
       "added_at": "2023-02-24 10:34:30",
       "album": {
-        "name": "LOVE PLAYLIST 4 Part.1",
-        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
+        "name": "Film (Feat. Woshi)",
+        "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
       },
       "artists": [
         {
-          "name": "EXO-CBX",
-          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+          "name": "JOPH",
+          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
+        },
+        {
+          "name": "Woshi",
+          "url": "https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq"
         }
       ],
-      "duration_ms": 215120,
-      "name": "Be My Love",
-      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+      "duration_ms": 200000,
+      "name": "Film (Feat. Woshi)",
+      "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
     },
     {
       "added_at": "2023-02-24 10:34:30",

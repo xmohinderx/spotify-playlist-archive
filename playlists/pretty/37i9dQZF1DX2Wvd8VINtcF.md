@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,496 likes - 106 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,507 likes - 106 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 38 | [Again](https://open.spotify.com/track/3Ys8E3yQA3itYjZtOgDZ8B) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Again](https://open.spotify.com/album/3d8cu7MZqUAMxEdsPHMzD0) | 3:32 |
 | 39 | [Closure \(feat\. Sahxl\)](https://open.spotify.com/track/3mecGxkmpQr4I4fH8A1LY0) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN), [Sahxl](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [Closure \(feat\. Sahxl\)](https://open.spotify.com/album/64KBawLm5KcTgzLbyLpQ8e) | 3:36 |
 | 40 | [Heaven, Wait \(Joplyn Remix\)](https://open.spotify.com/track/4OFUyGiyOphh0WjTCEjjGc) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heaven, Wait \(Joplyn Remix\)](https://open.spotify.com/album/66Hz3v2kSBF4yjKc7QnU7d) | 4:37 |
-| 41 | [Two Sides](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
+| 41 | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
 | 42 | [Sweet Spot](https://open.spotify.com/track/3vNyzwnbooUoa4T4dTH1on) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Sweet Spot](https://open.spotify.com/album/7zOIOTUrjXFAOlSAU8IZS0) | 2:03 |
 | 43 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 44 | [Alright](https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Alright](https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S) | 2:54 |

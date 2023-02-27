@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 38613,
+  "num_followers": 38671,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGIzNzA0MzllYzgyNTExNTMwOTJlMDJjMDlmNjhlN2I1",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDk4NTE1NmEyYWYyOTJlZDc5NTRjZmVjN2VkM2ZiZDc5",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 490826,
       "name": "Last Dance - 12\" Version",
       "url": "https://open.spotify.com/track/4nWrCsWZzxiXX8FYHbydzl"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
         }
       ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
       "artists": [
         {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -955,22 +971,6 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Go West",
         "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 391693,
       "name": "Shame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2022-12-31 00:39:45",

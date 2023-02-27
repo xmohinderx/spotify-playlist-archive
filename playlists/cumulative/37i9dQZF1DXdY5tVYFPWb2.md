@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-438 songs - 1 day 5 hr 0 min
+439 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Ryan](https://open.spotify.com/track/7EqZo0mLgUYO3fD4GyNvcH) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Ryan](https://open.spotify.com/album/6whSVN6VIiYfyTQeRCuV35) | 4:45 | 2022-07-21 | 2022-07-23 |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-24 | 2022-06-01 |
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-16 |
+| [Saitei Na Drama](https://open.spotify.com/track/01yyhN908OiuvbFjCtBBXA) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Saitei Na Drama](https://open.spotify.com/album/5bfDxgPMtsIbWp6Rj5TPPZ) | 3:45 | 2023-02-26 |  |
 | [SANDIE](https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [SANDIE](https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T) | 4:47 | 2022-05-24 |  |
 | [Seaside Hotel](https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [TOKYO TOWER](https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb) | 4:49 | 2023-01-24 |  |
 | [Secret Path](https://open.spotify.com/track/0sYJyR15HTyCOPay0uVjng) | [BESPER](https://open.spotify.com/artist/5789BJLcwL0l01iK4OPlyX) | [Orbit](https://open.spotify.com/album/4fpqwqvKAKxOA8OtGFohTm) | 4:01 | 2022-12-06 | 2022-12-14 |
@@ -263,7 +264,7 @@
 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 | 2022-07-27 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2023-02-01 |
 | [Talk](https://open.spotify.com/track/18AY2i3WVZFIHGl6JG4xKa) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Talk](https://open.spotify.com/album/55bvAdlPn6JTlv8MpTgLig) | 4:38 | 2022-05-24 | 2022-07-29 |
-| [Talk](https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Talk](https://open.spotify.com/album/6miL71NzGTRCH5BOW4SO3R) | 4:38 | 2022-08-09 |  |
+| [Talk](https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Talk](https://open.spotify.com/album/6miL71NzGTRCH5BOW4SO3R) | 4:38 | 2022-08-09 | 2023-02-27 |
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-06-21 | 2022-07-27 |
 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 | 2022-05-24 | 2022-06-29 |
 | [tasty tasks](https://open.spotify.com/track/3HQ7aHzoLMlbjtYW8rUPGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [pool mood / tasty tasks / 息を吸う ここで吸う 生きてく](https://open.spotify.com/album/6IL2lsyn0niP1eZyoLV5lz) | 4:07 | 2022-06-02 | 2022-07-28 |

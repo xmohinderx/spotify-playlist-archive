@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Nia Archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,179 likes - 76 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,218 likes - 76 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 63 | [Como](https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 5:38 |
 | 64 | [Pouring Rain](https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Pouring Rain](https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88) | 3:11 |
 | 65 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 |
-| 66 | [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5Knw9biZRSrQBxigmydZD8) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/2ZJEAO6ymyjw2OkC33N8jQ) | 3:46 |
+| 66 | [Strangers Around \(feat\. just lil\)](https://open.spotify.com/track/5mPSGfCAWxYYgbRf9ePCrh) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [Real Time](https://open.spotify.com/album/4TKFUJgDQmeMoLguoUpOyW) | 3:46 |
 | 67 | [Just Say \- DJ Sliink Remix](https://open.spotify.com/track/0E0tSPI5JZz8Aq1y1DbFEQ) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Just Say \(DJ Sliink Remix\)](https://open.spotify.com/album/15YPQEfHQwtk8rcgSDPtBY) | 2:12 |
 | 68 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 |
 | 69 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 75 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 76 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDI0ZThlNTAzZmNkMmJkOWRkYjM1MzFkYjJlYWFhNGU1`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDZhMGY3MWJmNjY5ZDY1NWQyYWMzOTkxMGNhNTg4NWEx`

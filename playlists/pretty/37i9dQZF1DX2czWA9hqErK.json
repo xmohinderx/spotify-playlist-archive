@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 414140,
+  "num_followers": 414259,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAwNDk2MSwwMDAwMDAwMDAzM2RkYjAxZGQ2OWZkMWI4OTllNDQyNjA0MzEzNGNl",
+  "snapshot_id": "MTY3NzAwNDk2MSwwMDAwMDAwMDVkNzlmMmM1ODM0NjU1NTE2MTllMmY3MmEwM2U2YmIx",
   "tracks": [
     {
       "added_at": "2023-02-03 17:05:03",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
-      "added_at": "2023-02-26 01:06:03",
+      "added_at": "2023-02-27 00:35:32",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
     },
     {
-      "added_at": "2023-02-26 01:06:03",
+      "added_at": "2023-02-27 00:35:32",
       "album": {
         "name": "When I Get There",
         "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -591,34 +591,18 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "Walk Me Home...",
-        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 172514,
-      "name": "NIGHTS LIKE THESE",
-      "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -635,6 +619,22 @@
       "duration_ms": 252657,
       "name": "Innocence and Sadness",
       "url": "https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
+        "name": "Walk Me Home...",
+        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 172514,
+      "name": "NIGHTS LIKE THESE",
+      "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "Lose It All",
-        "url": "https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Lose It All",
-      "url": "https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 160786,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/1GYCkhHyUmLIt4da7iCVzy"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "essential",
-        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 162656,
-      "name": "essential",
-      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
+        "name": "essential",
+        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 162656,
+      "name": "essential",
+      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
         "name": "Keep Me (Acoustic)",
         "url": "https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 163000,
       "name": "Keep Me - Acoustic",
       "url": "https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 156963,
-      "name": "Shade of Yellow",
-      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -1311,18 +1295,34 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 142848,
-      "name": "Skeletons (Lexi Needed a Break)",
-      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 130042,
+      "name": "Sad Anymore",
+      "url": "https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 142848,
+      "name": "Skeletons (Lexi Needed a Break)",
+      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
         "name": "GUCCI BAG",
         "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 134193,
       "name": "GUCCI BAG",
       "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
-        "name": "10 Summers",
-        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
-      },
-      "artists": [
-        {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "10 Summers",
-      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "10 Summers",
+        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
         }
       ],
-      "duration_ms": 130042,
-      "name": "Sad Anymore",
-      "url": "https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr"
+      "duration_ms": 160500,
+      "name": "10 Summers",
+      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
       "added_at": "2023-02-03 17:05:03",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-02-03 17:05:03",
       "album": {
-        "name": "Quiet Zone",
-        "url": "https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO"
-      },
-      "artists": [
-        {
-          "name": "Edith Whiskers",
-          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "Quiet Zone",
-      "url": "https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg"
-    },
-    {
-      "added_at": "2023-02-03 17:05:03",
-      "album": {
         "name": "Second Hand Love (feat. Ruben)",
         "url": "https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 204216,
       "name": "Second Hand Love (feat. Ruben)",
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
+    },
+    {
+      "added_at": "2023-02-03 17:05:03",
+      "album": {
+        "name": "Quiet Zone",
+        "url": "https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "Quiet Zone",
+      "url": "https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg"
     }
   ],
   "unique_name": "Easy",

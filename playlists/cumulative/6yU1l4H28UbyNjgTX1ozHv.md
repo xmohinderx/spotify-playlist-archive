@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-152 songs - 8 hr 11 min
+153 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Human \- Acoustic](https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:49 | 2019-10-13 |  |
 | [I Can See Clearly Now \- Acoustic](https://open.spotify.com/track/4pZWwqmvQwYY1VhGE9sQD9) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I Can See Clearly Now \(Acoustic\)](https://open.spotify.com/album/0zjfhd9DvlA6v3owHzL54D) | 2:42 | 2022-03-04 | 2023-01-14 |
 | [I Can See Clearly Now \- Acoustic](https://open.spotify.com/track/2txpvBA1zpZAfWS5AUZYLR) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Can See Clearly Now \(Acoustic\)](https://open.spotify.com/album/5FE5FwlNEBA9pTjWbezsJO) | 2:26 | 2022-10-14 |  |
+| [I Forgot That You Existed \- Acoustic](https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [I Forgot That You Existed \(Acoustic\)](https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276) | 2:51 | 2023-02-26 |  |
 | [I Get The Sweetest Feeling \- Acoustic](https://open.spotify.com/track/6MYxowxw5LT2LzE5pwCdHt) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [I Get The Sweetest Feeling \(Acoustic\)](https://open.spotify.com/album/4w1g8oUimwJzYhmCK4O67j) | 3:35 | 2019-10-13 | 2022-06-18 |
 | [I Knew You Were Waiting \(For Me\) \- Acoustic](https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Knew You Were Waiting \(For Me\) \[Acoustic\]](https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn) | 3:17 | 2021-08-20 |  |
 | [I Only Want to Be With You \- Acoustic](https://open.spotify.com/track/7FwXCHczHaCuLoneBque7B) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Only Want to Be With You \(Acoustic\)](https://open.spotify.com/album/0oSKcdd3xTEP3H0qR0oQbf) | 2:10 | 2022-07-15 | 2023-01-07 |

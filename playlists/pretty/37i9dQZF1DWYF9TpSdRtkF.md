@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,657 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,678 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 72 | [月曜日のクリームソーダ](https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX) | [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/12BeMVM21khHV571rElt0X), [Momoko Suou \(CV: Keiko Watanabe\)](https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr) | [THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans](https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ) | 4:21 |
 | 73 | [Cherry Colored Love](https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj) | [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F), [Rio Momose \(CV: Rikako Yamaguchi\)](https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4) | [THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry](https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w) | 4:00 |
 | 74 | [Criminally Dinner \~正餐とイーヴルナイフ\~](https://open.spotify.com/track/20L6HYbRFA7jHYC3GacEp0) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [篠宮可憐 \(CV.近藤 唯\)](https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z), [中谷 育 \(CV.原嶋あかり\)](https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6) | 3:29 |
-| 75 | [ゆえに…なんです](https://open.spotify.com/track/21Vh5CofcrnxMyW8WqCBaP) | [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 03](https://open.spotify.com/album/0x3A6Datf6hMIKYXZN6Kwp) | 3:46 |
+| 75 | [紙・心・ペン・心 \- SHISHINPENSHIN \-](https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya) | [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 3:47 |
 
-Snapshot ID: `MTY3MzU4MzczNywwMDAwMDAwMDg4NmY5MDFkMGU4ZWI4MTNkZDYzZDExOWUyNWMyNmIx`
+Snapshot ID: `MTY3MzU4MzczNywwMDAwMDAwMDNhMWJjZTA5NjFhZGM4ZWM0YWExNDczMTk0MjVhNTY0`

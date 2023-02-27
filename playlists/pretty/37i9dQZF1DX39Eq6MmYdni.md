@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Bo Bundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,798 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 35 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
 | 36 | [Mi Persona Favorita](https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Persona Favorita](https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ) | 2:49 |
 | 37 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
-| 38 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
+| 38 | [San Lucas](https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Que nos Pasó?](https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E) | 2:39 |
 | 39 | [All The Good Die Young](https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [All The Good Die Young](https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE) | 2:01 |
 | 40 | [Power](https://open.spotify.com/track/1hSrp2LyVkM94tHCjgXFcP) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu) | [Power](https://open.spotify.com/album/5KwcQ04KPcKSG5EJD0RHtj) | 3:37 |
 | 41 | [Chivo Tatemado \- En Vivo](https://open.spotify.com/track/6U207u3B4SLqShzWtoslWe) | [El De La H](https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1) | [Chivo Tatemado \(En Vivo\)](https://open.spotify.com/album/4OagC3XpInN33XfWNbuvnQ) | 2:30 |
 | 42 | [Me Encanta](https://open.spotify.com/track/5pKPM9W3sfUjXrqfczJGVf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [Me Encanta](https://open.spotify.com/album/6pw6ppJNOmpkwPwwaCNVZB) | 3:23 |
-| 43 | [San Lucas](https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Que nos Pasó?](https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E) | 2:39 |
+| 43 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
 | 44 | [Vámonos a Marte](https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Vámonos a Marte](https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9) | 3:11 |
 | 45 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
 | 46 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [Que Vas a Hacer](https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 3:05 |
 | 50 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
 
-Snapshot ID: `MTY3NDgwNzIzMCwwMDAwMDAwMGNmZjJkODE5MWFhNjNmZGExMWZmMTU1YzExMTZjOWIx`
+Snapshot ID: `MTY3NDgwNzIzMCwwMDAwMDAwMGIzNDExNTJhOTBiYmI4ZjllOGNhYzMyM2I2ZTc4MmFh`

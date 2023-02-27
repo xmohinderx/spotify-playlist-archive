@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,480 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,575 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 17 | [Nrolo \(Remix\)](https://open.spotify.com/track/7jnFMhLxOzEjnepIGwlOJc) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq) | [Nrolo \(Remix\)](https://open.spotify.com/album/4GWx3BdmEzQomjvgnHdB1A) | 3:44 |
 | 18 | [LA DUEÑA](https://open.spotify.com/track/2FgTQUokrDl1OsHorgfPyc) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BAD GYAL RIDDIM](https://open.spotify.com/album/0Sl66un5vjC2a2KerGwlJ7) | 1:20 |
 | 19 | [PRESO Y MOSTROSIAO](https://open.spotify.com/track/3uqDOi2zjDhXH5zMxIquKC) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [PRESO Y MOSTROSIAO](https://open.spotify.com/album/1xZ55Sg97LBPYzu0fuw1LV) | 4:54 |
-| 20 | [Los Arranca Máscaras](https://open.spotify.com/track/1ThOmfjjdi05EARog27j6J) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Dj Albisin](https://open.spotify.com/artist/3wnVQAV23MClF5xwbMVKbF) | [Los Arranca Máscaras](https://open.spotify.com/album/2FpCAo1rGFwhWFNHjvHRxE) | 5:00 |
+| 20 | [Los Arranca Máscaras](https://open.spotify.com/track/3Sf2MM1RJateiC58Ui2ENG) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Dj Albisin](https://open.spotify.com/artist/3wnVQAV23MClF5xwbMVKbF) | [Los Arranca Máscaras](https://open.spotify.com/album/3iNhepORDiI8NEUKt7hJyY) | 5:00 |
 | 21 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 |
 | 22 | [Llamando](https://open.spotify.com/track/5mb2fojS7ld7pcSOPUo6Vo) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [Family Ties](https://open.spotify.com/album/4Ni9i51tUpUzJB0fhCOwVJ) | 3:06 |
 | 23 | [Nos Miran \(feat\. Eiby, Verzatyl & Italian Somali\)](https://open.spotify.com/track/3hF4uVG0Ne4sqYd3gmreQq) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Verzatyl](https://open.spotify.com/artist/6c4NXcvtAFvVIfD21zLIHv) | [Nos Miran \(feat\. Eiby, Verzatyl & Italian Somali\)](https://open.spotify.com/album/2IQDy4gyPKp8mxCwTyjDeK) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 49 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
 | 50 | [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [faster](https://open.spotify.com/artist/3DfJjF4ki6BLK8stBeHysZ) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:20 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGFmYTgyMDhlMTM5YTIxYTk1ODc1OTc4OTNkMDhmM2Mz`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDkxMjcwNmYyNzBiODFjYThlNDNkNjQ0MTMyN2E4YWJh`

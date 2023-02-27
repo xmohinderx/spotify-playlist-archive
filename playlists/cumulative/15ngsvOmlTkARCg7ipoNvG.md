@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-875 songs - 20 hr 22 min
+876 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Farewell](https://open.spotify.com/track/6gjN5Rluu7i9JFjRfiKkSD) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Farewell](https://open.spotify.com/album/3C5U0e8sejOkMNTUjFLsHo) | 1:35 | 2022-01-12 |  |
 | [Farewell](https://open.spotify.com/track/2BBLLgkhGc3iMxoSHKfMOi) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Four Preludes for Cello and Piano](https://open.spotify.com/album/2BPcULz7S1fCl4mJWkJR0F) | 1:29 | 2022-01-20 |  |
 | [Farewell Again](https://open.spotify.com/track/4NkqyvoWT6ePlCAIdidCVj) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Echoes](https://open.spotify.com/album/10VMBZPmdJ9Q6otUSugzTp) | 1:31 | 2022-01-12 |  |
+| [Fathom](https://open.spotify.com/track/0Sm2HRb6CaHsVBk1RguXX4) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Fathom](https://open.spotify.com/album/4FipdjQE2RaaB8SHYzapef) | 1:01 | 2023-02-26 |  |
 | [Feather](https://open.spotify.com/track/4f9wbNz90Gn8HR3sgkruWb) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:11 | 2022-01-12 |  |
 | [Fields](https://open.spotify.com/track/1FKeTN8tag7Hm00e0UEEpN) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:43 | 2022-01-12 |  |
 | [Finally At Ease](https://open.spotify.com/track/0YdLGKpIdA9XqNVjR533m7) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |

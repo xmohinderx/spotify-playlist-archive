@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,333 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,625 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 29 | [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 |
 | 30 | [Together Again](https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Together Again](https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X) | 2:01 |
 | 31 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 |
-| 32 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 |
-| 33 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 |
+| 32 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 |
+| 33 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 |
 | 34 | [in a room full of you](https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [in a room full of you](https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI) | 3:12 |
 | 35 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |
 | 36 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 39 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 |
 | 40 | [Monte Viso](https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Monte Viso](https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya) | 1:35 |
 | 41 | [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 |
-| 42 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 |
-| 43 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 |
-| 44 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 |
-| 45 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
+| 42 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 |
+| 43 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 |
+| 44 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
+| 45 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 |
 | 46 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 |
-| 47 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 |
-| 48 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
-| 49 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 |
-| 50 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
+| 47 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 48 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 |
+| 49 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
+| 50 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 |
 | 51 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 |
 | 52 | [In Repose](https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [In Repose](https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ) | 2:22 |
 | 53 | [along the path](https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [along the path](https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU) | 2:07 |
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 69 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 |
 | 70 | [Windspiel](https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Kris Steininger](https://open.spotify.com/artist/0GJwTqQAbBrHQ44tXTJ1Sb) | [Windspiel](https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7) | 3:01 |
 | 71 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 |
-| 72 | [Chiral](https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Chiral](https://open.spotify.com/album/2GGXazjr151pmesoEHWst8) | 2:27 |
-| 73 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
+| 72 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
+| 73 | [Chiral](https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Chiral](https://open.spotify.com/album/2GGXazjr151pmesoEHWst8) | 2:27 |
 | 74 | [Portraits](https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Portraits](https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt) | 2:20 |
 | 75 | [Marigold](https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [Marigold](https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq) | 2:12 |
 | 76 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 |
 | 77 | [Evenings](https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:52 |
 | 78 | [From Above](https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Your Story](https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2) | 1:46 |
 | 79 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 |
-| 80 | [Le jardin de ma grand\-mère](https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Le jardin de ma grand\-mère](https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv) | 2:56 |
-| 81 | [Mullaghmore](https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Mullaghmore](https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr) | 2:02 |
+| 80 | [Mullaghmore](https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Mullaghmore](https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr) | 2:02 |
+| 81 | [Le jardin de ma grand\-mère](https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Le jardin de ma grand\-mère](https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv) | 2:56 |
 | 82 | [Open Sail](https://open.spotify.com/track/5fOv8ynuVRniCFLQ48grdI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Open Sail](https://open.spotify.com/album/56DDWl85qAeO3r0FhsrYtq) | 2:08 |
 | 83 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 |
 | 84 | [Sans Regrets](https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Sans Regrets](https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je) | 2:21 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 95 | [Os ventos do amor](https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Os ventos do amor](https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx) | 2:00 |
 | 96 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 |
 | 97 | [White Butterfly](https://open.spotify.com/track/08YpIbdhqosOuZl9cddBHF) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [White Butterfly](https://open.spotify.com/album/7kRdP9sK6uKzQbBrGQ54yN) | 2:34 |
-| 98 | [A Simpler Time](https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A Simpler Time](https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4) | 2:27 |
-| 99 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
-| 100 | [Valse](https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Valse](https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK) | 2:11 |
+| 98 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 99 | [A Simpler Time](https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A Simpler Time](https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4) | 2:27 |
+| 100 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 |
 
-Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMGJhZTJkN2MyOTUyNzlkOGY5Y2I1YjU1ZjRiODIzOTMx`
+Snapshot ID: `MTY3Njk5MTYwMCwwMDAwMDAwMGM5ZThlYWJmMjI2YzEyNjM4YjI3ZWZhYWFhMzgxNzli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,452 likes - 135 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,732 likes - 135 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

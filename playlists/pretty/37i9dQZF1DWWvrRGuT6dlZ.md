@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Aini Mazalan\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,863 likes - 98 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 98 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

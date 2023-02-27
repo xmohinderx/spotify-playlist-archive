@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,645 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,683 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 39 | [Roller Coaster](https://open.spotify.com/track/0Vp9U635pdoAUnpY1tIeow) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Loopified \(Deluxe Edition\)](https://open.spotify.com/album/6j7dPFEVXUIavRWKyuamlu) | 3:34 |
 | 40 | [Ric Flair](https://open.spotify.com/track/2ThDKh9TW5xICXsM5qFP65) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Tom McGuire & the Brassholes](https://open.spotify.com/album/4u2sxYAvSd3UQnRlQPSOT6) | 4:16 |
 | 41 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 |
-| 42 | [Come on with the Good Thing](https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Come on with the Good Thing](https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F) | 5:19 |
+| 42 | [Come On With the Good Thing](https://open.spotify.com/track/1Mw4DeEuHwD0sQTOaTK6fH) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music For Robots](https://open.spotify.com/album/6DZLwcY6pDXTGOi0qtrCeJ) | 5:19 |
 | 43 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 |
 | 44 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
 | 45 | [Du\-Vibrations](https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Du\-Vibrations](https://open.spotify.com/album/6tg0wj5eMhCIAP67kQZ7Q2) | 2:55 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MTY3NTg3MzI2MywwMDAwMDAwMDdjZmFiYjg2NmM5ZTc2NWYzNDE5NjcxOWEwNzVlNjJm`
+Snapshot ID: `MTY3NTg3MzI2MywwMDAwMDAwMGJmYmI5ZThmZWYxMTI0ODNjM2U1MGQxNTdiNTMyYmJk`

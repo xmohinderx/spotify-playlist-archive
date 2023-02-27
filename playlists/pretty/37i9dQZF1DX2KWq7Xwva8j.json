@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Queralt Lahoz",
-  "num_followers": 20841,
+  "num_followers": 20857,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk4MTgyMSwwMDAwMDAwMDA0OTliYWQwZjg1YWNhYzZmNGJmNjdjNjUzNmNiODIw",
+  "snapshot_id": "MTY3Njk4MTgyMSwwMDAwMDAwMDZlZjI4YmEzOTYxMGQ1OGFlNTliNzIzM2Y5MzdmYjEw",
   "tracks": [
     {
       "added_at": "2023-02-07 10:15:40",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
-      "added_at": "2023-02-26 01:06:48",
+      "added_at": "2023-02-27 00:47:29",
       "album": {
         "name": "favorita",
         "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-07 10:15:40",
       "album": {
-        "name": "Solo me gustas cuando yo te gusto a ti",
-        "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Solo me gustas cuando yo te gusto a ti",
-      "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
-    },
-    {
-      "added_at": "2023-02-07 10:15:40",
-      "album": {
         "name": "Veo tan Dentro",
         "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 239933,
       "name": "Veo tan Dentro",
       "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
+    },
+    {
+      "added_at": "2023-02-07 10:15:40",
+      "album": {
+        "name": "Solo me gustas cuando yo te gusto a ti",
+        "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Solo me gustas cuando yo te gusto a ti",
+      "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
     },
     {
       "added_at": "2023-02-07 10:15:40",
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
-      "added_at": "2023-02-26 01:06:48",
+      "added_at": "2023-02-27 00:47:29",
       "album": {
         "name": "La\u00e9ne",
         "url": "https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3"

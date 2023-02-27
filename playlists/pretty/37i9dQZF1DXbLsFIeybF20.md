@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,397 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,395 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 41 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
 | 42 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
 | 43 | [Foot Of Canal Street](https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 3:38 |
-| 44 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
-| 45 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
+| 44 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
+| 45 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
 | 46 | [Pennies from Heaven](https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [Back to My Roots](https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio) | 4:14 |
 | 47 | [Everything's Lovely](https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 0:49 |
 | 48 | [Don't You Think I Love You](https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ), [King Oliver Orchestra](https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM) | [New Orleans Shout \- The Complete Victor Recordings, Vol\. 2](https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY) | 2:48 |
 | 49 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 | 50 | [Down by the Old Mill Stream](https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD) | [Chester Zardis](https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL), [Sammy Rimington](https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq), [Cliff'Kid'Bastien](https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi), [Fredrik John](https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R), [Jon Marks](https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP), [Sven Stahlberg](https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh) | [New Orleans Footwarmers](https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ) | 4:18 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGYxYThhMDlkZmQwNWVmYTY0ZjdhODEwYThjMTdmOTUw`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGI5OTg1ZDczNTNjODk5MzdkYTgxMDMwOGEyZTlmNWQ5`

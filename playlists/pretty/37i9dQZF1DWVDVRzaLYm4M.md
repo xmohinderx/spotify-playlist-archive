@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 
 > The quiet Beatle\. Listen to all his essential tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,170 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,279 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Got My Mind Set On You \- 2004 Remaster](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 |
+| 1 | [Got My Mind Set On You](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 |
 | 2 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
 | 3 | [Cosmic Empire \- Day 2 Demo; Take 1](https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary;Super Deluxe\)](https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56) | 2:11 |
 | 4 | [All Those Years Ago \- 2004 Remaster](https://open.spotify.com/track/1PntNx4N7Is7ZMIlF8JgxV) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Somewhere In England](https://open.spotify.com/album/4aMfh6PrZhCm5Vc6m3rQgF) | 3:47 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 | 17 | [While My Guitar Gently Weeps \- Live At Madison Square Garden; 2009 Remaster](https://open.spotify.com/track/4Egi6XuC0rbLlXfqmQeuFa) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs of George Harrison](https://open.spotify.com/album/268chmnwEoWz9MLqIKDzFz) | 4:46 |
 | 18 | [Crackerbox Palace \- 2004 Remaster](https://open.spotify.com/track/4DsN68KVYkhZ52SQ4ypnut) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Thirty Three & 1/3](https://open.spotify.com/album/3R2AXnn3nt6qnxhAgSiHTB) | 3:58 |
 | 19 | [Run of the Mill \- 2014 Remaster](https://open.spotify.com/track/4uSlUBg3NVOA77E7wwKFTO) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:51 |
-| 20 | [When We Was Fab \- 2004 Remaster](https://open.spotify.com/track/1f9QwNYSdRyBsxCup3h1Q1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:59 |
+| 20 | [When We Was Fab](https://open.spotify.com/track/1f9QwNYSdRyBsxCup3h1Q1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:59 |
 | 21 | [Isn't It a Pity \- 2014 Remaster](https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 7:10 |
 | 22 | [Blow Away \- 2004 Remaster](https://open.spotify.com/track/2XUrTl8a003hedQ7Xmj1eo) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg) | 4:00 |
 | 23 | [Awaiting on You All \- 2014 Remaster](https://open.spotify.com/track/0b65WkrBrg2qOkzQeDtQ9d) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:48 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 | 35 | [Living in the Material World \- 2014 Remaster](https://open.spotify.com/track/0lkAVvpjQk9iTckvxRo4AV) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 5:30 |
 | 36 | [Dark Horse \- 2014 Remaster](https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Dark Horse \(2014 Remaster\)](https://open.spotify.com/album/4NnA3aRQY4dFLbhNV9LQAE) | 3:53 |
 | 37 | [Last Night](https://open.spotify.com/track/6hOCmsiGjQaS27iiLe2t0i) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:51 |
-| 38 | [Cloud Nine \- 2004 Remaster](https://open.spotify.com/track/5fedUEU0Vq8BUfTcK5nzd9) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:16 |
+| 38 | [Cloud Nine](https://open.spotify.com/track/5fedUEU0Vq8BUfTcK5nzd9) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:16 |
 | 39 | [You \- 2014 Remaster](https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Extra Texture \(2014 Remaster\)](https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC) | 3:43 |
-| 40 | [Fish On The Sand \- 2004 Remaster](https://open.spotify.com/track/3ZzswsZrQNDQZ0eJU3tJmi) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:24 |
+| 40 | [Fish On The Sand](https://open.spotify.com/track/3ZzswsZrQNDQZ0eJU3tJmi) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:24 |
 | 41 | [It's All Too Much](https://open.spotify.com/track/1ntoOW2GNFCnSO7mmabrTU) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 6:25 |
 | 42 | [Roll Over Beethoven \- Live; 2004 Remaster](https://open.spotify.com/track/5f22zNhITYpLJSihSBf2by) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Live In Japan](https://open.spotify.com/album/5TyovIEekOOHrI3qYt0CFK) | 4:45 |
 | 43 | [That's The Way It Goes \- 2004 Remaster](https://open.spotify.com/track/4To7pXp0pjNNC1fzmDVEhq) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG) | 3:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 | 46 | [Can't Stop Thinking About You \- 2014 Remaster](https://open.spotify.com/track/3TxLHeMtU04LxaEIgyBoDk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Extra Texture \(2014 Remaster\)](https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC) | 4:32 |
 | 47 | [Dream Away \- 2004 Remaster](https://open.spotify.com/track/52hsnBOeoEefQVoPQtKwMH) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG) | 4:31 |
 | 48 | [Art of Dying \- 2014 Remaster](https://open.spotify.com/track/6Jod7qrtYBhU3HcUmKk4hX) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:38 |
-| 49 | [Devil's Radio \- 2004 Remaster](https://open.spotify.com/track/4QvGhkJJNi6aRHeJM6S3ke) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:53 |
+| 49 | [Devil's Radio](https://open.spotify.com/track/4QvGhkJJNi6aRHeJM6S3ke) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:53 |
 | 50 | [Wake Up My Love \- 2004 Remaster](https://open.spotify.com/track/6L6v7ZZMfjUG5o2sEptpLY) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG) | 3:36 |
 
 Snapshot ID: `MTYyNTc4NTIwMCwwMDAwMDAwMDk1MTdiNGQwZDNiOWE1OGFlNzY0ZWVlNDM3YTJkYjUx`

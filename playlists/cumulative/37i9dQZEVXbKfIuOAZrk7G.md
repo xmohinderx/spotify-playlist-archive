@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,209 songs - 2 day 16 hr 48 min
+1,210 songs - 2 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-12 | 2022-05-04 |
 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-29 | 2022-12-04 |
 | [If I Died Last Night](https://open.spotify.com/track/5Bl5wGDHToeEzS91u0bEEG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Drunk in the Bathtub](https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t) | 2:44 | 2022-12-03 | 2022-12-06 |
-| [if looks could kill](https://open.spotify.com/track/5UUeEeHlBuOlKrCaix7M43) | [Lquish](https://open.spotify.com/artist/1C88F7XeusPMAllVXkA7W9) | [if looks could kill](https://open.spotify.com/album/1LOxsRxzEcPeYQSNQuQEbv) | 2:41 | 2023-02-21 |  |
+| [if looks could kill](https://open.spotify.com/track/5UUeEeHlBuOlKrCaix7M43) | [Lquish](https://open.spotify.com/artist/1C88F7XeusPMAllVXkA7W9) | [if looks could kill](https://open.spotify.com/album/1LOxsRxzEcPeYQSNQuQEbv) | 2:41 | 2023-02-21 | 2023-02-27 |
 | [Igloo](https://open.spotify.com/track/40W840RnQDbMQfYdezxiog) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Igloo](https://open.spotify.com/album/1ZsI00Yki9hzFLM5Bm37Vu) | 2:13 | 2022-04-12 | 2022-04-20 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-07-27 | 2022-08-17 |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2022-11-18 | 2022-12-02 |
@@ -1117,6 +1117,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-12-11 | 2023-01-17 |
 | [Until I Found You \- Piano Version](https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You \(Piano Version\)](https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc) | 3:04 | 2022-05-19 | 2022-06-08 |
 | [untitled](https://open.spotify.com/track/5qxHtOVLh3aR5kGUErwwt4) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [untitled](https://open.spotify.com/album/4BDcT33TBqrJAtu4YU82xN) | 3:03 | 2022-04-16 | 2022-04-23 |
+| [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 | 2023-02-26 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-31 | 2022-07-12 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-08 | 2022-06-08 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-14 | 2022-09-28 |

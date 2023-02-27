@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,576 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,617 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 37 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 |
 | 38 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 | 39 | [Rainer](https://open.spotify.com/track/6UEKpBUM9dhgqZ3DFZmgGo) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:17 |
-| 40 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:20 |
+| 40 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:22 |
 | 41 | [Picanya 2400 \- Edit](https://open.spotify.com/track/5DiQ3VjKVa9GgSoKj4Fwgh) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Picanya 2400](https://open.spotify.com/album/57kBut65htYBqDDN41dx0E) | 4:09 |
 | 42 | [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 |
 | 43 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 |

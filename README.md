@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5669\)
+## Playlists \(5671\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1837,6 +1837,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Getaway Rock 2013](/playlists/pretty/4ftQXs8PU4QMqPLMaJG7QT.md)
 - [Getting Around](/playlists/pretty/37i9dQZF1DWWJsezdoqh4Q.md)
 - [Ghana Party](/playlists/pretty/37i9dQZF1DX7t977T5F4kQ.md)
+- [Gian Varela DJ Mix](/playlists/pretty/37i9dQZF1DX9Bo0ONSjpvk.md)
 - [Gigantes do Rap Nacional](/playlists/pretty/37i9dQZF1DXaljDe6fISR1.md)
 - [Ginger Me](/playlists/pretty/37i9dQZF1DX0SlHbqMm3vJ.md)
 - [Giolì & Assia's DJ Mix](/playlists/pretty/37i9dQZF1DWZaiDZ16BA15.md)
@@ -3749,6 +3750,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Silliest Songs Ever](/playlists/pretty/37i9dQZF1DX2ls3pMfEx4A.md)
 - [Sin Lipo](/playlists/pretty/37i9dQZF1DWTOPE5PGBHDN.md)
 - [Sin Ti](/playlists/pretty/37i9dQZF1DX4yeSNLFx6qI.md)
+- [Sinego DJ Mix](/playlists/pretty/37i9dQZF1DWUXtqSbiMCVM.md)
 - [Sinego's track IDs](/playlists/pretty/37i9dQZF1DXcakKtomq71w.md)
 - [Sing A New Song](/playlists/pretty/37i9dQZF1DWTSWzScBKziy.md)
 - [Sing Along](/playlists/pretty/37i9dQZF1DWWu0xeeDiEZc.md)

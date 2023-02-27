@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
+    },
+    {
+      "album": {
         "name": "Amanece Otra Vez",
         "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
       },
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-27",
       "duration_ms": 120000,
       "name": "ya no me quieres",
       "url": "https://open.spotify.com/track/7D4FD2YZTEeRGt33QJQ0Qq"

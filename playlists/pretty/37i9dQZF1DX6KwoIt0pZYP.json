@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 147580,
+  "num_followers": 147686,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMGFhZTFhMjUzZWU1NjcyMDNhM2U2NTVhMzhiMmQwODI4",
+  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMDljM2NlMTljOWU4YTUzZGM1YzE1MWQ1MjVmYjAxMTZh",
   "tracks": [
     {
       "added_at": "2023-02-23 16:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 155923,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "your love",
+        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 155923,
+      "name": "your love",
+      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "Fade (English Version)",
         "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 262386,
       "name": "Fade - English Version",
       "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 169157,
+      "name": "Romantic Comedies",
+      "url": "https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "BEAUTiFUL",
-        "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 212224,
-      "name": "BEAUTiFUL",
-      "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "the world could end with you",
         "url": "https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb"
+        "name": "BEAUTiFUL",
+        "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
       "artists": [
         {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
         }
       ],
-      "duration_ms": 169157,
-      "name": "Romantic Comedies",
-      "url": "https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ"
+      "duration_ms": 212224,
+      "name": "BEAUTiFUL",
+      "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
     },
     {
       "added_at": "2023-02-23 16:00:00",

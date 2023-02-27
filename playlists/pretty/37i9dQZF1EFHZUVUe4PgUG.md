@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 62 | [Bailando en la Lluvia \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:58 |
 | 63 | [Ya Llegué](https://open.spotify.com/track/3D3Wcdtl05GD15NvwmyeQK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:03 |
 | 64 | [Quiero](https://open.spotify.com/track/2t8OlNmMSawUgr6pADWxtt) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:35 |
-| 65 | [Cuando Te Enamores de Mí](https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 3:04 |
-| 66 | [Madrugada](https://open.spotify.com/track/4L9gOtI2Cy10mqlwKGn9KX) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 4:06 |
-| 67 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
+| 65 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
+| 66 | [Cuando Te Enamores de Mí](https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 3:04 |
+| 67 | [Madrugada](https://open.spotify.com/track/4L9gOtI2Cy10mqlwKGn9KX) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 4:06 |
 | 68 | [Malalala \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/6DkKNHjHklokTWkf4QlR97) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:41 |
 | 69 | [How Not to Love You](https://open.spotify.com/track/5LHuyD5JBubppebKuEbaKp) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/6iuEaQiTz3tq2P4IuDNjfT) | 3:18 |
 | 70 | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/track/6kDXGEm0VGEbs0ZtFp2EUL) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/album/427hCecyt8ext6LkFXXw9c) | 3:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 84 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
 | 85 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 |
 
-Snapshot ID: `Mjc5NTYxNjcsMDAwMDAwMDA4YzcwNDZkNmUwMWZhMDQ0OTU3YjE4N2ZkN2Y2MjNmNA==`
+Snapshot ID: `Mjc5NTc2MDYsMDAwMDAwMDAyNDEwNTllMTkzNTYzNzc2Mzg4ODBmZjE2NmYwZDMxZA==`

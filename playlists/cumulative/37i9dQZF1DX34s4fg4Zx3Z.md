@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: O.lew; thiết kế: Isu Kim
 
-769 songs - 1 day 20 hr 49 min
+770 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Bắp Rang Bơ](https://open.spotify.com/track/0aybUP5A6uBYmAr87tDY5t) | [HENRY](https://open.spotify.com/artist/1iBO7Ag9LniAVT6sEHhgUZ), [MKM](https://open.spotify.com/artist/1gcl9SIG3bF3Y9tTum9bkL) | [Bắp Rang Bơ](https://open.spotify.com/album/6VY0535fKsUyyVoQQvoCYX) | 2:43 | 2022-06-16 | 2022-06-27 |
 | [Bằng Lăng Nở Hoa](https://open.spotify.com/track/4ZP49DLU2Uk0LmRT98w0bK) | [Anh Rồng](https://open.spotify.com/artist/6QwHC6CRkFfpwGYEzFsTsK) | [Bằng Lăng Nở Hoa](https://open.spotify.com/album/5KZ1wmO6kW021XN89RKxiL) | 3:54 | 2022-06-19 | 2022-06-27 |
 | [Bốn Bức Tường](https://open.spotify.com/track/47YM9oNT1A3YccwkP3nddV) | [Loli](https://open.spotify.com/artist/2STiM46mIuADJaq9Rt3odB) | [Bốn Bức Tường](https://open.spotify.com/album/4RNp6hEWoDeDXh8PTKXdik) | 4:40 | 2022-02-08 | 2022-05-12 |
+| [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/0HPi6mBmKWFWB0OOhb28co) | [Nam Em](https://open.spotify.com/artist/7BbU2YunG15r8JwLTgnNyk) | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/album/48dw2PjUKYgpDS0OfUCj3y) | 3:55 | 2023-02-26 |  |
 | [Bởi Vì Có Em](https://open.spotify.com/track/1yXZp3CI1nHjvmzxTmum7f) | [Nguyễn Tấn Đạt](https://open.spotify.com/artist/1Z5DJV3W8q8VmU43xwhdGY) | [Bởi Vì Có Em](https://open.spotify.com/album/33ZPnUg7xgWPdxbaMDRk8l) | 3:21 | 2022-06-22 | 2022-07-14 |
 | [Call Girl](https://open.spotify.com/track/597yJd30Qhy7ox80bNNw6x) | [Trung Tu](https://open.spotify.com/artist/6NmGVS8nPcqW6tnevWF3Zg) | [23](https://open.spotify.com/album/1ZuBZSGwfKOuXY4rXdTpb9) | 3:35 | 2022-06-22 | 2023-01-06 |
 | [Call Me If You Can](https://open.spotify.com/track/5BncoFJCACHaBHCruQlc44) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE), [Khải](https://open.spotify.com/artist/2Eay7s1kIr53UKqkx5D15F), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Call Me If You Can](https://open.spotify.com/album/5jtjMdVKHndizrflmiEOOw) | 3:50 | 2022-07-12 | 2022-10-05 |

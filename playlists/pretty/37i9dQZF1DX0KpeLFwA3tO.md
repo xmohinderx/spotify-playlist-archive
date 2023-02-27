@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,796 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,900 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 59 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
 | 60 | [Grey Place](https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV) | [The Boogie Down South](https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT) | 4:00 |
 | 61 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
-| 62 | [Midnight Ferry](https://open.spotify.com/track/5w98idOMOIFLAtdD0tZesi) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Midnight Ferry](https://open.spotify.com/album/5MnpPCWnH2H9kiujpBg32d) | 2:45 |
+| 62 | [Midnight Ferry](https://open.spotify.com/track/1gS3E10uJhhSxsDtIKMjLf) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 2:45 |
 | 63 | [Expendables](https://open.spotify.com/track/6P1uUvOD9m6uoyblKlRK28) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw) | 2:18 |
 | 64 | [Partisan](https://open.spotify.com/track/3jo4czo2MjCHbyBFNFVzou) | [Debunk](https://open.spotify.com/artist/3WQR0qxlXB4tzXXLnPbWgT) | [Partisans](https://open.spotify.com/album/3LfRWtL7yx09TGXaxNdFnP) | 2:34 |
 | 65 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 68 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 | 69 | [Ten Stories High](https://open.spotify.com/track/0Wz9RJySVFtUTFQk8sjRBv) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [Ten Stories High](https://open.spotify.com/album/5xEwUAv3WJiDtHScEPliQl) | 1:57 |
 | 70 | [UK GRIM](https://open.spotify.com/track/42ai7rZ6KEHztOYSVp2z58) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/4nlVzlGL7OHDOhST7U4QiJ) | 3:18 |
-| 71 | [Nose](https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ) | 3:22 |
+| 71 | [Nose](https://open.spotify.com/track/2y32x64BwqyXX13N8KGjdR) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:22 |
 | 72 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 |
 | 73 | [Leisure Activities](https://open.spotify.com/track/3h6fAqr2VQiWE0UhP8XXT5) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/6QSqHeRJeQLfAblXXS1ErP) | 4:42 |
 | 74 | [Innocent](https://open.spotify.com/track/38jMT9WHGFsWOtkZ5KNHLi) | [Errorr](https://open.spotify.com/artist/1wVtzjX6YlqkRrdTEDyaRr) | [Innocent](https://open.spotify.com/album/3boQizm1XreDnUeOPFhNXT) | 4:02 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Delete Myself](https://open.spotify.com/track/09vrPyeyGuI5KxWv7fmQ6L) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Delete Myself](https://open.spotify.com/album/4QMnzmLpN0pIKTct6wSJMs) | 2:35 |
 | 125 | [Like You Love Me](https://open.spotify.com/track/4tRbfvXqGOj8fbYbXzTWrd) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX) | [Like You Love Me](https://open.spotify.com/album/2zF61PbxFf6USTCCk673nb) | 2:26 |
 
-Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDg3ZDZhNmNlZGFkYzFjZmVjN2EzNDQwYjQ0YWE4MTY1`
+Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDYyYTFlMjVjNzM5NzMwNjM3YjAwZGMyMTEyNzhiMDVm`

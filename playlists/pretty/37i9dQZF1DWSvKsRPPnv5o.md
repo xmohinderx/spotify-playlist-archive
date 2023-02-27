@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 03 Greedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,235 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,372 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

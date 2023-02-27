@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Gorillaz, The Weeknd & Ariana Grande, The Kid LAROI and more! Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,808 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,876 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
 | 80 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 |
 | 81 | [Pronoia](https://open.spotify.com/track/5d1gArgMK3Ml5shnqj9A8g) | [Carly Pearl](https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn) | [Pronoia](https://open.spotify.com/album/7KKtm0PHgEFXZU3p0gXolC) | 3:21 |
-| 82 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 |
+| 82 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 |
 | 83 | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/track/3dvaCvUSosEjWxUOuUiOiw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Ozay Moore](https://open.spotify.com/artist/5upHj0MnOX1kIBXf7zzoZb) | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/album/4mhIfyutZJgYcmtKG0la1q) | 3:58 |
 | 84 | [Set You Free](https://open.spotify.com/track/7LzfarpebdCkcu2EGdMEha) | [Lina Nikol](https://open.spotify.com/artist/7G3zlaTXtjBWn2hASxqLbg), [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm) | [Set You Free](https://open.spotify.com/album/2jMEtVyxgvmnNFs9VOKtNo) | 2:27 |
 | 85 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 
-Snapshot ID: `MTY3NzM3MjI3NiwwMDAwMDAwMGViNzkzMGM2MjI1MTZmNTA1YjJjNWI2ZWQyNWE4NWMw`
+Snapshot ID: `MTY3NzM3MjI3NiwwMDAwMDAwMGI5ODMzOWE3NGVkY2NlY2VhZTZjNjFkZjRmNjE1OTkx`

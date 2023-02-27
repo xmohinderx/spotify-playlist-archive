@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 4 | [Rev nou ancétres](https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Le meilleur de Cassiya avec Désiré François \(Best Of, vol\. 1\)](https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh) | 4:33 |
 | 5 | [Roule Matak, Pt\. 1](https://open.spotify.com/track/1RQPzvQfwJlgCXL24cs3mj) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya), [Jor'dan](https://open.spotify.com/artist/5bfaXvOfbazvljanbZvHqu) | [Roule Matak](https://open.spotify.com/album/4v3b53w4gWZyHSUqBObEyf) | 2:23 |
 | 6 | [Pomper](https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:22 |
-| 7 | [La force l'amour](https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D) | [Clara](https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB) | [Mon univers](https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y) | 3:40 |
-| 8 | [Tik tike](https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g) | [Laura Beg](https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf) | [Tik tiker](https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW) | 4:06 |
+| 7 | [Tik tike](https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g) | [Laura Beg](https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf) | [Tik tiker](https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW) | 4:06 |
+| 8 | [La force l'amour](https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D) | [Clara](https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB) | [Mon univers](https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y) | 3:40 |
 | 9 | [Trottinette](https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Abdoul](https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Trottinette](https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z) | 3:04 |
 | 10 | [Zoli](https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Madii](https://open.spotify.com/artist/4WVU7WxxBuOaOvzT5cvUwN) | [Zoli](https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T) | 5:16 |
 | 11 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
 | 12 | [Kifer to Pale Danse](https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK) | [Nou Sime](https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6) | 3:45 |
 | 13 | [Rève nou ancètre](https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Séparation \(Zenfants perdi simé\)](https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY) | 5:06 |
 | 14 | [Di pain griyé](https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk) | [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9), [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Di pain griyé](https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr) | 4:02 |
-| 15 | [Met dan la joie](https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ) | [AUBIN](https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19) | [La vie est belle \(Best Of\)](https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ) | 4:10 |
-| 16 | [Alimé difé \- Version originale](https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ) | [Cariño](https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0) | [Alimé difé \(Ile Maurice\)](https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb) | 5:13 |
+| 15 | [Alimé difé \- Version originale](https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ) | [Cariño](https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0) | [Alimé difé \(Ile Maurice\)](https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb) | 5:13 |
+| 16 | [Met dan la joie](https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ) | [AUBIN](https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19) | [La vie est belle \(Best Of\)](https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ) | 4:10 |
 | 17 | [Ena Ennta Zetwal](https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 4:12 |
 | 18 | [Dhobi de classe](https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT) | [Jean\-Claude](https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5) | [Les meilleurs ségas de Jean\-Claude \(Folk Music of Mauritius Island\)](https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ) | 5:52 |
 | 19 | [Zoli mamzel \(Remix 2016\) \[feat\. Kymai, DJ Cutson & DJ Cedrik\]](https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1), [Kymaï](https://open.spotify.com/artist/4oMiFNFu7BdGvGD4dusuhn), [DJ Cutson](https://open.spotify.com/artist/3DHm7ZLJ4OeVF8eAzbAUh2), [Dj Cedrik](https://open.spotify.com/artist/5qnz040bwCnHXrqgBAv4f5) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDFkNmQ2ZDZkMDkwMDkxYWQxMDMyMjk1MDVjZTc3OGY5`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDAzYWU5MjE1MTFjNzAxM2JkNGZkNTQzZGM3ODkwN2Ni`

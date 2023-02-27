@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,913 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,918 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 18 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 |
 | 19 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 20 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 |
-| 21 | [Zonder Jou](https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Zonder Jou](https://open.spotify.com/album/59FBX1katrnJ8coGBtiDfw) | 2:14 |
+| 21 | [Zonder Jou](https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Zonder Jou](https://open.spotify.com/album/59FBX1katrnJ8coGBtiDfw) | 2:14 |
 | 22 | [How My Heart Was Won](https://open.spotify.com/track/7aI0nca5m0wSGYcBdwRL8r) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [How My Heart Was Won](https://open.spotify.com/album/7o2JbjqQZjSX26mG6v2RsE) | 3:39 |
 | 23 | [Herinnering](https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Herinnering](https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV) | 2:34 |
 | 24 | [New Balance](https://open.spotify.com/track/4VIehrP2qQjaH2vDyp4G0v) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [New Balance](https://open.spotify.com/album/32Z4vXVcGnl7pJZ5iGyUNF) | 2:24 |

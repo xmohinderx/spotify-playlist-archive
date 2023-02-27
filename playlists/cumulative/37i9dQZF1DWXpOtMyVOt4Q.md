@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-166 songs - 11 hr 3 min
+167 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 | 2022-10-15 |
 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 | 2019-12-16 | 2022-09-01 |
 | [Don't Get Any Closer](https://open.spotify.com/track/5aEW7hL4yJ3StRw4x9ZLLn) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/4BMYwbOZd1i9vraiSXtSkg) | 9:06 | 2019-12-16 | 2022-07-29 |
-| [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 | 2023-02-10 |  |
+| [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 | 2023-02-10 | 2023-02-27 |
+| [drowning](https://open.spotify.com/track/3r56YqTq616bQvdBMHU6WE) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/4RIdbEZCQyK0aPh2YTbJIX) | 1:57 | 2023-02-27 |  |
 | [Dustism](https://open.spotify.com/track/2OsmOTariM8whWzvPsPAeK) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7JbUvdIr1yepIxZy9rt3un) | 6:19 | 2019-12-16 | 2022-07-29 |
 | [Dustism](https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7i1Q1gcCd5o8CBV1Uivhuu) | 6:19 | 2019-12-16 | 2022-09-01 |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2019-12-16 | 2022-09-01 |
@@ -127,7 +128,7 @@
 | [Remember Me As A Time Of Day](https://open.spotify.com/track/3o6RpCtAPejVvTckcd5JVt) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [How Strange, Innocence](https://open.spotify.com/album/2SAI7bmJDf4ExmzaAgXctd) | 5:18 | 2019-12-16 | 2022-07-28 |
 | [River](https://open.spotify.com/track/6Pqy8Ds0FK7FuPzeZlXi5W) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:16 | 2019-12-16 | 2022-09-01 |
 | [River \(feat\. Shura\)](https://open.spotify.com/track/3SKGZkUGPR15ahniLcQVPP) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Parklands](https://open.spotify.com/album/4fZoCUF5IbMT1clnEAZOrl) | 4:16 | 2019-12-16 | 2022-07-29 |
-| [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 | 2022-11-22 |  |
+| [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 | 2022-11-22 | 2023-02-27 |
 | [Sad Heart Of Mine](https://open.spotify.com/track/2OSelhrHTVKq6hdfE3fG6R) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust And Disquiet](https://open.spotify.com/album/1aZqgTPYSxx2ISuigQkgjD) | 4:27 | 2019-12-16 | 2022-07-29 |
 | [Sad Heart of Mine](https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust and Disquiet](https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I) | 4:27 | 2019-12-16 | 2022-12-13 |
 | [See In You](https://open.spotify.com/track/0WvHR3RxJCkSH392l5BI2R) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V) | 4:37 | 2019-12-16 | 2022-09-01 |
@@ -158,7 +159,7 @@
 | [The Whispering Caves](https://open.spotify.com/track/1B4WPZiuAPgE1fCluJQsS6) | [Those Who Ride With Giants](https://open.spotify.com/artist/0pKhuVfVRd073xGqEdJlUP) | [Those Who Ride With Giants \(Deluxe\)](https://open.spotify.com/album/029nbN6OhmnaF0s6BgOU8u) | 5:59 | 2019-12-16 | 2022-09-01 |
 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 | 2022-08-31 |  |
 | [Third](https://open.spotify.com/track/3BmtVxAg1jr2sw4WaPHdoz) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Third EP](https://open.spotify.com/album/7uZjhHZv5OKWRj2ar3Y84u) | 4:46 | 2019-12-16 | 2022-09-01 |
-| [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 | 2022-09-02 | 2023-01-15 |
+| [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 | 2022-09-02 |  |
 | [Truth \(Helios Remix\)](https://open.spotify.com/track/4lwGyv3tbahmN1Z25wdCxa) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO) | 3:45 | 2019-12-16 | 2022-07-29 |
 | [Truth \- Helios Remix](https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/6m6zHJ1nwn95OQPr90Hbic) | 3:45 | 2019-12-16 | 2022-11-19 |
 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 | 2022-09-01 | 2022-09-21 |
