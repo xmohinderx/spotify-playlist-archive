@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,771 likes - 50 songs - 2 hr 24 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,763 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 49 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 |
 | 50 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
 
-Snapshot ID: `NDU4NCxiNzYwZDllM2NhZWY3ZjhmN2NkNzY2MGQ4NjgzNDc0YmQ0MmY5Zjg0`
+Snapshot ID: `NDU4Niw2YjcxMzkzYjJhMzRjYWE2ZTM4ZDMyOWFjNDJhZWZmYWQ3ZTI4MDZh`

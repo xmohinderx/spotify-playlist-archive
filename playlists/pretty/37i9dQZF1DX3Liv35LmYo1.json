@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102457,
+  "num_followers": 102474,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMDIzZDM1ZDYwZjNhOGY0NjU3YTFjZDUyYTc0MmNjMTVl",
+  "snapshot_id": "MTY3NTk0NzYwMCwwMDAwMDAwMGNlMmZmZWI5OTI1MWE1NmEzNTIyMTZjYWJlNTI2ODYx",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -111,6 +111,38 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "RUSH (Blush)",
+        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 242545,
+      "name": "RUSH (Blush)",
+      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
       },
@@ -131,22 +163,6 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "RUSH (Blush)",
-        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 242545,
-      "name": "RUSH (Blush)",
-      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Higher Elevation",
         "url": "https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Giving Up",
-        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 203751,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "All Together, Here Together",
         "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 252584,
       "name": "fall back",
       "url": "https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Deep In The Glowing Heart (Night Version)",
         "url": "https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 420923,
       "name": "Deep In The Glowing Heart - Night Version",
       "url": "https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Control EP",
         "url": "https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 239678,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-02-09 13:00:00",

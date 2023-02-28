@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Indigo De Souza",
-  "num_followers": 61066,
+  "num_followers": 61117,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGUzYmViYWM2MmU3MDcwOWFkNGQ1ZjdmNGU1MzI0ODc5",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDExOGZkYTNjMGZmYWFlNGM1NjE1MDc5ZjBmNWQ1NGY4",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -911,46 +911,6 @@
       "duration_ms": 188390,
       "name": "Ignore Tenderness",
       "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Hailaker",
-        "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
-      },
-      "artists": [
-        {
-          "name": "Hailaker",
-          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        },
-        {
-          "name": "Jemima Coulter",
-          "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
-        }
-      ],
-      "duration_ms": 253666,
-      "name": "Not Much",
-      "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -987,6 +947,46 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Hailaker",
+        "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        },
+        {
+          "name": "Jemima Coulter",
+          "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
+        }
+      ],
+      "duration_ms": 253666,
+      "name": "Not Much",
+      "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Closing the Door on Us",
-        "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 135338,
-      "name": "Closing the Door on Us",
-      "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "Plum",
-      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Closing the Door on Us",
+        "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 135338,
+      "name": "Closing the Door on Us",
+      "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 276880,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Crybaby",
         "url": "https://open.spotify.com/album/2zMU4HPuaNTBpWscm9PsXy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 225738,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1Fe51DbsaZeTmLxqnp7eYf"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "i only sing about food",
-        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "i only sing about food",
-      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Giant Palm",
-        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
-      },
-      "artists": [
-        {
-          "name": "Naima Bock",
-          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Giant Palm",
-      "url": "https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Deep Routed",
         "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Giant Palm",
+        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Giant Palm",
+      "url": "https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Old Peel",
         "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Serpentine Prison (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Serpentine Prison (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "The Last One",
+      "url": "https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "At the Moonbase",
         "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "You Belong There",
-        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "The Last One",
-      "url": "https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2043,22 +2059,6 @@
       "duration_ms": 326156,
       "name": "Red Bird Pt. 2 (Morning)",
       "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Two Saviors",
-        "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "Pareidolia",
-      "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
     }
   ],
   "unique_name": "Folk Arc",

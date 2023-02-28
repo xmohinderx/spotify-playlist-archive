@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-243 songs - 23 hr 25 min
+244 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Shine Like Stars](https://open.spotify.com/track/3PfewOCZm2VpGetWwZsZuU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 4:30 | 2022-02-17 | 2022-07-14 |
 | [Simple](https://open.spotify.com/track/43afkyZUN5gJEBd19zedx3) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Simple](https://open.spotify.com/album/43LOws1RaNJqWSDEf4JIp6) | 4:29 | 2022-10-13 |  |
 | [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(with Cody Carnes\) \[Live\]](https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk) | 6:24 | 2022-05-06 |  |
+| [Sing Hallelujah \(The Victory Song\) \- Live](https://open.spotify.com/track/6gKQVM74S0rNzdp6DtokgP) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Sing Hallelujah \(The Victory Song\) \[Live\]](https://open.spotify.com/album/0rgE37Ttcx8LHuYvqnNusy) | 4:09 | 2023-02-27 |  |
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2022-02-17 | 2023-01-05 |
 | [Something About That Name](https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:32 | 2022-02-17 | 2022-03-16 |
 | [Speak O Lord \- Live](https://open.spotify.com/track/2b96tmoGtUNQdWlQGbgkiN) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Speak O Lord \(Live\)](https://open.spotify.com/album/0saO1MoWHiHtuCTw8pHEBY) | 3:41 | 2022-03-04 | 2022-04-05 |

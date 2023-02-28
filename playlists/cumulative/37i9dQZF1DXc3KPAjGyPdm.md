@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-250 songs - 15 hr 44 min
+251 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Digging](https://open.spotify.com/track/5GtRu59pV40hj2pdQHJpf1) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:06 | 2017-12-20 |  |
 | [Dirge](https://open.spotify.com/track/3FaZJiiJiJAtf7TtCVuAx6) | [S U R V I V E](https://open.spotify.com/artist/12cKwxUl6Ku3VpSB3LjrM5) | [Mnq026](https://open.spotify.com/album/0ckMi3UduuywcZassvOJhf) | 7:23 | 2019-07-10 |  |
 | [Doc Returns](https://open.spotify.com/track/17uHMEllmYNV02hfAGQOJF) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Back To The Future Part III: 25th Anniversary Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XUXN5uWCpSiybOplfUj0e) | 2:53 | 2019-07-10 |  |
-| [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-05-27 |  |
+| [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-05-27 | 2023-02-28 |
+| [Dream a Little Dream of Me](https://open.spotify.com/track/6eGK8HAVyKYUaTZgGnuku1) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:05 | 2023-02-27 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/1LqHJtbJ7TLxer59vF25Hc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:06 | 2022-05-27 | 2022-07-29 |
 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/2AJLubYVpLPeqnelHslNPK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [pov: ur the main character](https://open.spotify.com/album/1Akd6N20A4tOzelzqwprlb) | 3:07 | 2022-05-27 | 2022-11-13 |
 | [Earth Song](https://open.spotify.com/track/1jHi7q6piCjlkMRMhr2N9G) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Spheres \(Original Score\)](https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR) | 5:17 | 2019-07-10 |  |

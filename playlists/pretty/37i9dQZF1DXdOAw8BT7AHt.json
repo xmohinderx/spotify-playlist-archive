@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Grandma's House",
-  "num_followers": 48008,
+  "num_followers": 48016,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY4ODAwMSwwMDAwMDAwMDgzZDlkOTBiYTdlMWU0YTZmNTczMjkzNWQxY2Y2YWQw",
+  "snapshot_id": "MTY3NTY4ODAwMSwwMDAwMDAwMDE5YmE2YTg0YjNjNzRiYzc0YjQ4YjVmNjM3YmNjMmIy",
   "tracks": [
     {
       "added_at": "2023-02-06 12:53:21",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "In The Wild",
-        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 181797,
-      "name": "Raised By Wolves",
-      "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Girl God Gun",
         "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
         "name": "Hell of Mine",
         "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
-      },
-      "artists": [
-        {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Ghost Brigade",
         "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 224687,
       "name": "Ghost Brigade",
       "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
-        "name": "Cool Blue",
-        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
-      },
-      "artists": [
-        {
-          "name": "happydaze",
-          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
-        }
-      ],
-      "duration_ms": 189072,
-      "name": "Cool Blue",
-      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+        "name": "Cool Blue",
+        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
         }
       ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+      "duration_ms": 189072,
+      "name": "Cool Blue",
+      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -999,6 +983,22 @@
       "duration_ms": 135466,
       "name": "Choose Your Fighter",
       "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "punkadonk",
-        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "Moto",
-      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 142124,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "punkadonk",
+        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Always Lose",
-        "url": "https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 187305,
-      "name": "Always Lose",
-      "url": "https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Paying The Price",
         "url": "https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 160884,
       "name": "Paying The Price",
       "url": "https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Always Lose",
+        "url": "https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 187305,
+      "name": "Always Lose",
+      "url": "https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
+        "name": "Reset My Password",
+        "url": "https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB"
+      },
+      "artists": [
+        {
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+        }
+      ],
+      "duration_ms": 170028,
+      "name": "Reset My Password",
+      "url": "https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
         "name": "It's good to be back",
         "url": "https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Reset My Password",
-        "url": "https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB"
+        "name": "Troglodyte",
+        "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
       },
       "artists": [
         {
-          "name": "Public Body",
-          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 170028,
-      "name": "Reset My Password",
-      "url": "https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz"
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -1315,22 +1331,6 @@
       "duration_ms": 156248,
       "name": "All Time Low",
       "url": "https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
-        "name": "Troglodyte",
-        "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "Troglodyte",
-      "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
     }
   ],
   "unique_name": "The Punk List",

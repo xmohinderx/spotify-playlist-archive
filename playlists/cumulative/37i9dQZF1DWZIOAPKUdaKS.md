@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-621 songs - 1 day 3 hr 1 min
+624 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Ether](https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Marcos Boza](https://open.spotify.com/artist/443Yc7SeaW7ddTyVUMJ5ZX) | [Ether](https://open.spotify.com/album/4Hg9aMbQfviR7UjPFXHbHf) | 2:37 | 2022-08-26 |  |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-12-07 |  |
 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 | 2021-12-07 |  |
+| [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-02-27 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-09 |  |
 | [Fallen Rain](https://open.spotify.com/track/26DpsU4AU11OK1MjF4THqH) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Fallen Rain](https://open.spotify.com/album/4xGwLVQWfkyq3mFtOZbiQG) | 2:44 | 2021-12-07 | 2022-10-05 |
 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 | 2022-01-04 | 2022-10-25 |
@@ -180,6 +181,7 @@
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2021-12-07 | 2022-07-20 |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-01-04 |  |
 | [Float Away](https://open.spotify.com/track/5uNxH6IeDRZnn9KiRtIflT) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 2:43 | 2021-12-07 | 2022-10-05 |
+| [Flow](https://open.spotify.com/track/73HWFNQQwgTMWv13iGEfte) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Flow](https://open.spotify.com/album/6U96DdlOnpMY5OjYqUQF1G) | 1:40 | 2023-02-27 |  |
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-03-01 |  |
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-12-07 | 2022-09-13 |
 | [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-12-07 | 2023-01-28 |
@@ -384,6 +386,7 @@
 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2021-12-07 | 2022-10-05 |
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 |  |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-12-07 | 2022-10-25 |
+| [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 | 2023-02-27 |  |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2021-12-07 | 2022-07-20 |
 | [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 | 2021-12-07 | 2022-04-08 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 | 2023-01-28 |

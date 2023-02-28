@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 370112,
+  "num_followers": 370157,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2MjM2MywwMDAwMDAwMDJhZDE5ZGFiNTJiNzcxYmJjZTRiZmI3ODEyY2ZjZjRj",
+  "snapshot_id": "MTY3NzE2MjM2MywwMDAwMDAwMDI2MmRmMTkzYzMyNDVhOWEyY2FiNTg3YmY4OTQ0ODkz",
   "tracks": [
     {
       "added_at": "2023-02-23 14:26:03",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        }
-      ],
-      "duration_ms": 411147,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 190000,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 411147,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -475,34 +491,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+        "name": "A Quiet Voice",
+        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+      "duration_ms": 282812,
+      "name": "A Quiet Voice",
+      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -563,26 +563,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Red Lights (EMBRZ Remix)",
-        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Red Lights - EMBRZ Remix",
-      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -611,34 +603,46 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Red Lights (EMBRZ Remix)",
+        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+      "duration_ms": 206000,
+      "name": "Red Lights - EMBRZ Remix",
+      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
     },
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 400130,
+      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -679,22 +683,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
+        "name": "Above the Salt",
+        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
+      },
+      "artists": [
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 226690,
+      "name": "Above the Salt",
+      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
@@ -1179,22 +1199,6 @@
       "duration_ms": 140826,
       "name": "Ask",
       "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 183788,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Above the Salt",
-        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq"
       },
       "artists": [
         {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 226690,
-      "name": "Above the Salt",
-      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
+      "duration_ms": 183788,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M"
     },
     {
       "added_at": "2023-02-23 14:26:03",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-02-23 14:26:03",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "mixed feelings",
-          "url": "https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC"
-    },
-    {
-      "added_at": "2023-02-23 14:26:03",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "added_at": "2023-02-23 14:26:03",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "mixed feelings",
+          "url": "https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0"
+        }
+      ],
+      "duration_ms": 144461,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC"
     }
   ],
   "unique_name": "Just Chill",

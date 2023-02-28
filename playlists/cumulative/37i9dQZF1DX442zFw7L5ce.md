@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-114 songs - 8 hr 13 min
+115 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Adhento Gaani Vunnapaatuga](https://open.spotify.com/track/6jR5F8G9ZzCEQo27UgUrN6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/album/00S5jU14zx45cD2F6RqV22) | 3:57 | 2021-10-21 | 2022-10-14 |
 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swaranlata](https://open.spotify.com/artist/4tbAszpshMTxXt5UvP7rU9) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 | 2023-01-30 |  |
 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan, Gopika poornima](https://open.spotify.com/artist/2XvK1qhSh7sTup7WKTrnoi) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 | 2022-10-13 |  |
-| [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 | 2022-10-13 |  |
+| [Ammaye](https://open.spotify.com/track/7mSblvWeMHgj4ki1zbACZr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Tollywood Rewind 2000](https://open.spotify.com/album/4l3w93OeJlCnic3RXPtmks) | 4:51 | 2022-10-13 |  |
+| [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 | 2022-10-13 | 2023-02-28 |
 | [Andaala Raakshsive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 | 2022-10-13 |  |
 | [Andamaina Premarani](https://open.spotify.com/track/4eEr2PZB3WJp74qkxzQrLS) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP) | [Premikudu](https://open.spotify.com/album/68k7QMGYN8eiEY1CAl5sEy) | 4:48 | 2022-10-13 |  |
 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 | 2021-10-21 |  |
@@ -48,7 +49,7 @@
 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash, Anitha](https://open.spotify.com/artist/5mYYuZMloL3PebJsXYzAuQ) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 | 2022-10-14 |  |
 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 | 2022-10-13 |  |
 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/7HhiFHVmeM50rHXw7FlgNH) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Uppena](https://open.spotify.com/album/0cpn4u9Todg0wNbQFUmQVy) | 4:12 | 2021-10-21 | 2022-10-14 |
-| [Jenniper Lopez](https://open.spotify.com/track/7DogGBT86sbjsNWQSIGLtB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:18 | 2022-10-13 |  |
+| [Jennifer Lopez](https://open.spotify.com/track/7DogGBT86sbjsNWQSIGLtB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:18 | 2022-10-13 |  |
 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 | 2022-10-14 |  |
 | [Kallumoosi](https://open.spotify.com/track/55uVx1s7InHUFdyw3iDJny) | [Suchit Suresan](https://open.spotify.com/artist/086LQYImDS05jNyttLA3V2) | [Majnu](https://open.spotify.com/album/3vHxGFNrNmkIwneqTFqnj1) | 3:37 | 2021-10-21 | 2022-10-14 |
 | [Kanne Kanne](https://open.spotify.com/track/1xkeK8WR55UkcVAW7wFaxY) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Arjun Suravaram](https://open.spotify.com/album/6w6XHKMJq4LCLHmz13YPfH) | 4:50 | 2021-10-21 | 2022-10-14 |

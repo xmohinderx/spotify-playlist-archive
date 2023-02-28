@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nielson op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,481 likes - 110 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,545 likes - 110 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 109 | [Dansen Met Het Licht Uit](https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q) | [Jerry Island](https://open.spotify.com/artist/46tAkwcuqLpuqBMC1V1fp1) | [Dansen Met Het Licht Uit](https://open.spotify.com/album/4XHHeomMEP8WpdkyRbjldH) | 2:57 |
 | 110 | [Liever Leven](https://open.spotify.com/track/7LykDowuuZgfTjDlVqUIGT) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Gewoon Willem](https://open.spotify.com/album/5IOhdflOGOIy28OGwCzw5h) | 2:48 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGI5MzIzZWQyZjFlZmU3YjU4YjA5YmJjYmU1ZDczOTRm`
+Snapshot ID: `MTY3NzQ5MzczOCwwMDAwMDAwMGRhMTkxY2RkNWU1YTQ4MDUyY2M4YzAyM2FkODJiMGI2`

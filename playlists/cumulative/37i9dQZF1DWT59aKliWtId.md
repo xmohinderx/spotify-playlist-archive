@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. Jason Isbell and the 400 Unit
 
-650 songs - 1 day 15 hr 29 min
+651 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/track/6N8hCmutQjQ3zZevRbJk36) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/album/70M68ZXCoG4pdeUdN4yzhm) | 3:22 | 2023-01-13 |  |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-05-20 | 2022-11-17 |
 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-11-11 | 2022-11-19 |
+| [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 | 2023-02-28 |  |
 | [Magnificent Hurt](https://open.spotify.com/track/0kxlIfhmOIxvudsjNzf587) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [The Imposters](https://open.spotify.com/artist/0mtzATzl6kfYHMWZskqH21) | [Magnificent Hurt](https://open.spotify.com/album/1R59dC6Jnj31qsGpRRvRWR) | 3:13 | 2021-12-10 | 2022-02-26 |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-12-10 | 2022-03-05 |
 | [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 | 2022-06-03 | 2022-10-08 |

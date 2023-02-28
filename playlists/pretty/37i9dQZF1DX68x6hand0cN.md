@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,276 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,396 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 75 | [Only You](https://open.spotify.com/track/28cKZOhv7MWfUnlOIj1Rid) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Les vestiges du fleau](https://open.spotify.com/album/10BrhVps4lNlCk75szZSIk) | 3:37 |
 | 76 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 
-Snapshot ID: `MTY3NzIzODkyMSwwMDAwMDAwMGY4YjY3YzBiZmQ1ZDU1MDVjZGEyMGU5NWM2NDQ0YWVi`
+Snapshot ID: `MTY3NzQ4NjU0OSwwMDAwMDAwMGY4NDhiNzUxNDI4MjEzZjc3OWQyODYzZGY4ZmNiYWYz`

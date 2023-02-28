@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,671 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,976 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 22 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 |
 | 23 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 |
 | 24 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
-| 25 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
-| 26 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 |
+| 25 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 |
+| 26 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
 | 27 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
 | 28 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
 | 29 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 46 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
 | 47 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 |
 | 48 | [Daydreams](https://open.spotify.com/track/10fCnRDanLFxvi6ni9Xfnf) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Daydreams](https://open.spotify.com/album/3bx9QqHke58WWn5yeiUpSy) | 3:31 |
-| 49 | [If You Wanna](https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Want U EP](https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m) | 3:35 |
-| 50 | [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 |
+| 49 | [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 |
+| 50 | [If You Wanna](https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Want U EP](https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m) | 3:35 |
 
-Snapshot ID: `MTY3NjU4MTQyNywwMDAwMDAwMGExYjFmYzlkNzE2NDBhNjI3ZWUxNzRiMmZlMjg2ZWIx`
+Snapshot ID: `MTY3NjU4MTQyNywwMDAwMDAwMGI3MTgzZTljOGFkMjc5NjE4OGYyMTUxYTg1YTEwOTE4`

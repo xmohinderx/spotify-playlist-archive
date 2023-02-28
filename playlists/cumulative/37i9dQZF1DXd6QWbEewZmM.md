@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-325 songs - 18 hr 34 min
+326 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 |  |
 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 | 2023-02-24 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 | 2022-01-01 | 2022-03-22 |
+| [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 | 2023-02-24 |  |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-01-01 | 2023-02-24 |
 | [El Humillado](https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA) | [Clave 51](https://open.spotify.com/artist/4iY2MxD3WzbpgyX1uCs4Yf) | [El Humillado](https://open.spotify.com/album/1RmJvwO5RQYDv4FNRPYMxt) | 2:29 | 2022-01-01 | 2023-01-26 |
 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 | 2022-01-01 | 2022-03-22 |
@@ -184,7 +185,7 @@
 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 | 2022-02-25 | 2022-03-02 |
 | [No Eres La Oficial](https://open.spotify.com/track/7LYWPZL216dyiN02mjefro) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/3Y1AadLWzuo9uXJ2SD0w8V) | 3:20 | 2022-01-01 | 2022-07-29 |
 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 | 2022-07-22 |  |
-| [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-01-25 |  |
+| [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-01-25 | 2023-02-28 |
 | [No Me Buscas](https://open.spotify.com/track/7Jgh8una8MqHfVe0qGpYZX) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Innovando](https://open.spotify.com/album/7AJch1i0acEtyN5mFnqjc6) | 3:03 | 2022-01-01 | 2022-07-22 |
 | [No Me Quise Ir](https://open.spotify.com/track/2JltnZUDzrxKuwNjkK5N6Q) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:30 | 2022-07-22 |  |
 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 | 2023-02-24 |  |

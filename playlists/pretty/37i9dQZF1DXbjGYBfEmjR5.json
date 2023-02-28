@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 261977,
+  "num_followers": 262131,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDBiZGQ5Njg3MmRlY2RlMGMzODFkODZkZTE2OGFlZTNi",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDUwOTE1YWFjZmU4YzVkM2YwNjBlN2NhZGFjYjMwNDMx",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -503,6 +503,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Junko Yagami",
+          "url": "https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Infinite Skies",
         "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
       },
@@ -535,6 +555,38 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "HANDZ",
+        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "duration_ms": 280975,
+      "name": "NOTFAIR",
+      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Flavored",
+        "url": "https://open.spotify.com/album/5jni2TbWknd8TBL6Nt4dyh"
+      },
+      "artists": [
+        {
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+        }
+      ],
+      "duration_ms": 189545,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/0bZPy3kBR0TzKeUvkMNcSg"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "I Found You (feat. Benjamin Ingrosso)",
         "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
       },
@@ -551,42 +603,6 @@
       "duration_ms": 152195,
       "name": "I Found You (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Junko Yagami",
-          "url": "https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
-      "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "HANDZ",
-        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 280975,
-      "name": "NOTFAIR",
-      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -611,22 +627,6 @@
       "duration_ms": 226500,
       "name": "Selfish High Heels",
       "url": "https://open.spotify.com/track/0b9BpOmZC33EjJNWewLJwK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Flavored",
-        "url": "https://open.spotify.com/album/5jni2TbWknd8TBL6Nt4dyh"
-      },
-      "artists": [
-        {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
-        }
-      ],
-      "duration_ms": 189545,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/0bZPy3kBR0TzKeUvkMNcSg"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -663,26 +663,6 @@
       "duration_ms": 216000,
       "name": "City Nightlife - Original Mix",
       "url": "https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Sendagi Collection",
-        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Selfish Earrings",
-      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -751,6 +731,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Sendagi Collection",
+        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Selfish Earrings",
+      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Prom King",
         "url": "https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 178064,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "J-Funk City : Vantage's Edits Collection",
-        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -863,6 +847,22 @@
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "J-Funk City : Vantage's Edits Collection",
+        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -951,22 +951,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -987,34 +983,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
       "artists": [
         {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
-      },
-      "artists": [
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
         {
           "name": "Macross 82-99",
           "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
       "artists": [
         {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Cyber Love",
         "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1215,42 +1215,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Need Somebody",
-      "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -1287,6 +1251,42 @@
       "duration_ms": 245901,
       "name": "Virtual World",
       "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
         }
       ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
       "artists": [
         {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1687,18 +1687,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+        "name": "Monstruo Japon\u00e9s",
+        "url": "https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP"
       },
       "artists": [
         {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        },
+        {
+          "name": "Rubimente",
+          "url": "https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4"
+        },
+        {
+          "name": "Schizo Forg",
+          "url": "https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0"
         }
       ],
-      "duration_ms": 303148,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
+      "duration_ms": 250344,
+      "name": "Monstruo Japon\u00e9s",
+      "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
     }
   ],
   "unique_name": "Future Funk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCZsi4BErc7.md) - [plain]
 
 > Rustige, minimalistische ambient muziek om je in diepe slaap te brengen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCZsi4BErc7.md) - [plain]
 | 99 | [Open Heart](https://open.spotify.com/track/7meCshsWEYqEIsyDz02Wwr) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Open Heart](https://open.spotify.com/album/5CgkPzpExkZMVYR6mpaE2S) | 2:48 |
 | 100 | [Changes](https://open.spotify.com/track/7LN8q1j8AvipS8Rd17SZh8) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Changes](https://open.spotify.com/album/2AJCLt8HmnHefCJOOcqNtT) | 3:08 |
 
-Snapshot ID: `MTY3MDQ0NzYzNCwwMDAwMDAwMDQ3OWY2MjQ3MzlmZjY2ZTBiNmYyYjc0ZmM2OWViNTM3`
+Snapshot ID: `MTY3NzUwODc5MiwwMDAwMDAwMGY0Njg2MTU5ZDVkYmU5YzM5ZGQ4ZmRkNjA3YzBmY2Q2`

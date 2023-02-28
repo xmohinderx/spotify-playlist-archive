@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Cheri Cheri Lady",
+        "url": "https://open.spotify.com/album/5vpvNxrXFO8woRxfYLlhaa"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00e9na",
+          "url": "https://open.spotify.com/artist/3S3wnv6QBllnOiHHULP7C6"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143227,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/7HpIBZAsjJq5nW9S8ti7Fi"
+    },
+    {
+      "album": {
         "name": "Chicken Noodle Soup (feat. Becky G)",
         "url": "https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A"
       },
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 260489,
       "name": "Dear (feat. L\u00ea Hi\u1ebfu)",
       "url": "https://open.spotify.com/track/7sEIHN9lpk8ad8iIAYnR5Y"
@@ -6884,7 +6902,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 234240,
       "name": "Lu\u00f4n y\u00eau \u0111\u1eddi",
       "url": "https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK"
@@ -11626,7 +11644,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
       "url": "https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv"

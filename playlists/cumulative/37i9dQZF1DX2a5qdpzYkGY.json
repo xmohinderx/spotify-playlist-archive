@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
+      },
+      "artists": [
+        {
+          "name": "A. M.",
+          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Francis K.",
+      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
       },
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 456976,
       "name": "THE PERFUMED GARDEN",
       "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"

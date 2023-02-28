@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 10315,
+  "num_followers": 10332,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGZjZjQwZGQzNzI5ZGM0OWU3MjI2NzFlYzI0NTY4YTdj",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDNjZmQ3ZmFmZTZiM2ZiY2ViZGIwNDAwMmNiNDMxYjk3",
   "tracks": [
     {
       "added_at": "2022-05-05 23:00:00",
@@ -249,20 +249,28 @@
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
-      "added_at": "2022-04-28 23:00:00",
+      "added_at": "2022-10-07 12:08:55",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 182073,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -301,28 +309,20 @@
       "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"
     },
     {
-      "added_at": "2022-10-07 12:08:55",
+      "added_at": "2022-04-28 23:00:00",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 182073,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
       "added_at": "2023-01-27 09:42:10",
       "album": {
         "name": "Werser",
@@ -549,6 +533,22 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
       "added_at": "2022-03-11 00:00:00",
       "album": {
         "name": "Outlaw",
@@ -613,50 +613,6 @@
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     },
     {
-      "added_at": "2022-03-29 06:00:35",
-      "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2022-09-23 06:36:20",
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
       "added_at": "2022-09-09 09:20:13",
       "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
@@ -685,6 +641,46 @@
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
+      "added_at": "2022-11-25 07:49:53",
+      "album": {
+        "name": "Astalavista",
+        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "Astalavista",
+      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": "2022-03-29 06:00:35",
+      "album": {
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
       "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Bunda",
@@ -709,24 +705,56 @@
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
     },
     {
-      "added_at": "2022-11-25 07:49:53",
+      "added_at": "2022-09-23 06:36:20",
       "album": {
-        "name": "Astalavista",
-        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 171921,
-      "name": "Astalavista",
-      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
+        "url": "https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
+      "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
     },
     {
       "added_at": "2022-04-18 06:23:32",
@@ -763,34 +791,6 @@
       "duration_ms": 130477,
       "name": "Faya",
       "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
-        "url": "https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
-      "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
     },
     {
       "added_at": "2023-02-10 10:45:02",
@@ -1005,38 +1005,6 @@
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "See Something",
-        "url": "https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 157219,
-      "name": "See Something",
-      "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Mufasa",
@@ -1067,6 +1035,38 @@
       "duration_ms": 169043,
       "name": "Shaye",
       "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "See Something",
+        "url": "https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 157219,
+      "name": "See Something",
+      "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
     },
     {
       "added_at": "2021-11-25 23:01:00",
@@ -1107,22 +1107,6 @@
       "duration_ms": 134594,
       "name": "Holla Me",
       "url": "https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR"
-    },
-    {
-      "added_at": "2022-07-22 04:29:24",
-      "album": {
-        "name": "Jaiye (Ihe Geme)",
-        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "Jaiye (Ihe Geme)",
-      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
       "added_at": "2023-02-10 10:45:02",
@@ -1171,6 +1155,22 @@
       "duration_ms": 385714,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud"
+    },
+    {
+      "added_at": "2022-07-22 04:29:24",
+      "album": {
+        "name": "Jaiye (Ihe Geme)",
+        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 234404,
+      "name": "Jaiye (Ihe Geme)",
+      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
       "added_at": "2022-08-18 23:00:00",

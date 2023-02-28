@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "qual lugar do seu corpo vc encontrou glitter hje?",
+  "description": "acabou o carnaval,,,,,,vc ja chorou hje? <3 hidrate-se",
   "name": "Hits da Internet",
   "tracks": [
+    {
+      "album": {
+        "name": "Pode Cr\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163584,
+      "name": "085 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
+    },
     {
       "album": {
         "name": "202",
@@ -1408,6 +1426,24 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
+        "name": "Dona Chica (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hQvhvilbkg3yQI55eigsd"
+      },
+      "artists": [
+        {
+          "name": "Augusto e Rafael",
+          "url": "https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183408,
+      "name": "Dona Chica - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sD07uktXbICUL36lzfBxf"
     },
     {
       "album": {
@@ -4590,6 +4626,10 @@
         {
           "name": "DJ Jeffdepl",
           "url": "https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k"
+        },
+        {
+          "name": "Murilo Cajaiba",
+          "url": "https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf"
         }
       ],
       "date_added": "2023-02-06",

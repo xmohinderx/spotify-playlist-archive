@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 > Want some metal? Better to start with the essentials\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,651,860 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,652,725 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 99 | [Detox](https://open.spotify.com/track/5UCZhWiEj8q5jid3zu8JKw) | [Strapping Young Lad](https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy) | [City](https://open.spotify.com/album/78Y2OaDAdvEqs3TRdCRdZc) | 5:37 |
 | 100 | [Seek & Destroy \(Remastered\)](https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 6:54 |
 
-Snapshot ID: `MTY3NTg4Njk2NywwMDAwMDAwMDc0NTZhMzgxYzFmNzFiZDMzMzkyMGQ3ZWYzYmJlNjM3`
+Snapshot ID: `MTY3NTg4Njk2NywwMDAwMDAwMGE0Zjg3MTI3OTUwNWQxZTcwZTY2NGE0NGYxNTNmMmU1`

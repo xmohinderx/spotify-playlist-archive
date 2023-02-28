@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,549 songs - 2 day 21 hr 6 min
+1,552 songs - 2 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [Olyan szép vagy](https://open.spotify.com/track/7ejRYgcT2XCiYVCvjvCzmj) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Olyan szép vagy](https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw) | 2:05 | 2019-10-16 | 2020-11-10 |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-08-08 |  |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2021-12-21 |  |
+| [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 | 2023-02-27 |  |
 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 | 2020-06-16 | 2022-04-15 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-11-11 | 2022-05-21 |
 | [Once More](https://open.spotify.com/track/6fE1QsCn1UPxiXgOPvqKo0) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Once More](https://open.spotify.com/album/4nXhrvBpJYkIpiBZ9m43R6) | 2:23 | 2021-09-09 | 2022-07-16 |
@@ -1037,6 +1038,7 @@
 | [Quiet At Dawn](https://open.spotify.com/track/5UOhiSuywxh22VLsnTieUW) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Quiet At Dawn](https://open.spotify.com/album/2tdaZLir12VrA9oZWtKiRm) | 3:18 | 2023-01-17 |  |
 | [Quiet Conversation](https://open.spotify.com/track/1Oh2lgjyAt26WZ7SeyJLzY) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Quiet Conversation](https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB) | 4:21 | 2020-06-24 | 2020-09-22 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2020-10-13 | 2020-11-10 |
+| [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-02-27 |  |
 | [Quiet Resource](https://open.spotify.com/track/5FoZCDCl6WhrAIm4Ygyjg7) | [Evelyn Stein](https://open.spotify.com/artist/4rygF1Cuu6aehFfLcK8ZjN) | [Quiet resource](https://open.spotify.com/album/39XZKMpNJsr4nGzXqYHnNL) | 3:27 | 2019-05-26\* | 2020-08-20 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2021-03-06 | 2022-04-23 |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2021-01-26 | 2021-12-08 |
@@ -1056,6 +1058,7 @@
 | [Reframe](https://open.spotify.com/track/1sINJB2tVaHV5r3iKCACHv) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reframe](https://open.spotify.com/album/3XJLsmXh2yyehGaUn0FWDC) | 2:07 | 2022-04-14 |  |
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2020-08-04 | 2020-09-28 |
 | [Relationships](https://open.spotify.com/track/5MfdSgLFVnTRysU8lNAoGt) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Relationships](https://open.spotify.com/album/5hCswrPQMQHv91xdeanu25) | 3:08 | 2020-06-16 | 2020-08-04 |
+| [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2023-02-27 |  |
 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 | 2020-10-20 | 2022-02-24 |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2020-11-27 | 2021-03-31 |
 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 | 2022-01-19 | 2022-07-07 |

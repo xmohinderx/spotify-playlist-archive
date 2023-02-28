@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Crown Lands
 
-126 songs - 7 hr 9 min
+127 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [only way out](https://open.spotify.com/track/0DCbCYsPpg6sYVFzEOMG8e) | [Little Destroyer](https://open.spotify.com/artist/5knA7MWjServ1IJdZc8Scw) | [1134](https://open.spotify.com/album/6HSfqnWEDXDLItXz7PonBf) | 2:24 | 2023-02-10 | 2023-02-18 |
 | [Our Love Will Still Be There](https://open.spotify.com/track/00XtGg6iaLXUAA0mbb95OT) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Our Love Will Still Be There](https://open.spotify.com/album/2dyN4wNme6xJwMR5O1GeSU) | 4:09 | 2023-02-10 |  |
 | [Outta Love](https://open.spotify.com/track/2mgxfEz7wo9TiwBjCr4GMH) | [Fast Romantics](https://open.spotify.com/artist/2A0s0vRWHl5XyWpdzM36RT) | [Outta Love](https://open.spotify.com/album/26FExqNSZPG4lOGm8ccGZt) | 4:18 | 2023-02-10 |  |
-| [People Pleaser](https://open.spotify.com/track/3z9huDY5jtnauzogxSfEvH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [People Pleaser](https://open.spotify.com/album/5qr60lWY4OwoM8srEGfLsm) | 3:09 | 2023-02-10 |  |
+| [People Pleaser](https://open.spotify.com/track/2HqPWkDY1v9t9LoqmXGoYP) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:09 | 2023-02-24 |  |
+| [People Pleaser](https://open.spotify.com/track/3z9huDY5jtnauzogxSfEvH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [People Pleaser](https://open.spotify.com/album/5qr60lWY4OwoM8srEGfLsm) | 3:09 | 2023-02-10 | 2023-02-28 |
 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 | 2023-02-10 |  |
 | [Postcards](https://open.spotify.com/track/3c7NWOqdIkk0stoYxYl1uG) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3), [Kadeema](https://open.spotify.com/artist/4uPj13l69hBlVVAs5OjQXw) | [Postcards](https://open.spotify.com/album/07M4xcrAyCfYxAwVdQUxHO) | 3:23 | 2023-02-10 | 2023-02-25 |
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2023-02-10 |  |

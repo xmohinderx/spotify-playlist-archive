@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,657 likes - 41 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,684 likes - 41 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,14 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Vaathi
 
-114 songs - 7 hr 43 min
+115 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aafat \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/track/09FMB1sTmFrqTa4sPKyjYg) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Aafat \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/0O3S5Epuz2DEESAH4YXav2) | 2:43 | 2022-08-06 | 2022-11-15 |
 | [Aagoozhilae](https://open.spotify.com/track/1lFaBr3FHJ50muREghdg5C) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/5giXKnWYxmiHDn2Aky5tPc) | 3:53 | 2022-03-16 |  |
 | [Adhirudha \- From "Navarasa"](https://open.spotify.com/track/1f8ogmapCUpWELZYbCKJmp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Adhirudha \(From "Navarasa"\)](https://open.spotify.com/album/4WFgbYD0mb8c6O88sNznVv) | 2:03 | 2021-11-29 | 2022-10-19 |
+| [Adiyae Adiyae \(From "Nandhivarman"\)](https://open.spotify.com/track/0yI3rBe4TqxKRyLWyjhLBw) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I) | [Adiyae Adiyae \(From "Nandhivarman"\) \- Single](https://open.spotify.com/album/4zNA1MZoBvWulVG9xklJef) | 3:00 | 2023-02-27 |  |
 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 | 2021-11-29 | 2023-02-22 |
 | [Adiye Raasaathi \- From "Bommai Nayagi"](https://open.spotify.com/track/59LiyA1Bjlv7fcZFm5sWSp) | [Sundaramurthy K.S.](https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6) | [Adiye Raasaathi \(From "Bommai Nayagi"\)](https://open.spotify.com/album/0Mk0Yx0C8DPPqF2XrWP0ms) | 4:51 | 2023-01-09 |  |
 | [Alai Alaiyaaga \- From "Navarasa"](https://open.spotify.com/track/3BA7DwnFY3wo2P6vtTpcvm) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Alai Alaiyaaga \(From "Navarasa"\)](https://open.spotify.com/album/1JSsWtXQT3mVFtefwk3D5F) | 1:36 | 2021-11-29 | 2022-10-19 |

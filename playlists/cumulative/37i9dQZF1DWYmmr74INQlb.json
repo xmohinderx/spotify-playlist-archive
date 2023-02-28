@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 280973,
       "name": "A Long Walk",
       "url": "https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL"
@@ -140,6 +140,28 @@
       "duration_ms": 261800,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Roy Ayres",
+          "url": "https://open.spotify.com/artist/5Ql3HGIJWxuEjDpDkXfduq"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348893,
+      "name": "Bag Lady",
+      "url": "https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1"
     },
     {
       "album": {

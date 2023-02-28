@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-159 songs - 10 hr 46 min
+160 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Incendio](https://open.spotify.com/track/3Ju42J1sFmVpxkGGSFpcWb) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Incendio](https://open.spotify.com/album/4cmrJPAbJQuBpGPIKbHzfQ) | 2:44 | 2021-10-01 |  |
 | [Jordão](https://open.spotify.com/track/0OOjWnUSSQzwav02OSctR2) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Parva Naturalia](https://open.spotify.com/album/5tHvENdIkbBl0ItOTva9W8) | 4:23 | 2022-02-18 |  |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-02-18 | 2023-02-02 |
-| [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-06-23 |  |
+| [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-06-23 | 2023-02-28 |
 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 | 2020-10-20 |  |
 | [KLK](https://open.spotify.com/track/5An8NQkXTYa5gz8BIWeWk5) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 3:47 | 2020-10-20 | 2022-07-29 |
 | [La Morte Muore \- Part 3](https://open.spotify.com/track/3JHiHqwApntqpWnukIxYHh) | [OvO](https://open.spotify.com/artist/4DBspZAitax26H5f7ay6zg) | [La Morte Muore \(Part 3\)](https://open.spotify.com/album/0a4gYYEd1DDv5bKbTi5wTi) | 4:30 | 2022-08-19 |  |
@@ -132,6 +132,7 @@
 | [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 |  |
 | [Tintoretto, It's for You](https://open.spotify.com/track/4hNlGoJ9rgKaMSBermXqwZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Tintoretto, It's for You](https://open.spotify.com/album/3pGqMfIDbb7rtdf4qiqDLE) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 3:05 | 2022-02-18 |  |
+| [To Remain/To Return \- Excerpt](https://open.spotify.com/track/7ued5zaVTqNx0A4rgMmzs7) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [To Remain/To Return](https://open.spotify.com/album/6BMbolrVKMs5Hz1Pwr3f2Y) | 3:19 | 2023-02-27 |  |
 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 | 2022-08-24 |  |
 | [Todo Lo Que Pido](https://open.spotify.com/track/5ZD3VYewwI5s6wzPOZusxn) | [Rayotaser](https://open.spotify.com/artist/3RsgNEOhNLBPaFb2kJ3jmL) | [Robocops](https://open.spotify.com/album/1EzsCrkrSzuQtaA6yd6N0o) | 8:33 | 2020-10-20 | 2022-11-04 |
 | [Tommy](https://open.spotify.com/track/5DIDBpv8X1eDO9v5b5IJn1) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39) | 2:42 | 2020-10-20 |  |

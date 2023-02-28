@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 485824,
+  "num_followers": 486063,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDU5ZjYyMDQzN2VlYTcwOTA5ODI1ZmNmNTdiYWVlYTNj",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDU3YzU5MGFhYTlhM2JhZjc5YTU0ZDdlOWUzZTk3NmUw",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Black Sabbath (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Wizard - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -231,22 +215,6 @@
       "duration_ms": 104610,
       "name": "Crucifire",
       "url": "https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -267,6 +235,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Black Sabbath (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Wizard - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
       },
@@ -279,22 +263,6 @@
       "duration_ms": 314746,
       "name": "Electric Worry",
       "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 317600,
-      "name": "An Alternative to Freedom",
-      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -315,8 +283,8 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
       },
       "artists": [
         {
@@ -324,9 +292,25 @@
           "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 317600,
+      "name": "An Alternative to Freedom",
+      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -379,6 +363,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Blast Tyrant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Blast Tyrant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
       },
       "artists": [
         {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
+      "duration_ms": 163266,
+      "name": "Feel Good Hit Of The Summer",
+      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Feel Good Hit Of The Summer",
-      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
-      },
-      "artists": [
-        {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
-        }
-      ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "...And the Circus Leaves Town",
         "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 152040,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -651,6 +651,38 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0"
       },
@@ -695,38 +727,6 @@
       "duration_ms": 392000,
       "name": "Look To Your Orb For The Warning",
       "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
       "artists": [
         {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -875,34 +875,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
       "artists": [
         {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
         }
       ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
-      },
-      "artists": [
-        {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -919,6 +903,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 301973,
       "name": "Moonage Daydream",
       "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Euporie Tide",
         "url": "https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 466382,
       "name": "The Ghosts of Charlie Barracuda",
       "url": "https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
     },
     {
       "added_at": "2023-02-10 05:00:00",

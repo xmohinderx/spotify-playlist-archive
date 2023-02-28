@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bob The Drag Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,828 likes - 91 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,854 likes - 91 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

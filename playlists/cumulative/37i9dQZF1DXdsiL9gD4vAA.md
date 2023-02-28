@@ -4,11 +4,12 @@
 
 > Let these contemplative couplets take you away.
 
-72 songs - 7 hr 31 min
+76 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 | 2021-12-01 |  |
+| [Aankho Mein Raha](https://open.spotify.com/track/1wGxfpGFpx2vCajaRilihV) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 7:54 | 2023-02-27 |  |
 | [Aapki Yaad Aati Rahi Raat Bhar](https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87) | [Chhaya Ganguli](https://open.spotify.com/artist/4psVmgSgmjHIBM7MZuVQyY) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 5:02 | 2021-12-01 |  |
 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 | 2023-01-28 |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 |  |
@@ -17,6 +18,7 @@
 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 | 2021-12-01 | 2022-07-29 |
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/0AhzeZYaFByVhvN7AP1Q1Y) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Hothon Se Chhu Lo Tum](https://open.spotify.com/album/7aU7dUrUsmYhPZeuUM61b5) | 6:39 | 2022-07-26 | 2023-02-17 |
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/17PEMtVwg0DaC5sBjUBdAl) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 6:40 | 2023-02-16 |  |
+| [Chandni Ke Bagh Mein](https://open.spotify.com/track/6T4AUanQF0Nhs7WHoMXujI) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 6:29 | 2023-02-27 |  |
 | [Chhupana Bhi Nahin Aata \(From "Baazigar"\)](https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:22 | 2021-12-01 |  |
 | [Chitthi Aai Hai](https://open.spotify.com/track/09xLwwXCwGcNK9nU20cwQM) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Naam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZpyKpCBKxRL8xRn0gKdz) | 7:14 | 2021-12-01 |  |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/02K9EZr0aJwXzHTclgNHL8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Nikaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19uTzMdiFnYjNYXQsrkHc1) | 7:48 | 2021-12-01 |  |
@@ -25,6 +27,7 @@
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/5Guw1XbK37L6pvbJ6qZV6r) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [50 Greatest Ghazals \- Songs of Love and Longing](https://open.spotify.com/album/4OZbHfjilGWJ2Tp9RHUP6Z) | 11:36 | 2021-12-01 | 2022-07-29 |
 | [Dasht\-E\-Tanhai Mein](https://open.spotify.com/track/0PZO1Ih1qTQawy5Wc9B7zy) | [Iqbal Bano](https://open.spotify.com/artist/7JxXeUTiGg0vr8SS2iS0F0) | [An Evening With Iqbal Bano, Vol\. 1](https://open.spotify.com/album/28YZZXx13F7sSEwW13v1yv) | 8:58 | 2021-12-01 |  |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 |  |
+| [Dilkash](https://open.spotify.com/track/4RBzmqblZsEuNypCAHdWYf) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Gulmohar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87) | 4:29 | 2023-02-27 |  |
 | [Duniya Kisi Ke Pyar Mein](https://open.spotify.com/track/4UDsOiaMP4pLawOzlmeGKk) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Greats Of Mehdi Hassan](https://open.spotify.com/album/5kZPQXY1qFWCZrlGLApOKq) | 5:40 | 2021-12-01 |  |
 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 |  |
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 |  |
@@ -64,6 +67,7 @@
 | [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 | 2022-07-26 |  |
 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 | 2021-12-01 |  |
 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 | 2021-12-01 |  |
+| [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 |  |
 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 |  |
 | [Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan \- Greatest Ghazals](https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np) | 12:12 | 2021-12-01 |  |
 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 | 2021-12-01 |  |

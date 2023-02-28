@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,041 songs - 4 day 21 hr 27 min
+2,044 songs - 4 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Bad Girl](https://open.spotify.com/track/4hNaM35MBW9HWyfoWwuCxE) | [Luego](https://open.spotify.com/artist/4BbSoSyv1hi5DUIQy8AdnL) | [Bad Girl](https://open.spotify.com/album/4QLM3gl9yGUnTzYFqFuHf5) | 3:03 | 2022-05-20 | 2022-06-05 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-05 | 2021-07-12 |
 | [Bad Things](https://open.spotify.com/track/2U1JR8iWX9Uwckt32tBTB3) | [Jasmine L'Chelle](https://open.spotify.com/artist/1lLZlT6WVx23sUfIC41Y3z) | [Bad Things](https://open.spotify.com/album/6GC28OVyjGWVnRTMXK1siz) | 3:19 | 2021-11-13 | 2021-11-28 |
+| [Badu](https://open.spotify.com/track/54CnmjGEgePxXX8SLrcboz) | [Drew Bolden](https://open.spotify.com/artist/4s7z0GLKRs8QUz9eLYw0EL) | [Venus In Gemini](https://open.spotify.com/album/7nvexR3K0DGRRFAeahy7US) | 4:26 | 2023-02-28 |  |
 | [BAILE FUNK 5](https://open.spotify.com/track/04jfSmC2sRRI6i7fLExba1) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [BAILE FUNK 5](https://open.spotify.com/album/0ZUtOcfkTQfq5dBkeQcEVD) | 2:26 | 2020-10-12 | 2020-10-21 |
 | [Balada Para Perrear](https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Balada Para Perrear](https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE) | 3:15 | 2021-01-29 | 2021-06-06 |
 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 | 2022-07-19 | 2022-08-05 |
@@ -1325,6 +1326,7 @@
 | [On the Moony Side of the Street](https://open.spotify.com/track/4d1VRHCcQhuYW3uGFZisEd) | [Frank Sinapsi](https://open.spotify.com/artist/7MddvDsOIHZiFUoV7Q5vIp), [Francesco Cusa](https://open.spotify.com/artist/5BQEqG6QjXLbNCq802Z0cO), [Enrico Merlin](https://open.spotify.com/artist/0tzkmMdex16gJIiKwi7HUa) | [That Voice from Space](https://open.spotify.com/album/0Hi388yc7wuegEknZ7SnSo) | 4:16 | 2021-06-12 | 2021-06-27 |
 | [ON&ON](https://open.spotify.com/track/2U2XZji7hJFvtejYHOSewk) | [Chrmng,](https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [ON&ON](https://open.spotify.com/album/3P3GHIvRjgUNFNymZCebMu) | 2:40 | 2022-12-30 | 2023-01-21 |
 | [One by One](https://open.spotify.com/track/3HJLTTtvVFq6rQBYpc5e7T) | [M\-I\-N\-O\-S](https://open.spotify.com/artist/7CTPgjLDoBPzH7t0cRsOX0) | [One by One](https://open.spotify.com/album/0nieRtMiCDLIF61oWCmETu) | 2:55 | 2023-02-24 |  |
+| [One For Me and One For You](https://open.spotify.com/track/4l5dehemF2Rwm8HPmVQXH1) | [Caleb Krone](https://open.spotify.com/artist/4kssIOS6NvgtYRntJUEgPk) | [The Dark Side Of The Sun](https://open.spotify.com/album/4r8JjkZmrUP1uY1RFRH2PD) | 3:04 | 2023-02-28 |  |
 | [One Hawt Sunny Day](https://open.spotify.com/track/6WpD2ruAZzCHDweUDzQ3ek) | [Haidee](https://open.spotify.com/artist/5TUlz1H8AM5ghjz7yDuLbQ) | [An EP](https://open.spotify.com/album/6LvU9P31EbjGWYweWmvrP9) | 3:43 | 2021-03-06 | 2021-03-20 |
 | [One Last Time](https://open.spotify.com/track/3jmES10ZW2gOaygKGEpiJZ) | [Kristina Lachaga](https://open.spotify.com/artist/20lFOC1hCNvIZpNCHiVLA6) | [One Last Time](https://open.spotify.com/album/40jJOiYm0OS2HTd49DyKnC) | 3:25 | 2022-03-04 | 2022-03-26 |
 | [one life, might live](https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:34 | 2020-08-20 | 2023-02-12 |
@@ -1504,6 +1506,7 @@
 | [RWH](https://open.spotify.com/track/5CkSpEdTCQfKaYJyAhZcKW) | [51b](https://open.spotify.com/artist/3t4dtvAzT6mSui1MHYMpWg) | [RWH](https://open.spotify.com/album/6oVK0B8ZteUj4EGr4cFubz) | 3:08 | 2022-05-06 | 2022-05-22 |
 | [RYB.mp3](https://open.spotify.com/track/3pkR3wTJnxe5RlLUerHrDt) | [A\-D](https://open.spotify.com/artist/7p43xMnbaLAqV1fpHfJ6Qz) | [RYB.mp3](https://open.spotify.com/album/3dQkgwLRNOgTZGw0HcJBle) | 2:16 | 2023-02-24 |  |
 | [Sacred Regard](https://open.spotify.com/track/3MyHoGJTvAircDrgQIRByo) | [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe), [Jacob Miller](https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6) | [Sacred Regard](https://open.spotify.com/album/7sw7BoLzX5aEHvU3wxgzHX) | 3:34 | 2021-09-18 | 2021-10-03 |
+| [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:40 | 2023-02-27 |  |
 | [Said](https://open.spotify.com/track/2C3NqGue28mX7oBWKK4CdZ) | [070 Beheard](https://open.spotify.com/artist/2Xw4QVCesV84ikNiw6i8QV), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Said](https://open.spotify.com/album/3t1DhqdAvIXbgZFlIBH5vp) | 4:12 | 2021-04-03 | 2021-05-23 |
 | [Salma \- Barney Cortez Remix](https://open.spotify.com/track/2YN7hp4ROM08dx1FA0HzUi) | [Yellow Shoots](https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY), [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA) | [Salma \(Barney Cortez Remix\)](https://open.spotify.com/album/3mhFstXO9Qv6y0YZAnfiiP) | 3:13 | 2022-10-07 | 2022-10-29 |
 | [Salty Crush](https://open.spotify.com/track/2S5epseQ2G6beM33fvNgrU) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Salty Crush](https://open.spotify.com/album/0fLDQTCAyK7CByF9V95Z6v) | 3:05 | 2022-09-16 | 2022-10-04 |

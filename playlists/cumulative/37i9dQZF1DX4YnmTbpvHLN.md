@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-280 songs - 18 hr 27 min
+282 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-06-29 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0qii8PVr6wKDNVbRM1ak1E) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Can't Help Falling in Love](https://open.spotify.com/album/5vBVsRAD5ySVpuIB4cZ3WB) | 3:10 | 2022-06-29 | 2023-01-22 |
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
-| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-29 |  |
+| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-29 | 2023-02-28 |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-06-29 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-12 |  |
@@ -165,6 +165,7 @@
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-29 |  |
 | [Maybe We'll Meet Again](https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Maybe We'll Meet Again](https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW) | 3:37 | 2022-06-29 |  |
+| [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-02-23 |  |
 | [Mean To Me](https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Don´t Blame Me](https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb) | 3:12 | 2022-06-29 |  |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-06-29 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-06-29 |  |
@@ -217,6 +218,7 @@
 | [Skylark](https://open.spotify.com/track/3U1ar1FODMXKLBlF2yxSMl) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Interplay](https://open.spotify.com/album/7cfK06e2mxiwwqwh4PQaOJ) | 4:56 | 2022-06-29 | 2022-12-26 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-06-29 | 2022-11-27 |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2022-06-29 | 2023-02-19 |
+| [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-02-23 |  |
 | [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2022-06-29 |  |
 | [Sommarnattens Skeende](https://open.spotify.com/track/7gNdDvceGxqrxqdc1bDErq) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende](https://open.spotify.com/album/6CilisEhyJTony3qpY89nK) | 3:32 | 2022-06-29 | 2023-02-01 |
 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-29 |  |
@@ -278,7 +280,7 @@
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-02-02 |  |
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-11-24 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-06-29 |  |
-| [Windless Days](https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Straight Forward](https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ) | 2:48 | 2022-06-29 |  |
+| [Windless Days](https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Straight Forward](https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ) | 2:48 | 2022-06-29 | 2023-02-28 |
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-29 | 2023-01-15 |

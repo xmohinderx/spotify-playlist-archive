@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,425 songs - 3 day 8 hr 58 min
+1,426 songs - 3 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 | 2019-10-25 |  |
 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 | 2021-03-21 | 2021-05-17 |
 | [Can't Stop This Thing We Started](https://open.spotify.com/track/2RnBFh8NC4fC1yboCjiYYo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Ultimate](https://open.spotify.com/album/29PaTFb1Y3KjipQaayjAS5) | 3:15 | 2019-07-29\* | 2022-04-19 |
+| [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-02-12 |  |
 | [Can’t Help Myself](https://open.spotify.com/track/6zvvWWxsMIhEYLMTRcWHfc) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Can’t Help Myself](https://open.spotify.com/album/2eA02NTgjx7GKkU5yhgRIV) | 3:37 | 2020-10-09 | 2022-07-29 |
 | [Capsize](https://open.spotify.com/track/3GBlLqIYgB8zWaeWDNJzdh) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Capsize](https://open.spotify.com/album/5y6AnqHZ247zdHCF9avGCU) | 3:57 | 2019-08-06 | 2022-04-21 |
 | [Careless](https://open.spotify.com/track/1rXEehyenWvuge8Tqsvi3H) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Careless](https://open.spotify.com/album/5KwZ3l3sudsVkJCU88rVs2) | 2:48 | 2020-07-31 | 2022-04-13 |
@@ -1350,7 +1351,7 @@
 | [Way Less Sad](https://open.spotify.com/track/3cwaaelWghY5W6Lsj1K8ss) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Way Less Sad](https://open.spotify.com/album/6VgefCQHHsA3y8xP9R4r5S) | 3:26 | 2021-03-17 | 2022-04-15 |
 | [Way Too High](https://open.spotify.com/track/5l6NORdsKfgnrS9r2GLtTC) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Way Too High](https://open.spotify.com/album/2GnMOT5CaZo1VelADDX6UB) | 3:02 | 2021-05-13 | 2022-04-15 |
 | [We Built This City](https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0I0eWeNKn0flG4FryxVjGx) | 4:56 | 2019-08-06 | 2022-04-19 |
-| [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2021-03-18 |  |
+| [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2021-03-18 | 2023-02-28 |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 | 2021-05-22 | 2021-05-24 |
 | [We Got Love](https://open.spotify.com/track/7kqujRWNEBhrpYt0eV0uw5) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [We Got Love](https://open.spotify.com/album/0ECfA035E0wh6Z0RQfYyrg) | 3:22 | 2021-03-20 | 2022-04-11 |
 | [We Got Love](https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [We Got Love](https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy) | 3:33 | 2020-01-07 | 2020-01-08 |

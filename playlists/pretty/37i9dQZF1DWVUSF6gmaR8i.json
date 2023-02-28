@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of classic and new piano rock and pop.",
-  "num_followers": 152857,
+  "num_followers": 152874,
   "original_name": "The Piano Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMDRiNWU5OGM1NWM0NjE5ZDUwMjI5NTcwMDdjYmQ1N2Fm",
+  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMDIyNjFjMTFlZTQ5OTZmMTA1MzEwZTM0N2Y2YjY0MmNi",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 288720,
       "name": "Thunder Road",
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2021-10-01 04:01:00",

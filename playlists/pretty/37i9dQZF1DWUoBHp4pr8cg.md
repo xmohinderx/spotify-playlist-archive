@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax?si=0B3EUNRMSmmdMCPEDFJR\_Q">Trippie Redd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,945 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,977 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

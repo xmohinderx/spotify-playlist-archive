@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,492,187 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,502,239 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 48 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 |
 | 49 | [VEHEMENTS](https://open.spotify.com/track/0mNbESRpFYMbBkuSOXK8T1) | [XO1](https://open.spotify.com/artist/7IVPJk3I9EYRxUliaCy876), [mawrody](https://open.spotify.com/artist/1uCmweOZb3HqHZylECtbz3) | [VEHEMENTS](https://open.spotify.com/album/0EAQoYXub3nuDe1Ptkh0Qi) | 2:27 |
 | 50 | [Broken Lady](https://open.spotify.com/track/1c98tMv6PKPOzOmixNEdUM) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Broken Lady](https://open.spotify.com/album/6HlntCZmP1jYg4ES5WJPV6) | 2:28 |
-| 51 | [Stressed Out](https://open.spotify.com/track/4VUxfs0iuo9AN9vRDKfTjl) | [SCXLETTE](https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE) | [Stressed Out](https://open.spotify.com/album/4cgo0AESe1YYhpQ4K6L9SV) | 1:43 |
+| 51 | [Stressed Out](https://open.spotify.com/track/4xtgEsu86GVlUmWj8bgn90) | [SCXLETTE](https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE) | [Stressed Out](https://open.spotify.com/album/2Zak6JFp9yPWb38nrXxGm0) | 1:43 |
 | 52 | [HIMARS](https://open.spotify.com/track/5tbD3QOzHSRHRBS4iLFldk) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [Himars](https://open.spotify.com/album/6xIIi5ugTV8toR4DZWoI1Z) | 2:17 |
 | 53 | [Laidback](https://open.spotify.com/track/25rD6io5RD18u7Us6OJgES) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [GORMCORPSX](https://open.spotify.com/artist/12CFaZsp1CXJqYJRCBlpyK), [Phonkyrie](https://open.spotify.com/artist/1F2MDUcxISr3lMEKyw6sXO), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Halloween Edition, Vol\. 1](https://open.spotify.com/album/2zxcjsitSGubbYGqYX123K) | 2:03 |
 | 54 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY3NzI2MTg3NiwwMDAwMDAwMGYxZDNkMWNiOTc3N2U5MjBkMWNlZGM1MzVjZmVkZjY1`
+Snapshot ID: `MTY3NzI2MTg3NiwwMDAwMDAwMDVhZGQ4ZWEzNjgyNjdmYzEzYjBlMTAyMWZhZmJjOGMy`

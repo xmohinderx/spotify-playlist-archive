@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,289 likes - 80 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,407 likes - 80 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
 | 2 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 3 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
-| 4 | [Little Red Corvette \- 7" Edit \- 2019 Remaster](https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 3:08 |
-| 5 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
+| 4 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
+| 5 | [Little Red Corvette \- 7" Edit \- 2019 Remaster](https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 3:08 |
 | 6 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
 | 7 | [I Would Die 4 U](https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 2:58 |
 | 8 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 79 | [Our Destiny / Roadhouse Garden](https://open.spotify.com/track/0skqC0rGnezyhGmBCrSgg9) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 6:25 |
 | 80 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/15BL8ku45JiAS9dSuAD2ap) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 |
 
-Snapshot ID: `MTY3NTI2MTgyNSwwMDAwMDAwMDFkZGY0NTAyOGE4ZGJmMjE0YTJkMWFlOThiY2UwMWRi`
+Snapshot ID: `MTY3NzQ5MzgzMSwwMDAwMDAwMGJiM2M5OTBjZDJlNjdjYTcwYmNmOWU3YWVmYTYwNzlk`

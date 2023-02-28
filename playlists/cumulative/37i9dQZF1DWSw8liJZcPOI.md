@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-400 songs - 1 day 4 hr 7 min
+401 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [So That The City Can Begin To Exist](https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [So That The City Can Begin To Exist](https://open.spotify.com/album/6IcKIhLBwBhYDnC37Nlnuk) | 4:46 | 2021-01-08 | 2022-06-15 |
 | [Solanales](https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Solanales](https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I) | 5:32 | 2022-03-04 | 2022-12-02 |
 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-07-22 | 2023-02-18 |
+| [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-17 |  |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2020-10-23 | 2022-07-29 |
 | [Solo? Repeat!](https://open.spotify.com/track/4rpuwusdTpMytfW6lbeqHe) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Heliopause](https://open.spotify.com/album/3SZT7TfzSJaIdoHI8ttOBD) | 6:20 | 2021-02-06 | 2021-02-12 |
 | [Solun](https://open.spotify.com/track/08PNlrjeBSn4gpse2bHvMa) | [Neuhaus](https://open.spotify.com/artist/4jqFsKvoRVy323hdBsyO5d) | [Solun](https://open.spotify.com/album/72QN68cWkQCVFdSzqgdvHU) | 6:08 | 2020-11-06 | 2021-01-15 |
@@ -405,7 +406,7 @@
 | [Yes, Brick by Brick](https://open.spotify.com/track/1su4tA0rkmiBvfTiPpwuAU) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Hausmusik](https://open.spotify.com/album/5MXVcbbK62CdyftPSuf3TB) | 5:19 | 2020-10-21 | 2022-04-20 |
 | [Youth](https://open.spotify.com/track/0QNNi2mBpgopYG7F1bSLze) | [Taylor Swindells](https://open.spotify.com/artist/1fFVQt5WdQyTBtFmKwGfdM), [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Youth](https://open.spotify.com/album/0M7OaxAnfhFuTWp1T4FlBS) | 4:00 | 2022-02-02 | 2022-07-01 |
 | [Ára bátur](https://open.spotify.com/track/0DvJ3c0crcaUF0VAImO9hu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 8:56 | 2020-12-04 | 2020-12-11 |
-| [Éclosion](https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Éclosion](https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9) | 4:55 | 2021-01-29 |  |
+| [Éclosion](https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Éclosion](https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9) | 4:55 | 2021-01-29 | 2023-02-28 |
 | [Þegar vetrar þokan grá](https://open.spotify.com/track/2A6eV42jrO05RAMDBrT0ua) | [Steindor Andersen](https://open.spotify.com/artist/0Bl8mgC0g7xvt0McRdFKqW), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1) | [Stafnbúi](https://open.spotify.com/album/5jexmdqtgOLSU32x1wL9WZ) | 3:42 | 2020-12-04 | 2020-12-11 |
 | [・\-\-・ \-\-\- ・ \- \- ・\-・ ・ ・](https://open.spotify.com/track/0koh0Teu96qurTHhNFDQR3) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [・\-\-・ \-\-\- ・ \- \- ・\-・ ・ ・](https://open.spotify.com/album/7ab275pvaiAeAGhU5YazJG) | 3:01 | 2020-11-20 | 2021-03-18 |
 

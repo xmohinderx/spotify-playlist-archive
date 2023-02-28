@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-309 songs - 18 hr 36 min
+310 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Boy Blue](https://open.spotify.com/track/3YJJSXwimdwUQCwp6VJ1wG) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Boy Blue](https://open.spotify.com/album/3RzSH56kLtQC7Eqb2uM5K2) | 4:06 | 2021-12-07 | 2022-07-29 |
 | [Brave](https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Brave](https://open.spotify.com/album/2GhCFi94vVW8aS85gLUDs0) | 2:36 | 2021-12-07 | 2022-07-29 |
 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 | 2021-12-07 | 2023-02-03 |
+| [Breathe In](https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:57 | 2022-06-20 |  |
 | [Breathin'](https://open.spotify.com/track/7ngqJb8GdQdZbZpRVFqrQA) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Clara Serra López](https://open.spotify.com/artist/1hU11hTmHiEJqD1beShi9I) | [Breathin'](https://open.spotify.com/album/2PjrdwVGqJ5XadQQcIIAdB) | 4:18 | 2021-12-07 | 2022-07-27 |
 | [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 | 2022-04-11 | 2023-02-02 |
 | [Brooklyn Ballers](https://open.spotify.com/track/32yHBkF9L1WEHskN9gDePp) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 4:24 | 2022-06-20 |  |
@@ -243,7 +244,7 @@
 | [Quest \- Alfa Mist Remix](https://open.spotify.com/track/025rvl9qNoZw36I94X6gcM) | [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Quest](https://open.spotify.com/album/5zskaL0lbYGeVoIb8BWtbt) | 2:58 | 2021-12-07 | 2022-04-19 |
 | [Quiet Nights Without You \- Elsa Hewitt Remix](https://open.spotify.com/track/3HAv2Dh1VLRUYwuTGGo8v4) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj), [Elsa Hewitt](https://open.spotify.com/artist/7xwbnGpTJA94MgILLAeThK) | [Quiet Nights Without You](https://open.spotify.com/album/6ItEG6YO94uAXiaeRllHCP) | 4:43 | 2021-12-07 | 2022-07-14 |
 | [Rain in Cuba](https://open.spotify.com/track/47Kg8rGMqxujhTzpOCnClN) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Rain in Cuba](https://open.spotify.com/album/0BXZUuZ42Jv8t4JdIHA0rH) | 3:51 | 2022-04-11 | 2022-04-20 |
-| [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 | 2021-12-07 |  |
+| [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 | 2021-12-07 | 2023-02-28 |
 | [Rawl Aredo](https://open.spotify.com/track/4HOCzvFcxkCRfxHX8yDTap) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Rawl Aredo](https://open.spotify.com/album/2DiNa7TNkC65AAghadi9js) | 5:23 | 2021-12-07 | 2022-07-27 |
 | [Red](https://open.spotify.com/track/58quqftrvxubZ9ZSxpW3eH) | [Noya Rao](https://open.spotify.com/artist/16XiowWxtn1LmT6aTMnzlv) | [Stay](https://open.spotify.com/album/4CT9OJUL8wJxTqAyIr3sLe) | 3:37 | 2021-12-07 | 2022-07-29 |
 | [Rendezvous \(with Miraa May\)](https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Rendezvous \(with Miraa May\)](https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios) | 2:30 | 2022-04-11 |  |

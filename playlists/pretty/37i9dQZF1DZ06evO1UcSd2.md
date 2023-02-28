@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,919 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,948 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [El Rayo \(En Vivo\)](https://open.spotify.com/track/3rnur7ATDBD9MUcra7XRrj) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Vivo Desde las Cascadas](https://open.spotify.com/album/5V1l94GYXnNAwcMZGYQTio) | 2:46 |
 | 50 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 |
 
-Snapshot ID: `Mjc5NTY4ODMsMDAwMDAwMDAxMWFhZWYyN2E5NWFiMDc2NjRlODk3YzJlNmVhYWEwOQ==`
+Snapshot ID: `Mjc5NTg0NTksMDAwMDAwMDA5ZmFhY2I0MmM2NzEyNzU0YzNhODE4Yjc0ZGUxN2ZjMQ==`

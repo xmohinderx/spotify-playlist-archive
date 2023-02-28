@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 199226,
+  "num_followers": 199281,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMDMyZDYwYWI0ZGFhZjk3YzRlZTNhZWNhM2VjYmU1ZTAw",
+  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMGZkZjJlZmVmNmJkODQ5ZjllNTdhMGQxMmYyZGM5M2Ux",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 175920,
-      "name": "Serenata huasteca",
-      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Lo Mejor De El Piporro",
         "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 135964,
       "name": "El Taconazo",
       "url": "https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 175920,
+      "name": "Serenata huasteca",
+      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Sinf\u00f3nico 3",
-        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 512626,
-      "name": "Huapango de Moncayo",
-      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Uniendo Fronteras",
         "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Sinf\u00f3nico 3",
+        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 512626,
+      "name": "Huapango de Moncayo",
+      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "De Coraz\u00f3n",
         "url": "https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Fiesta Mexicana\u201a Puro Mariachi",
-        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Pelea De Gallos",
-      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "La Guelaguetza Oaxaca, Vol. 2",
         "url": "https://open.spotify.com/album/6ih0vpYKKHWJA7Sm9eYM2L"
       },
@@ -511,22 +495,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Canto A Mi Tierra",
-        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
       },
@@ -539,6 +507,22 @@
       "duration_ms": 185652,
       "name": "Mi Ciudad",
       "url": "https://open.spotify.com/track/2YQrtNY04DOuzYWvcu39gq"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Fiesta Mexicana\u201a Puro Mariachi",
+        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Pelea De Gallos",
+      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -591,22 +575,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 137108,
-      "name": "La Vaquilla Colorada",
-      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -623,6 +591,38 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 137108,
+      "name": "La Vaquilla Colorada",
+      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Danzones, Mambos y Cha Cha Chas",
         "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 156906,
       "name": "Las Clases del Cha Cha Cha",
       "url": "https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "Que Lindo Es Michoacan",
-      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 128560,
-      "name": "El Carretero Se Va",
-      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
+      "duration_ms": 191576,
+      "name": "Que Lindo Es Michoacan",
+      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -731,6 +715,22 @@
       "duration_ms": 155800,
       "name": "La Evangelina",
       "url": "https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "El Carretero Se Va",
+      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
     },
     {
       "added_at": "2022-11-19 17:26:23",

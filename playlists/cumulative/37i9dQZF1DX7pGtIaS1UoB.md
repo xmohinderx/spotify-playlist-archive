@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-264 songs - 15 hr 49 min
+265 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事\(新歌+精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 | 2022-07-11 | 2022-11-02 |
 | [慢慢來](https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [慢慢來](https://open.spotify.com/album/6PUCm1ig2sqtDU0epcKHQL) | 3:48 | 2022-06-13 | 2022-06-19 |
-| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 |  |
+| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 | 2023-02-28 |
 | [戀愛是選擇題由你](https://open.spotify.com/track/02r44UrfPjUYnST7DTLmH8) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [相愛的這種本能](https://open.spotify.com/album/5ej1v8T39zdAUM5g1gvtxz) | 3:33 | 2022-06-06 | 2022-06-13 |
 | [我只是在睡前想了一下你](https://open.spotify.com/track/2f3k8PxZQbYz1kmS8l9wjU) | [二珂](https://open.spotify.com/artist/38bswUJ000KFpX1vVL9MLU) | [我只是在睡前想了一下你](https://open.spotify.com/album/7tqP2Yk0kUlYI9u6pnmrYh) | 4:17 | 2023-01-09 | 2023-01-17 |
 | [我喜歡\(不,我愛\)](https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [謝謝你的美好](https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE) | 4:08 | 2022-06-06 | 2022-07-19 |
@@ -200,6 +200,7 @@
 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 | 2022-06-06 | 2022-10-01 |
 | [比心小幸福](https://open.spotify.com/track/47MWJAq8xkAuVpwl8SKm34) | [祈錦鈅](https://open.spotify.com/artist/4O5iyxf4OJg9hrF5fV6GJ3) | [比心小幸福](https://open.spotify.com/album/0TQwBOXzjC2wrJtDPAc2Ym) | 4:01 | 2022-06-13 | 2022-06-21 |
 | [氧化氢](https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN) | 2:15 | 2022-07-25 |  |
+| [浪漫主义](https://open.spotify.com/track/6v2j7JBjWmERbzCujd9Rci) | [Angelloweee](https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t), [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [浪漫主义](https://open.spotify.com/album/3aHrTxbzVWe1puIJfGF64m) | 3:41 | 2023-02-27 |  |
 | [海绵宝宝](https://open.spotify.com/track/3yZFL4pKWue0I8ru6mmxqX) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/0Uz8fFtCbhG27CwfUqzKv1) | 3:18 | 2022-08-08 |  |
 | [海绵宝宝](https://open.spotify.com/track/7kKXZL7nkWcm7wx8zNqwNc) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/7GKyJqtbiA17PS4COyAwfd) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 | 2022-06-13 |  |

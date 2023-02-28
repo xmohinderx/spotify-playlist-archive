@@ -4,7 +4,7 @@
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-221 songs - 14 hr 32 min
+222 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 | 2021-10-15 | 2022-07-24 |
 | [Best News Ever](https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 2:59 | 2021-10-15 |  |
 | [Best Thing Ever](https://open.spotify.com/track/28NUh4A55zjrDyW744dj4E) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 4:04 | 2021-10-15 | 2022-07-29 |
-| [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 | 2021-10-15 |  |
+| [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 | 2021-10-15 | 2023-02-28 |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2021-10-15 |  |
 | [Broken Things](https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:07 | 2021-10-15 |  |
 | [Burdens](https://open.spotify.com/track/4IlBnAZ3kT5rEbkjDrD89b) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Burdens](https://open.spotify.com/album/2nCEqKQx0XNyMJ9Du3Kzxh) | 3:52 | 2021-10-15 | 2022-07-28 |
@@ -216,6 +216,7 @@
 | [Waymaker](https://open.spotify.com/track/1Qs9gwjN6QhZ2abozDOQTC) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM), [Madelyn Berry](https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0) | [Waymaker](https://open.spotify.com/album/0Xv81CmkDCoZMhs4M1VYdS) | 7:17 | 2021-10-15 | 2022-07-26 |
 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 | 2021-10-15 |  |
 | [Weary Traveler](https://open.spotify.com/track/27YTT1WDp0UL1TdKssgbM1) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Weary Traveler](https://open.spotify.com/album/48QzqNPnoKRDMidmCOwvbR) | 3:20 | 2021-10-15 | 2022-07-29 |
+| [Weary Traveler](https://open.spotify.com/track/3hKlTLtByTIe7nZyWieVkI) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:20 | 2023-02-18 |  |
 | [Weary Traveler](https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:20 | 2021-10-15 | 2023-01-22 |
 | [What I'm Here For](https://open.spotify.com/track/60TDbRgxNauv2waKkBZ58q) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [What I’m Here For](https://open.spotify.com/album/0ScpOqmsdJuXH59oV92NgN) | 3:47 | 2021-10-15 | 2022-07-27 |
 | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7) | 4:26 | 2021-10-15 | 2022-07-29 |

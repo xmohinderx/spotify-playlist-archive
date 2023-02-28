@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: OMWAWES, NDX A.K.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,766 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,818 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 10 | [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 |
 | 11 | [Teteg Ati](https://open.spotify.com/track/6Lbnz01qeIkQbteAHemwmQ) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Teteg Ati](https://open.spotify.com/album/6YvFUGHjVHd3U8Ik1GU3Jt) | 5:20 |
 | 12 | [Bar Lebaran Tak Lamar](https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Bar Lebaran Tak Lamar](https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h) | 5:28 |
-| 13 | [Rungkad](https://open.spotify.com/track/63cB8y0JQAeODWOvTVl9ot) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rungkad](https://open.spotify.com/album/7B2QWsJtJIpwEg4s6898X8) | 5:08 |
+| 13 | [Rungkad](https://open.spotify.com/track/1tWrff6vSPkkUQscpldS8F) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [The Saxo Brothers](https://open.spotify.com/artist/6KOeov6S9ZXQlmN9IMlrl5) | [Rungkad](https://open.spotify.com/album/6M4iw0ozWapJERvLzZKH2O) | 5:08 |
 | 14 | [Gemati](https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/6lxoEW6DXryJb8wP4wSz1d) | 4:38 |
 | 15 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 |
 | 16 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 79 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 | 80 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
 
-Snapshot ID: `MTY3NjU2NjgwMCwwMDAwMDAwMGIyMTYxN2FkMTQzYjE4ZTU1N2FiODQ3Y2VlOGJkMzkw`
+Snapshot ID: `MTY3NjU2NjgwMCwwMDAwMDAwMDI4NDk4N2E5NmIxYTNiN2E4YjFmNjU3NGI4ZTFkNGRk`

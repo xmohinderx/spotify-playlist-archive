@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW\-iSertWWgiVA"> Kuami Eugene</a>  and  <a href="https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY\-We8Rhe89DSFpam0KA"> Rotimi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,756 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,761 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

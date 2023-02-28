@@ -4,7 +4,7 @@
 
 > Nakakakilig!
 
-115 songs - 6 hr 39 min
+116 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-05 | 2023-02-22 |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2022-06-27 |  |
 | [Bibitaw, aasa](https://open.spotify.com/track/3oXmrotNyqtSs6ehaXES3N) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Bibitaw, aasa](https://open.spotify.com/album/0AUHjqyBobZYVJwBucRhRG) | 3:53 | 2022-04-04 | 2022-06-28 |
-| [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-27 |  |
+| [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-27 | 2023-02-28 |
 | [Blanko](https://open.spotify.com/track/7y9ps21wLaKtpDbEPruqIc) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Blanko](https://open.spotify.com/album/148oTpJ8CmN0o0Rxl0aYAq) | 3:30 | 2022-04-04 | 2022-07-29 |
 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 |  |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-04-04 |  |
@@ -122,6 +122,7 @@
 | [You Bring Out My Best](https://open.spotify.com/track/1bnQe2C11P4SFzcRPSIkxe) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [You Bring Out My Best](https://open.spotify.com/album/52b8Uwpk9dQJYYBAOUiDzr) | 2:55 | 2022-06-27 | 2022-07-12 |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-06-27 |  |
 | [you!](https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [you!](https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2) | 4:34 | 2022-04-04 | 2022-07-29 |
+| [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 | 2022-11-24 |  |
 | [Your Song](https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4) | 2:48 | 2022-04-04 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

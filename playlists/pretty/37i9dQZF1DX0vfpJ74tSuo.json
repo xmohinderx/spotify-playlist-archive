@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 53235,
+  "num_followers": 53309,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTUxOCwwMDAwMDAwMDcyMDA0ZWFmZDkzYzRjOWEyMTExZDFkZWM3Yzg0YmY0",
+  "snapshot_id": "MTY3NzI1OTUxOCwwMDAwMDAwMDI3YTI2YjVmZWQ0NDkyYzA3NWNlMzkxZTEyOTNlYmFh",
   "tracks": [
     {
       "added_at": "2023-02-24 17:25:18",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
         "name": "Freedom Flight",
         "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 252173,
       "name": "Sweet Thang",
       "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -311,6 +311,26 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 268346,
+      "name": "Diving Duck Blues",
+      "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 354954,
       "name": "Been Here Before",
       "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 268346,
-      "name": "Diving Duck Blues",
-      "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
-        "name": "Won't Be Around",
-        "url": "https://open.spotify.com/album/55PQCPW6HbwcX89v0pZld1"
-      },
-      "artists": [
-        {
-          "name": "Terry Blade",
-          "url": "https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Won't Be Around",
-      "url": "https://open.spotify.com/track/28zPfiP5FbWKhsVTXoAoC1"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
         "name": "Letter from Bluewater Man",
         "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 144000,
       "name": "Letter from Bluewater Man",
       "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
+        "name": "Won't Be Around",
+        "url": "https://open.spotify.com/album/55PQCPW6HbwcX89v0pZld1"
+      },
+      "artists": [
+        {
+          "name": "Terry Blade",
+          "url": "https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Won't Be Around",
+      "url": "https://open.spotify.com/track/28zPfiP5FbWKhsVTXoAoC1"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+      },
+      "artists": [
+        {
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
+        "name": "The Complete Prestige / Bluesville Recordings",
+        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Automobile Blues",
+      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 258696,
       "name": "Rollin' On (Acoustic)",
       "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
-        "name": "The Complete Prestige / Bluesville Recordings",
-        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Automobile Blues",
-      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
+        "name": "Make it Talk",
+        "url": "https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9"
+      },
+      "artists": [
+        {
+          "name": "Danny Garrett",
+          "url": "https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Make it Talk",
+      "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
+    },
+    {
+      "added_at": "2023-02-24 17:25:18",
+      "album": {
         "name": "Bob Corritore & Friends: Down Home Blues Revue",
         "url": "https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta"
       },
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
-        "name": "Make it Talk",
-        "url": "https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9"
+        "name": "Isolation Blues",
+        "url": "https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho"
       },
       "artists": [
         {
-          "name": "Danny Garrett",
-          "url": "https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu"
+          "name": "Ben Reel",
+          "url": "https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD"
         }
       ],
-      "duration_ms": 197386,
-      "name": "Make it Talk",
-      "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
+      "duration_ms": 192360,
+      "name": "Isolation Blues",
+      "url": "https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -1871,18 +1887,22 @@
     {
       "added_at": "2023-02-24 17:25:18",
       "album": {
-        "name": "Isolation Blues",
-        "url": "https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho"
+        "name": "The Ballad of John Howard Griffin",
+        "url": "https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6"
       },
       "artists": [
         {
-          "name": "Ben Reel",
-          "url": "https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Isolation Blues",
-      "url": "https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE"
+      "duration_ms": 316586,
+      "name": "The Ballad of John Howard Griffin",
+      "url": "https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n"
     },
     {
       "added_at": "2023-02-24 17:25:18",
@@ -1903,26 +1923,6 @@
       "duration_ms": 180775,
       "name": "Homecookin' Mama",
       "url": "https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ"
-    },
-    {
-      "added_at": "2023-02-24 17:25:18",
-      "album": {
-        "name": "The Ballad of John Howard Griffin",
-        "url": "https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        },
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 316586,
-      "name": "The Ballad of John Howard Griffin",
-      "url": "https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n"
     },
     {
       "added_at": "2023-02-24 17:25:18",

@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-540 songs - 1 day 4 hr 16 min
+541 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2022-03-24 | 2022-04-20 |
 | [mario kart \(feat\. Travis Barker\)](https://open.spotify.com/track/30ymFh1FOJFYrxHNwP1NQU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [drinking under the streetlights](https://open.spotify.com/album/5U4bpnZJBgFxmkhLMDmXEz) | 3:15 | 2022-03-24 | 2022-04-05 |
 | [mars](https://open.spotify.com/track/4ZSGp4CmOIeNSpuLLEGumA) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [mars](https://open.spotify.com/album/6Er2phjif5umoFiEFAsUxR) | 3:01 | 2022-03-17 | 2022-07-23 |
-| [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 | 2022-11-11 |  |
+| [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 | 2022-11-11 | 2023-02-28 |
 | [Maserati](https://open.spotify.com/track/4YvWSOVHPE9avFCCSgXQWu) | [Lonas](https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL) | [Maserati](https://open.spotify.com/album/6pVvu5zkQqJJTV5ASsINrM) | 2:57 | 2022-03-24 | 2022-04-16 |
 | [material](https://open.spotify.com/track/2HnPYheRIAtJSuM4NOByZ7) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [material](https://open.spotify.com/album/2GzU0XPx3Nj5g8SL0v4th6) | 2:22 | 2022-03-24 | 2022-04-20 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-17 | 2022-07-29 |
@@ -467,6 +467,7 @@
 | [Thank You For Everything](https://open.spotify.com/track/3laKLaDZ3qmTO5WgZov49X) | [Sunrise Avenue](https://open.spotify.com/artist/1osZFzamKEXNoYk7HzWbDe) | [Thank You For Everything](https://open.spotify.com/album/4KFOr7vYSYEvr3aeE7ombP) | 3:08 | 2022-03-24 | 2022-04-12 |
 | [The Beginning](https://open.spotify.com/track/3j7PY3taoRhl4bOH5v63pS) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [The Beginning](https://open.spotify.com/album/4NFlRDKAxE1QMwbrkziAV9) | 2:47 | 2022-03-24 | 2022-04-21 |
 | [The Best \(feat\. Alice Merton\)](https://open.spotify.com/track/5iReOl0OJPQjSIIndoYDMd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [The Best \(feat\. Alice Merton\)](https://open.spotify.com/album/4LM2UkSNq1F0lIRbutfHMK) | 3:43 | 2022-03-24 | 2022-04-15 |
+| [The Champion](https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:39 | 2022-11-11 |  |
 | [The Champion](https://open.spotify.com/track/5vNazwnNST2AcdSt4RE07z) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [The Champion](https://open.spotify.com/album/0JUKhJZADlGbwku14Loyg0) | 2:40 | 2022-03-24 | 2022-04-20 |
 | [The Devil Has Many Faces](https://open.spotify.com/track/4irOx6zV6BDYO1Rv7yZi7T) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5D58CIPr9CUqBowJF5jNnJ) | 2:34 | 2022-03-24 | 2022-07-23 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-05 | 2022-09-15 |

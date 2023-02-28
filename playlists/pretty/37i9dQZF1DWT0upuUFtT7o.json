@@ -1,29 +1,13 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Noah Pope",
-  "num_followers": 170664,
+  "num_followers": 170724,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE3Njg1MiwwMDAwMDAwMDk1NDI5YmViYWE3MzQxMTNkMjBhNmE4NTkyYzRhYmZh",
+  "snapshot_id": "MTY3NzUzODc4MCwwMDAwMDAwMGUyZGZlNWEyYTUyZjA0MzY5ZTAxZDM0MDRkYWQ3MGNi",
   "tracks": [
-    {
-      "added_at": "2023-02-22 01:30:35",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4k5BmJCgXO50WKWhmxrBYL"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6S2kkGCv7DNiBdx0ctD2UJ"
-    },
     {
       "added_at": "2023-02-22 01:30:35",
       "album": {
@@ -41,6 +25,22 @@
       "url": "https://open.spotify.com/track/4F86e2zuC1tHOLjGEs6Yb0"
     },
     {
+      "added_at": "2023-02-22 01:30:35",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4k5BmJCgXO50WKWhmxrBYL"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6S2kkGCv7DNiBdx0ctD2UJ"
+    },
+    {
       "added_at": "2023-02-15 01:54:00",
       "album": {
         "name": "extra life",
@@ -55,6 +55,22 @@
       "duration_ms": 336293,
       "name": "milksugar",
       "url": "https://open.spotify.com/track/0i2Jqb94Sproa7BVv9pwd8"
+    },
+    {
+      "added_at": "2023-02-27 22:59:40",
+      "album": {
+        "name": "Tr\u00e8s Jolie",
+        "url": "https://open.spotify.com/album/52eph7Xq39vIhwT65uNNn3"
+      },
+      "artists": [
+        {
+          "name": "PONY",
+          "url": "https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Tr\u00e8s Jolie",
+      "url": "https://open.spotify.com/track/6OSLXDeYBpWr9gYyT8z4So"
     },
     {
       "added_at": "2023-02-22 01:30:35",
@@ -121,6 +137,26 @@
       "url": "https://open.spotify.com/track/0tuZ4kxBXGyBL6hcmZrPVD"
     },
     {
+      "added_at": "2023-02-27 22:57:24",
+      "album": {
+        "name": "Song for my friend, June",
+        "url": "https://open.spotify.com/album/7wom0HZvXlqekvCyfZx6iP"
+      },
+      "artists": [
+        {
+          "name": "Supersport!",
+          "url": "https://open.spotify.com/artist/2jfwKdbKSL1G8Iqrjq9Tg6"
+        },
+        {
+          "name": "J\u00f3hannes Bjarki Bjarkason",
+          "url": "https://open.spotify.com/artist/2P7mfjAkLnA5eoxU8thaMm"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Song for my friend, June",
+      "url": "https://open.spotify.com/track/1H9RgxG2z1JnnNb6BaNPsv"
+    },
+    {
       "added_at": "2023-02-22 01:35:56",
       "album": {
         "name": "The Blame, Pt. 4",
@@ -151,6 +187,38 @@
       "duration_ms": 190764,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6daNWCbIeyVvg3rLuvY9U3"
+    },
+    {
+      "added_at": "2023-02-22 01:30:35",
+      "album": {
+        "name": "Just Another Thursday",
+        "url": "https://open.spotify.com/album/4pERR8qSsioJ2JwV5WD5Mp"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Just Another Thursday",
+      "url": "https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp"
+    },
+    {
+      "added_at": "2023-02-22 01:30:35",
+      "album": {
+        "name": "Newfound Oxygen",
+        "url": "https://open.spotify.com/album/7d38XBHExfCTkEsXXLsxZ4"
+      },
+      "artists": [
+        {
+          "name": "Steady Holiday",
+          "url": "https://open.spotify.com/artist/3jLDJWlhuDcbq1DTlWp0NM"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Newfound Oxygen",
+      "url": "https://open.spotify.com/track/488ZH9wJcPpuG7J1EedSA7"
     },
     {
       "added_at": "2023-02-22 01:30:35",
@@ -217,6 +285,22 @@
       "url": "https://open.spotify.com/track/1GzHOA3K5lNZEq5S5KccGn"
     },
     {
+      "added_at": "2023-02-15 01:54:00",
+      "album": {
+        "name": "Risk to my Reward",
+        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
+      },
+      "artists": [
+        {
+          "name": "Tycho Jones",
+          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
+        }
+      ],
+      "duration_ms": 171415,
+      "name": "Risk to my Reward",
+      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
+    },
+    {
       "added_at": "2023-02-22 01:30:35",
       "album": {
         "name": "Stranger",
@@ -233,22 +317,6 @@
       "url": "https://open.spotify.com/track/79J5YWkFawds2SvDOhfw7a"
     },
     {
-      "added_at": "2023-02-22 01:30:35",
-      "album": {
-        "name": "Just Another Thursday",
-        "url": "https://open.spotify.com/album/4pERR8qSsioJ2JwV5WD5Mp"
-      },
-      "artists": [
-        {
-          "name": "Delorians",
-          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
-        }
-      ],
-      "duration_ms": 210782,
-      "name": "Just Another Thursday",
-      "url": "https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp"
-    },
-    {
       "added_at": "2023-02-15 01:54:00",
       "album": {
         "name": "BREAK YOUR HEART",
@@ -263,22 +331,6 @@
       "duration_ms": 192000,
       "name": "MY DEAR",
       "url": "https://open.spotify.com/track/6AiIj3jng32IVBI0XY8NEQ"
-    },
-    {
-      "added_at": "2023-02-22 01:30:35",
-      "album": {
-        "name": "Newfound Oxygen",
-        "url": "https://open.spotify.com/album/7d38XBHExfCTkEsXXLsxZ4"
-      },
-      "artists": [
-        {
-          "name": "Steady Holiday",
-          "url": "https://open.spotify.com/artist/3jLDJWlhuDcbq1DTlWp0NM"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Newfound Oxygen",
-      "url": "https://open.spotify.com/track/488ZH9wJcPpuG7J1EedSA7"
     },
     {
       "added_at": "2023-02-22 01:30:35",
@@ -343,22 +395,6 @@
       "duration_ms": 223656,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw"
-    },
-    {
-      "added_at": "2023-02-15 01:54:00",
-      "album": {
-        "name": "Risk to my Reward",
-        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
-      },
-      "artists": [
-        {
-          "name": "Tycho Jones",
-          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
-        }
-      ],
-      "duration_ms": 171415,
-      "name": "Risk to my Reward",
-      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
     },
     {
       "added_at": "2023-02-15 01:54:00",
@@ -827,22 +863,6 @@
       "duration_ms": 143000,
       "name": "glow",
       "url": "https://open.spotify.com/track/10UeoHlOUMXiRXcgaCO7pJ"
-    },
-    {
-      "added_at": "2023-02-08 05:46:04",
-      "album": {
-        "name": "Stealing Turf from a Cowboy",
-        "url": "https://open.spotify.com/album/3MAKcjH6LVgDEcH4R1SvMS"
-      },
-      "artists": [
-        {
-          "name": "Floats",
-          "url": "https://open.spotify.com/artist/4U0rW1T9UZvITOSfbMcoBp"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "Stealing Turf from a Cowboy",
-      "url": "https://open.spotify.com/track/52vuO3gRJ9tdLFGFRmAvhc"
     },
     {
       "added_at": "2023-02-08 05:46:04",
@@ -1547,22 +1567,6 @@
       "duration_ms": 126307,
       "name": "love of mine",
       "url": "https://open.spotify.com/track/136W646za3eBagM7UFBJGp"
-    },
-    {
-      "added_at": "2023-01-18 05:37:46",
-      "album": {
-        "name": "Test Drive",
-        "url": "https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4"
-      },
-      "artists": [
-        {
-          "name": "Dulcie",
-          "url": "https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Test Drive",
-      "url": "https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk"
     },
     {
       "added_at": "2023-01-18 05:37:46",

@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: NewJeans\(뉴진스\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-523 songs - 1 day 4 hr 50 min
+524 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 | 2023-02-17 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-21 | 2022-07-27 |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2022-03-24 | 2022-04-14 |
+| [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-02-27 |  |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-07-29 |
 | [Hola](https://open.spotify.com/track/71E7R98jeBH5mON043TOIo) | [PRITTI\-G](https://open.spotify.com/artist/6FjPyMdTzb47sM71jLvoWT) | [Hola](https://open.spotify.com/album/4xPlhksZiK4XnubvCvNF5T) | 3:21 | 2022-03-31 | 2022-04-21 |
 | [HOLA](https://open.spotify.com/track/2E5eElTY04pYQspn3kGV0d) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Neverland](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) | 3:29 | 2022-04-12 | 2022-04-20 |
@@ -281,7 +282,7 @@
 | [Life is Beautiful](https://open.spotify.com/track/7ddidn8lqsvjGCvwOFMXQZ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Life is Beautiful](https://open.spotify.com/album/0PHu8jLNsawhOUxBwFk7KU) | 3:40 | 2022-01-14 | 2022-06-28 |
 | [Lights](https://open.spotify.com/track/6oqpdPyUlrvth5trYx0l0y) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [MERIDIEM](https://open.spotify.com/album/3a8zl8zbMxiR3VYTQiRs4s) | 3:20 | 2022-11-08 | 2022-11-23 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-12-29 | 2022-08-10 |
-| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-21 |  |
+| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-21 | 2023-02-28 |
 | [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [1st EP Album 'Bipolar Pt.1 Prelude of Anxiety'](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2022-01-03 | 2022-03-09 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-28 |  |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-21 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Noah Pope
 
-1,208 songs - 2 day 18 hr 18 min
+1,210 songs - 2 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -970,6 +970,7 @@
 | [Something Between Us](https://open.spotify.com/track/3Tl9LI9bxgGxFW26zI0fpP) | [Polycool](https://open.spotify.com/artist/5WTR6ZwfribWN2jL9YwbXN) | [Something Between Us](https://open.spotify.com/album/3fGsYQ2JPXEw33K1LgziPn) | 2:13 | 2022-07-06 | 2022-08-11 |
 | [Something Inside](https://open.spotify.com/track/1BcHNIVyqymxGV7Bv1N5dj) | [Vida](https://open.spotify.com/artist/6PBpD9zihZR2vfwGJITQTt) | [Something Inside](https://open.spotify.com/album/6seXPxkA9CCiUSSL3mMCH5) | 2:51 | 2023-01-11 | 2023-02-16 |
 | [Something Small](https://open.spotify.com/track/2dPQ7LzBX3DdxQPv3TONyX) | [Doll Spirit Vessel](https://open.spotify.com/artist/5lS4UWcRUYt4Fcb0zwm2zz) | [Something Small](https://open.spotify.com/album/418lBMq3dTN6MaW3R4u4yn) | 3:10 | 2022-07-20 | 2022-08-04 |
+| [Song for my friend, June](https://open.spotify.com/track/1H9RgxG2z1JnnNb6BaNPsv) | [Supersport!](https://open.spotify.com/artist/2jfwKdbKSL1G8Iqrjq9Tg6), [Jóhannes Bjarki Bjarkason](https://open.spotify.com/artist/2P7mfjAkLnA5eoxU8thaMm) | [Song for my friend, June](https://open.spotify.com/album/7wom0HZvXlqekvCyfZx6iP) | 3:53 | 2023-02-27 |  |
 | [Sore Bear](https://open.spotify.com/track/5JtQfeIhkLsqvSKTMxVcwM) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Sore Bear](https://open.spotify.com/album/5yQKXT60TtiTBhdcYTqBkh) | 4:11 | 2023-01-11 | 2023-02-09 |
 | [Sorry](https://open.spotify.com/track/3bFAwNsC4AydXt4QJfqHfP) | [Lizette Lizette](https://open.spotify.com/artist/0ESOzsmYbZ0yh8ssMBrEMQ) | [Sorry](https://open.spotify.com/album/3LSYSAuP0DtpCxHdVzhOQw) | 5:38 | 2022-04-12 | 2022-04-27 |
 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 | 2022-06-29 | 2022-08-04 |
@@ -991,7 +992,7 @@
 | [Star Signs](https://open.spotify.com/track/5aC4aoeeahZuCDc99phOHn) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Star Signs](https://open.spotify.com/album/2FHrVV45Kc7pSUFE26gtKq) | 3:58 | 2022-02-02 | 2022-02-23 |
 | [Start To Breathe](https://open.spotify.com/track/2o8YkLtvVagI1ODecSRT57) | [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Start To Breathe](https://open.spotify.com/album/3qCeUd5yX2cGIY9xBvwo2s) | 4:21 | 2022-06-29 | 2022-08-11 |
 | [Stay](https://open.spotify.com/track/6DAAty8YhmGwjbuKKtyQVD) | [Daphnie](https://open.spotify.com/artist/3jcJNIWXWGF68CeXff8MQe) | [Stay](https://open.spotify.com/album/2pSOD33Atm2XYhcZcnT8Pi) | 3:30 | 2022-03-22 | 2022-04-27 |
-| [Stealing Turf from a Cowboy](https://open.spotify.com/track/52vuO3gRJ9tdLFGFRmAvhc) | [Floats](https://open.spotify.com/artist/4U0rW1T9UZvITOSfbMcoBp) | [Stealing Turf from a Cowboy](https://open.spotify.com/album/3MAKcjH6LVgDEcH4R1SvMS) | 2:24 | 2023-02-08 |  |
+| [Stealing Turf from a Cowboy](https://open.spotify.com/track/52vuO3gRJ9tdLFGFRmAvhc) | [Floats](https://open.spotify.com/artist/4U0rW1T9UZvITOSfbMcoBp) | [Stealing Turf from a Cowboy](https://open.spotify.com/album/3MAKcjH6LVgDEcH4R1SvMS) | 2:24 | 2023-02-08 | 2023-02-28 |
 | [Sticks and Stones](https://open.spotify.com/track/4F86e2zuC1tHOLjGEs6Yb0) | [Jim Alxndr](https://open.spotify.com/artist/73oeeOCtBTa9kBMuVggdMI) | [Sticks and Stones](https://open.spotify.com/album/03UBe1d2RlsqSfDYH5nhwB) | 3:42 | 2023-02-22 |  |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-12-01 | 2022-01-13 |
 | [Stone After Stone](https://open.spotify.com/track/0pwiEhcbpCFQvU6fMt4AeE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Stone After Stone](https://open.spotify.com/album/6B1hhFIH0plGioiE0AxO8Q) | 4:06 | 2022-09-23 | 2022-10-06 |
@@ -1049,7 +1050,7 @@
 | [Tell Me](https://open.spotify.com/track/244MtUBHPW0tUXQqmOEbt3) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Tell Me](https://open.spotify.com/album/6EWIfytMmOGtvDVOu4iWq5) | 2:56 | 2022-05-04 | 2022-05-26 |
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2021-12-01 | 2022-01-13 |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-15 | 2022-07-28 |
-| [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-18 |  |
+| [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-18 | 2023-02-28 |
 | [That Day](https://open.spotify.com/track/3mkK2W4YYv0PoR1Fq6XgJn) | [Under The Influence](https://open.spotify.com/artist/1ujsb65y3JwUyfc0O4OBWm) | [That Day](https://open.spotify.com/album/3UUzjfp1oOSHmTfq3TGoHT) | 3:15 | 2022-10-25 | 2022-12-01 |
 | [That Girl](https://open.spotify.com/track/5uThvZhlZM9oyemidAyv7N) | [Rue Delaney](https://open.spotify.com/artist/6JhGQgOBqV38xKfcjQavSE) | [That Girl](https://open.spotify.com/album/6z4LgCOmrZnR3z68F39zcc) | 3:53 | 2022-08-31 | 2022-10-06 |
 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 | 2022-08-10 | 2022-09-29 |
@@ -1106,6 +1107,7 @@
 | [Truman](https://open.spotify.com/track/5OagYkkgI5ko13uqTlbfuk) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Truman](https://open.spotify.com/album/46VLPMyF84k0km6aWeIYBP) | 3:28 | 2021-12-01 | 2022-01-13 |
 | [Trust Me](https://open.spotify.com/track/1vWGRKPv90Fg2i8iUtsGhb) | [Eliza Niemi](https://open.spotify.com/artist/6UntKZ32JDgJV35Nmk5gDi) | [Staying Mellow Blows](https://open.spotify.com/album/3aGj95AYpFM8g4kdkAHzHc) | 2:47 | 2022-08-10 | 2022-08-25 |
 | [Try Me Out](https://open.spotify.com/track/72Rp7lHlNmKyfMtXQUqlIW) | [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz) | [Try Me Out](https://open.spotify.com/album/5W5V6m0x9p3ggpPP3fqfaN) | 3:23 | 2022-06-08 | 2022-06-30 |
+| [Très Jolie](https://open.spotify.com/track/6OSLXDeYBpWr9gYyT8z4So) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Très Jolie](https://open.spotify.com/album/52eph7Xq39vIhwT65uNNn3) | 3:08 | 2023-02-27 |  |
 | [Turn Me](https://open.spotify.com/track/6MbSiPMzYO20KBUejSnChu) | [D'est Roy](https://open.spotify.com/artist/2tCvGMgpMYHPxE9y4X2LZD), [LOVERVOID](https://open.spotify.com/artist/03dk7IgzKkwmLCK2x883hw) | [Turn Me](https://open.spotify.com/album/3Umot9weL7VBiNpU2XbPDq) | 3:41 | 2022-08-31 | 2022-10-06 |
 | [Turn Yourself Around](https://open.spotify.com/track/1vByRA3zNwWWbO4AXL59ug) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Turn Yourself Around](https://open.spotify.com/album/0KNBpU6GyyDaWRVishVfrW) | 5:03 | 2022-08-24 | 2022-10-06 |
 | [Turning \(Inside Out\)](https://open.spotify.com/track/36CHQfiJrEhkcUo1HOd6e0) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5), [DDm](https://open.spotify.com/artist/22xq1Fve60A42kl0QimvRV) | [Turning \(Inside Out\)](https://open.spotify.com/album/1ylA6vaixlIktGl0fNsdAN) | 2:46 | 2023-01-25 | 2023-02-23 |

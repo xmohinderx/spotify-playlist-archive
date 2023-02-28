@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-349 songs - 20 hr 58 min
+350 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Call on Me \- Knxwledge Remix](https://open.spotify.com/track/5Nhw180obum91f6beXfweg) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Call on Me \(Knxwledge Remix\)](https://open.spotify.com/album/1P84iDclPoEG2p3AGlKJWI) | 2:29 | 2022-01-06 | 2022-07-21 |
 | [Can't Believe It](https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Can't Believe It](https://open.spotify.com/album/2iwGkNuvY89nmsTlAGZ22r) | 4:39 | 2021-12-23 | 2022-07-29 |
 | [Capsule](https://open.spotify.com/track/7n5quXV8nb108gmlx5hJQR) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Daigo Sakuragi](https://open.spotify.com/artist/6BF6Gk8IqAmYS9QqefDi6j) | [Capsule](https://open.spotify.com/album/6V8jaLhSIrT0vT2SJhV2q4) | 3:31 | 2022-03-24 | 2022-05-26 |
+| [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-02-27 |  |
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-16 |  |
 | [Casamigos](https://open.spotify.com/track/2cInRmurD2x3762s4v5sS3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Casamigos](https://open.spotify.com/album/3RgT3jyo3OmDgtCMMMNCdW) | 2:26 | 2021-12-23 | 2022-07-20 |
 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 | 2021-12-23 | 2022-07-28 |
@@ -224,7 +225,7 @@
 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 | 2022-11-17 |  |
 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 | 2022-03-24 | 2023-01-07 |
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-10-27 | 2022-12-02 |
-| [Real Good \- Kan Sano Remix](https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Real Good \(Kan Sano Remix\)](https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR) | 3:08 | 2022-12-01 |  |
+| [Real Good \- Kan Sano Remix](https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Real Good \(Kan Sano Remix\)](https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR) | 3:08 | 2022-12-01 | 2023-02-28 |
 | [Real Lovin’](https://open.spotify.com/track/4B8hyy8Q6OlOJr8T6VtDxK) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [Real Lovin’](https://open.spotify.com/album/1WdnXljnp3waCoXApZuo3L) | 3:26 | 2022-03-24 | 2022-04-15 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-12-23 | 2022-11-19 |
 | [Roll \(Burbank Funk\)](https://open.spotify.com/track/01bfHCsUTwydXCHP1VoLlI) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:11 | 2022-03-31 | 2022-04-16 |

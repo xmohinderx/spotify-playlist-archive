@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: The Teskey Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,788 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,804 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 |
 | 100 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDNlNzYxN2MzZTIxNzhmMWFmNDcxZGI0MTdiZTBkZjhj`
+Snapshot ID: `MTY3NzQ5MDIyMiwwMDAwMDAwMDE1ZDQ0YzA3OTBmMzY4MDJlNjFlNzA1NGYwNDczMGM3`

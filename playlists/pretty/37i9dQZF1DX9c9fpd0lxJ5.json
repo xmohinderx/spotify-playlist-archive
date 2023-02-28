@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 448169,
+  "num_followers": 448211,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxNzYyMywwMDAwMDAwMGUwOGMzOGVmNGE0OWY5ZmI0NmMwNGZjNWExZjg3Nzhi",
+  "snapshot_id": "MTY3NzAxNzYyMywwMDAwMDAwMDBmYzA1M2UyMzRhNzMzNjU2MDg3NTM0Yjk3NTdmNjdi",
   "tracks": [
     {
       "added_at": "2023-02-21 22:13:43",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
+        "name": "El Tiempo Locura Todo",
+        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 244769,
+      "name": "Si Hay Algo",
+      "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
         "name": "Selvas",
         "url": "https://open.spotify.com/album/317wmYxchAqBSLCOfU4sLW"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
-        "name": "El Tiempo Locura Todo",
-        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 244769,
-      "name": "Si Hay Algo",
-      "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
         "name": "Chocolate y Nata",
         "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
         "name": "Tumbado En El Jard\u00edn Viendo Atardecer",
         "url": "https://open.spotify.com/album/3MMWQpliapfNub2AegCIYq"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 180746,
       "name": "Puente",
       "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 218479,
-      "name": "No S\u00e9 (feat. Girl Ultra)",
-      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
         "name": "Hasta Que T\u00fa Me Quieras",
         "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
+        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 167753,
+      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
         "name": "Get Lost In The Music",
         "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
       },
@@ -1147,26 +1147,6 @@
       "duration_ms": 181910,
       "name": "Un Animal (Divina Existencia)",
       "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
-        "name": "Alej\u00e9monos",
-        "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 165458,
-      "name": "Alej\u00e9monos",
-      "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -1187,6 +1167,26 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
+        "name": "Alej\u00e9monos",
+        "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 165458,
+      "name": "Alej\u00e9monos",
+      "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "A No Llorar",
-        "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 232750,
-      "name": "A No Llorar",
-      "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
+        "name": "A No Llorar",
+        "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 232750,
+      "name": "A No Llorar",
+      "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
-      },
-      "artists": [
-        {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Honeydew",
-      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
-    },
-    {
-      "added_at": "2023-02-21 22:13:43",
-      "album": {
         "name": "Bowling",
         "url": "https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-02-21 22:13:43",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/2pQloxRAAk9IH3qbtP8cVr"
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
         }
       ],
-      "duration_ms": 212293,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/7ttDaIS674Ty20rnKQMQs7"
+      "duration_ms": 252000,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
     },
     {
       "added_at": "2023-02-21 22:13:43",
@@ -1619,6 +1603,22 @@
       "duration_ms": 217933,
       "name": "tarde",
       "url": "https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe"
+    },
+    {
+      "added_at": "2023-02-21 22:13:43",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/2pQloxRAAk9IH3qbtP8cVr"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/7ttDaIS674Ty20rnKQMQs7"
     },
     {
       "added_at": "2023-02-21 22:13:43",

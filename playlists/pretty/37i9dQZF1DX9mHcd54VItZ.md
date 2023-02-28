@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,194 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,200 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

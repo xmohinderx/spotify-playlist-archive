@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191901,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV"
+    },
+    {
+      "album": {
         "name": "Aira",
         "url": "https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB"
       },

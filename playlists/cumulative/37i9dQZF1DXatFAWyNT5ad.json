@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 181837,
       "name": "mars",
       "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
@@ -8664,6 +8664,24 @@
       "duration_ms": 223320,
       "name": "The Best (feat. Alice Merton)",
       "url": "https://open.spotify.com/track/5iReOl0OJPQjSIIndoYDMd"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159741,
+      "name": "The Champion",
+      "url": "https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2"
     },
     {
       "album": {

@@ -1064,10 +1064,32 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 202133,
       "name": "The \"In\" Crowd",
       "url": "https://open.spotify.com/track/3ymNc1wfndQY0ZVVudSdTh"
+    },
+    {
+      "album": {
+        "name": "The In Crowd Anthology",
+        "url": "https://open.spotify.com/album/30O2KS4YkHeJOWJZdQZsny"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        },
+        {
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "The \"In\" Crowd - Live At Bohemian Caverns/1965",
+      "url": "https://open.spotify.com/track/3W0TTX4l6LwUXhFEZX1Jc3"
     },
     {
       "album": {

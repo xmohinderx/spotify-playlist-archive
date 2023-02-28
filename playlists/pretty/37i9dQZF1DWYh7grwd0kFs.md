@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYh7grwd0kFs.md) - [plain]
 
 > Best of Karva Chauth songs for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 40 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 40 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

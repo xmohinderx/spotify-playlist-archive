@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MwHlrzAPLQ.md) - [plain]
 
 > Bill Withers brought sunshine to all our lives with his timeless music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,389 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,452 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MwHlrzAPLQ.md) - [plain]
 | 49 | [In My Heart](https://open.spotify.com/track/4jZ2D5sXRGsVy2mJgnkY8U) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 4:19 |
 | 50 | [Don't You Want to Stay?](https://open.spotify.com/track/6Uhx0EMpNhiq3TWZu9mbcb) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:04 |
 
-Snapshot ID: `MTY3NTg3MzY3NCwwMDAwMDAwMDE2OGE2MzJhMzQ4M2U4OTI5NmM5Y2QxMmExMGVlZWI1`
+Snapshot ID: `MTY3NzQ4OTUyMSwwMDAwMDAwMDMyZmY2MGQxZjk3MWYxYzZkZDEwNDgwODE1NGRmZmU1`

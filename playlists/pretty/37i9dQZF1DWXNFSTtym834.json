@@ -1,12 +1,12 @@
 {
-  "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 928938,
+  "description": "The biggest metal songs of the 2000s. Cover: System Of A Down",
+  "num_followers": 930173,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg3OTQ4MywwMDAwMDAwMGU0ZjU0YTAwOTY0ODEzMzAxMmZmMjgzNTg2MzA2YTEx",
+  "snapshot_id": "MTY3NTg3OTQ4MywwMDAwMDAwMDRkMjY5MTE2NjQwYjc3ZGVhYjEwZmY0NDFlY2ZmZDQ3",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -295,22 +279,6 @@
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "All Hope Is Gone (10th Anniversary)",
-        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 284120,
-      "name": "Psychosocial",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -331,6 +299,38 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 403533,
+      "name": "Schism",
+      "url": "https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Lateralus",
-        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+        "name": "All Hope Is Gone (10th Anniversary)",
+        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
       },
       "artists": [
         {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 403533,
-      "name": "Schism",
-      "url": "https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc"
+      "duration_ms": 284120,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 255466,
-      "name": "B.Y.O.B.",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "People = Shit",
-      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -443,50 +427,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 352426,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV"
-      },
-      "artists": [
-        {
-          "name": "Buckcherry",
-          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Crazy Bitch",
-      "url": "https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H"
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -523,6 +475,70 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Crazy Bitch",
+      "url": "https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Faint",
+      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -555,6 +571,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Ashes of the Wake (15th Anniversary)",
         "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
       },
@@ -583,38 +615,6 @@
       "duration_ms": 197906,
       "name": "Y'all Want a Single",
       "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Faint",
-      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Unholy Confessions",
-      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Babylon (Revised Online Music)",
         "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Fate of Norns",
+        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "The Pursuit Of Vikings",
+      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
       },
@@ -1359,6 +1375,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Rock The Rebel / Metal The Devil",
+        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Sad Man's Tongue",
+      "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
@@ -1371,22 +1403,6 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Fate of Norns",
-        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "The Pursuit Of Vikings",
-      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Rock The Rebel / Metal The Devil",
-        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Sad Man's Tongue",
-      "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Octavarium",
-        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 493026,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 240440,
       "name": "Angels",
       "url": "https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Octavarium",
+        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 493026,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Figure Number Five",
-        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Distortion Sleep",
-      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Saturday Night Wrist",
         "url": "https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 249320,
       "name": "Hole in the Earth",
       "url": "https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Figure Number Five",
+        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Distortion Sleep",
+      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
     },
     {
       "added_at": "2023-02-08 17:32:03",

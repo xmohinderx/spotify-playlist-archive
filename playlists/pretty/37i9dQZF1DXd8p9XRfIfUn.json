@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 62652,
+  "num_followers": 62680,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMGMzODAxNGU2OWMwMTdlMTQxZjJkMmI1NWQzZTcxYzUy",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMGVjZmMxOWE0MjE4ODVhNTc1NTg3ODY4ZDdhZjkwYzk4",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -199,38 +199,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Pal' Otro A\u00f1o",
-        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 150894,
-      "name": "Pal' Otro A\u00f1o",
-      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -259,6 +227,38 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Pal' Otro A\u00f1o",
+        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 150894,
+      "name": "Pal' Otro A\u00f1o",
+      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Tus Besos (Remix)",
         "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
       },
@@ -275,6 +275,42 @@
       "duration_ms": 229106,
       "name": "Tus Besos - Remix",
       "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Obvio",
+        "url": "https://open.spotify.com/album/6V59CSTAiT6qveaaEqbQtc"
+      },
+      "artists": [
+        {
+          "name": "Pineda",
+          "url": "https://open.spotify.com/artist/0gMgr9rGjrWunb1Mj9LRRZ"
+        }
+      ],
+      "duration_ms": 184775,
+      "name": "Obvio",
+      "url": "https://open.spotify.com/track/4qf202KUdDbXmlsyUy5z9B"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -303,42 +339,6 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Obvio",
-        "url": "https://open.spotify.com/album/6V59CSTAiT6qveaaEqbQtc"
-      },
-      "artists": [
-        {
-          "name": "Pineda",
-          "url": "https://open.spotify.com/artist/0gMgr9rGjrWunb1Mj9LRRZ"
-        }
-      ],
-      "duration_ms": 184775,
-      "name": "Obvio",
-      "url": "https://open.spotify.com/track/4qf202KUdDbXmlsyUy5z9B"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Garabatos (with Jay Wheeler)",
-        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Garabatos (with Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 120000,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Garabatos (with Jay Wheeler)",
+        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Garabatos (with Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "La Pr\u00e1ctica",
-        "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
-      },
-      "artists": [
-        {
-          "name": "Nath",
-          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "La Pr\u00e1ctica",
-      "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "La Pr\u00e1ctica",
+        "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "La Pr\u00e1ctica",
+      "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
     },
     {
       "added_at": "2023-01-27 03:00:00",

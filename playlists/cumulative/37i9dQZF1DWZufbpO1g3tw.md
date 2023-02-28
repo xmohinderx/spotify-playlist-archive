@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor!
 
-180 songs - 11 hr 5 min
+181 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bien Bailadido](https://open.spotify.com/track/1b7NJVhLz54B5KPLp7BUum) | [Junior Y Su Equipo](https://open.spotify.com/artist/0eBvJ4QbkiayHAgs6yuXld) | [Saturno 2000 \- La Rebajada de Los Sonideros 1962 \- 1983](https://open.spotify.com/album/3mWxWw4Op4RkL5E3GzioL4) | 4:14 | 2022-04-20 | 2022-07-29 |
 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 | 2021-10-20 | 2022-12-25 |
 | [Bocanegra](https://open.spotify.com/track/57e8weoxM68ESpTZrv1KPX) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 4:17 | 2021-10-20 | 2023-01-19 |
+| [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 | 2022-10-28 |  |
 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 | 2021-10-20 | 2022-07-29 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2021-10-20 | 2022-07-29 |
 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 | 2022-10-28 | 2023-02-05 |
@@ -170,7 +171,7 @@
 | [Te Vine A Buscar](https://open.spotify.com/track/02dOTqwvx6geq18nOgtSS0) | [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Te Vine A Buscar](https://open.spotify.com/album/1a8K3WFFAgZordlk4ox2U1) | 2:18 | 2022-04-20 | 2022-07-16 |
 | [Tierra de Poetas \- Dub Mix](https://open.spotify.com/track/0anwofNiH8XpIv8y8jUDaX) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 4:23 | 2021-10-20 | 2022-07-29 |
 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 | 2022-10-28 |  |
-| [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 | 2021-10-20 |  |
+| [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 | 2021-10-20 | 2023-02-28 |
 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 | 2022-10-28 |  |
 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 | 2022-10-28 |  |
 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 | 2022-10-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 98338,
+  "num_followers": 98353,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDBiOTNjN2M3YTg3M2IyYjlmNWRjMjE2ZTQ5M2M0M2Fj",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDczOGExNjJiYTBhNmZlMWEwMDI4YTEwZmU0M2RiNjk2",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -679,34 +679,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "My Circle (Remix)",
-        "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        },
-        {
-          "name": "Cadet",
-          "url": "https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK"
-        },
-        {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
-        },
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "My Circle - Remix",
-      "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Logic1000",
         "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
       },
@@ -755,6 +727,34 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "My Circle (Remix)",
+        "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        },
+        {
+          "name": "Cadet",
+          "url": "https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "My Circle - Remix",
+      "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Da Linha",
         "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
       },
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Sentah",
-        "url": "https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
-        },
-        {
-          "name": "Bryte",
-          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Sentah",
-      "url": "https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "I'm Leaving",
         "url": "https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+        "name": "Sentah",
+        "url": "https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2"
       },
       "artists": [
         {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
+        },
+        {
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
         }
       ],
-      "duration_ms": 258866,
-      "name": "African Warrior",
-      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
+      "duration_ms": 188546,
+      "name": "Sentah",
+      "url": "https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -867,6 +851,22 @@
       "duration_ms": 291500,
       "name": "Gabryelle (Refix)",
       "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "African Warrior",
+      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Funky Flex vs Pulse",
-        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        }
-      ],
-      "duration_ms": 361791,
-      "name": "Funky Flex vs Pulse",
-      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Gallium",
         "url": "https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 456201,
       "name": "Galiium",
       "url": "https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Funky Flex vs Pulse",
+        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 361791,
+      "name": "Funky Flex vs Pulse",
+      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
     },
     {
       "added_at": "2022-04-13 15:03:02",

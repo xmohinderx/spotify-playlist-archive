@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Mother Mother",
-  "num_followers": 54762,
+  "num_followers": 54785,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA3MzEzNSwwMDAwMDAwMGU4NjI4NjMzNDczZmY1NGMyYTRhZDk0ZGI4MDU5ZjJj",
+  "snapshot_id": "MTY3NjA3MzEzNSwwMDAwMDAwMGRlOTI0NTBkZmMyZDI5NWQ5ODQyMDIyOGFmYWVlN2Uy",
   "tracks": [
     {
       "added_at": "2023-02-10 23:51:19",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-10 23:51:19",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 272394,
-      "name": "Do I Wanna Know?",
-      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
-    },
-    {
-      "added_at": "2023-02-10 23:51:19",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 228146,
       "name": "Can You Feel My Heart",
       "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
+    },
+    {
+      "added_at": "2023-02-10 23:51:19",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
     },
     {
       "added_at": "2023-02-10 23:51:19",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-02-10 23:51:19",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2023-02-10 23:51:19",
-      "album": {
         "name": "Hotel Diablo",
         "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 169397,
       "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
       "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
+    },
+    {
+      "added_at": "2023-02-10 23:51:19",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2023-02-10 23:51:19",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-10 23:51:19",
       "album": {
-        "name": "Transmissions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Ypo27qP4udOQKGfNT48hn"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 288036,
-      "name": "My Demons",
-      "url": "https://open.spotify.com/track/3Xfg7AegXaDLoD5GOUMf2e"
-    },
-    {
-      "added_at": "2023-02-10 23:51:19",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
+    },
+    {
+      "added_at": "2023-02-10 23:51:19",
+      "album": {
+        "name": "Transmissions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Ypo27qP4udOQKGfNT48hn"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 288036,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/3Xfg7AegXaDLoD5GOUMf2e"
     },
     {
       "added_at": "2023-02-10 23:51:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-10 23:51:19",
       "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv"
-    },
-    {
-      "added_at": "2023-02-10 23:51:19",
-      "album": {
         "name": "Mint",
         "url": "https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 237053,
       "name": "No Roots",
       "url": "https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA"
+    },
+    {
+      "added_at": "2023-02-10 23:51:19",
+      "album": {
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv"
     },
     {
       "added_at": "2023-02-10 23:51:19",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-02-10 23:51:19",
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340320,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
-    },
-    {
-      "added_at": "2023-02-10 23:51:19",
-      "album": {
         "name": "Young Chasers (Deluxe)",
         "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+    },
+    {
+      "added_at": "2023-02-10 23:51:19",
+      "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340320,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
     },
     {
       "added_at": "2023-02-10 23:51:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,411 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,525 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [Nadie Como Tú](https://open.spotify.com/track/3g8QriMzqwzXjAPCuZ8LFA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nadie Como Tú](https://open.spotify.com/album/4qSb1bGgD0IixbTo1HpquI) | 3:06 |
 
-Snapshot ID: `Mjc5NTY4ODMsMDAwMDAwMDA2NWMyMjhlYWE1MmU5NWRiY2M5MDZkZGUxNTQzZTMyNQ==`
+Snapshot ID: `Mjc5NTg0NjAsMDAwMDAwMDBiZDNhY2M0YzNlMmEzMWVhNzFiZGRlYWRiMmYxOTlhOA==`

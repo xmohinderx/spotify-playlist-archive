@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 516044,
+  "num_followers": 516367,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODM4MiwwMDAwMDAwMGFjNWUyNmU5MmEwMTlkOTU0N2VjZDM5ZWY0MWQ4YjRm",
+  "snapshot_id": "MTY3NTk5ODM4MiwwMDAwMDAwMDBhYmI5Mjk2NDdjNzBmOTg2N2JhMWVhNjY3ZmYwNWZm",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
       },
       "artists": [
         {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 190133,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -337,52 +337,20 @@
       "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
     },
     {
-      "added_at": "2023-02-27 01:33:36",
-      "album": {
-        "name": "Get a Little Rowdy",
-        "url": "https://open.spotify.com/album/6Z89GpdksvibHlhiUrgnV3"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 127609,
-      "name": "Get a Little Rowdy",
-      "url": "https://open.spotify.com/track/2Sda1KzCD3MnlfP0Oq2Ysj"
-    },
-    {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+        "name": "Castles in the Sand",
+        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
-        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
+      "duration_ms": 190133,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -399,6 +367,22 @@
       "duration_ms": 179653,
       "name": "Baby's Got Her Blue Jeans On",
       "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
+        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Ocean Front Property",
+        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Ocean Front Property",
+      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "White Limozeen",
         "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Ocean Front Property",
-        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Ocean Front Property",
-      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+      "duration_ms": 202506,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -483,22 +483,6 @@
       "duration_ms": 223000,
       "name": "I Was Country When Country Wasn't Cool - Live At The Roy Acuff Theater Nashville, TN, 1981",
       "url": "https://open.spotify.com/track/2jQw7zMJO4fekTbP7iVA4v"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -539,22 +523,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
@@ -567,22 +535,6 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/0LATteOxdYq4vXTNZ97r77"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Why Not Me",
-        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Mama He's Crazy",
-      "url": "https://open.spotify.com/track/2mEAWmVDub6PSF8pZXInrS"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -603,18 +555,34 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Untasted Honey",
-        "url": "https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5"
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
       },
       "artists": [
         {
-          "name": "Kathy Mattea",
-          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Eighteen Wheels And A Dozen Roses",
-      "url": "https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC"
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Mama He's Crazy",
+      "url": "https://open.spotify.com/track/2mEAWmVDub6PSF8pZXInrS"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -635,6 +603,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Untasted Honey",
+        "url": "https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5"
+      },
+      "artists": [
+        {
+          "name": "Kathy Mattea",
+          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Eighteen Wheels And A Dozen Roses",
+      "url": "https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Lookin' For Love",
         "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
       },
@@ -651,22 +635,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Juice Newton's Greatest Hits",
-        "url": "https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw"
-      },
-      "artists": [
-        {
-          "name": "Juice Newton",
-          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "The Sweetest Thing (I've Ever Known)",
-      "url": "https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 179333,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Juice Newton's Greatest Hits",
+        "url": "https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw"
+      },
+      "artists": [
+        {
+          "name": "Juice Newton",
+          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "The Sweetest Thing (I've Ever Known)",
+      "url": "https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -763,22 +747,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Rockin' With The Rhythm Of The Rain",
-      "url": "https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -795,18 +763,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
+      "duration_ms": 161333,
+      "name": "Rockin' With The Rhythm Of The Rain",
+      "url": "https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -827,18 +795,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -855,6 +823,22 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -891,22 +875,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Love Me Like You Used To",
-        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -923,6 +891,22 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Love Me Like You Used To",
+        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -963,22 +947,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Me And The Boys",
         "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
@@ -991,38 +959,6 @@
       "duration_ms": 221706,
       "name": "Drinkin' My Baby Goodbye",
       "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Ultimate Alabama 20 # 1 Hits",
-        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
-      "url": "https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1047,6 +983,54 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Ultimate Alabama 20 # 1 Hits",
+        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+      "url": "https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 253293,
       "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
       "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Forrest Gump - The Soundtrack",
-        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+        "name": "The Family's Fine, But This One's All Mine!",
+        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
         }
       ],
-      "duration_ms": 148106,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+      "duration_ms": 237306,
+      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
+      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1175,46 +1175,6 @@
       "duration_ms": 189626,
       "name": "You Never Gave Up On Me",
       "url": "https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "The Family's Fine, But This One's All Mine!",
-        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
-      },
-      "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
-      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1247,18 +1207,26 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 175800,
-      "name": "Just Another Woman In Love",
-      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
+      "duration_ms": 216573,
+      "name": "Wildflowers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1279,34 +1247,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Why Not Me",
-        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk"
+      "duration_ms": 175800,
+      "name": "Just Another Woman In Love",
+      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1327,6 +1279,38 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+      },
+      "artists": [
+        {
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "I'll Be Your Jukebox Tonight",
-        "url": "https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 172893,
-      "name": "I Wish That I Could Fall In Love Today",
-      "url": "https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
@@ -1371,6 +1339,22 @@
       "duration_ms": 222400,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "I'll Be Your Jukebox Tonight",
+        "url": "https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "I Wish That I Could Fall In Love Today",
+      "url": "https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1455,22 +1439,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Walk The Way The Wind Blows",
-        "url": "https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv"
-      },
-      "artists": [
-        {
-          "name": "Kathy Mattea",
-          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Love At The Five & Dime",
-      "url": "https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Roll On",
         "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
@@ -1483,6 +1451,22 @@
       "duration_ms": 262626,
       "name": "Roll On (Eighteen Wheeler)",
       "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Walk The Way The Wind Blows",
+        "url": "https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv"
+      },
+      "artists": [
+        {
+          "name": "Kathy Mattea",
+          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Love At The Five & Dime",
+      "url": "https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Ten Years Of Hits",
+        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Stand By Me - Single Version",
+      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 227013,
       "name": "To Know Him Is to Love Him - 2015 Remaster",
       "url": "https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Ten Years Of Hits",
-        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
-      },
-      "artists": [
-        {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Stand By Me - Single Version",
-      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1687,34 +1671,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "The Best Of Terri Gibbs",
-        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
-      },
-      "artists": [
-        {
-          "name": "Terri Gibbs",
-          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Somebody's Knockin'",
-      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1735,6 +1703,38 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "The Best Of Terri Gibbs",
+        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
+      },
+      "artists": [
+        {
+          "name": "Terri Gibbs",
+          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Somebody's Knockin'",
+      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
       },
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+        "name": "I Love 'Em All",
+        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+      "duration_ms": 221280,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1779,22 +1779,6 @@
       "duration_ms": 219946,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "I Love 'Em All",
-        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2175,22 +2159,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2223,6 +2191,22 @@
       "duration_ms": 206973,
       "name": "Only One You",
       "url": "https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Best Of Gene Watson",
+        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Got No Reason Now For Goin' Home",
+      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2291,22 +2275,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Smooth Sailin'",
-        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Do You Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2355,18 +2323,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+        "name": "Smooth Sailin'",
+        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
       },
       "artists": [
         {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+      "duration_ms": 190013,
+      "name": "Do You Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2383,6 +2351,22 @@
       "duration_ms": 216573,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+      },
+      "artists": [
+        {
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2451,6 +2435,22 @@
       "duration_ms": 154554,
       "name": "Crackers - Single Version",
       "url": "https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ"
+    },
+    {
+      "added_at": "2023-02-28 00:41:57",
+      "album": {
+        "name": "Get a Little Rowdy",
+        "url": "https://open.spotify.com/album/6Z89GpdksvibHlhiUrgnV3"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 127609,
+      "name": "Get a Little Rowdy",
+      "url": "https://open.spotify.com/track/2Sda1KzCD3MnlfP0Oq2Ysj"
     },
     {
       "added_at": "2022-07-25 21:36:54",

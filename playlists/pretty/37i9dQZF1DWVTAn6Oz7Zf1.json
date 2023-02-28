@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 166504,
+  "num_followers": 166507,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ4OTg3NywwMDAwMDAwMDc5ODJiYTI3NWQ2MzM1ZmYwZDYzMTExYjY4YTNlOGRl",
+  "snapshot_id": "MTY3NDQ4OTg3NywwMDAwMDAwMGE5MjJhMGZhMWFhOTU0YTkwOTZiNGUyM2E1MWE3ZGY4",
   "tracks": [
     {
       "added_at": "2023-01-23 16:04:37",
@@ -155,6 +155,26 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
-        "name": "Work With My Love",
-        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "Work With My Love",
-      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
         "name": "You for Me",
         "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 175435,
       "name": "You for Me",
       "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Raphaella",
-          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
-        }
-      ],
-      "duration_ms": 152224,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
         "name": "Love Again (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 214000,
       "name": "Love Again - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "duration_ms": 152224,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -727,22 +727,22 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Love Me Now (feat. FAST BOY)",
-        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         },
         {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "DJ Craig Gorman",
+          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
         }
       ],
-      "duration_ms": 152581,
-      "name": "Love Me Now (feat. FAST BOY)",
-      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
+      "duration_ms": 161040,
+      "name": "Talk About",
+      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -767,22 +767,22 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
+        "name": "Love Me Now (feat. FAST BOY)",
+        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
       },
       "artists": [
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "DJ Craig Gorman",
-          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 161040,
-      "name": "Talk About",
-      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+      "duration_ms": 152581,
+      "name": "Love Me Now (feat. FAST BOY)",
+      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1059,42 +1059,6 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -1115,6 +1079,22 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 221465,
       "name": "Funny",
       "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "Music (Songs From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
       },
@@ -1339,22 +1363,6 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
         "name": "Take Me To The Sunshine (feat. BullySongs)",
         "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
       },
@@ -1379,26 +1387,18 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 234374,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 198703,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2023-01-23 16:04:37",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-01-23 16:04:37",
       "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
+    },
+    {
+      "added_at": "2023-01-23 16:04:37",
+      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
-    },
-    {
-      "added_at": "2023-01-23 16:04:37",
-      "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
     },
     {
       "added_at": "2023-01-23 16:04:37",

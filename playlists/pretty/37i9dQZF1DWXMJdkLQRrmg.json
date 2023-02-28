@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 300900,
+  "num_followers": 301016,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGZjZjAzNmY5NDQ1NDliOTZkYmQ3YWE0MTlkODlmMjBl",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDczZjRiNDAyZTRmZWVkOGFkZTYzZDAwYmNkZTlhYTQ1",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Mary (b-sides)",
         "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219696,
       "name": "Heart",
       "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -375,22 +375,6 @@
       "duration_ms": 272000,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Anthem Of The Peaceful Army",
-        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 281306,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -483,18 +467,34 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Anthem Of The Peaceful Army",
+        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 281306,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
       "artists": [
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
     },
     {
       "added_at": "2023-01-13 05:00:00",

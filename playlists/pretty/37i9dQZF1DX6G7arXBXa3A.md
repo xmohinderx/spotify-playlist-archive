@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,876 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,925 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 12 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
 | 13 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
 | 14 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
-| 15 | [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 |
-| 16 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
+| 15 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
+| 16 | [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 |
 | 17 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 |
 | 18 | [Nuttville](https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Roar Of '74](https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd) | 4:50 |
 | 19 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 34 | [Let The Good Times Roll](https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 2:55 |
 | 35 | [Jack, You're Dead!](https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive \(Remastered 1999\)](https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO) | 2:47 |
 | 36 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
-| 37 | [Orange Colored Sky \- Remastered 2005](https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Stan Kenton & His Orchestra](https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 2:33 |
-| 38 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 |
+| 37 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 |
+| 38 | [Orange Colored Sky \- Remastered 2005](https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Stan Kenton & His Orchestra](https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 2:33 |
 | 39 | [Manteca](https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Night In Tunisia: The Very Best Of Dizzy Gillespie](https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf) | 3:06 |
 | 40 | [Work Song](https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Black, Brown and Beige](https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u) | 8:05 |
 | 41 | [A You’re Adorable](https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7) | [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [Jimmy Dorsey:The Complete Standard Transcriptions](https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 | 50 | [Three In One](https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h) | [Thad Jones\-Mel Lewis Jazz Orchestra](https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc) | [Presenting Thad Jones\-Mel Lewis & The Jazz Orchestra](https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh) | 5:48 |
 
-Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMGU5ZTA1NDViMDllYjUxNGIxZTY5NTM2YjdmZGQxZmRi`
+Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMGZiMzk4MzkzNmJjMzU1MmQxMmY0Njg5MzI1ZjI2NGIy`

@@ -4199,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Piya Re",
+        "url": "https://open.spotify.com/album/2zklsctWucPQfdsOrpwLaF"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235827,
+      "name": "Piya Re",
+      "url": "https://open.spotify.com/track/00ifzzUnDbVVdwGLAzm9Fo"
+    },
+    {
+      "album": {
         "name": "Punya Paap",
         "url": "https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5"
       },
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 199029,
       "name": "The Punjaabban Song (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV"

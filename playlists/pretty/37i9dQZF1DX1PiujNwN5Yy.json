@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 103573,
+  "num_followers": 103603,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3ODA3MSwwMDAwMDAwMDA2ZjlmZDNhYzljMjA3Yzk3M2Q5OTNmYjlhODc1NzZj",
+  "snapshot_id": "MTY3NjQ3ODA3MSwwMDAwMDAwMGUxMTYwZDA3ZDBmNTE2NmNiZDY3YWRkZjNlODA2NTg1",
   "tracks": [
     {
       "added_at": "2023-01-23 17:49:24",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 203569,
-      "name": "idontwannabeyouanymore",
-      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -205,7 +189,23 @@
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
-      "added_at": "2023-02-27 01:21:19",
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2023-02-28 01:09:46",
       "album": {
         "name": "viernes 13 ii",
         "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
@@ -219,6 +219,22 @@
       "duration_ms": 197818,
       "name": "viernes 13 ii",
       "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -239,22 +255,6 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Transiciones",
-        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "siempreestoypati",
-      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "ENTROP\u00cdA",
         "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
@@ -339,22 +323,6 @@
       "duration_ms": 204181,
       "name": "Dieznoches",
       "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Es Que Yo Te Quiero A Ti",
-        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 323625,
-      "name": "Es Que Yo Te Quiero A Ti",
-      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -379,6 +347,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "Transiciones",
+        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "siempreestoypati",
+      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Mundo De Dos",
         "url": "https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -511,22 +495,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Toda Esta Ciudad",
-        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 320603,
-      "name": "Toda Esta Ciudad",
-      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -539,6 +507,22 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -571,6 +555,22 @@
       "duration_ms": 271306,
       "name": "Lo jodiste",
       "url": "https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Toda Esta Ciudad",
+        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 320603,
+      "name": "Toda Esta Ciudad",
+      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "nadie va a pensar en ti mejor que yo (En Vivo)",
-        "url": "https://open.spotify.com/album/4H1ntgZSzhZsYQxyLNrglM"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "nadie va a pensar en ti mejor que yo - En Vivo",
-      "url": "https://open.spotify.com/track/2czpzliEFyUYpeyPvYfgMO"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 220075,
       "name": "NASA",
       "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "nadie va a pensar en ti mejor que yo (En Vivo)",
+        "url": "https://open.spotify.com/album/4H1ntgZSzhZsYQxyLNrglM"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "nadie va a pensar en ti mejor que yo - En Vivo",
+      "url": "https://open.spotify.com/track/2czpzliEFyUYpeyPvYfgMO"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "Devu\u00e9lvemelo",
+        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Devu\u00e9lvemelo",
+      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 198720,
       "name": "culpa",
       "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Devu\u00e9lvemelo",
-        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Devu\u00e9lvemelo",
-      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Galerna",
-        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 188901,
-      "name": "Galerna",
-      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
         "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1119,6 +1103,22 @@
       "duration_ms": 177333,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
+      "added_at": "2023-02-28 01:09:46",
+      "album": {
+        "name": "Mi Complejo",
+        "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "Mi Complejo",
+      "url": "https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey"
+    },
+    {
       "added_at": "2023-01-23 17:49:24",
       "album": {
         "name": "La Banqueta",
@@ -1287,22 +1303,6 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
-    },
-    {
-      "added_at": "2023-02-27 01:21:19",
-      "album": {
-        "name": "Mi Complejo",
-        "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "Mi Complejo",
-      "url": "https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "T la Sudo (Demo)",
         "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 185411,
       "name": "T la Sudo (Demo)",
       "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Nada Es Igual",
-        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "No Te Voy a Ver",
         "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
         }
       ],
-      "duration_ms": 141882,
-      "name": "No Estoy",
-      "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
+      "duration_ms": 251640,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1571,22 +1555,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "NADA ES SEGURO",
-        "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
       "artists": [
         {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 204000,
-      "name": "NADA ES SEGURO",
-      "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
+      "duration_ms": 141882,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1607,6 +1587,26 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "NADA ES SEGURO",
+        "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "NADA ES SEGURO",
+      "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
     },
     {
       "added_at": "2023-01-23 17:49:24",

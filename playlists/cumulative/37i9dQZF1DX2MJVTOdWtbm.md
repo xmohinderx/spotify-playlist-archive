@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-228 songs - 12 hr 9 min
+229 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-02-11 | 2022-05-20 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2022-05-20 |  |
 | [De Ti](https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Ti](https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco) | 3:34 | 2022-08-05 |  |
+| [Del Amor Al Odio](https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV) | 3:16 | 2023-02-24 |  |
 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 | 2022-12-06 | 2023-02-17 |
 | [desde dentro](https://open.spotify.com/track/0q6GyKJUROqHWYqT0wzGBx) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [desde dentro](https://open.spotify.com/album/05rgpXmPuYezlXeibYD6Hb) | 3:02 | 2022-02-11 | 2022-09-07 |
 | [Desilusionándome](https://open.spotify.com/track/2R8w2f2gBJPCI6zYXNYLYz) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Desilusionándome](https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ) | 3:16 | 2022-02-11 | 2022-09-07 |
@@ -147,7 +148,7 @@
 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 | 2022-09-06 |  |
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-18 |  |
 | [Ni Verte](https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg) | [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ni Verte](https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS) | 3:03 | 2022-02-11 | 2022-07-29 |
-| [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 | 2022-07-08 |  |
+| [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 | 2022-07-08 | 2023-02-28 |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2022-02-11 |  |
 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 | 2022-02-11 | 2022-09-27 |
 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 | 2022-02-11 | 2022-09-07 |

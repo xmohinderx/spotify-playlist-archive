@@ -1,12 +1,12 @@
 {
   "description": "Jam and remember the time with this collection of hits by the <a href=\"spotify:artist:3fMbdgg4jU18AjLCKBhRSm\">King of Pop</a>!",
-  "num_followers": 2493230,
+  "num_followers": 2494017,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk4NDAzNSwwMDAwMDAwMDMwOGRiNWQzNWE0OThmNzYxODRlYmJkNTRhZWZhN2I4",
+  "snapshot_id": "MTY3NzQ5NDQ4NywwMDAwMDAwMGY3OGZhNDI4NmZhOGQ5OWMwOTcwYjk3YWNmZDUzNGE1",
   "tracks": [
     {
       "added_at": "2022-08-03 07:04:33",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-08-03 07:04:33",
       "album": {
-        "name": "The Essential Michael Jackson",
-        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "Can You Feel It - 7\" Version",
-      "url": "https://open.spotify.com/track/4qv7YSyt5UV8LvrXyE8sGn"
-    },
-    {
-      "added_at": "2022-08-03 07:04:33",
-      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2022-08-03 07:04:33",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 234720,
+      "name": "Another Part of Me - 2012 Remaster",
+      "url": "https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B"
+    },
+    {
+      "added_at": "2022-08-03 07:04:33",
+      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-08-03 07:04:33",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "The Essential Michael Jackson",
+        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 234720,
-      "name": "Another Part of Me - 2012 Remaster",
-      "url": "https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B"
+      "duration_ms": 230773,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/4qv7YSyt5UV8LvrXyE8sGn"
     },
     {
       "added_at": "2022-08-03 07:04:33",

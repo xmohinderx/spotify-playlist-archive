@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 555703,
+  "num_followers": 556131,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NjkxNywwMDAwMDAwMGM0MmQzNzkxZjliM2Y5ZDczNzI1MWE5MWQxMDVjZjhm",
+  "snapshot_id": "MTY3NjY0NjkxNywwMDAwMDAwMDYyZmM3YWE2NWIzNDcyOTlhNTMxOTVlNWI0OWZlYjU5",
   "tracks": [
     {
       "added_at": "2023-02-10 17:05:11",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
-      "added_at": "2023-02-27 00:49:17",
+      "added_at": "2023-02-28 00:43:06",
       "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -275,22 +291,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -355,6 +339,22 @@
       "duration_ms": 158948,
       "name": "The Love",
       "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
+      },
+      "artists": [
+        {
+          "name": "Balthazar",
+          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
-      },
-      "artists": [
-        {
-          "name": "Balthazar",
-          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Bedrock",
-      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Clocks",
         "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 197576,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 265410,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 265410,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -741,7 +725,23 @@
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
-      "added_at": "2023-02-27 00:49:17",
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
+    },
+    {
+      "added_at": "2023-02-28 00:43:06",
       "album": {
         "name": "Chariot",
         "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
@@ -1031,22 +1015,6 @@
       "duration_ms": 305546,
       "name": "Blurred",
       "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "ready now",
-        "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 176567,
-      "name": "ready now",
-      "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1065,7 +1033,39 @@
       "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
     },
     {
-      "added_at": "2023-02-27 00:49:17",
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "ready now",
+        "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 176567,
+      "name": "ready now",
+      "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+    },
+    {
+      "added_at": "2023-02-28 00:43:06",
       "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Brave New Woman",
+        "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
+      },
+      "artists": [
+        {
+          "name": "Leslie Clio",
+          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Comment Allez-Vous?",
+      "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Brave New Woman",
-        "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
-      },
-      "artists": [
-        {
-          "name": "Leslie Clio",
-          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Comment Allez-Vous?",
-      "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Ocean Wide",
-        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 184515,
-      "name": "Ocean Wide",
-      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "My Guitar is too Loud",
         "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202000,
       "name": "My Guitar is too Loud",
       "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Ocean Wide",
+        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 184515,
+      "name": "Ocean Wide",
+      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Future Perfect, Present Tense",
         "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 284653,
       "name": "Isn't Ever A Day",
       "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
+        "name": "Hole Digger",
+        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        },
+        {
+          "name": "Desingly",
+          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Hole Digger",
+      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 213127,
       "name": "Love Is Everywhere (Beware)",
       "url": "https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
-        "name": "Hole Digger",
-        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
-      },
-      "artists": [
-        {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
-        },
-        {
-          "name": "Desingly",
-          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Hole Digger",
-      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
     },
     {
       "added_at": "2023-02-10 17:05:11",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-10 17:05:11",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2023-02-10 17:05:11",
-      "album": {
         "name": "Tenderfoot",
         "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "added_at": "2023-02-10 17:05:11",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "added_at": "2023-02-10 17:05:11",

@@ -5917,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "te vi dan\u00e7ando",
+        "url": "https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78968,
+      "name": "te vi dan\u00e7ando",
+      "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
+    },
+    {
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
       },
@@ -6158,6 +6176,10 @@
         {
           "name": "DJ Jeffdepl",
           "url": "https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k"
+        },
+        {
+          "name": "Murilo Cajaiba",
+          "url": "https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf"
         }
       ],
       "date_added": "2023-02-06",

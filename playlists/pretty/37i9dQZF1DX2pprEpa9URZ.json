@@ -1,15 +1,15 @@
 {
   "description": "A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 690962,
+  "num_followers": 691204,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMGEzMzBhMTY0ZjFlNzQzMzI4Y2I0NTk4YjgzNjk3NDQ2",
+  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDcwNGU5ZmUxYmViNTIwZTMwZjA3NGIxZmUwNTQ2N2Uz",
   "tracks": [
     {
-      "added_at": "2023-02-27 01:08:08",
+      "added_at": "2023-02-28 01:02:18",
       "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
-      "added_at": "2023-02-27 01:08:08",
+      "added_at": "2023-02-28 01:02:18",
       "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "Feather (The Remixes)",
         "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 362411,
       "name": "Kidz of Tibet",
       "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "Marimba",
         "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 359808,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -439,18 +455,26 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
       "artists": [
         {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
         }
       ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -495,30 +519,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Sagas of Iziki | Chapter 2",
-        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
-      },
-      "artists": [
-        {
-          "name": "Djuma Soundsystem",
-          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Olith",
-          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
-        }
-      ],
-      "duration_ms": 544250,
-      "name": "Osuga",
-      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
-      "added_at": "2023-02-27 01:08:08",
+      "added_at": "2023-02-28 01:02:18",
       "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         }
       ],
-      "duration_ms": 456745,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -711,22 +711,6 @@
       "duration_ms": 469335,
       "name": "State the Obvious",
       "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -763,6 +747,22 @@
       "duration_ms": 363765,
       "name": "Nterini - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 456745,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "RAI",
         "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
@@ -871,26 +887,6 @@
       "duration_ms": 238168,
       "name": "RAI",
       "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Fading Color",
-        "url": "https://open.spotify.com/album/4krvGAWH8jFgwItTRDZACf"
-      },
-      "artists": [
-        {
-          "name": "Zigan Aldi",
-          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
-        },
-        {
-          "name": "Monoh\u00f8le",
-          "url": "https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c"
-        }
-      ],
-      "duration_ms": 392353,
-      "name": "Fading Color",
-      "url": "https://open.spotify.com/track/2HVoB3Ajn9uZnUWt8DjwFJ"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -915,18 +911,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+        "name": "Fading Color",
+        "url": "https://open.spotify.com/album/4krvGAWH8jFgwItTRDZACf"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Zigan Aldi",
+          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
+        },
+        {
+          "name": "Monoh\u00f8le",
+          "url": "https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c"
         }
       ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+      "duration_ms": 392353,
+      "name": "Fading Color",
+      "url": "https://open.spotify.com/track/2HVoB3Ajn9uZnUWt8DjwFJ"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -943,6 +943,22 @@
       "duration_ms": 400000,
       "name": "Izvor",
       "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -967,6 +983,22 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -1003,38 +1035,6 @@
       "duration_ms": 328912,
       "name": "Quem Sou Eu",
       "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
         }
       ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     }
   ],
   "unique_name": "Org\u00e1nica",

@@ -4,11 +4,12 @@
 
 > Calm and quiet piano music for reading.
 
-584 songs - 1 day 1 hr 22 min
+591 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2017](https://open.spotify.com/track/1omqxrkMVNo4SOJ1b3KEmi) | [Pranit Khedekar](https://open.spotify.com/artist/0oFU5xoASWO97hFES9qbkT) | [2017](https://open.spotify.com/album/3r9NQVsjX9DpHVE6xyOarC) | 2:45 | 2022-04-15 | 2022-05-14 |
+| [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 | 2023-02-27 |  |
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2022-04-15 | 2022-04-23 |
 | [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2022-04-15 |  |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 |  |
@@ -27,6 +28,7 @@
 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 | 2022-10-14 |  |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-04-15 |  |
 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 | 2022-04-15 | 2022-05-27 |
+| [All Petals Are Gone](https://open.spotify.com/track/1Q9xea5ZIvO9P657JuGJyi) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [All Petals Are Gone](https://open.spotify.com/album/6edoDc9wMPjBXpA3F9AV3e) | 2:16 | 2023-02-27 |  |
 | [Allena](https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Nostalgia](https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN) | 1:39 | 2022-12-22 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2022-04-15 |  |
 | [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-13 |  |
@@ -70,6 +72,7 @@
 | [Botanical](https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Botanical](https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ) | 2:23 | 2022-04-15 |  |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-15 |  |
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-04-15 |  |
+| [Break Of Dawn](https://open.spotify.com/track/3T0Yddl7zHiz6MqyIxXSDM) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Break Of Dawn](https://open.spotify.com/album/6G0WOU6tNDgNJyKOOVhIA5) | 2:32 | 2023-02-27 |  |
 | [Breakfast With Chopin](https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Breakfast with Chopin](https://open.spotify.com/album/6c61W7333vPNTC077Ne0Sm) | 2:06 | 2023-02-20 |  |
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2022-04-15 | 2022-06-08 |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2022-04-15 | 2022-04-23 |
@@ -141,6 +144,7 @@
 | [enfin bref](https://open.spotify.com/track/3jMxdAMOyHBluvKGD6uYxO) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [enfin bref](https://open.spotify.com/album/4BQbyhjyA3xA66YlxsXKI0) | 3:03 | 2022-04-15 |  |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-15 | 2022-06-08 |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2022-04-15 |  |
+| [Essence of Light](https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Essence of Light](https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR) | 3:25 | 2023-02-27 |  |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-04-15 |  |
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2022-04-15 | 2022-12-24 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2022-04-15 |  |
@@ -333,6 +337,7 @@
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2022-12-22 |  |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2022-04-15 | 2022-05-27 |
 | [Nádherný deň](https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Nádherný deň](https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI) | 1:59 | 2022-09-20 |  |
+| [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-02-27 |  |
 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2022-04-15 | 2022-11-19 |
 | [Ode to Vivian \- Rework](https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ode to Vivian \(Rework\)](https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW) | 1:36 | 2022-11-18 |  |
 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-10-14 |  |
@@ -542,6 +547,7 @@
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-04-15 | 2022-05-27 |
 | [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 | 2022-12-22 |  |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-04-15 |  |
+| [Under the Poplars](https://open.spotify.com/track/0B0cpBMtYjk5PAwM0bkuoB) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Under the Poplars](https://open.spotify.com/album/7vJN1oU025GDt4BkeCRjj3) | 2:44 | 2023-02-27 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2022-04-15 | 2022-11-19 |
 | [United](https://open.spotify.com/track/7aw2vM9GkttgVrbao29wju) | [Cory Mickens](https://open.spotify.com/artist/6noY2fXct5i6WHVF6OweTS) | [United](https://open.spotify.com/album/7qns71hCpdZzSR0oexqTCs) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [Unless you leave now](https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Unless you leave now](https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0) | 2:30 | 2022-04-15 |  |
@@ -568,6 +574,7 @@
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-15 |  |
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-04-15 | 2022-05-14 |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-15 |  |
+| [Wednesday, Weaving](https://open.spotify.com/track/6JT1GBWsCgfhjkkzGwQ5so) | [Izzy Flynn](https://open.spotify.com/artist/4nglHdB53vreDOUajpOuAd) | [Wednesday, Weaving](https://open.spotify.com/album/1PvlQzGpoL3eek5TmOvmyd) | 2:18 | 2023-02-27 |  |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2022-04-15 | 2022-05-14 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-04-15 | 2022-04-23 |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2022-04-22 |  |

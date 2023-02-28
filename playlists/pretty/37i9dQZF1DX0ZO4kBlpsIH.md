@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,690 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,965 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 31 | [Valse Therese](https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd) | [Mediterranean Café Society](https://open.spotify.com/artist/2fJ85pakgR26MQXGfE24gL) | [Mediterranean Café: Music of Italy, Greece and Spain](https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc) | 2:05 |
 | 32 | [Au Vieux Bal Musette](https://open.spotify.com/track/2XZaBz843U00YVkOJLHtGx) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Une Belle Histoire](https://open.spotify.com/album/5mPHOeyteMkcXXo8by5LGG) | 2:33 |
 | 33 | [La Fleur](https://open.spotify.com/track/2YLB1QeZuGJGqULHItxba5) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:36 |
-| 34 | [Reine de musette](https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp), [Marcel Azzola](https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg) | [Et ça tournait \- Anthologie de la chanson musette](https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs) | 2:32 |
+| 34 | [Reine de musette](https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez) | [Marcel Azzola](https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg) | [Et ça tournait \- Anthologie de la chanson musette](https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs) | 2:32 |
 | 35 | [Flambee Montalbanaise](https://open.spotify.com/track/7fPHlQGsVtfOyVU3hQnrYU) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Mystery Pacific](https://open.spotify.com/album/0ElHMJOjrO6zuCF076Eot2) | 3:12 |
 | 36 | [Indifference](https://open.spotify.com/track/4EPJFerjvNlm9wzrWraknR) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Le Disque Francais](https://open.spotify.com/album/0hZMUuPNGtV0c6gIBM2ThA) | 5:16 |
 | 37 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 |

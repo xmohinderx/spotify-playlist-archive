@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,376 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,453 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 12 | [pause \(almost equal to\) play](https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Pause \(almost equal to\) Play](https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW) | 4:45 |
 | 13 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
 | 14 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 |
-| 15 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 |
+| 15 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 |
 | 16 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
 | 17 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 18 | [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 |
 | 19 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
 | 20 | [Hypha](https://open.spotify.com/track/5d3vScntfWOniIlqiV02SC) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Hypha](https://open.spotify.com/album/6eGFbzsy7oouymykAURlpN) | 5:04 |
-| 21 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 |
+| 21 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 |
 | 22 | [Curtain Call](https://open.spotify.com/track/3CRbyVLEgfJHQsqmOmdGnv) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [takayama naoko](https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 4:55 |
 | 23 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
 | 24 | [Nobody knows](https://open.spotify.com/track/79qXqVsJ0aaYXeZ6QoeGjx) | [Akiyoshi Yasuda](https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW) | [memento \-day3](https://open.spotify.com/album/2XG3vM8CWIpKvY9ychR9ZA) | 3:37 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 41 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 | 42 | [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 |
 | 43 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 |
-| 44 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
-| 45 | [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 |
-| 46 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
-| 47 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
+| 44 | [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 |
+| 45 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
+| 46 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
+| 47 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
 | 48 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 | 49 | [Utano](https://open.spotify.com/track/0h7IkhjykGhsXardJtErat) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:15 |
-| 50 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 |
+| 50 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
 
-Snapshot ID: `MTY3NDc0NTIwMCwwMDAwMDAwMDQ3ZjYyODFhN2ViNzEyYWNmMjBlYmI3ZGRjN2RjNDY2`
+Snapshot ID: `MTY3NDc0NTIwMCwwMDAwMDAwMGYyYjg2YTE2MjQ1Mzc1YjM3YWIxYThkNTRmNjIzMzk3`

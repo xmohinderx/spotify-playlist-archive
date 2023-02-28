@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: John Legend",
-  "num_followers": 90867,
+  "num_followers": 90959,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1MjM2NCwwMDAwMDAwMGVhYWJkYTAzMzk1NTNjMDk3YWFmOTMwNWVjMDJmZDAz",
+  "snapshot_id": "MTY3NzI1MjM2NCwwMDAwMDAwMDBjYTlhZWNiMmMyMmE3ODFjMTRiNzE1NzQ4OGIzNDVk",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7AFlWfyhbBKQ93Y4wuNsqP"
     },
     {
-      "added_at": "2023-02-27 01:03:40",
+      "added_at": "2023-02-28 01:04:42",
       "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 254725,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 254725,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 206187,
-      "name": "As It Was - Spotify Singles",
-      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 228853,
       "name": "Cupid - Deluxe Edition Version",
       "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 206187,
+      "name": "As It Was - Spotify Singles",
+      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "glimpse of us",
         "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
+        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
       },
       "artists": [
         {
-          "name": "Lisa Mitchell",
-          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
         }
       ],
-      "duration_ms": 167094,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
+      "duration_ms": 124805,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "LOVE ALL COVER ALL",
+        "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "It's A Sin",
         "url": "https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "LOVE ALL COVER ALL",
-        "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "feel good inc. (feat. Mateus Asato)",
         "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
@@ -1659,22 +1643,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 208448,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "How Long Will I Love You",
         "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
       },
@@ -1687,6 +1655,22 @@
       "duration_ms": 140090,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 208448,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1743,22 +1727,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Where My Girls At",
-        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
-      },
-      "artists": [
-        {
-          "name": "VENUS",
-          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
-        }
-      ],
-      "duration_ms": 164526,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
@@ -1771,6 +1739,22 @@
       "duration_ms": 261977,
       "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Where My Girls At",
+        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
+      },
+      "artists": [
+        {
+          "name": "VENUS",
+          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
+        }
+      ],
+      "duration_ms": 164526,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1971,6 +1955,38 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -1983,6 +1999,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Covers by Cannons",
+        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 176508,
+      "name": "Golden - Originally Performed By Harry Styles",
+      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2027,54 +2059,6 @@
       "duration_ms": 289276,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "TROLLS Holiday In Harmony",
-        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Covers by Cannons",
-        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Golden - Originally Performed By Harry Styles",
-      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2283,6 +2267,22 @@
       "duration_ms": 217773,
       "name": "God Is A Woman - Yours Truly: 2018",
       "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
     },
     {
       "added_at": "2023-02-24 05:00:00",

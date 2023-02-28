@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 38 | [Luz del Mundo](https://open.spotify.com/track/4g62y55eG0bqSWmssbUAC2) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Andreas Moss](https://open.spotify.com/artist/2g6nfqSFo2cPVrafnW85jm) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 4:25 |
 | 39 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
 | 40 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
-| 41 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
-| 42 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
+| 41 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
+| 42 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 | 43 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
 | 44 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
 
-Snapshot ID: `Mjc5NTc2MDEsMDAwMDAwMDA4OTIwMDdiOTA2OGI1ZTU1M2JhNTA0ZGVjZmY3YzU3NA==`
+Snapshot ID: `Mjc5NTkwNDEsMDAwMDAwMDAwMWQ0OGY3NWFmMzhjMzBhZmNkMzE4MDJhYWZjZGYwYw==`

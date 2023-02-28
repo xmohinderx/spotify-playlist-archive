@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 61082,
+  "num_followers": 61169,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDBiNTBiNTE2YTc4MTA0ZWQ3MTQ1OWQ2MzEwNjQ2NTFh",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDVkNGU4NDc2ZjQxOWJmMDViZGMwMGY0Y2U0NzNmNWZm",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -399,6 +399,54 @@
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -423,22 +471,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "I.",
         "url": "https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT"
       },
@@ -455,22 +487,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Forrest Gump",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+      "duration_ms": 194840,
+      "name": "Forrest Gump",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/349XIp8EgHWJiIg5K0CUft"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 195986,
       "name": "Two Fingers",
       "url": "https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/349XIp8EgHWJiIg5K0CUft"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue Jeans - Remastered 2011",
+      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -935,38 +951,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue Jeans - Remastered 2011",
-      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
+        "name": "Mature Themes",
+        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
       "artists": [
         {
-          "name": "Youngblood Hawke",
-          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
         }
       ],
-      "duration_ms": 247506,
-      "name": "We Come Running",
-      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
+      "duration_ms": 287426,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Mature Themes",
-        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
       "artists": [
         {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          "name": "Youngblood Hawke",
+          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
         }
       ],
-      "duration_ms": 287426,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
+      "duration_ms": 247506,
+      "name": "We Come Running",
+      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Jezzabell Doran",
-          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Synthetica (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
       },
@@ -1443,6 +1423,22 @@
       "duration_ms": 236413,
       "name": "Breathing Underwater",
       "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Every Single Night",
+      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1463,18 +1459,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Jezzabell Doran",
+          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Every Single Night",
-      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
+      "duration_ms": 209376,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "lofticries",
+      "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Flume: Deluxe Edition",
         "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 219259,
       "name": "Funtimes in Babylon",
       "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Next Year",
-      "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
     }
   ],
   "unique_name": "Best of Indie 2012",

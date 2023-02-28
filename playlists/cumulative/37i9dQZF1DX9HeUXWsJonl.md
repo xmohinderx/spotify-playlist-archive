@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9HeUXWsJonl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9HeUXWsJonl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9HeUXWsJonl)
 
-### [Tunisia Sounds](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
+### [Hit Tounsi](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> The sweet sounds of Tunisia.
+> Écoute en boucle les hits tunisiens du moment.
 
-139 songs - 8 hr 38 min
+140 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Noum Elil](https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Rahal](https://open.spotify.com/album/3mif5AjUcXbVBQL3QLSP5Q) | 4:12 | 2022-10-23 |  |
 | [Nour Einya](https://open.spotify.com/track/4I2RsbFM6kjO0CrNsSG3CD) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Nour Einya](https://open.spotify.com/album/7olrz330h5TSKVwhjyP9BR) | 4:33 | 2021-12-10 | 2022-07-12 |
 | [Nseni](https://open.spotify.com/track/739EgkC4WjNGjdD2yfQb7X) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Nseni](https://open.spotify.com/album/1AsdnLVopB6qlFST8yzkkd) | 3:34 | 2022-11-26 | 2023-02-02 |
-| [Nsit](https://open.spotify.com/track/0hllEJMWmrUkJYhih8HFXU) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Nsit](https://open.spotify.com/album/5LVw0x40TTidYtwOiNy673) | 3:17 | 2022-12-22 |  |
+| [Nsit](https://open.spotify.com/track/0hllEJMWmrUkJYhih8HFXU) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Nsit](https://open.spotify.com/album/5LVw0x40TTidYtwOiNy673) | 3:17 | 2022-12-22 | 2023-02-28 |
 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 | 2022-09-12 | 2022-11-27 |
 | [Peace](https://open.spotify.com/track/4309E381wM4XchDUk4xgeg) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Peace](https://open.spotify.com/album/0gX0SYcp8QbxSIZNnRw3a4) | 4:00 | 2021-12-10 | 2022-07-12 |
 | [Rabi M3ak](https://open.spotify.com/track/1uxdCqmbqzC2SdjxElnx4A) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Rabi M3ak](https://open.spotify.com/album/34gcB07Z9ydYO7bfVMKKsN) | 3:36 | 2021-12-30 | 2022-05-27 |
@@ -123,6 +123,7 @@
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wa7di](https://open.spotify.com/track/1Kcd7hb4w18W1VVDLkt5Kn) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Wa7di](https://open.spotify.com/album/2CiqwTgfyqPgK7bmSfCK0i) | 3:06 | 2023-01-04 | 2023-01-14 |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 |  |
+| [Warda \- وردة](https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Warda \(وردة\)](https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl) | 4:29 | 2023-02-27 |  |
 | [Watani](https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Watani](https://open.spotify.com/album/1AnLeUdRBSPUey9nVMsJYU) | 1:56 | 2022-12-21 | 2023-02-02 |
 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 | 2022-02-28 | 2022-05-31 |
 | [Wliya](https://open.spotify.com/track/6sdYbJwPST9x0XZwQo76VU) | [Maya](https://open.spotify.com/artist/6O72cUuzCnRB78cBCAHmBa) | [Wliya](https://open.spotify.com/album/5d67N7Fi1C0G4SrsZBY8P8) | 3:20 | 2021-12-10 | 2022-01-25 |

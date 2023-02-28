@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Lizzy McAlpine",
-  "num_followers": 805308,
+  "num_followers": 805526,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGQ3NGNlNGEyZmI2MTEyYTdlZWQ2MTk4MDViN2I2YTBm",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDdiMWJjNDg2YWJmMGU1ZDc3MjIyMTFlMGYwMDU3MWM5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        },
+        {
+          "name": "Lostboycrow",
+          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "The Worth Of The Wait",
         "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 266999,
       "name": "letting go",
       "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        },
-        {
-          "name": "Lostboycrow",
-          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Better When We're Falling Apart",
-      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
       },
@@ -1431,22 +1415,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1463,18 +1431,34 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Break Me Open",
-        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Break Me Open",
-      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
+      "duration_ms": 186826,
+      "name": "Better When We're Falling Apart",
+      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 198600,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Break Me Open",
+        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Break Me Open",
+      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
     },
     {
       "added_at": "2023-02-17 05:00:00",

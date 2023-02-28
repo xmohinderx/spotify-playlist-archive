@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 120936,
+  "num_followers": 120976,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDU0ODg0ZGFiMjViYmVjOTZmM2NkNTYwNWRlZWZhZGRl",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMGJmOWZhM2IwM2NiYzY1YmRhMTdmZGQ5YWQ1YTU5Zjc5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -111,38 +111,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         },
         {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        }
-      ],
-      "duration_ms": 345766,
-      "name": "El Hijo del Altiplano",
-      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
+      "duration_ms": 254815,
+      "name": "Coraz\u00f3n de Rub\u00ed",
+      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -159,6 +143,26 @@
       "duration_ms": 315493,
       "name": "La Cosecha",
       "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -183,22 +187,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
         }
       ],
-      "duration_ms": 254815,
-      "name": "Coraz\u00f3n de Rub\u00ed",
-      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
+      "duration_ms": 345766,
+      "name": "El Hijo del Altiplano",
+      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Amor Ardiente (Bolivia y Su Folklore)",
-        "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
       "artists": [
         {
-          "name": "Maya Andina",
-          "url": "https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Tiwanacu",
-      "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -563,6 +547,22 @@
       "duration_ms": 235682,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Amor Ardiente (Bolivia y Su Folklore)",
+        "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
+      },
+      "artists": [
+        {
+          "name": "Maya Andina",
+          "url": "https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Tiwanacu",
+      "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Morena Esperanza (Remasterizado)",
+        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Isla Negra",
+      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Viento en los Andes",
         "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 218533,
       "name": "V\u00edrgenes del Sol",
       "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Tiempo Atr\u00e1s",
-        "url": "https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK"
-      },
-      "artists": [
-        {
-          "name": "Urdaneta",
-          "url": "https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB"
-        }
-      ],
-      "duration_ms": 225524,
-      "name": "Tiempo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD"
     }
   ],
   "unique_name": "Entre los Andes",

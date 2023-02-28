@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 70476,
+  "num_followers": 70551,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMGY4NDM5M2ViODYxODg3OTI1NTRhZTJhMzg4YTRkZWVl",
+  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMDA5MGNiYTVjZTgxYjY3YWZkODM3YTJlYTExYjI5YTdm",
   "tracks": [
     {
       "added_at": "2023-01-13 04:40:08",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Into The Wild (Music For The Motion Picture)",
-        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Ver\u00e3o",
         "url": "https://open.spotify.com/album/3POD3iBXKuBTdaEDncqj4q"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 215655,
       "name": "Ver\u00e3o",
       "url": "https://open.spotify.com/track/5rNcfma0PgkCMgJCbsdJEW"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -207,18 +191,18 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         }
       ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+      "duration_ms": 236306,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -235,6 +219,22 @@
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -411,42 +411,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Battle Studies",
-        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Trem-Bala",
         "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
@@ -475,6 +439,42 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Long Time Ago",
-        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
-      },
-      "artists": [
-        {
-          "name": "Current Swell",
-          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Long Time Ago",
-      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 224000,
       "name": "Era uma Vez",
       "url": "https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Long Time Ago",
+        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
+      },
+      "artists": [
+        {
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Long Time Ago",
+      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2023-01-13 04:40:08",

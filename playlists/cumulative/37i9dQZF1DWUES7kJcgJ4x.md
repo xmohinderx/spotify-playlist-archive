@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-75 songs - 3 hr 6 min
+76 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Tengo 17 Años](https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal \- Canciones De Juventud Los Años Prodigiosos De Una Artista Inolvidable 1962\- 1972](https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh) | 3:01 | 2021-01-18 | 2022-07-29 |
 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 | 2021-01-18 | 2022-07-29 |
 | [The "In" Crowd](https://open.spotify.com/track/6Azalk48Fr7Y8eTYpwCWGT) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50skGUFIdiXUcybL1VanVq) | 3:19 | 2021-01-18 | 2022-11-13 |
-| [The "In" Crowd](https://open.spotify.com/track/3ymNc1wfndQY0ZVVudSdTh) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [The Chess Story 1965\-1975](https://open.spotify.com/album/0ABa9KTBRl5kxBSkhitvRw) | 3:22 | 2021-01-18 |  |
+| [The "In" Crowd](https://open.spotify.com/track/3ymNc1wfndQY0ZVVudSdTh) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [The Chess Story 1965\-1975](https://open.spotify.com/album/0ABa9KTBRl5kxBSkhitvRw) | 3:22 | 2021-01-18 | 2023-02-28 |
+| [The "In" Crowd \- Live At Bohemian Caverns/1965](https://open.spotify.com/track/3W0TTX4l6LwUXhFEZX1Jc3) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu), [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [The In Crowd Anthology](https://open.spotify.com/album/30O2KS4YkHeJOWJZdQZsny) | 3:18 | 2021-01-18 |  |
 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 | 2021-01-18 |  |
 | [The Cat](https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Cat](https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs) | 3:24 | 2021-01-18 |  |
 | [The Cat](https://open.spotify.com/track/3accySZJEWnG4okxKazrFe) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Walk On The Wild Side: Best Of The Verve Years](https://open.spotify.com/album/3oRxz25doj2HKXUjoNO2ti) | 3:26 | 2021-01-18 | 2022-07-29 |

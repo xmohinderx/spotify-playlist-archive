@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 150336,
+  "num_followers": 150389,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDU3OGQxMWI1ZTYyZDM4NjZhZWM5MjJkMTBkYmE3Mzdl",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGQ5NTM2MDU4N2ZmMmExN2MzNmJkYjVkYTc1MGY4NWQ2",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -189,38 +189,6 @@
       "url": "https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Alabama (Live)",
-        "url": "https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 206671,
-      "name": "Alabama - Live",
-      "url": "https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live - Attack Of The Killer V",
-        "url": "https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "Camp Washington Chile/If You Have To Know",
-      "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Blues From The Heart Live (Live)",
@@ -241,6 +209,22 @@
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Alabama (Live)",
+        "url": "https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 206671,
+      "name": "Alabama - Live",
+      "url": "https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ"
+    },
+    {
       "added_at": "2023-02-03 05:01:00",
       "album": {
         "name": "The Loyal Kind (Live)",
@@ -255,6 +239,22 @@
       "duration_ms": 394106,
       "name": "The Loyal Kind (Live)",
       "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live - Attack Of The Killer V",
+        "url": "https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "Camp Washington Chile/If You Have To Know",
+      "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 345270,
+      "name": "Let The Good Times Roll (Live)",
+      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Front And Center: Live From New York",
         "url": "https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8"
       },
@@ -387,24 +403,8 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 345270,
-      "name": "Let The Good Times Roll (Live)",
-      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live North America 2016",
-        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+        "name": "Gary Clark Jr. Live",
+        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 338226,
-      "name": "The Healing - Live",
-      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
+      "duration_ms": 369800,
+      "name": "Things Are Changin' - Live",
+      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -465,20 +465,20 @@
       "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
     },
     {
-      "added_at": "2022-02-04 17:00:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+        "name": "Naturally Live",
+        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
         }
       ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+      "duration_ms": 308093,
+      "name": "One of These Days - Live",
+      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -499,38 +499,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Gary Clark Jr. Live",
-        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 369800,
-      "name": "Things Are Changin' - Live",
-      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Naturally Live",
-        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
-      },
-      "artists": [
-        {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "One of These Days - Live",
-      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Touch My Blues Away",
         "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
       },
@@ -543,6 +511,38 @@
       "duration_ms": 544640,
       "name": "Touch My Blues Away - Live",
       "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live North America 2016",
+        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
+    },
+    {
+      "added_at": "2022-02-04 17:00:00",
+      "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -609,42 +609,6 @@
       "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Layla Revisited (Live at LOCKN')",
-        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        },
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 413617,
-      "name": "Little Wing - Live at LOCKN' / 2019",
-      "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Songs from the Road",
-        "url": "https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 437358,
-      "name": "Judgment Day",
-      "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
-    },
-    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Backstage Pass (Live)",
@@ -675,6 +639,26 @@
       "duration_ms": 218026,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 413617,
+      "name": "Little Wing - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Songs from the Road",
+        "url": "https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 437358,
+      "name": "Judgment Day",
+      "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
         "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 528120,
       "name": "Broke Down On The Brazos - Live",
       "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The Reformation",
-        "url": "https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9"
-      },
-      "artists": [
-        {
-          "name": "Jo Harman",
-          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
-        }
-      ],
-      "duration_ms": 215478,
-      "name": "The Reformation - Live in Camden",
-      "url": "https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -775,6 +759,38 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Woman Like You - Live",
+      "url": "https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Reformation",
+        "url": "https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "duration_ms": 215478,
+      "name": "The Reformation - Live in Camden",
+      "url": "https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Big, Bad and Beautiful (Live)",
         "url": "https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
-      },
-      "artists": [
-        {
-          "name": "Dave Fields",
-          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
-        }
-      ],
-      "duration_ms": 497133,
-      "name": "Pocket Full of Dust (Live)",
-      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live In Tallahassee",
         "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Straight To You: Live",
-        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Dave Fields",
+          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Woman Like You - Live",
-      "url": "https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8"
+      "duration_ms": 497133,
+      "name": "Pocket Full of Dust (Live)",
+      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live-Spontaneous Combustion",
-        "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "Crying For My Baby",
-      "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "I Didn't Know (Live)",
         "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 198040,
       "name": "I Didn't Know - Live",
       "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live-Spontaneous Combustion",
+        "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "Crying For My Baby",
+      "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
     },
     {
       "added_at": "2020-10-30 17:47:12",

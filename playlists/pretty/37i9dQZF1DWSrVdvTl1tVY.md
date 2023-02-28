@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,992 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,078 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

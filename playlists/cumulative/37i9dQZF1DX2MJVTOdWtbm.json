@@ -1082,6 +1082,24 @@
     {
       "album": {
         "name": "Del Amor Al Odio",
+        "url": "https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196231,
+      "name": "Del Amor Al Odio",
+      "url": "https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv"
+    },
+    {
+      "album": {
+        "name": "Del Amor Al Odio",
         "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
       },
       "artists": [
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 191706,
       "name": "Ninf\u00f3manos",
       "url": "https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA"

@@ -4,11 +4,11 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-285 songs - 20 hr 48 min
+286 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.oOo.](https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5) | 3:47 | 2022-06-29 |  |
+| [.oOo.](https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5) | 3:47 | 2022-06-29 | 2023-02-28 |
 | [.oOo.](https://open.spotify.com/track/7vrUHvt40IKya566MZIQol) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/3H9E1flzXB693dYwZvuBwT) | 3:47 | 2021-12-17 | 2022-07-29 |
 | [22](https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-05-25 | 2022-11-13 |
 | [22 \- Var.](https://open.spotify.com/track/4kYbo2VRkqIwF9joXPDAuH) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-06-01 | 2022-10-08 |
@@ -263,6 +263,7 @@
 | [Two Poets](https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 2:04 | 2021-12-17 | 2022-12-04 |
 | [Ubemærket](https://open.spotify.com/track/4Iw7LPiN881xC4OwwfRgnI) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Over Tage](https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777) | 3:03 | 2022-11-13 | 2023-02-27 |
 | [Under Weather](https://open.spotify.com/track/2gWNngto6gqaqRZNz3RRTr) | [Emanuele Maniscalco](https://open.spotify.com/artist/5CHF5PlrmG7StHgJJQQybc), [Francesco Bigoni](https://open.spotify.com/artist/55K44GqqmuYVZw74qYQ6Lf), [Mark Solborg](https://open.spotify.com/artist/6BdujUxIX59LeXFgSkgalm) | [Under Weather](https://open.spotify.com/album/1tgb5kFylPN41r6OiBrON8) | 4:56 | 2022-05-19 | 2022-08-18 |
+| [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-02-23 |  |
 | [V\. remembering before all this](https://open.spotify.com/track/2Djdr6SndwgHqOXHVeJmCu) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Suite: April 2020](https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4) | 3:39 | 2021-12-17 | 2022-11-11 |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-11 |  |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-17 | 2022-07-29 |

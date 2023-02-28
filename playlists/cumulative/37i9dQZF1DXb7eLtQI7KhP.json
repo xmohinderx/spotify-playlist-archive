@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Woman's Face",
+        "url": "https://open.spotify.com/album/1q7noc74LWWgNOuec0VCwY"
+      },
+      "artists": [
+        {
+          "name": "Laurence Ipsum",
+          "url": "https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198590,
+      "name": "A Woman's Face",
+      "url": "https://open.spotify.com/track/6IE0kjcdYzlkEci7ZPz4Oj"
+    },
+    {
+      "album": {
         "name": "Ad meliora",
         "url": "https://open.spotify.com/album/3emuKVt1QulrnDlZ9FjrBh"
       },
@@ -380,6 +398,24 @@
       "duration_ms": 169500,
       "name": "Capturing Wind",
       "url": "https://open.spotify.com/track/4RlCmuxG0KterqlcPwFlbH"
+    },
+    {
+      "album": {
+        "name": "Ciel \u00c9merveill\u00e9",
+        "url": "https://open.spotify.com/album/6V32voIY6xE3NxZ3YxN0c3"
+      },
+      "artists": [
+        {
+          "name": "Adeline Verver",
+          "url": "https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "Ciel \u00c9merveill\u00e9",
+      "url": "https://open.spotify.com/track/0kZT7fviP2mtbOQ9dd43sd"
     },
     {
       "album": {

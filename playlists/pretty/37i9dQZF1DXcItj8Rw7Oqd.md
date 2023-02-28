@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: Eyelar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,404 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,408 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

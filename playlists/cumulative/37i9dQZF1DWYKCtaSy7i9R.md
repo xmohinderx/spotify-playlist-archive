@@ -2,7 +2,7 @@
 
 ### [Early Birds](https://open.spotify.com/playlist/37i9dQZF1DWYKCtaSy7i9R)
 
-> Quiet mornings, wake up early and take a moment with nature for a positive start of your day.
+> Quiet mornings, wake up early with spring and summer birds\. <br/>Take a moment with nature for a positive start of your day.
 
 38 songs - 1 hr 36 min
 

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 134144,
+  "num_followers": 134167,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDgxMTZmYTM3NDkzMDAwNTA3YTRjNzM1ZWRhNjQyOWVh",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDNkNzM4NDFjY2UxNzkyYTk4ZjY4MWEzZDBhNTI2NjZj",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -439,34 +439,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "The Last Goodbye (feat. Bettye LaVette)",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -521,26 +493,6 @@
       "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
-      "added_at": "2023-01-07 03:41:31",
-      "album": {
-        "name": "Malec\u00f3n",
-        "url": "https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT"
-      },
-      "artists": [
-        {
-          "name": "velum!",
-          "url": "https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z"
-        },
-        {
-          "name": "flxbabu",
-          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Malec\u00f3n",
-      "url": "https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh"
-    },
-    {
       "added_at": "2022-10-12 15:43:07",
       "album": {
         "name": "Ritual",
@@ -563,6 +515,54 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "added_at": "2023-01-07 03:41:31",
+      "album": {
+        "name": "Malec\u00f3n",
+        "url": "https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT"
+      },
+      "artists": [
+        {
+          "name": "velum!",
+          "url": "https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z"
+        },
+        {
+          "name": "flxbabu",
+          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Malec\u00f3n",
+      "url": "https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+      },
+      "artists": [
+        {
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Nieve",
         "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 140440,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -715,38 +747,6 @@
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
-      },
-      "artists": [
-        {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
-      },
-      "artists": [
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -775,18 +775,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
       },
       "artists": [
         {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         }
       ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "New Rave",
-        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
         }
       ],
-      "duration_ms": 208095,
-      "name": "Kill Me Slow",
-      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 170564,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 170564,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2022-10-12 15:43:07",

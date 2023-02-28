@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 116511,
+  "num_followers": 116696,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMGYxNTBiMTFlMmUzM2FjMTBmZTk5ZTRiMTNmMmFiNjcw",
+  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDIzMTE1ODU0OTMyZjc0MmJjODA5OTMzYTcwY2M2MGVh",
   "tracks": [
     {
       "added_at": "2023-02-13 08:33:30",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2023-02-27 01:37:41",
+      "added_at": "2023-02-28 00:36:14",
       "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Schlagschatten",
         "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
       },
@@ -375,6 +359,38 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 206108,
       "name": "Liebe zu dritt",
       "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Nur ein bisschen",
         "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 161956,
       "name": "Nur ein bisschen",
       "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2023-02-13 08:33:30",

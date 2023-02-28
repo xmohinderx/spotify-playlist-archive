@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5690,
+  "num_followers": 5695,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjY1OCwyNzM4YTEwY2MzNTllN2MzYTIzYTFlMGY2OGE5MjkyMjhjMzc2OTRl",
+  "snapshot_id": "NjY2MCxiNDk4MzdkNGY0MDBjMjgyYjFlNmExMGI0MjYzYjFiYzNkOTgwMzc1",
   "tracks": [
     {
       "added_at": "2023-02-24 08:29:23",
@@ -347,6 +347,50 @@
       "duration_ms": 213750,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ"
+    },
+    {
+      "added_at": "2023-02-27 15:50:55",
+      "album": {
+        "name": "Express Delivery",
+        "url": "https://open.spotify.com/album/3gKQpIVHIrq6HeXWJsNCv5"
+      },
+      "artists": [
+        {
+          "name": "SPATE",
+          "url": "https://open.spotify.com/artist/3FKWuXMuMnljaASBbDMSF2"
+        },
+        {
+          "name": "SPOT",
+          "url": "https://open.spotify.com/artist/4oUuI0KrlNvEffpsBNijBA"
+        },
+        {
+          "name": "Nate",
+          "url": "https://open.spotify.com/artist/6AVXSp8896HnYbvjfbpU2g"
+        }
+      ],
+      "duration_ms": 178208,
+      "name": "Express Delivery",
+      "url": "https://open.spotify.com/track/73P8gEhqdbd6IlwZGryH0M"
+    },
+    {
+      "added_at": "2023-02-27 15:51:46",
+      "album": {
+        "name": "Ey Man",
+        "url": "https://open.spotify.com/album/6vpuzz3D8VSK8OGkGVx6uI"
+      },
+      "artists": [
+        {
+          "name": "22 Weeks",
+          "url": "https://open.spotify.com/artist/0BJ5zPFfbkXmWdzJ5b7A40"
+        },
+        {
+          "name": "Fabian Haneke",
+          "url": "https://open.spotify.com/artist/7qJBONb8PZE3NfHbxJDzth"
+        }
+      ],
+      "duration_ms": 236692,
+      "name": "Ey Man",
+      "url": "https://open.spotify.com/track/1NKtLoNDn3tjLK09jxZtmA"
     }
   ],
   "unique_name": "House Shift",

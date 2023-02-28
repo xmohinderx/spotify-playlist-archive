@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-166 songs - 9 hr 49 min
+167 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Special Christmas \(feat\. Scootie Wop\) \- Remix](https://open.spotify.com/track/28xEWnnfyn7cA99h6VI822) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Lucky Luciano](https://open.spotify.com/artist/2v4JjFwbhEkHnXQdMPpyon), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [A Special Christmas \(feat\. Scootie Wop\) \[Remix\]](https://open.spotify.com/album/61U19oGqLkTKAJj6KUgw7A) | 2:03 | 2022-11-26 |  |
 | [All I Need For Christmas](https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [All I Need For Christmas](https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU) | 3:01 | 2021-12-24 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/1xixLkAu4Q7fo7MGlxOp8B) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [All I Want for Christmas Is You](https://open.spotify.com/album/3uO3DabVkqTyf5fwlKobt1) | 3:11 | 2021-12-24 |  |
+| [All Things New \- Reimagined](https://open.spotify.com/track/7qrTWsRVx2ePwTpgZwnPbH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [All Things New \(Reimagined\)](https://open.spotify.com/album/7ywhX9qqyfDb9ZUBx8JmoX) | 4:49 | 2022-12-11 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-24 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 | 2021-12-24 |  |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 |  |
@@ -59,7 +60,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2022-12-11 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 | 2022-12-11 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 | 2022-12-11 | 2023-02-28 |
 | [Heart and Soul of Christmas](https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Heart and Soul of Christmas](https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q) | 3:36 | 2021-12-24 |  |
 | [Heavenly Hosts](https://open.spotify.com/track/73qkqix6nJuYUZQ44raWXs) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:29 | 2021-12-24 | 2022-12-12 |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 | 2021-12-24 |  |

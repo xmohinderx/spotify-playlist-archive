@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMGUwMWZlZmMyNTk0OGY4NjM4ZjgyNDBhNzM3Mjk5ZDll",
+  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDI3YWY1NjEyNTNhODEwYWFiM2I4MDQ4Yzc4MTE3MGE5",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "End",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 64626,
       "name": "Superstar - Interlude",
       "url": "https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "End",
+      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 76280,
-      "name": "I Wanna Be Where You Are",
-      "url": "https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 51266,
       "name": "Hey Sugah - Interlude",
       "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 76280,
+      "name": "I Wanna Be Where You Are",
+      "url": "https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 64733,
-      "name": "You Loving Me (Session)",
-      "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
+      "duration_ms": 120933,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 120933,
-      "name": "Never Felt This Way",
-      "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
+      "duration_ms": 64733,
+      "name": "You Loving Me (Session)",
+      "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -563,38 +563,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Frank (US Clean e-Version)",
-        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 39026,
-      "name": "Teo Licks",
-      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -611,6 +579,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 55360,
       "name": "I Dedicate (Pt. 2)",
       "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Frank (US Clean e-Version)",
+        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 39026,
+      "name": "Teo Licks",
+      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Can I Get a Witness-Interlude",
-      "url": "https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 110466,
       "name": "Maxine's Interlude",
       "url": "https://open.spotify.com/track/14gPCmJHuXrgGiytQGnv3Q"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Can I Get a Witness-Interlude",
+      "url": "https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 89066,
-      "name": "I Dedicate (Pt. 1)",
-      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 75466,
       "name": "My Life Interlude",
       "url": "https://open.spotify.com/track/0TOcyKzpOfxMhO7qVDrJZt"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 89066,
+      "name": "I Dedicate (Pt. 1)",
+      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Room 112",
-        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 70733,
-      "name": "Anywhere (Interlude)",
-      "url": "https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "The Show, The After Party, The Hotel",
         "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Room 112",
+        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 70733,
+      "name": "Anywhere (Interlude)",
+      "url": "https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 162866,
       "name": "Smoke (Interlude) (feat. Soko)",
       "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 70386,
       "name": "Definition of a Bad Girl (Interlude)",
       "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 39600,
-      "name": "J.L (Interlude)",
-      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 39600,
+      "name": "J.L (Interlude)",
+      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Miss Thang",
         "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 97240,
       "name": "Woman In Me - Interlude",
       "url": "https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 61093,
+      "name": "Special Place - Interlude",
+      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 61093,
-      "name": "Special Place - Interlude",
-      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 130026,
       "name": "C'mere - Skit",
       "url": "https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 158030,
+      "name": "There Will Be No Fuck Tonight (Interlude)",
+      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 158030,
-      "name": "There Will Be No Fuck Tonight (Interlude)",
-      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+      "duration_ms": 81133,
+      "name": "Ghetto (Interlude)",
+      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1211,22 +1227,6 @@
       "duration_ms": 27146,
       "name": "20 - Pt. 2 / Interlude",
       "url": "https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 81133,
-      "name": "Ghetto (Interlude)",
-      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2022-12-03 05:29:16",

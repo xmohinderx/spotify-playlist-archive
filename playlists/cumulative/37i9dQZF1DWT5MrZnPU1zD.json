@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA"
+    },
+    {
+      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa"
       },
@@ -11292,7 +11310,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 225350,
       "name": "Talk To Me Nice (Feat. Meek Mill, Moneybagg Yo & Blxst)",
       "url": "https://open.spotify.com/track/1FayZGI8Bm3R0sKWNsm1gV"

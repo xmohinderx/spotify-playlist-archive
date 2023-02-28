@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Et \u00e7a tournait - Anthologie de la chanson musette",
+        "url": "https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs"
+      },
+      "artists": [
+        {
+          "name": "Marcel Azzola",
+          "url": "https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Reine de musette",
+      "url": "https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez"
+    },
+    {
+      "album": {
         "name": "French Musette Accordion",
         "url": "https://open.spotify.com/album/0GZdyMvkWYIxVE9SrfbbhL"
       },
@@ -1394,28 +1412,6 @@
       "duration_ms": 148093,
       "name": "Reine De Musette",
       "url": "https://open.spotify.com/track/1i41OjKkEKVL0VHHNMDJUD"
-    },
-    {
-      "album": {
-        "name": "Et \u00e7a tournait - Anthologie de la chanson musette",
-        "url": "https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs"
-      },
-      "artists": [
-        {
-          "name": "Mouloudji",
-          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
-        },
-        {
-          "name": "Marcel Azzola",
-          "url": "https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg"
-        }
-      ],
-      "date_added": "2022-02-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152200,
-      "name": "Reine de musette",
-      "url": "https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez"
     },
     {
       "album": {

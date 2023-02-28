@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-485 songs - 1 day 22 hr 4 min
+486 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2023-02-15 |
 | [11 5 18 2 5 18](https://open.spotify.com/track/6z4gkvnKeiOOjKG6ZN0Zyn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/4RN4j6MUCjqIIBW5gpWqpy) | 11:39 | 2022-04-14 | 2022-07-21 |
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-06 | 2022-07-22 |
-| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-20 |  |
+| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-20 | 2023-02-28 |
 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 | 2022-08-03 | 2022-08-24 |
 | [34\-46](https://open.spotify.com/track/5Utgg5uI7sMaYNcw6rLt1x) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [34\-46](https://open.spotify.com/album/2BNq4qGhepJGroEyfTIJBU) | 4:01 | 2022-02-18 | 2022-07-28 |
 | [A Cat](https://open.spotify.com/track/28SyjgSjrXkge8GBgWxRTd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:37 | 2022-03-30 | 2022-07-29 |
@@ -179,6 +179,7 @@
 | [For Marmish](https://open.spotify.com/track/12NAOnJ8gM8iUPO2XX4R6a) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/0SDLAAGQmK8DWxkX0s9OGE) | 5:46 | 2021-10-06 | 2022-04-10 |
 | [For Marmish Part II](https://open.spotify.com/track/321dQHZJkZh7zQnzdjOawA) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Kuiper](https://open.spotify.com/album/5ARp6wWDvD7bVMrZOv52gA) | 14:04 | 2021-10-06 | 2022-05-29 |
 | [Fragile](https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile](https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X) | 4:08 | 2022-02-18 | 2022-07-29 |
+| [Francis K.](https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP) | [A\. M.](https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa) | [Origen](https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8) | 5:13 | 2023-02-28 |  |
 | [From Sky to Sea](https://open.spotify.com/track/0I6PkVKkHnS1WtAo53A13M) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [From Sky to Sea](https://open.spotify.com/album/5goaFuqvW2KpRFrO05n6nc) | 6:56 | 2022-03-30 | 2022-07-27 |
 | [Fur & Feather](https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Fur & Feather](https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr) | 3:04 | 2022-03-30 | 2022-07-28 |
 | [G303](https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw) | [Jacek Sienkiewicz](https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu) | [Krasz](https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH) | 4:51 | 2022-01-12 | 2022-05-21 |

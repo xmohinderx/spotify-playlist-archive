@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-189 songs - 10 hr 19 min
+190 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-13 | 2023-02-21 |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-13 | 2023-02-21 |
 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 | 2022-07-25 |  |
-| [S.O.L\. \- Alan Braxe Edit](https://open.spotify.com/track/23khvloxhvpdmMoNJb22vn) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [S.O.L\. \(Alan Braxe Edit\)](https://open.spotify.com/album/6bmSyg9ZxQE038UAwIULxK) | 3:47 | 2023-02-21 |  |
+| [S.O.L\. \- Alan Braxe Edit](https://open.spotify.com/track/23khvloxhvpdmMoNJb22vn) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [S.O.L\. \(Alan Braxe Edit\)](https://open.spotify.com/album/6bmSyg9ZxQE038UAwIULxK) | 3:47 | 2023-02-21 | 2023-02-28 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-07-25 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-07-25 |  |
 | [Scenery](https://open.spotify.com/track/2BKvuUNunH9q9UoQhaDLmJ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Scenery](https://open.spotify.com/album/2mEDVox5VIgw7y7KaqPSxy) | 3:42 | 2022-06-06 | 2022-07-29 |
@@ -184,6 +184,7 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-29 | 2022-12-06 |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-16 | 2023-01-24 |
 | [Turn It Into Love](https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [Turn It Into Love](https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v) | 3:56 | 2022-06-06 | 2022-07-29 |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-27 |  |
 | [TY \(for ruining my life\)](https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [TY \(for ruining my life\)](https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ) | 2:10 | 2023-02-01 | 2023-02-07 |
 | [U & I](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-03 | 2022-10-11 |
 | [Under the Sea feat\. Max Jenmana](https://open.spotify.com/track/4YVcZ2a0bA6wwvalSynEKK) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx) | [Under the Sea feat\. Max Jenmana](https://open.spotify.com/album/5wVWGLXpuJ7JcNARUzSsLt) | 4:02 | 2022-06-06 | 2022-06-13 |

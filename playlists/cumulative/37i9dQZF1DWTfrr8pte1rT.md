@@ -4,11 +4,12 @@
 
 > Rock with a Drop Cover: Of Mice & Men \\m/
 
-280 songs - 16 hr 9 min
+281 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 Minutes \(feat\. Travis Barker\) \- Kayzo Remix](https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [11 Minutes \(feat\. Travis Barker\) \[Kayzo Remix\]](https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u) | 4:17 | 2021-12-10 |  |
+| [Against The Tide](https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Against The Tide](https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT) | 3:29 | 2023-02-27 |  |
 | [Alive](https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Alive](https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9) | 4:12 | 2022-07-22 |  |
 | [Alive](https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Alive](https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u) | 3:40 | 2022-06-10 | 2023-01-11 |
 | [All In My Head \(feat\. grandson\)](https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:28 | 2021-12-10 | 2022-11-12 |
@@ -125,7 +126,7 @@
 | [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 | 2023-01-30 |  |
 | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps) | 3:49 | 2022-05-06 | 2023-02-10 |
 | [Hearteater](https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [Hearteater](https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa) | 3:37 | 2022-03-04 |  |
-| [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Hot Laundry](https://open.spotify.com/artist/0WzKbQgJdy366oUDAToP2x), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-05 |  |
+| [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Hot Laundry](https://open.spotify.com/artist/0WzKbQgJdy366oUDAToP2x), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-05 | 2023-02-28 |
 | [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-06-24 | 2022-11-12 |
 | [High](https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:55 | 2022-06-24 | 2022-08-17 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-07-29 |

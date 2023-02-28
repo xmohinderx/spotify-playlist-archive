@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-844 songs - 2 day 2 hr 7 min
+845 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Cool Again](https://open.spotify.com/track/7tDqtZnEQcgAE92mEMtgnF) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again](https://open.spotify.com/album/0gWTwy5h4m4G851BIQKg37) | 3:11 | 2022-03-24 | 2022-04-21 |
 | [cowboy in LA](https://open.spotify.com/track/0E6uWutxRjIDhleURR92do) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [cowboy in LA](https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5) | 3:33 | 2021-12-21 | 2022-07-29 |
 | [cowboy in LA](https://open.spotify.com/track/22ZcJxQkzIL6EU692kAFWY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:33 | 2022-07-08 |  |
-| [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 | 2023-02-25 |  |
+| [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 | 2023-02-24 |  |
 | [Crazier](https://open.spotify.com/track/1KUZUkyEGDvWxT4l1D9gGF) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/6VA0F9GSo9tASAQtUQkLmZ) | 3:53 | 2022-03-18 | 2022-03-31 |
 | [creature](https://open.spotify.com/track/0Nz79GjrAkkyAT6wVSveoP) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [creature](https://open.spotify.com/album/3XtPUYjQaj4tccKqLRmVdN) | 3:00 | 2022-03-24 | 2022-07-16 |
 | [Crowded Places](https://open.spotify.com/track/4SlGszCL8Kxamm9ngmA1tJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/3c9a69AoTI5cJJOMJBSucs) | 4:22 | 2022-03-24 | 2022-04-20 |
@@ -208,7 +208,7 @@
 | [Feathers & Gasoline](https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Soulprints](https://open.spotify.com/album/0qovTAXnJUCwDspFQfT5k1) | 3:57 | 2021-12-21 |  |
 | [Feel About You](https://open.spotify.com/track/4TtuBJndJBA7cEq8ZmFY1t) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [Feel About You](https://open.spotify.com/album/3SrY29FmKk8C2Z9W3gAsPf) | 3:20 | 2022-03-24 | 2022-07-29 |
 | [Feel About You](https://open.spotify.com/track/6AC3iPxo3akgoxAyb6PBOU) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [Feel About You](https://open.spotify.com/album/4TWyibHclHUOEsGqTQxgSh) | 3:20 | 2022-11-11 | 2022-11-13 |
-| [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 | 2021-12-21 |  |
+| [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 | 2021-12-21 | 2023-02-28 |
 | [Fight For You](https://open.spotify.com/track/39b57sOdT2Rq8dV73tXLnQ) | [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Fight For You](https://open.spotify.com/album/34FWkEPkGoKb2cSPef1nmF) | 3:05 | 2022-01-07 | 2022-06-08 |
 | [Fight For You](https://open.spotify.com/track/3YGTxLdUcOk5upQGt7iYC4) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:05 | 2022-07-08 | 2022-08-23 |
 | [Fight Song \- Acoustic version](https://open.spotify.com/track/4UaxxZPHAlBEwtI0roFdSG) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/25kZ8tRCpxb2g3QcskOMOa) | 4:02 | 2022-07-08 | 2022-10-18 |
@@ -303,7 +303,7 @@
 | [Hey Stranger](https://open.spotify.com/track/45tEJcu0I1GRXVwxpKeAS0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Hey Stranger](https://open.spotify.com/album/7uscnjqzWKaJhjXMQ9Gyao) | 3:27 | 2022-03-24 | 2022-04-21 |
 | [hidden springs](https://open.spotify.com/track/0Xb28zH7wukuHkHVPYm5mV) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [femme florale](https://open.spotify.com/album/2EyR9WKaYKtccaYJjH56Lt) | 3:26 | 2021-12-21 |  |
 | [Hideout](https://open.spotify.com/track/2cVKk3oYDdQNC9Jon2INP2) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [Hideout](https://open.spotify.com/album/3pTDYfSMqFO3ubiv5BwzvA) | 2:57 | 2022-03-24 | 2022-04-20 |
-| [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-26 |  |
+| [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-24 |  |
 | [High School](https://open.spotify.com/track/6lMSPe1s87AMLpulkYXQZv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [High School](https://open.spotify.com/album/5vLQPxkoNqwtVQTvZQMPwe) | 3:24 | 2022-03-24 | 2022-11-13 |
 | [Highest Grace](https://open.spotify.com/track/1GSTdtc4p77KScGJxDHkG9) | [Selma & Gustaf](https://open.spotify.com/artist/0tUfqypVbl1m19xo9T9yUL), [The Unmarried Queen](https://open.spotify.com/artist/5kT8jMovuiNohuRVboX9yY) | [Stories Of](https://open.spotify.com/album/1LajD4yGDf5O2gFBkIN9EY) | 4:08 | 2022-03-24 | 2022-04-21 |
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2021-12-21 |  |
@@ -689,6 +689,7 @@
 | [Sweetest](https://open.spotify.com/track/3Snf8Buxh8y6OispoLMF34) | [MIMI](https://open.spotify.com/artist/4GCwfakdZdo3KkBNtzU5vn) | [Sweetest](https://open.spotify.com/album/0ItBPvtQ10kFmt1T8JFqrM) | 3:43 | 2021-12-21 | 2022-07-29 |
 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 | 2021-12-21 |  |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-05-22 |
+| [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-02-27 |  |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-08-05 | 2022-08-13 |
 | [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 | 2022-08-12 |  |
 | [Tear Me Down](https://open.spotify.com/track/6hiv5wOQch8yn5VFW6hD8Z) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [What Good Is Love \(Acoustic\)](https://open.spotify.com/album/6nSgEmUzkS90nKOLEI89Rh) | 2:57 | 2022-01-07 | 2022-07-28 |

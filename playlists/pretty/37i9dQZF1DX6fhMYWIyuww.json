@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 106484,
+  "num_followers": 106624,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGZiMmFkNTJhYThiMWNmMmQ1MTdhMWE1NWM1N2EzNDc0",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGE2YzUxOWQzM2Q1MWJkZmJlNGQ3MjY3YmRmZTcwZTQ0",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -207,38 +207,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "When You're In Love With A Beautiful Woman",
-      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 210760,
       "name": "Movin' Out (Anthony's Song)",
       "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -271,6 +255,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "When You're In Love With A Beautiful Woman",
+      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 271093,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "View From The Ground",
+        "url": "https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "You Can Do Magic",
+      "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -315,22 +331,6 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "View From The Ground",
-        "url": "https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "You Can Do Magic",
-      "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -397,38 +397,6 @@
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "You Can Tune a Piano, But You Can't Tuna Fish",
-        "url": "https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Time for Me to Fly",
-      "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
-    },
-    {
       "added_at": "2022-06-29 18:13:00",
       "album": {
         "name": "Gaucho",
@@ -443,6 +411,22 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "You Can Tune a Piano, But You Can't Tuna Fish",
+        "url": "https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Time for Me to Fly",
+      "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -507,6 +491,22 @@
       "duration_ms": 223520,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "High Adventure",
         "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
@@ -795,22 +779,6 @@
       "duration_ms": 322333,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
     },
     {
       "added_at": "2022-03-31 19:29:02",
@@ -831,6 +799,38 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Another Page",
         "url": "https://open.spotify.com/album/4NiGOhxV6wViotkZKDv17G"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 259532,
       "name": "All Right",
       "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -943,8 +927,8 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
       },
       "artists": [
         {
@@ -952,9 +936,9 @@
           "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1103,8 +1087,8 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
       },
       "artists": [
         {
@@ -1112,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 263466,
-      "name": "Trying To Reason With Hurricane Season",
-      "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "All Dressed Up",
-        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
-      },
-      "artists": [
-        {
-          "name": "David Roberts",
-          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "Boys of Autumn",
-      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Dane Donohue",
         "url": "https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx"
       },
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "All Dressed Up",
+        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
+      },
+      "artists": [
+        {
+          "name": "David Roberts",
+          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "Boys of Autumn",
+      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Shadow Dancing",
         "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Trying To Reason With Hurricane Season",
+      "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
     },
     {
       "added_at": "2022-03-31 19:29:02",

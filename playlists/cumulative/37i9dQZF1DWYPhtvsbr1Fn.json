@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
+    },
+    {
+      "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
       },

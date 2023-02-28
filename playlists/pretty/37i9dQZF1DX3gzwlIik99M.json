@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210126,
+  "num_followers": 210161,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDI3YzY3MDY4NmI3MGMxNDI5YTI2ZDA5YzU2ZTViMDI3",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDVjMWU1NzcwNmM1ZGRhMmE0ZThhZmE0ZDM1ZGQ1OGUx",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Hijo de Puta",
         "url": "https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 234666,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Madera Prohibida",
         "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 267746,
       "name": "R\u00edo Extra\u00f1o",
       "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Venas De Acero",
-        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
-      },
-      "artists": [
-        {
-          "name": "Tren Loco",
-          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Pueblo Motoquero",
-      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Lleva Tu Mente al Limite",
         "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 189053,
       "name": "En la Eternidad",
       "url": "https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Venas De Acero",
+        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
+      },
+      "artists": [
+        {
+          "name": "Tren Loco",
+          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "Pueblo Motoquero",
+      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
-      },
-      "artists": [
-        {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+      },
+      "artists": [
+        {
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Carnage Drinking Party",
-        "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
-      },
-      "artists": [
-        {
-          "name": "Gore and Carnage",
-          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Poseido Por Mezcal",
-      "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Los Cantipuercos",
         "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 180693,
       "name": "La Caperuputa y el Lobo Culi\u00f3n",
       "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Carnage Drinking Party",
+        "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
+      },
+      "artists": [
+        {
+          "name": "Gore and Carnage",
+          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Poseido Por Mezcal",
+      "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
     }
   ],
   "unique_name": "Metal del Nuestro",

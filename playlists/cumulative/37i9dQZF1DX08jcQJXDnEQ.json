@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-05",
-  "description": "The best metal songs of the 90s. Cover: Metallica",
+  "description": "The best metal songs of the 90s. Cover: KoRn",
   "name": "90s Metal Classics",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 226960,
       "name": "All the Young Dudes",
       "url": "https://open.spotify.com/track/2LGcorvZNs37Vzbto5aaoa"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 198226,
       "name": "Arise",
       "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Soulfly",
+        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
+    },
+    {
+      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
@@ -567,6 +585,42 @@
     },
     {
       "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "B\u00fcck dich",
+      "url": "https://open.spotify.com/track/0SCkN2QprWk02svK0HCZ2n"
+    },
+    {
+      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -600,6 +654,24 @@
       "duration_ms": 523346,
       "name": "Chainsaw Charlie(Murders In The New Morgue)",
       "url": "https://open.spotify.com/track/7IZ6a9jFVrtGZKW1yvUhfi"
+    },
+    {
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239066,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX"
     },
     {
       "album": {
@@ -740,7 +812,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 308093,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
@@ -852,6 +924,24 @@
       "duration_ms": 320520,
       "name": "Dead Skin Mask",
       "url": "https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ"
+    },
+    {
+      "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276506,
+      "name": "Descent",
+      "url": "https://open.spotify.com/track/32IeMAhxo8nhUTVdFGwh0x"
     },
     {
       "album": {
@@ -1118,7 +1208,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 291660,
       "name": "Du riechst so gut",
       "url": "https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I"
@@ -1496,7 +1586,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 419893,
       "name": "Floods",
       "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
@@ -2180,7 +2270,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 328133,
       "name": "King Nothing",
       "url": "https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"
@@ -2364,6 +2454,24 @@
       "duration_ms": 259466,
       "name": "Love Rears Its Ugly Head",
       "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
+    },
+    {
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428800,
+      "name": "Love You to Death",
+      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
       "album": {
@@ -2630,7 +2738,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
@@ -2738,7 +2846,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
@@ -2756,7 +2864,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 245600,
       "name": "Old",
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
@@ -2828,7 +2936,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 510586,
       "name": "Opiate",
       "url": "https://open.spotify.com/track/6jxVSzwyQflnOfFp7f5EaO"
@@ -2882,7 +2990,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 254386,
       "name": "Orgasmatron",
       "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
@@ -3627,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik"
+    },
+    {
+      "album": {
         "name": "Bloody Kisses",
         "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
@@ -3714,6 +3840,42 @@
       "duration_ms": 384013,
       "name": "Tears of the Dragon - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
+    },
+    {
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+    },
+    {
+      "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287480,
+      "name": "Territory",
+      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
     },
     {
       "album": {
@@ -3836,7 +3998,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 279240,
       "name": "The Memory Remains",
       "url": "https://open.spotify.com/track/0vhOJ8a3M2LWnBNrDXJKDl"
@@ -3912,7 +4074,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 387160,
       "name": "The Unforgiven (Remastered)",
       "url": "https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"
@@ -4056,7 +4218,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 211226,
       "name": "Train Of Consequences - Remastered 2004",
       "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
@@ -4146,7 +4308,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 269573,
       "name": "Until It Sleeps",
       "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
@@ -4254,10 +4416,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 291733,
       "name": "War Ensemble",
       "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
+    },
+    {
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "War?",
+      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
     },
     {
       "album": {
@@ -4416,7 +4596,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 304893,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"

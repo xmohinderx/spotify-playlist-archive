@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con Finesse, Sfera, Shiva e Guè\. Nuovi pezzi di Rondo e Plaza, Silent Bob e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,469 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,483 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

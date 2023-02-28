@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: O.lew; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,639 likes - 101 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,650 likes - 101 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "Latin music making waves. Cover: Myke Towers by Ian Woods",
-  "num_followers": 6345,
+  "num_followers": 6368,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAzOTk0NCwwMDAwMDAwMDVlMjJkNTFiYmQyOGFhYjc4ZTkwMWRjZDM1MTExODcw",
+  "snapshot_id": "MTY3NzUyMTQwOSwwMDAwMDAwMDVlMWY2OWYxZDBiNmQ4OTMyMzUwYTI0Yjk2ZDY2ZmMz",
   "tracks": [
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
     {
       "added_at": "2023-02-10 11:14:41",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
     },
     {
+      "added_at": "2023-02-28 00:22:52",
+      "album": {
+        "name": "Icy Hot",
+        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Solo $exo",
+      "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
+    },
+    {
       "added_at": "2023-02-10 11:14:41",
       "album": {
         "name": "Feliz",
@@ -55,22 +87,6 @@
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-02-10 11:14:41",
@@ -109,6 +125,26 @@
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
     },
     {
+      "added_at": "2023-02-28 00:22:52",
+      "album": {
+        "name": "T'as peur",
+        "url": "https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 215284,
+      "name": "T'as peur",
+      "url": "https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE"
+    },
+    {
       "added_at": "2023-02-10 11:14:41",
       "album": {
         "name": "Dream Girl",
@@ -123,38 +159,6 @@
       "duration_ms": 162894,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "Mi Regalo Mas Bonito",
-        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 151467,
-      "name": "Mi Regalo Mas Bonito",
-      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "No Me Rajo",
-        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "No Me Rajo",
-      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
     },
     {
       "added_at": "2023-02-10 11:14:41",
@@ -179,6 +183,58 @@
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
+    },
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
+        "name": "Mi Regalo Mas Bonito",
+        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 151467,
+      "name": "Mi Regalo Mas Bonito",
+      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
+    },
+    {
+      "added_at": "2023-02-28 00:22:52",
+      "album": {
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
+        "name": "No Me Rajo",
+        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "No Me Rajo",
+      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
     },
     {
       "added_at": "2023-02-10 11:14:41",
@@ -323,6 +379,26 @@
     {
       "added_at": "2023-02-10 11:14:41",
       "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+    },
+    {
+      "added_at": "2023-02-10 11:14:41",
+      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -375,26 +451,6 @@
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "Taka Taka",
-        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Taka Taka",
-      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
     },
     {
       "added_at": "2023-02-10 11:14:41",
@@ -727,54 +783,6 @@
       "duration_ms": 65759,
       "name": "Probando Freestyle",
       "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "KLK TE PASA A TI",
-        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
-      },
-      "artists": [
-        {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "KLK TE PASA A TI",
-      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj"
-      },
-      "artists": [
-        {
-          "name": "Lennis Rodriguez",
-          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd"
-    },
-    {
-      "added_at": "2023-02-10 11:14:41",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD"
-      },
-      "artists": [
-        {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4"
     }
   ],
   "unique_name": "Latin Frequency",

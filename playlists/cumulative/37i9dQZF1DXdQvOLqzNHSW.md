@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-443 songs - 1 day 3 hr 33 min
+444 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Layla](https://open.spotify.com/track/6nMN0skRJ95zgzRlJnRCJs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Layla](https://open.spotify.com/album/27DCicKUYuGiMN7keqhb7p) | 4:10 | 2023-02-03 | 2023-02-11 |
 | [Lazuli](https://open.spotify.com/track/5XltwtaenRRvD9dNj76t5l) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/68pikiNcGlWj3XFirs5O2R) | 5:01 | 2020-12-21 | 2022-04-14 |
 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 | 2022-07-20 | 2022-10-08 |
-| [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-12 |  |
+| [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-12 | 2023-02-28 |
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-12-21 | 2022-08-17 |
 | [Little Bit \(feat\. Lykke Li\)](https://open.spotify.com/track/524wvipGqxPKYWxkjf9y46) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:50 | 2022-05-06 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2020-12-21 |  |
@@ -357,6 +357,7 @@
 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 | 2020-12-21 | 2022-04-21 |
 | [So Tired](https://open.spotify.com/track/0npSmMSYZ6zCfNrjtOjwpE) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crumb](https://open.spotify.com/album/3KlT3WRjpdhXsBZ2rRlYFO) | 3:38 | 2020-12-21 | 2022-04-21 |
 | [Social Sites](https://open.spotify.com/track/0puyikpyVwe8TTv2tvMHeq) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5CVh7KRau0zBDqKuM6G2ZU) | 4:49 | 2020-12-21 | 2022-04-18 |
+| [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 | 2023-02-28 |  |
 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 | 2020-12-21 | 2022-04-19 |
 | [Sometimes I Don't](https://open.spotify.com/track/3sgacAzOpMt2IfwDv7BZwe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Sometimes I Don't](https://open.spotify.com/album/6sY0SxEXmu9JEYDxKAiCMb) | 2:30 | 2020-12-21 | 2022-04-18 |
 | [Soon Soon](https://open.spotify.com/track/2vHMsgLQaxDYqHvkLrPw65) | [Praything](https://open.spotify.com/artist/7pidPnHnMa0lzlF0rElbMW) | [Soon Soon](https://open.spotify.com/album/5P4BaJ5km2xDv96ZfkULSU) | 4:41 | 2020-12-21 | 2022-04-19 |

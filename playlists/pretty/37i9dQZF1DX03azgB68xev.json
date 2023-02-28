@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 194452,
+  "num_followers": 194515,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDcwOWE4MWYwZTRkMjY1OThjNWZhYzA0NDE2MjhlNmM0",
+  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDk2NzQ5NDYyM2E3MTQ4ZTAyYjZiYjk5ZGJmNzY1YmUw",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -195,6 +195,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "RELATE (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "RELATE (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "AQU\u00cd ESTOY",
         "url": "https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1"
       },
@@ -247,26 +267,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "RELATE (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "RELATE (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -319,6 +303,22 @@
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Love Is Everything We Need",
-        "url": "https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "Love Is Everything We Need",
-      "url": "https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Say Goodbye (Say Hello)",
         "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 195358,
       "name": "Say Goodbye (Say Hello)",
       "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Love Is Everything We Need",
+        "url": "https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "Love Is Everything We Need",
+      "url": "https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "You, Me, The Church, That's Us - Side A",
-        "url": "https://open.spotify.com/album/1X0arfGuBkEscqJuBtCtl4"
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
       "artists": [
         {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
         }
       ],
-      "duration_ms": 185910,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7l1zEDrW54eHBlNEE75NRB"
+      "duration_ms": 221909,
+      "name": "Spring Theory",
+      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -531,34 +531,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+        "name": "You, Me, The Church, That's Us - Side A",
+        "url": "https://open.spotify.com/album/1X0arfGuBkEscqJuBtCtl4"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 221909,
-      "name": "Spring Theory",
-      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+      "duration_ms": 185910,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7l1zEDrW54eHBlNEE75NRB"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Dwell in Your House",
         "url": "https://open.spotify.com/album/1kD9ruaU9ozoo1GOSI6Hq7"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -643,22 +627,6 @@
       "duration_ms": 199680,
       "name": "Alive",
       "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -683,6 +651,38 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 226281,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Come Home (Warehouse Mix)",
-        "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        }
-      ],
-      "duration_ms": 158096,
-      "name": "Come Home - Warehouse Mix",
-      "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -751,6 +731,26 @@
       "duration_ms": 138846,
       "name": "Where To Find Me",
       "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Come Home (Warehouse Mix)",
+        "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        }
+      ],
+      "duration_ms": 158096,
+      "name": "Come Home - Warehouse Mix",
+      "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Christian Paul",
+          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
         }
       ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+      "duration_ms": 209429,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
       },
       "artists": [
         {
-          "name": "Christian Paul",
-          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 209429,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -923,6 +923,26 @@
       "duration_ms": 178587,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Unashamed",
+        "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "HGHTS",
+          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Unashamed",
+      "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -947,26 +967,6 @@
       "duration_ms": 181661,
       "name": "The Same Jesus - Reyer Remix",
       "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Unashamed",
-        "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        },
-        {
-          "name": "HGHTS",
-          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Unashamed",
-      "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1055,42 +1055,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Jireh (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Esther Lisette",
-          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Jireh - Reyer Remix",
-      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 232063,
-      "name": "Worth",
-      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1111,6 +1075,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Jireh (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Esther Lisette",
+          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Jireh - Reyer Remix",
+      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "morning always comes",
         "url": "https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 200525,
       "name": "morning always comes",
       "url": "https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 232063,
+      "name": "Worth",
+      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 211931,
+      "name": "I'm Not Lucky, I'm Blessed",
+      "url": "https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "ECHO",
         "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Only Ever Always",
-        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
       "artists": [
         {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 211931,
-      "name": "I'm Not Lucky, I'm Blessed",
-      "url": "https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP"
+      "duration_ms": 175040,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1215,22 +1231,6 @@
       "duration_ms": 196987,
       "name": "Covered",
       "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1255,6 +1255,22 @@
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Only Ever Always",
-        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 179420,
-      "name": "Only Ever Always",
-      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
@@ -1375,6 +1343,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 179420,
+      "name": "Only Ever Always",
+      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "BANG! BANG!",
         "url": "https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 158571,
       "name": "BANG! BANG!",
       "url": "https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi"
     },
     {
       "added_at": "2023-01-13 21:46:56",

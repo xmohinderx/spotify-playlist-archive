@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Zaho
 
-87 songs - 4 hr 20 min
+88 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-11-24 | 2023-01-13 |
 | [Dernier je t'aime](https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Dernier je t'aime](https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M) | 2:48 | 2023-01-26 |  |
 | [Derrière toi](https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Train de vie](https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez) | 3:10 | 2023-02-09 |  |
-| [Déchirer](https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/0CjzyYuYPb82BKKFHGlSIj) | 2:57 | 2023-01-19 |  |
+| [Déchirer](https://open.spotify.com/track/58n3lagQzx7m6oUYdlhaqz) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/7EjSTlxv8BlPWR8hoUhfAL) | 2:57 | 2023-02-23 |  |
+| [Déchirer](https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/0CjzyYuYPb82BKKFHGlSIj) | 2:57 | 2023-01-19 | 2023-02-28 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-24 |  |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 |  |

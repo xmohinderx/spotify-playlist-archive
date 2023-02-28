@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs \u2013 celebrating music\u2019s greatest achievements by honoring the hottest names on the Billboard Charts. Airing live May 15 on NBC! Cover: The Weeknd",
-  "num_followers": 62442,
+  "num_followers": 62439,
   "original_name": "2022 Billboard Music Awards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE4ODc3MiwwMDAwMDAwMGQwOTFmMDI0ZGMwMjEwNmI4NzhlMGM1MmYwOTU3NDdl",
+  "snapshot_id": "MTY1MjE4ODc3MiwwMDAwMDAwMDA0Nzk3YjY2OTEzZjA3MGNiZmI5YjFjOWVkOGQ2OGEy",
   "tracks": [
     {
       "added_at": "2022-05-10 00:15:15",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "added_at": "2022-05-10 00:15:15",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
-    },
-    {
-      "added_at": "2022-05-10 00:15:15",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2022-05-10 00:15:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
+    },
+    {
+      "added_at": "2022-05-10 00:15:15",
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
-    },
-    {
-      "added_at": "2022-05-10 00:15:15",
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
     }
   ],
   "unique_name": "2022 Billboard Music Awards",

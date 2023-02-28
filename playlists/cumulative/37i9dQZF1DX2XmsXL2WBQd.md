@@ -4,7 +4,7 @@
 
 > Anthems from the early days of recorded rap music.
 
-140 songs - 11 hr 52 min
+141 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Manifest](https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Mass Appeal: The Best Of Gang Starr \(Explicit\)](https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR) | 4:50 | 2021-12-21 | 2022-11-13 |
 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 | 2021-12-21 |  |
 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 | 2021-12-21 |  |
-| [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 | 2021-12-21 |  |
+| [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 | 2021-12-21 | 2023-02-28 |
 | [My Adidas](https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 2:47 | 2021-12-21 |  |
 | [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 | 2021-12-21 |  |
 | [My Philosophy](https://open.spotify.com/track/74pIq8LeHDZZYPfvjChDbL) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary](https://open.spotify.com/album/2Bq235xG1XzeEfSDl1Xh7s) | 5:38 | 2021-12-21 | 2022-07-29 |
@@ -104,6 +104,7 @@
 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 | 2022-07-07 |  |
 | [Pump Me Up](https://open.spotify.com/track/2yMpxh2hOJiPEcgzFMqjaY) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [E\-Flat Boogie](https://open.spotify.com/album/53n3kVqgxwQ7nO8QpvVRDp) | 6:34 | 2022-09-21 | 2022-11-13 |
 | [Pump Me Up](https://open.spotify.com/track/4lz2rMdMB596mLwjaO2mpb) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [E\-Flat Boogie](https://open.spotify.com/album/4JPtXpD3O8Lo8IhsCCAORM) | 6:34 | 2021-12-21 | 2022-07-29 |
+| [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 | 2023-02-27 |  |
 | [Rapper's Delight](https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Party](https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8) | 3:54 | 2022-07-07 |  |
 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 | 2021-12-21 |  |
 | [Raw \(Edit\) \- 45 Version](https://open.spotify.com/track/5TDEIDElkU2hrMnusjPLNu) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Raw \(Edit\) / Word to the Mother \(Land\) \[45 Version\]](https://open.spotify.com/album/1cr09OfD3IcHGTJ2pKiYQh) | 4:08 | 2021-12-21 | 2022-11-13 |

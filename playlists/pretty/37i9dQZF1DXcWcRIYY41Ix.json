@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alex Ferreira.",
-  "num_followers": 105287,
+  "num_followers": 105345,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDIwZGMyMDZmNDU2NGZlZjJiNGQyZTk0Mjk5ZGM5NDY0",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGYyMjdmMGU3MmRlOTkzODBlZTM1MTliODQ5OTJlYjM3",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -583,18 +583,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+      "duration_ms": 163426,
+      "name": "Qui\u00e9n Podr\u00e1 Saberlo",
+      "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -623,22 +627,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
       "artists": [
         {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
         }
       ],
-      "duration_ms": 163426,
-      "name": "Qui\u00e9n Podr\u00e1 Saberlo",
-      "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        },
-        {
-          "name": "Ernesto Snajer",
-          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
-        }
-      ],
-      "duration_ms": 181798,
-      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+        }
+      ],
+      "duration_ms": 181798,
+      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "abril y mayo",
+        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 120542,
+      "name": "abril y mayo",
+      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 310216,
       "name": "Nariz Con Ra\u00edz",
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "abril y mayo",
-        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 120542,
-      "name": "abril y mayo",
-      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "C\u00f3smosis",
-        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "C\u00f3smosis",
-      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Un Golpe de Suerte",
         "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "C\u00f3smosis",
+        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "C\u00f3smosis",
+      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+        "name": "Mi otra mitad",
+        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
       },
       "artists": [
         {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
         }
       ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+      "duration_ms": 229524,
+      "name": "Mi otra mitad",
+      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Mi otra mitad",
-        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
       "artists": [
         {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         }
       ],
-      "duration_ms": 229524,
-      "name": "Mi otra mitad",
-      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1603,22 +1603,6 @@
       "duration_ms": 195744,
       "name": "Corazoncito M\u00edo",
       "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 134956,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Me Voy a Valpara\u00edso",
+        "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 240576,
+      "name": "Me Voy a Valpara\u00edso",
+      "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Aho Uhal",
         "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Me Voy a Valpara\u00edso",
-        "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 240576,
-      "name": "Me Voy a Valpara\u00edso",
-      "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
     }
   ],
   "unique_name": "Cancionistas",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 108792,
+  "num_followers": 108935,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNDIxMCwwMDAwMDAwMGQ0ZDNjNjlkMDRmYjc3ZmRmZmIzMTRhNDk2MmMzZGY5",
+  "snapshot_id": "MTY3NjYzNDIxMCwwMDAwMDAwMDE2MWY0ZjAxZGRlMDYzYmZkZmRiMjc1NzhlYjZiNjU3",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "HEAVEN DON'T CRY",
         "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
-      },
-      "artists": [
-        {
-          "name": "LEDGER",
-          "url": "https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The End Is Where We Begin",
-        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
       },
       "artists": [
         {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+          "name": "LEDGER",
+          "url": "https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3"
         }
       ],
-      "duration_ms": 222435,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH"
+      "duration_ms": 216013,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -315,6 +315,54 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/1uRTs9lDqR70WH1QNbWBty"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 164815,
+      "name": "On Becoming Willing",
+      "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
+      },
+      "artists": [
+        {
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "What Else You Got?",
+      "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "The Fear",
+        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
+      },
+      "artists": [
+        {
+          "name": "Night Argent",
+          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
+        }
+      ],
+      "duration_ms": 203171,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "Long Live the Rebels",
         "url": "https://open.spotify.com/album/15add9fux55wlIQygXNPz9"
       },
@@ -331,18 +379,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/1uRTs9lDqR70WH1QNbWBty"
+        "name": "Outlive",
+        "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
         }
       ],
-      "duration_ms": 164815,
-      "name": "On Becoming Willing",
-      "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
+      "duration_ms": 205786,
+      "name": "Cold Winter Sun",
+      "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -367,50 +415,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
+        "name": "A Mirror Dimly",
+        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
       },
       "artists": [
         {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 166920,
-      "name": "What Else You Got?",
-      "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "Outlive",
-        "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Cold Winter Sun",
-      "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "The Fear",
-        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
-      },
-      "artists": [
-        {
-          "name": "Night Argent",
-          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
-        }
-      ],
-      "duration_ms": 203171,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
+      "duration_ms": 338333,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -427,22 +443,6 @@
       "duration_ms": 304813,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "A Mirror Dimly",
-        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -563,34 +563,34 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ"
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
         }
       ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3"
+      "duration_ms": 168827,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK"
     },
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Transgressor",
-        "url": "https://open.spotify.com/album/2EZ73ukSfYcB9vURLEB4Vl"
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
       },
       "artists": [
         {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 265164,
-      "name": "Transgressor",
-      "url": "https://open.spotify.com/track/7wcLpVs8r53wwNyHsoGIpH"
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -615,34 +615,34 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+        "name": "Transgressor",
+        "url": "https://open.spotify.com/album/2EZ73ukSfYcB9vURLEB4Vl"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
         }
       ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+      "duration_ms": 265164,
+      "name": "Transgressor",
+      "url": "https://open.spotify.com/track/7wcLpVs8r53wwNyHsoGIpH"
     },
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C"
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ"
       },
       "artists": [
         {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 168827,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK"
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Hidden",
         "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
@@ -747,18 +731,34 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Dark Cold Night",
-        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
+        "name": "Listen Friend",
+        "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Above Only",
+          "url": "https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn"
         }
       ],
-      "duration_ms": 281117,
-      "name": "Dark Cold Night",
-      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+      "duration_ms": 272281,
+      "name": "Listen Friend",
+      "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Listen Friend",
-        "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
+        "name": "Dark Cold Night",
+        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
       "artists": [
         {
-          "name": "Above Only",
-          "url": "https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 272281,
-      "name": "Listen Friend",
-      "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
+      "duration_ms": 281117,
+      "name": "Dark Cold Night",
+      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+      },
+      "artists": [
+        {
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+        }
+      ],
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "What I've Become",
         "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 204942,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "No Altars",
-        "url": "https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "No Altars",
-      "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -987,18 +987,34 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+        "name": "No Altars",
+        "url": "https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9"
       },
       "artists": [
         {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
         }
       ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+      "duration_ms": 209128,
+      "name": "No Altars",
+      "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Into the Sea",
+        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
+      },
+      "artists": [
+        {
+          "name": "Attalus",
+          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1019,22 +1035,6 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "Into the Sea",
-        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
-      },
-      "artists": [
-        {
-          "name": "Attalus",
-          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Chariots (Live)",
-        "url": "https://open.spotify.com/album/219sQ1lUO7Yxg8pFDNIn58"
-      },
-      "artists": [
-        {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
-        }
-      ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/0lucLOAYQB0gpxARVqH7Mz"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Chariots (Live)",
+        "url": "https://open.spotify.com/album/219sQ1lUO7Yxg8pFDNIn58"
+      },
+      "artists": [
+        {
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+        }
+      ],
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/0lucLOAYQB0gpxARVqH7Mz"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Sleight of Hand",
-        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 234831,
-      "name": "Sleight of Hand",
-      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "The Antihero",
         "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 248392,
       "name": "The Antihero",
       "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 234831,
+      "name": "Sleight of Hand",
+      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
     },
     {
       "added_at": "2023-02-17 11:43:30",

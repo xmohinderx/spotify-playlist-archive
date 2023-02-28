@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141519,
+  "num_followers": 141533,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDY1YjNkNzFhMmNkN2ZkOTRjMGRlZDdlNzhjMDlhMjJl",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDk1NWE4NTM1NmRjMDNjYjBlY2IzODZlMjhlMzY4NTdk",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Y Sigues Siendo Tu",
-        "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
+        "name": "On the Same Track",
+        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
       },
       "artists": [
         {
-          "name": "Adrian Gutierrez",
-          "url": "https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic"
+          "name": "Nightlife",
+          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Y Sigues Siendo Tu",
-      "url": "https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa"
+      "duration_ms": 211320,
+      "name": "Paloma Sin Nido",
+      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "On the Same Track",
-        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
+        "name": "Y Sigues Siendo Tu",
+        "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
       },
       "artists": [
         {
-          "name": "Nightlife",
-          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
+          "name": "Adrian Gutierrez",
+          "url": "https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic"
         }
       ],
-      "duration_ms": 211320,
-      "name": "Paloma Sin Nido",
-      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
+      "duration_ms": 190933,
+      "name": "Y Sigues Siendo Tu",
+      "url": "https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "So\u00f1ar Contigo",
-        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
-      },
-      "artists": [
-        {
-          "name": "Cris Medina",
-          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Ni Todo el Dinero",
         "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 189231,
       "name": "Ni Todo el Dinero",
       "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "So\u00f1ar Contigo",
+        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
+      },
+      "artists": [
+        {
+          "name": "Cris Medina",
+          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Girls Night",
         "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 200159,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Final De Tu Amor",
-        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vidal",
-          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
-        }
-      ],
-      "duration_ms": 205438,
-      "name": "Final De Tu Amor",
-      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Porque Sera",
         "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227186,
       "name": "Porque Sera",
       "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Final De Tu Amor",
+        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vidal",
+          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
+        }
+      ],
+      "duration_ms": 205438,
+      "name": "Final De Tu Amor",
+      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Baby Luna",
         "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
-      },
-      "artists": [
-        {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "No Soy La Misma",
         "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 224344,
       "name": "No Soy La Misma",
       "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Mentias",
+        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
+      },
+      "artists": [
+        {
+          "name": "Brooke T",
+          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
+        }
+      ],
+      "duration_ms": 199870,
+      "name": "Mentias",
+      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -803,18 +819,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Mentias",
-        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
       },
       "artists": [
         {
-          "name": "Brooke T",
-          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
         }
       ],
-      "duration_ms": 199870,
-      "name": "Mentias",
-      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -831,22 +847,6 @@
       "duration_ms": 161610,
       "name": "Trampa De Amor",
       "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
-      },
-      "artists": [
-        {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     }
   ],
   "unique_name": "New Tejano",

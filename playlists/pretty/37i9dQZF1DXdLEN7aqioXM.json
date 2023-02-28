@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 902684,
+  "num_followers": 903004,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NjEwNSwwMDAwMDAwMDBjZGU3MzlkNmNmMTEyYzQ4ZWVjYmJlYTlhYWFjMDdj",
+  "snapshot_id": "MTY3NTk0NjEwNSwwMDAwMDAwMGQ3Y2JmMWUzOGEzNDhmOTljYjY3NzIxMGEwNDQyZWNk",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -167,18 +167,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
+        "name": "Ghost (feat. Power Glove)",
+        "url": "https://open.spotify.com/album/4ixAvzyx5cHavWAbpUAsRn"
       },
       "artists": [
         {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+          "name": "Gunship",
+          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+        },
+        {
+          "name": "Power Glove",
+          "url": "https://open.spotify.com/artist/0dalJaAT80lKfkZsC86lnW"
         }
       ],
-      "duration_ms": 229014,
-      "name": "The Equaliser (Not Alone)",
-      "url": "https://open.spotify.com/track/0hy26hhVBNp0X87ENwuhfX"
+      "duration_ms": 262840,
+      "name": "Ghost (feat. Power Glove)",
+      "url": "https://open.spotify.com/track/0G8G0D50AZldBbHrbruYxv"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -199,22 +203,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Ghost (feat. Power Glove)",
-        "url": "https://open.spotify.com/album/4ixAvzyx5cHavWAbpUAsRn"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
       },
       "artists": [
         {
-          "name": "Gunship",
-          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
-        },
-        {
-          "name": "Power Glove",
-          "url": "https://open.spotify.com/artist/0dalJaAT80lKfkZsC86lnW"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Ghost (feat. Power Glove)",
-      "url": "https://open.spotify.com/track/0G8G0D50AZldBbHrbruYxv"
+      "duration_ms": 229014,
+      "name": "The Equaliser (Not Alone)",
+      "url": "https://open.spotify.com/track/0hy26hhVBNp0X87ENwuhfX"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/0mXPAfu4L20ZfUPNLgXjEw"
-      },
-      "artists": [
-        {
-          "name": "Fred Falke",
-          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
-        }
-      ],
-      "duration_ms": 280240,
-      "name": "Crepuscule",
-      "url": "https://open.spotify.com/track/4tjegaa9lSrtvVMq0PdiOR"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Neon Medusa",
         "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
       },
@@ -683,18 +667,34 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/1EBKGI7RyqrGScoPmqxzc1"
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/0mXPAfu4L20ZfUPNLgXjEw"
       },
       "artists": [
         {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
         }
       ],
-      "duration_ms": 220714,
-      "name": "After Hours Run",
-      "url": "https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB"
+      "duration_ms": 280240,
+      "name": "Crepuscule",
+      "url": "https://open.spotify.com/track/4tjegaa9lSrtvVMq0PdiOR"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Action & Romance",
+        "url": "https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw"
+      },
+      "artists": [
+        {
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "Dangerous Dreams",
+      "url": "https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Action & Romance",
-        "url": "https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/1EBKGI7RyqrGScoPmqxzc1"
       },
       "artists": [
         {
-          "name": "LeBrock",
-          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
         }
       ],
-      "duration_ms": 242142,
-      "name": "Dangerous Dreams",
-      "url": "https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB"
+      "duration_ms": 220714,
+      "name": "After Hours Run",
+      "url": "https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Apotheosis",
+        "url": "https://open.spotify.com/album/19iJ7OOS9XjyhFP7fomH1h"
+      },
+      "artists": [
+        {
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
+        }
+      ],
+      "duration_ms": 167203,
+      "name": "Outlaw Star",
+      "url": "https://open.spotify.com/track/4BVfCHuKVvcJqeZ71QrGft"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 299239,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Apotheosis",
-        "url": "https://open.spotify.com/album/19iJ7OOS9XjyhFP7fomH1h"
-      },
-      "artists": [
-        {
-          "name": "Eagle Eyed Tiger",
-          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
-        }
-      ],
-      "duration_ms": 167203,
-      "name": "Outlaw Star",
-      "url": "https://open.spotify.com/track/4BVfCHuKVvcJqeZ71QrGft"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
-      },
-      "artists": [
-        {
-          "name": "L.A. Takedown",
-          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
-        }
-      ],
-      "duration_ms": 170511,
-      "name": "Bad Night at Black's Beach",
-      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/4xhLEnoyZwuRFzMlP4VgeO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219272,
       "name": "Align",
       "url": "https://open.spotify.com/track/5gLbWMM5KEp6IKqx0m0AtK"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
+      },
+      "artists": [
+        {
+          "name": "L.A. Takedown",
+          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
+        }
+      ],
+      "duration_ms": 170511,
+      "name": "Bad Night at Black's Beach",
+      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "The Legacy Collection, Vol. I",
-        "url": "https://open.spotify.com/album/4VzabqOc5cLuD4G41aJ4c9"
-      },
-      "artists": [
-        {
-          "name": "Dynatron",
-          "url": "https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Throttle Up",
-      "url": "https://open.spotify.com/track/5hKwq5cO8S4tY7FYjZNalu"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "\u00c9ternit\u00e9 pt. 2",
         "url": "https://open.spotify.com/album/2JDRsKQx09tzMCEoOtnGlo"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 252121,
       "name": "Nightride - Revisited",
       "url": "https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "The Legacy Collection, Vol. I",
+        "url": "https://open.spotify.com/album/4VzabqOc5cLuD4G41aJ4c9"
+      },
+      "artists": [
+        {
+          "name": "Dynatron",
+          "url": "https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Throttle Up",
+      "url": "https://open.spotify.com/track/5hKwq5cO8S4tY7FYjZNalu"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Crystalica - EP",
-        "url": "https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w"
-      },
-      "artists": [
-        {
-          "name": "Lueur Verte",
-          "url": "https://open.spotify.com/artist/236Oy3MFNzz5zbBwowuxlW"
-        }
-      ],
-      "duration_ms": 336146,
-      "name": "Emerald Rising",
-      "url": "https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Rivage",
         "url": "https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 268762,
       "name": "Intergalactic Highway",
       "url": "https://open.spotify.com/track/5PauDNMgo5ehM1xQV9T1iv"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Crystalica - EP",
+        "url": "https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w"
+      },
+      "artists": [
+        {
+          "name": "Lueur Verte",
+          "url": "https://open.spotify.com/artist/236Oy3MFNzz5zbBwowuxlW"
+        }
+      ],
+      "duration_ms": 336146,
+      "name": "Emerald Rising",
+      "url": "https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 190998,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "When We Touch",
         "url": "https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen"
       },
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Metrocenter 84",
-        "url": "https://open.spotify.com/album/27FPwOv08GRvTHdzHFqfio"
-      },
-      "artists": [
-        {
-          "name": "Sunset Neon",
-          "url": "https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Metrocenter 84",
-      "url": "https://open.spotify.com/track/3rxnmxTEqApa2ad9TWWDBx"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "District 970",
         "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
       },
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU"
+        "name": "Metrocenter 84",
+        "url": "https://open.spotify.com/album/27FPwOv08GRvTHdzHFqfio"
       },
       "artists": [
         {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+          "name": "Sunset Neon",
+          "url": "https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s"
         }
       ],
-      "duration_ms": 190998,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8"
+      "duration_ms": 170000,
+      "name": "Metrocenter 84",
+      "url": "https://open.spotify.com/track/3rxnmxTEqApa2ad9TWWDBx"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Oort",
+        "url": "https://open.spotify.com/album/1UInbuJAszfSseJQzp9uyP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Oort",
+      "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "So Fewer Particles Scatter",
         "url": "https://open.spotify.com/album/49VWM8s5jKyfJdBcwJ4tDH"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Oort",
-        "url": "https://open.spotify.com/album/1UInbuJAszfSseJQzp9uyP"
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
       },
       "artists": [
         {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 253714,
-      "name": "Oort",
-      "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 290539,
       "name": "Chauma",
       "url": "https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Party At Kitty & Stud's",
+        "url": "https://open.spotify.com/album/2n4shhAODxZT9SxXWVtG0G"
+      },
+      "artists": [
+        {
+          "name": "80s Stallone",
+          "url": "https://open.spotify.com/artist/1kbrY3DkdlVnrp4NCTPCpx"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Party at Kitty & Stud's",
+      "url": "https://open.spotify.com/track/3THa36K3k5UzEQREL9w9Xx"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 316129,
       "name": "Pel\u00e9e",
       "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Party At Kitty & Stud's",
-        "url": "https://open.spotify.com/album/2n4shhAODxZT9SxXWVtG0G"
-      },
-      "artists": [
-        {
-          "name": "80s Stallone",
-          "url": "https://open.spotify.com/artist/1kbrY3DkdlVnrp4NCTPCpx"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Party at Kitty & Stud's",
-      "url": "https://open.spotify.com/track/3THa36K3k5UzEQREL9w9Xx"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "I Don't Need a Hero (Cody Crump Remix)",
-        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
-      },
-      "artists": [
-        {
-          "name": "Danz CM",
-          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
-        },
-        {
-          "name": "Cody Crump",
-          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
-        }
-      ],
-      "duration_ms": 183841,
-      "name": "I Don't Need a Hero - Cody Crump Remix",
-      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Disco on the Baltic Sea",
         "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
       },
@@ -1875,22 +1855,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Dauntless to the End",
-        "url": "https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A"
+        "name": "I Don't Need a Hero (Cody Crump Remix)",
+        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
       },
       "artists": [
         {
-          "name": "The Great Wight Dread",
-          "url": "https://open.spotify.com/artist/2BOuBgErBzSn6oCTtYOioG"
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
         },
         {
-          "name": "LudoWic",
-          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
+          "name": "Cody Crump",
+          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
         }
       ],
-      "duration_ms": 187238,
-      "name": "Dauntless to the End",
-      "url": "https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw"
+      "duration_ms": 183841,
+      "name": "I Don't Need a Hero - Cody Crump Remix",
+      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1907,6 +1887,26 @@
       "duration_ms": 253902,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Dauntless to the End",
+        "url": "https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A"
+      },
+      "artists": [
+        {
+          "name": "The Great Wight Dread",
+          "url": "https://open.spotify.com/artist/2BOuBgErBzSn6oCTtYOioG"
+        },
+        {
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
+        }
+      ],
+      "duration_ms": 187238,
+      "name": "Dauntless to the End",
+      "url": "https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Selection 6",
+        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Assembly Line",
+      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Extra Fresh",
         "url": "https://open.spotify.com/album/572qUxNAk5ZHOU0hfqtkfd"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 302707,
       "name": "Shoulder of Orion",
       "url": "https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Selection 6",
-        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
-      },
-      "artists": [
-        {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Assembly Line",
-      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5"
-      },
-      "artists": [
-        {
-          "name": "Lost Years",
-          "url": "https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y"
-        }
-      ],
-      "duration_ms": 243838,
-      "name": "Cross the Line",
-      "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Space Amplitude",
         "url": "https://open.spotify.com/album/0wel2m8VmYeR7ZnZZEZzu8"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 168000,
       "name": "Space Amplitude",
       "url": "https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5"
+      },
+      "artists": [
+        {
+          "name": "Lost Years",
+          "url": "https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y"
+        }
+      ],
+      "duration_ms": 243838,
+      "name": "Cross the Line",
+      "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/6kbEcZuw1MdH2lnTUXwsuC"
+      },
+      "artists": [
+        {
+          "name": "Adieu Aru",
+          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/2qtOmbVDhvCPyqbGrnuLo6"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Humanity",
         "url": "https://open.spotify.com/album/1mNWCwd5pDxalbFZndW2lg"
       },
@@ -2335,6 +2351,38 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
+      },
+      "artists": [
+        {
+          "name": "Zane Alexander",
+          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Beyond Reality",
+        "url": "https://open.spotify.com/album/555TlFV2ex4wVgdf8jtJPm"
+      },
+      "artists": [
+        {
+          "name": "Vector Seven",
+          "url": "https://open.spotify.com/artist/0Aob82fk8XM9qBRhiCvSBO"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Neon Vision",
+      "url": "https://open.spotify.com/track/0taSsax88qVTIGAm35hegO"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Delusive Bunker (Live Version)",
         "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
       },
@@ -2347,6 +2395,22 @@
       "duration_ms": 371750,
       "name": "Delusive Bunker - Live Version",
       "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 182954,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2367,22 +2431,6 @@
       "duration_ms": 420000,
       "name": "Atmosfer - Dr. Parnassus Remix",
       "url": "https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Beyond Reality",
-        "url": "https://open.spotify.com/album/555TlFV2ex4wVgdf8jtJPm"
-      },
-      "artists": [
-        {
-          "name": "Vector Seven",
-          "url": "https://open.spotify.com/artist/0Aob82fk8XM9qBRhiCvSBO"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Neon Vision",
-      "url": "https://open.spotify.com/track/0taSsax88qVTIGAm35hegO"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2411,34 +2459,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
       },
       "artists": [
         {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
         }
       ],
-      "duration_ms": 182954,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
-      },
-      "artists": [
-        {
-          "name": "Zane Alexander",
-          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2471,22 +2503,6 @@
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2539,22 +2555,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
-      },
-      "artists": [
-        {
-          "name": "Mezhdunami",
-          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
-        }
-      ],
-      "duration_ms": 169988,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Last Path",
         "url": "https://open.spotify.com/album/6k4WHhBJaf9QdJmbq7QeJK"
       },
@@ -2567,6 +2567,22 @@
       "duration_ms": 242842,
       "name": "Last Path",
       "url": "https://open.spotify.com/track/2Apx7HHXWmBitTwJxOtQV2"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 278130,
+      "name": "October",
+      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2587,22 +2603,6 @@
       "duration_ms": 316250,
       "name": "Bend & Break - Instrumental",
       "url": "https://open.spotify.com/track/0DvOD9MYBxtXywC54zLYtJ"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "City Hunter",
-        "url": "https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Gampl",
-          "url": "https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy"
-        }
-      ],
-      "duration_ms": 285674,
-      "name": "Midnight Run",
-      "url": "https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi"
     }
   ],
   "unique_name": "Retrowave // Outrun",

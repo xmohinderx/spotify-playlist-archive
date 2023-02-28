@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Jotta A",
-  "num_followers": 218794,
+  "num_followers": 218791,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMGQ3M2I0OTEyMjBkODM3ZTBiMjJkOTdmYWMyYzUyM2I0",
+  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMDI5ZGIzMjU3NjZhYjA2NmI0YjEwNGY5NWE2NDgxM2I2",
   "tracks": [
     {
       "added_at": "2023-02-10 17:42:48",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
         "name": "Barbie (feat. Danny Bond)",
         "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
@@ -135,26 +151,6 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -203,54 +199,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "Te Deixo Crazy",
-        "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
+        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
       },
       "artists": [
         {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 164908,
-      "name": "Te Deixo Crazy",
-      "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "HER MIND, PT. 1",
-        "url": "https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 138694,
-      "name": "Je ne sais quoi",
-      "url": "https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj"
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -279,6 +243,26 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
+        "name": "Te Deixo Crazy",
+        "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        }
+      ],
+      "duration_ms": 164908,
+      "name": "Te Deixo Crazy",
+      "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
         "name": "Gente Crazy",
         "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
       },
@@ -291,6 +275,54 @@
       "duration_ms": 151472,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "LEIL\u00c3O",
+        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "HER MIND, PT. 1",
+        "url": "https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 138694,
+      "name": "Je ne sais quoi",
+      "url": "https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "111 1",
+        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -319,22 +351,6 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "BRINCA COM A...",
-        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "BRINCA COM A...",
-      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -355,18 +371,34 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "LEIL\u00c3O",
-        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         }
       ],
-      "duration_ms": 187619,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+      "duration_ms": 135001,
+      "name": "LAMBO",
+      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "BRINCA COM A...",
+        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "BRINCA COM A...",
+      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -395,54 +427,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "111 1",
-        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
+        "name": "Parab\u00e9ns",
+        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
       },
       "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 135001,
-      "name": "LAMBO",
-      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         },
         {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Expl\u00edcito",
-      "url": "https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS"
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -463,6 +463,42 @@
       "duration_ms": 158571,
       "name": "NOITE DE CA\u00c7A",
       "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "BONEKINHA",
+        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -515,24 +551,8 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "BONEKINHA",
-        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "Parab\u00e9ns",
-        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
       "artists": [
         {
@@ -540,13 +560,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -583,6 +603,22 @@
       "duration_ms": 134400,
       "name": "Eu Viciei",
       "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "MIL GRAU",
+      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -631,22 +667,6 @@
       "duration_ms": 156949,
       "name": "Lib\u00e9lula",
       "url": "https://open.spotify.com/track/33IQ1mcWwKe7lyLm5oUrCv"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "ALEGORIA",
-        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "MIL GRAU",
-      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -711,62 +731,6 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 177564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "Brazindia",
-        "url": "https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        },
-        {
-          "name": "Sushant Divgikar",
-          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Brazindia",
-      "url": "https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "LIA (pt.1)",
-        "url": "https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        }
-      ],
-      "duration_ms": 137753,
-      "name": "VRAU",
-      "url": "https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
         "name": "Alasca",
         "url": "https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD"
       },
@@ -803,6 +767,42 @@
       "duration_ms": 152538,
       "name": "JUP-ME",
       "url": "https://open.spotify.com/track/6Cpr1feLpRql0ckkekeO8y"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "LIA (pt.1)",
+        "url": "https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        }
+      ],
+      "duration_ms": 137753,
+      "name": "VRAU",
+      "url": "https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "Brazindia",
+        "url": "https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        },
+        {
+          "name": "Sushant Divgikar",
+          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Brazindia",
+      "url": "https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU"
     },
     {
       "added_at": "2023-02-10 17:42:48",

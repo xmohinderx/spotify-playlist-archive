@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: WLSN
 
-291 songs - 17 hr 6 min
+292 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2021-12-03 | 2023-01-28 |
 | [Freedom \(Johnny's Song\)](https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Freedom \(Johnny's Song\)](https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw) | 4:12 | 2022-05-13 |  |
 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 | 2021-12-03 | 2023-01-28 |
-| [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 |  |
+| [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
+| [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-03 |  |
 | [Girl](https://open.spotify.com/track/7CpiMGCPEiMFg5EFZNwCnv) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Girl](https://open.spotify.com/album/2Fudu7h6q97hvPS470jIkb) | 2:57 | 2022-03-11 |  |
 | [Give Love A Try](https://open.spotify.com/track/1anovmHXv8sSwoRi28M4ab) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Break The Silence](https://open.spotify.com/album/69j2M8vVbP5fPi645eQWvz) | 2:55 | 2022-04-15 |  |
 | [Glitter & Gold](https://open.spotify.com/track/1qRhvlCXiB8JsNM6uP27Km) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven](https://open.spotify.com/album/7casok18TXKpkt263CTlfM) | 3:28 | 2021-12-03 | 2022-04-19 |

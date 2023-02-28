@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE! MOONLIGHT SUNRISE is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,135 likes - 113 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,580 likes - 113 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

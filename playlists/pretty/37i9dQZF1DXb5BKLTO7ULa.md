@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,488 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,510 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Diamonds](https://open.spotify.com/track/41SR1dMrx8vrBn3GWJ1Ika) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Diamonds](https://open.spotify.com/album/6JoxzAuwa8YOL0DafpgX1u) | 4:48 |
 | 100 | [I Won't Hurt You Again](https://open.spotify.com/track/3Q4maXH2ZZrXAmMNDo2jso) | [Wyke van Weelden](https://open.spotify.com/artist/49AdzUx2lR8JtzYBEyPZNB) | [I Won't Hurt You Again](https://open.spotify.com/album/2XlM06SQfHxdrPOYmiR1On) | 1:34 |
 
-Snapshot ID: `MTY3NzIzMzk3MiwwMDAwMDAwMDIxZDk4NDQxODBiOTMyOTdlZjBhMTcxODNkOWRmZGMz`
+Snapshot ID: `MTY3NzQ5NDMwOCwwMDAwMDAwMDJhODY0YWNjNGQwZDZkZDI4YzllYmZiMTY0OWM2M2Zm`

@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-111 songs - 8 hr 9 min
+112 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Anbae Peranbae](https://open.spotify.com/track/6qRiVOBexkxK4BxSt1j6rn) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [NGK \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PSOoUkPG2oOSOVqAk3L7r) | 4:29 | 2021-08-16 |  |
 | [Andha Kanna Paathaakaa](https://open.spotify.com/track/0qvoxfYodIfe14gaidhnsV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:14 | 2021-08-16 | 2022-10-12 |
 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 | 2021-08-16 |  |
+| [Aval](https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep](https://open.spotify.com/artist/5TZzBBayl8u85ZdzhwMHuO), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Manithan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb) | 4:26 | 2023-02-28 |  |
 | [Ayyayo](https://open.spotify.com/track/5DYfTyqUNBmOnQtljQjYk2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 5:24 | 2021-08-16 |  |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-09 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-11 |  |

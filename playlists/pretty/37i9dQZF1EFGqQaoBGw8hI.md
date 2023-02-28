@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922 likes - 477 songs - 1 day 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928 likes - 477 songs - 1 day 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 168 | [Joseph, Better You Than Me](https://open.spotify.com/track/3sP7Degi5k17ymz7yLvC2w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Neil Tennant](https://open.spotify.com/artist/1dfUmPiIel95MFXvQMUAED) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:51 |
 | 169 | [Intermission](https://open.spotify.com/track/1r1qbU1AfoL3HglCyOUXso) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:36 |
 | 170 | [Sixty Years On \- Album Edit](https://open.spotify.com/track/4SOuQPxWb4Bddwj4bLb8Hd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:35 |
-| 171 | [Take This Dirty Water](https://open.spotify.com/track/7LzDPiPVJAXwk2gHkwbpTv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:24 |
-| 172 | [Better Off Dead](https://open.spotify.com/track/1b0ZaClJiGhdTRVHrzilES) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 2:37 |
+| 171 | [Better Off Dead](https://open.spotify.com/track/1b0ZaClJiGhdTRVHrzilES) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 2:37 |
+| 172 | [Take This Dirty Water](https://open.spotify.com/track/7LzDPiPVJAXwk2gHkwbpTv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:24 |
 | 173 | [Voyeur](https://open.spotify.com/track/2RdAw1XJ6wfz26XqLgwuWE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:16 |
 | 174 | [2 Fingers of Whiskey \- Music from The American Epic Sessions](https://open.spotify.com/track/5Yn8WCB4Dqm8snemB5Mu4K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [2 Fingers of Whiskey \(Music from The American Epic Sessions\)](https://open.spotify.com/album/1vWwGmDI0xHYUuGGOxMZka) | 2:52 |
 | 175 | [Rotten Peaches](https://open.spotify.com/track/1JhwFgtWL1CB1qrjRO62wg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:58 |
@@ -303,8 +303,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 293 | [The Retreat](https://open.spotify.com/track/40WQq0NlqfULc48h4Rbw36) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:46 |
 | 294 | [Into The Old Man's Shoes](https://open.spotify.com/track/4UhrY4619OAy9Kg76Bdrli) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 4:17 |
 | 295 | [It's Me That You Need](https://open.spotify.com/track/6fprMrT0pdkqjmuWQsMqDo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:04 |
-| 296 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
-| 297 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
+| 296 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
+| 297 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
 | 298 | [Grimsby](https://open.spotify.com/track/0v7vqcby8CF7tSlh7GAYId) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:46 |
 | 299 | [Sartorial Eloquence](https://open.spotify.com/track/10iq4kBKW7tPIzUEIKmcTm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:43 |
 | 300 | [Shine On Through](https://open.spotify.com/track/6alVOFBQtlXKUnkvpLkVsE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:45 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc5NTc2MjEsMDAwMDAwMDBlZjQ1YWMzYTkxODkyNDdhOWU5YTEwN2IzOTZlN2M5MA==`
+Snapshot ID: `Mjc5NTkwNjEsMDAwMDAwMDAyZjEyOGMxNTlhNWE4NzMyOGE0MWQzMWIwMTMwYzEzZg==`

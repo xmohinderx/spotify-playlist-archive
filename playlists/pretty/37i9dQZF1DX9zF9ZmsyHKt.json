@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 319316,
+  "num_followers": 319354,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDczODM0OGQ3NTEyNDY3NWQyNzE1Mjk1OTg2NzI2MDQ4",
+  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMGRkYjNjNDY2N2FjODkxZmUwYmRhZmE3ZmNjY2I2OTIx",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Asa Morena",
+        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
+      },
+      "artists": [
+        {
+          "name": "Zizi Possi",
+          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Asa Morena",
+      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Asa Morena",
-        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
       },
       "artists": [
         {
-          "name": "Zizi Possi",
-          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Asa Morena",
-      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sandra de S\u00e1 - 1982",
-        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
       "artists": [
         {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Olhos Coloridos",
-      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -823,22 +839,6 @@
       "duration_ms": 191250,
       "name": "Cafe\u00edna",
       "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 181413,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c1gua na Boca",
-        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
-      },
-      "artists": [
-        {
-          "name": "Tati Zaqui",
-          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "\u00c1gua na Boca",
-      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c1gua na Boca",
+        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
+      },
+      "artists": [
+        {
+          "name": "Tati Zaqui",
+          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "\u00c1gua na Boca",
+      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Baldin de Gelo",
-        "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
-      },
-      "artists": [
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "Baldin de Gelo",
-      "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sorriso Aberto",
         "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 276426,
       "name": "Sorriso Aberto",
       "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Baldin de Gelo",
+        "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 167341,
+      "name": "Baldin de Gelo",
+      "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Louca",
-        "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Louca",
-      "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Assim Que Se Faz",
         "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 300626,
       "name": "Assim Que Se Faz",
       "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Louca",
+        "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Louca",
+      "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 153635,
-      "name": "Frank Ocean",
-      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Vinte Palavras ao Redor do Sol",
         "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 183933,
       "name": "Quem Vai Quem Vem",
       "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 153635,
+      "name": "Frank Ocean",
+      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
     },
     {
       "added_at": "2022-10-07 03:01:33",

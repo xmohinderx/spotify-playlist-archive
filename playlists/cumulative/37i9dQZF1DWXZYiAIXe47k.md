@@ -4,7 +4,7 @@
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-93 songs - 5 hr 18 min
+98 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,14 +38,17 @@
 | [DANCE FOR TWO](https://open.spotify.com/track/7scwc2Hegepz04a3bnlmKC) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:24 | 2022-05-22 |  |
 | [DANDELION](https://open.spotify.com/track/3a7omVEAcSSd8fYqhBXeNj) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:08 | 2022-05-22 |  |
 | [DEEP INSIDE](https://open.spotify.com/track/4OHGuBU5yUrgsT1emgxMSu) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 4:18 | 2022-05-22 |  |
+| [Dive](https://open.spotify.com/track/3LzLtAzD3IT6m6SAG93jZs) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:54 | 2023-02-27 |  |
 | [DO YOU REMEMBER](https://open.spotify.com/track/2tmyzuhfWisbAMP0FS4Vz7) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:34 | 2022-05-22 |  |
 | [DOWN FOR YOU](https://open.spotify.com/track/5KbRQ2OKdjJg9gJOT8bRCs) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:03 | 2022-05-22 |  |
 | [EINSTEIN](https://open.spotify.com/track/4WiM9e6asPxzpuRCGMc9Yy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:15 | 2022-05-22 |  |
 | [ENCORE \(feat\. ABNEW\)](https://open.spotify.com/track/7zRuShJWeYLZD25qCR50pp) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [ABNEW](https://open.spotify.com/artist/7AlGsK053CkIzcWtFZgJlv) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:45 | 2022-05-22 |  |
 | [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/2c7h4G9kkMxeKCgh6Md7VR) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[Remixes\]](https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq) | 3:32 | 2022-05-22 |  |
 | [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[AB6IX Remix\]](https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR) | 3:32 | 2022-05-22 | 2022-07-29 |
+| [Feelin' Good \(feat\. Jiselle\)](https://open.spotify.com/track/5jmCwPd97v8ciEfPQMuoF9) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:55 | 2023-02-27 |  |
 | [FRIEND ZONE](https://open.spotify.com/track/14e9d2LyLPHqWna3WmavAf) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 2:56 | 2022-05-22 |  |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2022-05-22 |  |
+| [Gotta Go \(feat\. Verbal Jint\)](https://open.spotify.com/track/1TpK1bmTjm4N1BAcPi7x7Q) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 3:10 | 2023-02-27 |  |
 | [HEADLINE](https://open.spotify.com/track/3gC6MlNNzzFPRMDJFiANN4) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:30 | 2022-05-22 |  |
 | [HEAVEN](https://open.spotify.com/track/1wBCZKRXLl3Ody9PwbeE7j) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:31 | 2022-05-22 |  |
 | [HEAVEN](https://open.spotify.com/track/5dZIWP8a0NciO6bC0cMbb7) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:31 | 2022-05-22 |  |
@@ -80,6 +83,7 @@
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2022-05-22 |  |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-22 |  |
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/1UZdvZuUVkRNdRWFcBmjaQ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:02 | 2022-09-06 |  |
+| [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/track/0BC0BGu78DzVZ6sTUOevEa) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 4:44 | 2023-02-27 |  |
 | [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/track/1UChGtr3KzNRIxkOqPhDWw) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/album/70wZqV2TqpWbhVisqt27Ex) | 4:44 | 2023-02-16 |  |
 | [Set You Free](https://open.spotify.com/track/2uHfd1rAFd9ZhAXSFS7KqW) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:26 | 2022-09-06 |  |
 | [SHADOW](https://open.spotify.com/track/6myWuWpEcdtX11cWbFxQT6) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:12 | 2022-05-22 |  |
@@ -95,6 +99,7 @@
 | [SURREAL](https://open.spotify.com/track/28pj5S2cbGHxdF3sk2x4lc) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:13 | 2022-05-22 |  |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-22 |  |
 | [THE ANSWER](https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:10 | 2022-05-22 |  |
+| [Top Tier](https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:50 | 2023-02-27 |  |
 | [Umbrella](https://open.spotify.com/track/0lHPWGj6Zl62Ff8afRIN7w) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:38 | 2022-09-06 |  |
 | [VENUS](https://open.spotify.com/track/4qhd5mh5VBZJL6vhIM3Oxk) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:10 | 2022-05-22 |  |
 | [VIVID](https://open.spotify.com/track/3z4jfbtiivb9HYzCROWF1c) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:24 | 2022-05-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,249 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,270 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [ground zero](https://open.spotify.com/track/2CZOoc9wPOPVmxutXjkKIC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ground zero](https://open.spotify.com/album/6FNIsL7WujpVXF975ZC6ri) | 2:43 |
 | 50 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDRjOGNlMWExMjMyNmJkMzVlYzMyZDAzMWJlMGJmZmEy`
+Snapshot ID: `MTY3NzQ5Mzg5MSwwMDAwMDAwMGU2NGE5NThiNWNhOGVkYWJjMjhkZDIxNzFiZTcyMWM4`

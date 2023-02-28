@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33964,
+  "num_followers": 33966,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMGQ4YTc2Nzc0MTZjYmJjOWM5ZGM2NGE5ZDIyNjk1ODA1",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDQ1YWJmNWEyNGE0MWE2NjZlMzM5NzQ3NmQwMWNiNDdl",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "The Way We Move",
-        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "The Way We Move",
-      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
       },
@@ -415,6 +395,22 @@
       "duration_ms": 281133,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "I'm Writing a Novel",
+      "url": "https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -435,22 +431,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "I'm Writing a Novel",
-      "url": "https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -483,6 +463,26 @@
       "duration_ms": 308373,
       "name": "When My Time Comes",
       "url": "https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Way We Move",
+        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "The Way We Move",
+      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
     },
     {
       "added_at": "2022-06-17 04:02:00",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-372 songs - 1 day 14 hr 29 min
+373 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Odium](https://open.spotify.com/track/4suC1hINTUwtEjbGDgeKzi) | [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE), [VRuno](https://open.spotify.com/artist/0f3CNjLXoEkL441sJUE4BO) | [Stories From Space](https://open.spotify.com/album/1bAAVjlN4pssW3GMWZGJaN) | 7:28 | 2021-05-26 | 2022-07-22 |
 | [Of Dreams and Hopes](https://open.spotify.com/track/4gV7GVMSyubzPxOjToHOMM) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Of Dreams and Hopes](https://open.spotify.com/album/4ofJwou4D0dp0ij2nI8O7S) | 7:22 | 2022-01-07 | 2022-07-28 |
 | [Olappa](https://open.spotify.com/track/4MaARFislNIGgr6iqejbHC) | [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [Lunar Plane / Daniel Rateuke](https://open.spotify.com/album/440LEyeR8cvOC2LKtbBret) | 7:42 | 2021-04-21 | 2022-04-21 |
+| [Olele](https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Talisman](https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9) | 3:45 | 2023-02-24 |  |
 | [On Me \- Malóne Remix](https://open.spotify.com/track/5Wemnm8Xwz2b2h6BfDsvMi) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Malone](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Uhura](https://open.spotify.com/artist/3jngSW5geTKjZ8OjMFuGs6) | [On Me \(Malóne Remix\)](https://open.spotify.com/album/6y6P7dKg5zEQgScPD1w4I9) | 3:25 | 2022-09-16 | 2022-10-21 |
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2022-07-28 |  |
 | [Once Again \- Edit](https://open.spotify.com/track/00n7wN0flnH48KVwQOms7A) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Evaporate EP](https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1) | 4:12 | 2021-10-01 | 2022-07-29 |
@@ -342,7 +343,7 @@
 | [Travelers](https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Dicko Fils](https://open.spotify.com/artist/6gKDb7SO4kOI65oVwcunH6) | [Globe Trotter, Vol.1](https://open.spotify.com/album/32kngqUC4ThQAVJGRGUw8T) | 4:24 | 2021-04-21 | 2022-11-28 |
 | [Traversata \- Xique\-Xique Remix](https://open.spotify.com/track/6hcorDTyKB3AXqCUQedAIj) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Caravaca](https://open.spotify.com/artist/1OWiZw4DbyqYtwl4klKOlJ), [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [5 \(Part 3\)](https://open.spotify.com/album/7ISfJeYaR9DLi5UfbxlAbP) | 5:49 | 2022-02-04 | 2022-07-29 |
 | [Tribute To Orange Clouds](https://open.spotify.com/track/5joBjODoRwhq4Y9HbnFuhw) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Tribute To Orange Clouds](https://open.spotify.com/album/1uZm7H0vJXyVl80WifEWYU) | 3:42 | 2023-01-27 |  |
-| [Trife](https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Trife](https://open.spotify.com/album/6U4olz1BCDozivoX3RGyZf) | 3:44 | 2022-10-14 |  |
+| [Trife](https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Trife](https://open.spotify.com/album/6U4olz1BCDozivoX3RGyZf) | 3:44 | 2022-10-14 | 2023-02-28 |
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-10-01 | 2023-01-14 |
 | [Trip In \- Xinobi Remix](https://open.spotify.com/track/44TGd1DqzCDKPHQHq2XjQw) | [Omri Guetta](https://open.spotify.com/artist/4GDZFqNEOr2pNK8Uz6ZRX6), [Omer Tayar](https://open.spotify.com/artist/7ITO7tOeUqqjVBSVQB4yFB), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Trip In \( Xinobi Remix \)](https://open.spotify.com/album/20anOD1TikexSu4EOfFsHU) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Unexpected \- Original Mix](https://open.spotify.com/track/6r51snBpocTojQyqiTvydG) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Unexpected](https://open.spotify.com/album/3fUMfl3s0VtOVWeRshPSGj) | 7:02 | 2022-07-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-306 songs - 16 hr 2 min
+307 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Tapinha](https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Tapinha](https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q) | 2:26 | 2022-08-11 | 2023-01-10 |
 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 | 2022-11-07 |  |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-08 |  |
+| [te vi dançando](https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO) | 1:18 | 2023-02-27 |  |
 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-10-06 | 2022-10-22 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2022-10-22 |
 | [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-15 | 2022-08-10 |
@@ -289,7 +290,7 @@
 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-07-28 | 2022-08-18 |
 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2022-05-25 | 2022-10-22 |
 | [Tá Querendo](https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Tá Querendo](https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW) | 2:37 | 2022-11-17 |  |
-| [Tô Invisível](https://open.spotify.com/track/6W2L8PLZq7hbHbVaf1PDFL) | [DJ Jeffdepl](https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k) | [Tô Invisível](https://open.spotify.com/album/6lef7pjgBWoQyM1srNbo3K) | 2:32 | 2023-02-06 |  |
+| [Tô Invisível](https://open.spotify.com/track/6W2L8PLZq7hbHbVaf1PDFL) | [DJ Jeffdepl](https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k), [Murilo Cajaiba](https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf) | [Tô Invisível](https://open.spotify.com/album/6lef7pjgBWoQyM1srNbo3K) | 2:32 | 2023-02-06 |  |
 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 | 2022-05-25 | 2022-09-22 |
 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 | 2022-09-26 | 2023-01-10 |
 | [Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL) | 4:36 | 2022-07-22 | 2022-08-05 |

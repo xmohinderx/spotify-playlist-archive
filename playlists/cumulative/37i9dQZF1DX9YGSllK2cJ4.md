@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-287 songs - 13 hr 0 min
+288 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2022-08-01 | 2022-10-25 |
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2022-08-01 | 2022-10-25 |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2022-08-01 |  |
+| [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-02-27 |  |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-08-01 |  |
 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2022-08-01 |  |
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2022-08-01 |  |

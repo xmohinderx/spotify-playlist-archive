@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 8579,
+  "num_followers": 8644,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGZlMjBhMDBjNDJmZWM4MzBjMjMzNjlhYTZhOWI1ZjE4",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDVhODY0NWYzNGZlNDQwYWQxNjRkN2YyZjVkZjQyMTI5",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -137,26 +137,6 @@
       "url": "https://open.spotify.com/track/4HzTglAWhVCUmRdhpYwDGw"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Robert Cray & Hi Rhythm",
-        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "Hi Rhythm",
-          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "The Same Love That Made Me Laugh",
-      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Sharecropper's Son",
@@ -171,22 +151,6 @@
       "duration_ms": 174106,
       "name": "Starting To See",
       "url": "https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Don't Give Up On Me",
-        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 329386,
-      "name": "None Of Us Are Free",
-      "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -219,6 +183,42 @@
       "duration_ms": 156973,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 329386,
+      "name": "None Of Us Are Free",
+      "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Robert Cray & Hi Rhythm",
+        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "Hi Rhythm",
+          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "The Same Love That Made Me Laugh",
+      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Doin' The Funky Thing",
-        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
-      },
-      "artists": [
-        {
-          "name": "Walter Wolfman Washington",
-          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Miss Lavelle",
         "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I'll Sing the Blues for You",
-        "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
+        "name": "Doin' The Funky Thing",
+        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
       },
       "artists": [
         {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+          "name": "Walter Wolfman Washington",
+          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
         }
       ],
-      "duration_ms": 295626,
-      "name": "Thru Chasin' You",
-      "url": "https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx"
+      "duration_ms": 313813,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -575,6 +559,22 @@
       "duration_ms": 282026,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I'll Sing the Blues for You",
+        "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
+      },
+      "artists": [
+        {
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+        }
+      ],
+      "duration_ms": 295626,
+      "name": "Thru Chasin' You",
+      "url": "https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,70 +643,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
-      },
-      "artists": [
-        {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Into the Mystic",
-        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Soul Deep",
-      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Bridge to a Legacy",
-        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Who's Still in Love",
-      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hit That Thing",
         "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
@@ -735,6 +671,70 @@
       "duration_ms": 208266,
       "name": "You're Only Good For One Thang Baby",
       "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Into the Mystic",
+        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
+      },
+      "artists": [
+        {
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+        }
+      ],
+      "duration_ms": 184306,
+      "name": "Soul Deep",
+      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Bridge to a Legacy",
+        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Who's Still in Love",
+      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
+      },
+      "artists": [
+        {
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hit That Thing",
         "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
@@ -803,22 +787,6 @@
       "duration_ms": 320666,
       "name": "On The Drift",
       "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talkin' About Chicago",
-        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Sweet Dynamite!",
-      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -839,6 +807,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 269000,
       "name": "Baby I Will",
       "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Sitting on Top of the Blues",
+        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 243044,
+      "name": "You Got the Goods on You",
+      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talkin' About Chicago",
+        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Sweet Dynamite!",
+      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -871,18 +887,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Sitting on Top of the Blues",
-        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
         }
       ],
-      "duration_ms": 243044,
-      "name": "You Got the Goods on You",
-      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
+      "duration_ms": 332826,
+      "name": "Honey It's Your Fault",
+      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -931,22 +947,6 @@
       "duration_ms": 389373,
       "name": "Living",
       "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
-      },
-      "artists": [
-        {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
-        }
-      ],
-      "duration_ms": 332826,
-      "name": "Honey It's Your Fault",
-      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
     },
     {
       "added_at": "2020-12-01 05:01:00",

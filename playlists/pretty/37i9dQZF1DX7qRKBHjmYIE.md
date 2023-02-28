@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Eddie Zuko
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,835 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,824 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 43 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 |
 | 44 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 |
 | 45 | [wonder](https://open.spotify.com/track/6d4J0NMFdQ8Y6dRCAc0Kzp) | [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [wonder](https://open.spotify.com/album/5YBrEKfnHHCPWoLSKl9L1d) | 2:54 |
-| 46 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 |
-| 47 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 |
+| 46 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 |
+| 47 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 |
 | 48 | [Minute In The Morning](https://open.spotify.com/track/1Epn4eSgWUPQ1gGM64jmGc) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 2:41 |
 | 49 | [Supersad](https://open.spotify.com/track/3wXHiSxEOqxhPHB9sa2Ylk) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Oscuro](https://open.spotify.com/album/2M2py5NnsTLVQhmkQfIrft) | 3:35 |
 | 50 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
 
-Snapshot ID: `MTY3NjU4MTIwMywwMDAwMDAwMDU1OTJhMzRiYzY1ZWE0ZWY0NmUxMTQzNTBhMjlkN2Iy`
+Snapshot ID: `MTY3NjU4MTIwMywwMDAwMDAwMGJkOGUyMDdkZTY1YTFhMzEwYTc3ODk5ZDUyMDg4OTY5`

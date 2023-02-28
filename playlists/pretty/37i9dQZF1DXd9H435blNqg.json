@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 33970,
+  "num_followers": 34035,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGU0NDZhNmFkNWQ4MzY4Zjk3MTkyZjc5NzMyMTVjYmJk",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGI4YzNlYzM5MmVhMzAwNWM3ZTk1MGMyZThkMGE1OWNm",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Say the Word",
         "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 249826,
       "name": "Good So Bad",
       "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
-      },
-      "artists": [
-        {
-          "name": "Bhi Bhiman",
-          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Can't Nobody Stop Us",
-      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Bhi Bhiman",
+          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
         }
       ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+      "duration_ms": 194093,
+      "name": "Can't Nobody Stop Us",
+      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -739,6 +723,22 @@
       "duration_ms": 167680,
       "name": "Love Your Lies",
       "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 225551,
       "name": "Searching for Captain Save a Hoe",
       "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     }
   ],
   "unique_name": "Alt-Blue",

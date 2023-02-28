@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Zaho
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,675 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,737 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 31 | [Tous les mêmes](https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Tous les mêmes](https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz) | 2:30 |
 | 32 | [Moto](https://open.spotify.com/track/29XzUe8f0kgyi2a1a6RIZb) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Moto](https://open.spotify.com/album/1iJhLKwyL33rpOwCr7MzYY) | 2:57 |
 | 33 | [Nous deux](https://open.spotify.com/track/7eB8T5wFiukyKGw3gtWyJJ) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Nous deux](https://open.spotify.com/album/10x2oUxuTk4ezgt0DkJdTL) | 3:41 |
-| 34 | [Déchirer](https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/0CjzyYuYPb82BKKFHGlSIj) | 2:57 |
+| 34 | [Déchirer](https://open.spotify.com/track/58n3lagQzx7m6oUYdlhaqz) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/7EjSTlxv8BlPWR8hoUhfAL) | 2:57 |
 | 35 | [Quart d’heure](https://open.spotify.com/track/2oDiYffqlWKYwLtKdDmKqD) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Quart d’heure](https://open.spotify.com/album/7mg7WFBAuTHetVMBrvHfFR) | 3:08 |
 | 36 | [Les mêmes](https://open.spotify.com/track/23rJ3HBSrfti4np2beqIQj) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Les mêmes](https://open.spotify.com/album/1kI2J7T0ZGce0qN4ERZB3E) | 3:00 |
 | 37 | [Dangereuse](https://open.spotify.com/track/1Xbhl1jCBvOP8APtVW3Qlp) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Dangereuse](https://open.spotify.com/album/2jUb2ndTkptvv6VbhgQRTC) | 2:17 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Le ciel s'en rappelle](https://open.spotify.com/track/32ZKmrDdhJKMV8Hb9ij303) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Le ciel s'en rappelle](https://open.spotify.com/album/2Tw8WTzH1XNKbQqNq36YVT) | 2:35 |
 | 40 | [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDNjYTJjYzNiMDIwZThkM2Q1NmNhMWExNjkzMGZlYTgz`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGIwZDcxZTU3NzVhODM3YjU3NTdlNTNiYWVjNTQ0MzI3`

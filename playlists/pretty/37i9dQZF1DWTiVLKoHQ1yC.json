@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 138327,
+  "num_followers": 138457,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGUwOTc3NmMyMzM5Nzc2NDI4NjQxMGY2ZmUxODg0YzU0",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDUwNWVlY2Q0MTFlNzlhMDUzNGQ4N2RmODUzNWYyZGMz",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -219,46 +239,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+        "name": "Elements Of A New Life",
+        "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "VER:WEST",
+          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
         },
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 262249,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
+      "duration_ms": 205161,
+      "name": "Elements Of A New Life",
+      "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -287,22 +283,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Elements Of A New Life",
-        "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
       "artists": [
         {
-          "name": "VER:WEST",
-          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Elements Of A New Life",
-      "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+      "duration_ms": 262249,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
         "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 398969,
       "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
       "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "My Stripes",
         "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 216393,
       "name": "Alkantara",
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Lose Your Head (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Shizumu",
+        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 231830,
+      "name": "Shizumu",
+      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Hope In Balance",
         "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 278796,
       "name": "Hope In Balance",
       "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Shizumu",
-        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
-      },
-      "artists": [
-        {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
-        }
-      ],
-      "duration_ms": 231830,
-      "name": "Shizumu",
-      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
     },
     {
       "added_at": "2022-11-25 16:56:36",

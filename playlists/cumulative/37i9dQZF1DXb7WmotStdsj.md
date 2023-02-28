@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-142 songs - 11 hr 28 min
+143 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | [Amoune talens zahri win w ana win](https://open.spotify.com/track/5CLJ2AUPt5FEehRBKlaP2I) | [Chiheb Records](https://open.spotify.com/artist/1BzNuIZWSLjzzSGdhrAVzE) | [Amoune talens zahri win w ana win](https://open.spotify.com/album/1lBG8SHriKycg8252UOGX3) | 3:05 | 2022-09-08 | 2022-09-20 |
 | [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 | 2022-08-28 |  |
 | [Ana wiyak](https://open.spotify.com/track/4dw3HdccXL0pQQTgSwdRs6) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ana wiyak](https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk) | 3:03 | 2022-09-20 |  |
-| [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 |  |
+| [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 | 2023-02-28 |
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
+| [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb djalil](https://open.spotify.com/artist/2aTFw3gTDHVHXYYzgRf3xy) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 | 2023-02-27 |  |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
 | [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 | 2023-01-14 |
 | [Bye Bye](https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Bye Bye](https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv) | 3:31 | 2021-10-19 | 2022-12-26 |

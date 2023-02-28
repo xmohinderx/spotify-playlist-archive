@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 635652,
+  "num_followers": 635837,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM0NDE4OSwwMDAwMDAwMGNiMzgwOTA5OTExYmVhYWQxNDk5ZmIwODQ2YTA2NzJm",
+  "snapshot_id": "MTY3NjM0NDE4OSwwMDAwMDAwMGQ5Y2E5ZWNlMDEyNTBhNzgxMGNlNWZiZGVhY2Y5YjJj",
   "tracks": [
     {
       "added_at": "2023-02-03 04:48:46",
@@ -407,30 +407,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
-      "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Sr. Tigre (French Braids Rework)",
         "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
+      "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
     },
     {
       "added_at": "2022-11-17 23:07:04",
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/1Om2ZfnIx2dueS6LcMzlyO"
     },
     {
-      "added_at": "2023-02-27 00:36:33",
+      "added_at": "2023-02-28 01:13:24",
       "album": {
         "name": "Cumbia Espectro",
         "url": "https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv"
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Fuerte Y Caliente",
-        "url": "https://open.spotify.com/album/1kuQaIG6KmIRjcbB32bVc8"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 220695,
-      "name": "Mambeado",
-      "url": "https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "B\u00e9same Morenita",
         "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 165520,
       "name": "B\u00e9same Morenita",
       "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Fuerte Y Caliente",
+        "url": "https://open.spotify.com/album/1kuQaIG6KmIRjcbB32bVc8"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 220695,
+      "name": "Mambeado",
+      "url": "https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt"
     },
     {
       "added_at": "2023-01-02 21:49:30",
@@ -579,26 +579,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "YoSoyMatt (feat. Hermanu)",
-        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Hermanu",
-          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "YoSoyMatt (feat. Hermanu)",
-      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 213986,
       "name": "Buen Viaje",
       "url": "https://open.spotify.com/track/53Jf3ChStU9gJy69jUYRVw"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "YoSoyMatt (feat. Hermanu)",
+        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Hermanu",
+          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "YoSoyMatt (feat. Hermanu)",
+      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -735,30 +735,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Aurora Dijo Adi\u00f3s",
-        "url": "https://open.spotify.com/album/16k4HKRG2p2d3E7k6dmzHJ"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "Aurora Dijo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Aurora Dijo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/16k4HKRG2p2d3E7k6dmzHJ"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "Aurora Dijo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 293746,
       "name": "Duda Morena",
       "url": "https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
     },
     {
       "added_at": "2021-11-10 16:29:39",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2022-06-08 03:35:19",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Tiempo Compartido",
@@ -1371,6 +1355,22 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+    },
+    {
+      "added_at": "2022-06-08 03:35:19",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "La F\u00f3rmula del Mambo",
         "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 259591,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Tengo Lo Que Tengo",
         "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 203664,
       "name": "Tengo Lo Que Tengo",
       "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
-    },
-    {
       "added_at": "2022-02-25 03:00:34",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -1643,6 +1627,22 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1745,22 +1745,6 @@
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
     },
     {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Aguacate",
@@ -1775,6 +1759,22 @@
       "duration_ms": 207313,
       "name": "Aguacate",
       "url": "https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej"
+    },
+    {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Nia Archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,218 likes - 76 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,343 likes - 76 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

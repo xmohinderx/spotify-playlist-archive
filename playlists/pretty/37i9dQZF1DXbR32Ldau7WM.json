@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 250727,
+  "num_followers": 250808,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2NDQwMCwwMDAwMDAwMDJjNmRlZWEyYzkzZDEyNDYxNjI5YjU2OGQ5Y2QxYzQx",
+  "snapshot_id": "MTY3NzE2NDQwMCwwMDAwMDAwMDQ5MzRhMDI4NjVjMDE1ZGM4M2NkMjQwMmIwNTYyNmZl",
   "tracks": [
     {
       "added_at": "2023-02-23 15:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "\u5bbf\u7e01",
-        "url": "https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA"
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
       },
       "artists": [
         {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 213000,
-      "name": "\u5bbf\u7e01",
-      "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "METAL KINGDOM",
-        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
+        "name": "\u5bbf\u7e01",
+        "url": "https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
+      "duration_ms": 213000,
+      "name": "\u5bbf\u7e01",
+      "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -719,18 +719,22 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "\u7dcf\u5408",
-        "url": "https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp"
+        "name": "10-feat",
+        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
       "artists": [
         {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 280000,
-      "name": "\u539f\u7f6a\u3068\u798f\u97f3",
-      "url": "https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9"
+      "duration_ms": 236013,
+      "name": "VIBES BY VIBES",
+      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
     },
     {
       "added_at": "2023-02-23 15:00:00",
@@ -751,22 +755,18 @@
     {
       "added_at": "2023-02-23 15:00:00",
       "album": {
-        "name": "10-feat",
-        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+        "name": "\u7dcf\u5408",
+        "url": "https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
         }
       ],
-      "duration_ms": 236013,
-      "name": "VIBES BY VIBES",
-      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+      "duration_ms": 280000,
+      "name": "\u539f\u7f6a\u3068\u798f\u97f3",
+      "url": "https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9"
     },
     {
       "added_at": "2023-02-23 15:00:00",

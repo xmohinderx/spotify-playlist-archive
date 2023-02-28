@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,602 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,666 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 81 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 |
 | 82 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 |
 | 83 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 |
-| 84 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 |
-| 85 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
+| 84 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
+| 85 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 |
 | 86 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
 | 87 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 |
 | 88 | [Lonely](https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Yonawo House](https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX) | 3:31 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 90 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 |
 | 91 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 |
 | 92 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 |
-| 93 | [TOMORROW](https://open.spotify.com/track/0CtLaqaOEcCcnrd4SMyRO6) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [TOMORROW](https://open.spotify.com/album/3OzVRrt3RvNApAx0zsiihO) | 3:11 |
-| 94 | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR) | 4:20 |
-| 95 | [paradigm](https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [paradigm](https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M) | 3:33 |
-| 96 | [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 |
+| 93 | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR) | 4:20 |
+| 94 | [TOMORROW](https://open.spotify.com/track/0CtLaqaOEcCcnrd4SMyRO6) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [TOMORROW](https://open.spotify.com/album/3OzVRrt3RvNApAx0zsiihO) | 3:11 |
+| 95 | [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 |
+| 96 | [paradigm](https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [paradigm](https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M) | 3:33 |
 | 97 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 |
 | 98 | [This Is The Night](https://open.spotify.com/track/6malMRVfOTA9bGs3BVVbu9) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG), [Gagle](https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 4:14 |
 | 99 | [Vision Quest](https://open.spotify.com/track/6tAh4drk67WkQi4EwXnCkM) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [Vision Quest](https://open.spotify.com/album/4rGN5cYGuap6XTiOMxMCuH) | 3:08 |
 | 100 | [Dude on horse \(feat\. ZOMBIE\-CHANG\)](https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 2:31 |
 
-Snapshot ID: `MTY3NzE2NDQwMCwwMDAwMDAwMDk1OWM4ZWQ5NzAzMTAzMTRkMjk5YzFlOTcxODcwNzc3`
+Snapshot ID: `MTY3NzE2NDQwMCwwMDAwMDAwMDA2YTIwM2RlYzZjOTgwODAzYmMwNDM4NmFjY2Y1ZjQ4`

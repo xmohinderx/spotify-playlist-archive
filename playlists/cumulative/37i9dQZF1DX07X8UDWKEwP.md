@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Manú, Beéle & Andrés Cepeda
 
-219 songs - 13 hr 14 min
+220 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Empanterado](https://open.spotify.com/track/3WJcglgyyovIHwV2iy7TcQ) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4) | [Empanterado](https://open.spotify.com/album/7cLjUB3j1TPzClNXVlHjEI) | 6:44 | 2022-07-19 | 2023-01-14 |
 | [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 | 2023-01-20 |  |
 | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/track/1B4d6OYKzXWtBjysNQclfz) | [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/album/3W2UFR03gjYhAljpYcgPak) | 3:23 | 2022-01-01 | 2022-01-29 |
-| [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 |  |
+| [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 | 2023-02-28 |
 | [Eres Pasado](https://open.spotify.com/track/2jcOOMWz2XdcDndQX14sWs) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA), [El Sheke](https://open.spotify.com/artist/7kqzYL4VRj0qGXUtAt655a) | [Eres Pasado](https://open.spotify.com/album/4qbWO8FKazhiu5hzOxMA4r) | 3:10 | 2022-04-29 | 2022-06-30 |
 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 | 2022-09-09 | 2023-02-18 |
 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 | 2023-02-10 |  |
@@ -189,6 +189,7 @@
 | [Sin Fronteras](https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Haila](https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P) | [Sin Fronteras \(feat\. Haila\)](https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C) | 5:01 | 2022-06-29 | 2023-01-23 |
 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 | 2023-02-10 |  |
 | [Soledad](https://open.spotify.com/track/4ENwpKXzmWBnRUIfjP3uha) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q) | [Regresó el Amor](https://open.spotify.com/album/043YKQDY6ao1dcAAY5X2mA) | 3:26 | 2022-06-29 | 2023-01-14 |
+| [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 | 2023-02-24 |  |
 | [Soltera](https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Soltera](https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7) | 3:02 | 2022-02-11 | 2023-01-29 |
 | [Sopita](https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Sopita](https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I) | 3:26 | 2023-01-27 |  |
 | [Soy Latino](https://open.spotify.com/track/1bCt3NQE1j7Nm9ZMeB4Ivt) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Soy Latino](https://open.spotify.com/album/4tM6VtqyP0i0eg6y7eYd21) | 4:18 | 2022-07-19 | 2023-01-22 |

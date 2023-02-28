@@ -4833,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
+    },
+    {
+      "album": {
         "name": "Ordinary World",
         "url": "https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi"
       },
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 200171,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1"

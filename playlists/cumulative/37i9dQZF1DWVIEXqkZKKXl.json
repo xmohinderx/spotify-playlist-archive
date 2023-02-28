@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 241600,
       "name": "Asoka Theme - Instrumental",
       "url": "https://open.spotify.com/track/5YVL1NL2hGq8N2WH5HsY22"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 183366,
       "name": "Hanuman Theme",
       "url": "https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Rockford Theme - Instrumental",
       "url": "https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM"
@@ -960,6 +960,24 @@
       "duration_ms": 130207,
       "name": "Sardar Udham Theme",
       "url": "https://open.spotify.com/track/6km40zXhkLINWLJhkgh3sU"
+    },
+    {
+      "album": {
+        "name": "Selfiee (Aggressive Theme) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2wF1SeXb8IvQl2GAkjAcGi"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Selfiee (Aggressive Theme) (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/4KEHDDDVYLcO1Gs26c38uH"
     },
     {
       "album": {

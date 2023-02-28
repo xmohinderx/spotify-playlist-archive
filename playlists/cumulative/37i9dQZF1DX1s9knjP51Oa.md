@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-634 songs - 1 day 3 hr 24 min
+639 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 | 2022-08-09 |  |
 | [Brief Moments](https://open.spotify.com/track/2RMhNaRMKIoOlANHwfcaP1) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Brief Moments](https://open.spotify.com/album/10hj4ZZucFC7qZFFTcEHuZ) | 2:15 | 2021-12-13 | 2022-12-22 |
 | [Brown Eyes](https://open.spotify.com/track/3k90hsLJzPzHcvmhwy50eN) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Brown Eyes](https://open.spotify.com/album/1Hk2QH1pnKMgAJZhYlQL4l) | 2:41 | 2021-12-13 | 2022-10-05 |
+| [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 | 2023-02-27 |  |
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2021-12-13 |  |
 | [calm](https://open.spotify.com/track/7oqrEgk6YezFAT793tw4Hf) | [montemar](https://open.spotify.com/artist/63SdkVMrIukQRL1rGR2oh0) | [calm](https://open.spotify.com/album/5GSIb0dmrclTqrYXd8tu4m) | 2:52 | 2021-12-13 | 2022-09-24 |
 | [Calvaire](https://open.spotify.com/track/76IjkqtXsgh2VJMsymMD42) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Calvaire](https://open.spotify.com/album/0GpzLHZ3EayNBuX7dTlKuB) | 2:16 | 2021-12-13 | 2022-11-12 |
@@ -181,6 +182,7 @@
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2021-12-13 | 2022-12-22 |
 | [Eventus Memoria](https://open.spotify.com/track/4fGktu4RYSYuF05at1ToLu) | [Adelaide Fleur](https://open.spotify.com/artist/4Na9Ks6Pua1oqm1kv3qGum) | [Eventus Memoria](https://open.spotify.com/album/6RDIJwN77xFkVrkHelxNUW) | 2:07 | 2022-12-05 |  |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2021-12-13 |  |
+| [Everything Is You](https://open.spotify.com/track/6LU350ky5JGQ4VwJsTfIq9) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Everything Is You](https://open.spotify.com/album/5Du2iKqG8PpScVLlGXJ6cY) | 3:22 | 2023-02-27 |  |
 | [Expecting](https://open.spotify.com/track/5IZkV8mhcxxFyLduTPtnw0) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Expecting](https://open.spotify.com/album/7cEaMylwXOO3NopOoGlzvJ) | 2:38 | 2021-12-13 | 2022-07-22 |
 | [Fall In Grace](https://open.spotify.com/track/7vMeKpR5hUoPo8nylUFO5x) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Resting Grounds](https://open.spotify.com/album/6a1blpOosJ5ta9nG9eZSX5) | 2:24 | 2021-12-13 |  |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2022-04-21 |  |
@@ -223,6 +225,7 @@
 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 | 2021-12-13 | 2022-07-22 |
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2021-12-13 | 2022-09-24 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-13 | 2022-09-13 |
+| [Gratitude](https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [Gratitude](https://open.spotify.com/album/5YfNOdFUtS4eFZVHBO5GIF) | 1:54 | 2023-02-27 |  |
 | [Green Leaves](https://open.spotify.com/track/1TsMXS2Xy3TSP6LkHEw2WY) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [Green Leaves](https://open.spotify.com/album/4LHWWyLQNckOJYKgmbevdw) | 2:02 | 2022-10-04 |  |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2021-12-13 |  |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-12-13 | 2022-08-30 |
@@ -367,7 +370,7 @@
 | [Moving Forward](https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Moving Forward](https://open.spotify.com/album/49wTfncMF0lOpFyYZsmkVu) | 2:06 | 2021-12-13 |  |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2021-12-13 |  |
 | [Musa](https://open.spotify.com/track/54wxg8ICliDYXmB9ijR6U9) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Musa](https://open.spotify.com/album/0UBWI3uhES0dtvO6v3cMyy) | 2:38 | 2021-12-13 | 2022-11-12 |
-| [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-21 |  |
+| [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-21 | 2023-02-28 |
 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2021-12-13 | 2022-07-29 |
 | [My Only One](https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 2:22 | 2022-07-28 | 2023-01-10 |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2021-12-13 |  |
@@ -434,6 +437,7 @@
 | [Quiet](https://open.spotify.com/track/0mdIhRa6uUwlHmEuUuvuKA) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Quiet](https://open.spotify.com/album/6KxIV0vIVkC90QUs1BFNs3) | 3:13 | 2021-12-13 | 2022-08-30 |
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2021-12-13 | 2022-05-27 |
 | [quiet dream](https://open.spotify.com/track/45eijXxK33ulZc8WByHYUu) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [quiet dream](https://open.spotify.com/album/76I5c8mQvOxBOovUtNcqVn) | 2:09 | 2022-10-24 |  |
+| [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-02-27 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2021-12-13 | 2022-10-05 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-03-02 |  |
 | [Radiant](https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Radiant](https://open.spotify.com/album/7eOhUnQ92WaJvaPo0khuLw) | 1:59 | 2021-12-13 |  |
@@ -475,6 +479,7 @@
 | [Saudade \(When We Are Born\)](https://open.spotify.com/track/1ijwLR1iybtxaUbasUj7kJ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Saudade \(When We Are Born\)](https://open.spotify.com/album/3s5UDbcu9PBKBJ4xIz0zcW) | 2:30 | 2021-12-13 | 2023-01-21 |
 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 | 2021-12-13 | 2022-07-22 |
 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 | 2021-12-13 |  |
+| [Searching for peace](https://open.spotify.com/track/1oTDH6fYxlZT0MitUs0HPb) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Searching for peace](https://open.spotify.com/album/693uXrfZISnow1uU36mzn6) | 3:05 | 2023-02-27 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2022-05-26 |  |
 | [Seaton Village](https://open.spotify.com/track/2KGbpaUiTahJzRr2igPhZ6) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Seaton Village](https://open.spotify.com/album/1cT8HssixLO5z1s2RE4azQ) | 1:37 | 2023-01-27 |  |
 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 | 2021-12-13 | 2022-10-25 |

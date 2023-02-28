@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Breakfast with Chopin",
+        "url": "https://open.spotify.com/album/6c61W7333vPNTC077Ne0Sm"
+      },
+      "artists": [
+        {
+          "name": "Louis Mercier",
+          "url": "https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126328,
+      "name": "Breakfast With Chopin",
+      "url": "https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI"
+    },
+    {
+      "album": {
         "name": "Broken Wings",
         "url": "https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V"
       },
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 133495,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia"

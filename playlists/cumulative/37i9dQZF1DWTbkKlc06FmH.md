@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-234 songs - 14 hr 0 min
+235 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2022-12-21 |
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-12-19 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-01-26 | 2023-02-15 |
+| [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 | 2023-02-28 |  |
 | [Caught Up](https://open.spotify.com/track/437UnpO88O1Jjd0o4J1Rhb) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS) | [Caught Up](https://open.spotify.com/album/1adkVsaJTn5zyNcn4mRMaC) | 4:20 | 2022-12-22 | 2023-02-22 |
 | [celeste feat\. Haruno](https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. Haruno](https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O) | 2:47 | 2022-10-25 | 2022-11-30 |
 | [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 | 2022-10-27 |
@@ -92,7 +93,7 @@
 | [it's al\-LIGHT](https://open.spotify.com/track/6qKV6fQE2vTKYH9KtLepxu) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [it's al\-LIGHT](https://open.spotify.com/album/3TRRPJkQCA4VZ91ZiwoYYr) | 3:04 | 2022-12-22 | 2023-02-24 |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-10-20 | 2023-01-13 |
 | [Jiga](https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Jiga](https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m) | 4:03 | 2023-01-19 | 2023-02-03 |
-| [Kiko's Letter](https://open.spotify.com/track/1sODAZpVglXlGK1TjQA8wc) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:50 | 2023-01-31 |  |
+| [Kiko's Letter](https://open.spotify.com/track/1sODAZpVglXlGK1TjQA8wc) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:50 | 2023-01-31 | 2023-02-28 |
 | [Konna Yoru Dakara](https://open.spotify.com/track/1o4Q88xRSLjA5DbIBChOst) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [Konna Yoru Dakara](https://open.spotify.com/album/6M1NO2vixcPRER6o4xcvnU) | 3:04 | 2023-01-12 | 2023-01-27 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-10-20 | 2022-11-16 |
 | [La La La \- feat\. JQ from Nulbarich](https://open.spotify.com/track/5LvrsZy7CMNdtjEFRan63u) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio collaboration best \-off White\-](https://open.spotify.com/album/3Ip5cak1FzlibuFBlI1Lay) | 4:05 | 2023-01-10 | 2023-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,486 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,491 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 33 | [Married by Elvis](https://open.spotify.com/track/1UUdrZHrSFr6w9gGtam7hZ) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Married by Elvis](https://open.spotify.com/album/7h8BaLFmmkzQ3i4mikNuh9) | 3:06 |
 | 34 | [Carol](https://open.spotify.com/track/58raSxI2FUn6xBtkl5VXtm) | [lemin.](https://open.spotify.com/artist/1nTVRSMfzkCSct5efMdqrg) | [Carol](https://open.spotify.com/album/6jHWm6Jvh0NFBFcXSwlIfQ) | 3:14 |
 | 35 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
-| 36 | [Futures Bet](https://open.spotify.com/track/3yFjPsstCq0drlRdusBhgn) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Futures Bet](https://open.spotify.com/album/3defi3J2QNJ8eikcfjV7Gs) | 4:52 |
+| 36 | [Futures Bet](https://open.spotify.com/track/2hAsxlsoZQDBZa7v8Ay5Xp) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 4:52 |
 | 37 | [No Sleep](https://open.spotify.com/track/15i9Q2tOn1LxxJK9KYAkrO) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [No Sleep](https://open.spotify.com/album/5OpTneX0V8xOTdDbCMHRhZ) | 3:57 |
 | 38 | [La nuit te ressemble](https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [La nuit te ressemble](https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk) | 2:49 |
 | 39 | [January](https://open.spotify.com/track/3EAOQqsj22CuKtTvmPpKC1) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [January](https://open.spotify.com/album/4ADN9dF6lAY3saVz1hFPWu) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Never Be Yours \- Acoustic Version](https://open.spotify.com/track/6MUKFALwpoeQwwUuDstKcP) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours \(Acoustic Version\)](https://open.spotify.com/album/3peZMRRlUCR2oDYwLHIhmd) | 3:50 |
 | 50 | [Coming Right Back](https://open.spotify.com/track/3DytaDPjcqfsGp70VUXQ7R) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [CELINA](https://open.spotify.com/album/5buVJTbmcQxbDiPPsiTdbO) | 3:10 |
 
-Snapshot ID: `MTY3NTI5Mzg3MSwwMDAwMDAwMDBiNWFlZGQxYjNhODY1M2FkYWY2NGY4MGUyOTQ1MTc4`
+Snapshot ID: `MTY3NTI5Mzg3MSwwMDAwMDAwMDQ1YTEwNGI2NWFjNWE5YmJkZWI0ZDVlNTlhN2JkZmFj`

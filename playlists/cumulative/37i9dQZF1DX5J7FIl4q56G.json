@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Anthronomicon",
+        "url": "https://open.spotify.com/album/1AEYdt4rdtqZPO2ORVWIr2"
+      },
+      "artists": [
+        {
+          "name": "Ulthar",
+          "url": "https://open.spotify.com/artist/6s1hQzoXYdEjYdJiHbu1iZ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274400,
+      "name": "Astranumeral Octave Chants",
+      "url": "https://open.spotify.com/track/3HKz5TGDBXEyLdhEKjjUC6"
+    },
+    {
+      "album": {
         "name": "At Break of Dawn",
         "url": "https://open.spotify.com/album/2ySpA4LVWe80820QGqrrrv"
       },

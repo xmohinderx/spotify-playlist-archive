@@ -1,13 +1,53 @@
 {
-  "description": "Only the best Hip-hop, only non-stop hits. Cover: A$AP ROCKY",
-  "num_followers": 1016652,
+  "description": "Only the best Hip-hop, only non-stop hits. Cover: GloRilla",
+  "num_followers": 1016642,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4OTY1OSwwMDAwMDAwMDlhMTYwNmIyYjE2MmUwOTBmNWVjYmQxZDgxNzM1MTBk",
+  "snapshot_id": "MTY3NzQ3NzIyNiwwMDAwMDAwMGJhNjUxOGI4MjRjNDEzNTg3OTM4OTI1NTQ0MmE1MDMy",
   "tracks": [
+    {
+      "added_at": "2023-02-27 05:53:46",
+      "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        }
+      ],
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "added_at": "2023-02-16 23:10:39",
+      "album": {
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
     {
       "added_at": "2023-02-16 23:10:39",
       "album": {
@@ -95,26 +135,6 @@
       "duration_ms": 177920,
       "name": "We Were We Still Are",
       "url": "https://open.spotify.com/track/6UtZhGeeshz7mi219Y9XKe"
-    },
-    {
-      "added_at": "2023-02-16 23:10:39",
-      "album": {
-        "name": "On Wat U On (with GloRilla)",
-        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "On Wat U On (with GloRilla)",
-      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
     },
     {
       "added_at": "2023-02-16 23:10:39",

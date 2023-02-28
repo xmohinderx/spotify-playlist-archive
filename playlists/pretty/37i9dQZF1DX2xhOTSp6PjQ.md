@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9?si=i7uGfhIiQqSACQVc0TcL0w">Imithente</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,357 likes - 65 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,384 likes - 65 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

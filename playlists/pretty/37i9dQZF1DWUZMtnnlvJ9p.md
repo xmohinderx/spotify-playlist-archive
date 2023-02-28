@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,729 likes - 145 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,016 likes - 145 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 144 | [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 |
 | 145 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 
-Snapshot ID: `MTY3NzE0Mjc3NSwwMDAwMDAwMDEzNTBmYWU2NjQ3MjY0YjQ0OTQ4NjE4YjViN2Y4ZTFi`
+Snapshot ID: `MTY3NzE0Mjc3NSwwMDAwMDAwMDQ1ZmMyMGFmYTAzMjQwMGU4NmEzZTllZjY5ZDM0ZTJk`

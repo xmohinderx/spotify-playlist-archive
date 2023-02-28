@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 65015,
+  "num_followers": 65061,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGM4MGRiNzIzZDE4MjkyMjRkZWRjNDNlNzZiYjI3NmFi",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDAwODc1MjQyNWMyNWU2MDBlYmRmNjRiYTEyYjk5MzVj",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Life's Not Out To Get You",
-        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 218954,
-      "name": "December",
-      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "i hope ur miserable until ur dead",
         "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 207141,
       "name": "DiE4u",
       "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "December",
+      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -333,26 +333,6 @@
       "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159096,
-      "name": "emo girl (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
-    },
-    {
       "added_at": "2022-12-08 13:00:09",
       "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
@@ -375,26 +355,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
       },
@@ -407,6 +367,26 @@
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159096,
+      "name": "emo girl (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -447,22 +427,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "kiss kiss",
-      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Real Life Sux",
         "url": "https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg"
       },
@@ -475,6 +439,26 @@
       "duration_ms": 143529,
       "name": "Real Life Sux",
       "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -495,22 +479,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Dear Maria, Count Me In",
-      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Pieces of You",
         "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "i'm gonna tell my therapist on you",
         "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "papercuts",
-        "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 180370,
-      "name": "papercuts",
-      "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -587,18 +555,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 138097,
+      "name": "kiss kiss",
+      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -615,6 +583,22 @@
       "duration_ms": 150522,
       "name": "Drunk Dial",
       "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -703,26 +687,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
-        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -751,6 +715,22 @@
       "duration_ms": 149627,
       "name": "sos",
       "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "papercuts",
+        "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 180370,
+      "name": "papercuts",
+      "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
     },
     {
       "added_at": "2022-12-08 13:00:09",
@@ -855,6 +835,22 @@
       "duration_ms": 222640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "NO VANITY",
+      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
     }
   ],
   "unique_name": "dear diary",

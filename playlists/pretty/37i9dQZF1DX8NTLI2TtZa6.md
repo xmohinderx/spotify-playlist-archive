@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,436,321 likes - 211 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,437,426 likes - 211 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 3 | [Ouroboros](https://open.spotify.com/track/4qNuc1K8MD4s0GLSHAu03s) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/5J3UvkyE0vGtt6BvqOU242) | 2:30 |
 | 4 | [Vliegen \(Flying\)](https://open.spotify.com/track/2EVpp1hacBt6Jr2VO0eDgO) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vliegen \(Flying\)](https://open.spotify.com/album/0Wv9sOPaM6xHGm4KHVlJPO) | 2:29 |
 | 5 | [Abstractions](https://open.spotify.com/track/7lvOQc9v9ybktcebHIaIFs) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:29 |
-| 6 | [Reflection of the Sun](https://open.spotify.com/track/0n4u4Io2kCV3DzjB0jhsnj) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [Reflection of the Sun](https://open.spotify.com/album/121MTKnvLvqbEY72mRWzYv) | 3:07 |
-| 7 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 |
-| 8 | [Anguille Glissante](https://open.spotify.com/track/15Vmk7vlx19lynWPk75UkO) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Senza Paura](https://open.spotify.com/album/6ZW0TFVFUdFc5M9n7v2X3E) | 2:08 |
-| 9 | [Ocean Mind](https://open.spotify.com/track/0yke2mzO01rTHhBpBLnYwh) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Ocean Mind](https://open.spotify.com/album/3YpBO1Twz1VUCgEUvhAgr2) | 2:22 |
-| 10 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 |
-| 11 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 |
-| 12 | [Modern Mysteries](https://open.spotify.com/track/7mS1QFR4914xDutXZCWqvW) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Modern Mysteries](https://open.spotify.com/album/1yXfbvmskN1VvFog6B1J9G) | 2:36 |
-| 13 | [Partenza](https://open.spotify.com/track/2QnEeS0SxgJR9RrMGB2dnm) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Partenza](https://open.spotify.com/album/1acWCWktmQRrpvqNdnrib1) | 1:52 |
-| 14 | [Exhaler](https://open.spotify.com/track/4hSJTUpx45WO1Ib6VCRiFW) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Exhaler](https://open.spotify.com/album/6cSN1nY7uHi9jgLEkLI6yN) | 2:15 |
-| 15 | [Fluctuation](https://open.spotify.com/track/5lCas1cqz70cDzNTOrjD8K) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Fluctuation](https://open.spotify.com/album/2EDTrhwBnKEjH9enTvBBzR) | 2:05 |
-| 16 | [A Defining Moment](https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [A Defining Moment](https://open.spotify.com/album/4Ch67yephLqv1uPsT5G6os) | 2:22 |
+| 6 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 |
+| 7 | [Anguille Glissante](https://open.spotify.com/track/15Vmk7vlx19lynWPk75UkO) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Senza Paura](https://open.spotify.com/album/6ZW0TFVFUdFc5M9n7v2X3E) | 2:08 |
+| 8 | [Ocean Mind](https://open.spotify.com/track/0yke2mzO01rTHhBpBLnYwh) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Ocean Mind](https://open.spotify.com/album/3YpBO1Twz1VUCgEUvhAgr2) | 2:22 |
+| 9 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 |
+| 10 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 |
+| 11 | [Modern Mysteries](https://open.spotify.com/track/7mS1QFR4914xDutXZCWqvW) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Modern Mysteries](https://open.spotify.com/album/1yXfbvmskN1VvFog6B1J9G) | 2:36 |
+| 12 | [Partenza](https://open.spotify.com/track/2QnEeS0SxgJR9RrMGB2dnm) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Partenza](https://open.spotify.com/album/1acWCWktmQRrpvqNdnrib1) | 1:52 |
+| 13 | [Exhaler](https://open.spotify.com/track/4hSJTUpx45WO1Ib6VCRiFW) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Exhaler](https://open.spotify.com/album/6cSN1nY7uHi9jgLEkLI6yN) | 2:15 |
+| 14 | [Fluctuation](https://open.spotify.com/track/5lCas1cqz70cDzNTOrjD8K) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Fluctuation](https://open.spotify.com/album/2EDTrhwBnKEjH9enTvBBzR) | 2:05 |
+| 15 | [A Defining Moment](https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [A Defining Moment](https://open.spotify.com/album/4Ch67yephLqv1uPsT5G6os) | 2:22 |
+| 16 | [Reflection of the Sun](https://open.spotify.com/track/0n4u4Io2kCV3DzjB0jhsnj) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [Reflection of the Sun](https://open.spotify.com/album/121MTKnvLvqbEY72mRWzYv) | 3:07 |
 | 17 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 |
 | 18 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 |
 | 19 | [quiet plateau](https://open.spotify.com/track/6zODDCy0JYLgVmx3aTt2rC) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [quiet plateau & meadow ballet](https://open.spotify.com/album/1NKiYL9c9mYgkMFIq5iXHY) | 2:32 |
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 210 | [In Between](https://open.spotify.com/track/3m9L0yTxcDY4OddxsApK5L) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Beautiful Piano](https://open.spotify.com/album/6dAc6FuIJQ8yDdOMJ59EzI) | 2:40 |
 | 211 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 |
 
-Snapshot ID: `MTY3Njk3MTY3NSwwMDAwMDAwMGYxZTExYzgxN2Y5M2ZhOGI2NWM3MGExNzU4OTc0M2Y3`
+Snapshot ID: `MTY3NzUxNjA3OCwwMDAwMDAwMDQ5MDBhMjVhMDRkOWExMDQwZmQ5NDAyMWIzYzcwODBl`

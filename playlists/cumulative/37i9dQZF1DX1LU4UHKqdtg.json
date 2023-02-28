@@ -984,7 +984,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 160280,
       "name": "Black Eye",
       "url": "https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0"
@@ -2699,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175329,
+      "name": "Feelin' Good (feat. Jiselle)",
+      "url": "https://open.spotify.com/track/5jmCwPd97v8ciEfPQMuoF9"
+    },
+    {
+      "album": {
         "name": "IN:VITE U",
         "url": "https://open.spotify.com/album/2nym29RGoObwngdpzCCQ8Y"
       },
@@ -2870,6 +2892,24 @@
       "duration_ms": 200666,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7"
+    },
+    {
+      "album": {
+        "name": "Floral Sense - The 1st Album (Special Version)",
+        "url": "https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Floral Sense - Solo Version",
+      "url": "https://open.spotify.com/track/4m2nlBbU3cS1SIhxB0bPHd"
     },
     {
       "album": {
@@ -8608,7 +8648,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 178360,
       "name": "WHEN I MOVE",
       "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"

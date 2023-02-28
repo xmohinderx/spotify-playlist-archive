@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,472 likes - 74 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,566 likes - 74 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

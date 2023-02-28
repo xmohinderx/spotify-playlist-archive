@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: NF
 
-457 songs - 21 hr 13 min
+458 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [CHASE](https://open.spotify.com/track/3o0hzQy37arz4ymJvqeTYL) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [CHASE](https://open.spotify.com/album/6Irn8skmuGpGOFU8QbPiP5) | 2:45 | 2021-12-17 | 2022-03-05 |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2022-05-20 |
 | [Chirp](https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Chirp](https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo) | 2:14 | 2023-01-06 |  |
+| [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 | 2023-02-27 |  |
 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 | 2022-01-14 | 2022-03-26 |
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2022-04-04 |  |
 | [CLAW MACHINE](https://open.spotify.com/track/3iBlHQdUYMH1uQ45EjMmkw) | [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp), [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [CLAW MACHINE](https://open.spotify.com/album/3Tcny7YWM2B7stnwwgrmvq) | 2:50 | 2022-03-11 | 2022-06-11 |
@@ -260,7 +261,7 @@
 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-18 | 2022-04-08 |
 | [Make A Lover Mine](https://open.spotify.com/track/1Fw8z9Qr7hUSjaYwdDuQpC) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [Make A Lover Mine](https://open.spotify.com/album/7oTxWeY35ds5UOC4o6RYDA) | 3:36 | 2022-02-25 | 2022-03-17 |
 | [Man On The Moon](https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:30 | 2022-07-15 | 2022-08-06 |
-| [Manners](https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq) | 3:06 | 2022-09-09 |  |
+| [Manners](https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq) | 3:06 | 2022-09-09 | 2023-02-28 |
 | [Matador](https://open.spotify.com/track/58hnYlg8wf15n85yzeG7YK) | [brother sundance](https://open.spotify.com/artist/1AbcKIsIR4SV7pPdm0GRsd) | [Matador](https://open.spotify.com/album/40ulnbYUwlXLzlgV6wDYyE) | 2:50 | 2021-11-16 | 2022-02-19 |
 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 | 2022-04-08 | 2022-05-20 |
 | [Medicine](https://open.spotify.com/track/3BuyvZXqG2GvQ6RertnyAt) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Medicine](https://open.spotify.com/album/6qMn2B1Pee5ttuYcqJCJFq) | 3:11 | 2021-11-16 | 2022-02-26 |
@@ -342,7 +343,7 @@
 | [RESCUE](https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [RESCUE](https://open.spotify.com/album/4SpwESU9SstT11kMUgE9cZ) | 2:37 | 2022-04-04 | 2022-10-13 |
 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 | 2022-09-23 |  |
 | [RFGL](https://open.spotify.com/track/5Im9BMrf0xkFD4xNHiKDUl) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [RFGL](https://open.spotify.com/album/4UTAFypc6vOhVu74J0Srpn) | 2:30 | 2022-03-25 | 2022-07-02 |
-| [rich girl](https://open.spotify.com/track/7JErBib1eG7L7dJR1Llj2k) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [rich girl](https://open.spotify.com/album/1d4VOdTAsMhHCFvkqe57GL) | 1:44 | 2022-12-16 |  |
+| [rich girl](https://open.spotify.com/track/7JErBib1eG7L7dJR1Llj2k) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [rich girl](https://open.spotify.com/album/1d4VOdTAsMhHCFvkqe57GL) | 1:44 | 2022-12-16 | 2023-02-28 |
 | [Ridin' Around](https://open.spotify.com/track/1gRoA7TpSrvJPWYHfgezAm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Ridin' Around](https://open.spotify.com/album/4MofeHZRyIWaDrgwqnlHpf) | 3:03 | 2021-11-16 | 2022-02-19 |
 | [RIDING](https://open.spotify.com/track/4JnX8tY9me7jHqDwgifhwU) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:25 | 2021-11-16 | 2022-02-26 |
 | [right before my eyes](https://open.spotify.com/track/3mkws3P4Nhc1C3EpAuWxsP) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [i can't make this up](https://open.spotify.com/album/5SfFJOQgbSzC91IUswcu2U) | 2:50 | 2021-11-16 | 2022-02-26 |

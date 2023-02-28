@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,690 likes - 19 songs - 1 hr 4 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,695 likes - 21 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 17 | [My Paradise \- Damian Lazarus Re\-Shape](https://open.spotify.com/track/1YzYJxpIEWayVQhEykvrU3) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv) | [My Paradise \(Damian Lazarus Re\-Shape\)](https://open.spotify.com/album/4VSeNYLB9AKUl4RvAVq70U) | 3:30 |
 | 18 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 |
 | 19 | [Pam Pam](https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pam Pam](https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h) | 3:33 |
+| 20 | [Express Delivery](https://open.spotify.com/track/73P8gEhqdbd6IlwZGryH0M) | [SPATE](https://open.spotify.com/artist/3FKWuXMuMnljaASBbDMSF2), [SPOT](https://open.spotify.com/artist/4oUuI0KrlNvEffpsBNijBA), [Nate](https://open.spotify.com/artist/6AVXSp8896HnYbvjfbpU2g) | [Express Delivery](https://open.spotify.com/album/3gKQpIVHIrq6HeXWJsNCv5) | 2:58 |
+| 21 | [Ey Man](https://open.spotify.com/track/1NKtLoNDn3tjLK09jxZtmA) | [22 Weeks](https://open.spotify.com/artist/0BJ5zPFfbkXmWdzJ5b7A40), [Fabian Haneke](https://open.spotify.com/artist/7qJBONb8PZE3NfHbxJDzth) | [Ey Man](https://open.spotify.com/album/6vpuzz3D8VSK8OGkGVx6uI) | 3:56 |
 
-Snapshot ID: `NjY1OCwyNzM4YTEwY2MzNTllN2MzYTIzYTFlMGY2OGE5MjkyMjhjMzc2OTRl`
+Snapshot ID: `NjY2MCxiNDk4MzdkNGY0MDBjMjgyYjFlNmExMGI0MjYzYjFiYzNkOTgwMzc1`

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2157,
+  "num_followers": 2166,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzI2MCwwMDAwMDAwMGEwOTE0MzEwYzJiMGQ1YjRkMmQ0YzhjMDFlNGIzNDI1",
+  "snapshot_id": "MTY3NzE5MzI2MCwwMDAwMDAwMDQwMWRkMjRlMWYxMjkzMmJkN2QxNjc4YmM0NmRiYzY0",
   "tracks": [
     {
       "added_at": "2023-02-23 23:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Babe I'm Gonna Leave You (Extended Version)",
-        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 294945,
-      "name": "Babe I'm Gonna Leave You - Extended Version",
-      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Maybe, Maybe Not",
         "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 200157,
       "name": "Maybe, Maybe Not",
       "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Babe I'm Gonna Leave You (Extended Version)",
+        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 294945,
+      "name": "Babe I'm Gonna Leave You - Extended Version",
+      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Lightyears Better",
-        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Lightyears Better",
-      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Burning Down the Prairie",
         "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181466,
       "name": "Burning Down the Prairie",
       "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Lightyears Better",
+        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Lightyears Better",
+      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "See You Better",
-        "url": "https://open.spotify.com/album/02koeBYuztkAMuAHu23XKE"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "Gregory Ackerman",
-          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 206742,
-      "name": "See You Better",
-      "url": "https://open.spotify.com/track/3xxZ3wbTJut0V7GBXIosmj"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     }
   ],
   "unique_name": "Route Americana",

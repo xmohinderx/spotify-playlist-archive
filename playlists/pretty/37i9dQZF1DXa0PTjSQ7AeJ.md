@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0PTjSQ7AeJ.md) - [plain]
 
 > This is Miley Cyrus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,135 likes - 71 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,147 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5408,7 +5408,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 172067,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
@@ -12478,7 +12478,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 158993,
       "name": "Lupaus (feat. SHRTY)",
       "url": "https://open.spotify.com/track/5DUacXlT5A2vDXWw21egzU"
@@ -16174,7 +16174,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 220775,
       "name": "Oo viel\u00e4 sekunnin mun",
       "url": "https://open.spotify.com/track/60EXSCcZL24IZikBt4256W"
@@ -21067,6 +21067,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
         "name": "Tatuoitu",
         "url": "https://open.spotify.com/album/3rZrIwpoC5xMtm6XzUwov2"
       },
@@ -23588,7 +23606,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 218000,
       "name": "Villiel\u00e4in",
       "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
@@ -23784,6 +23802,24 @@
       "duration_ms": 237880,
       "name": "Voitolla y\u00f6h\u00f6n",
       "url": "https://open.spotify.com/track/2niYYhmbU5RikSLCWLadwb"
+    },
+    {
+      "album": {
+        "name": "V\u00e4likuolema",
+        "url": "https://open.spotify.com/album/5lzDrrJ7ihn7tp5pZTxk9d"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192716,
+      "name": "V\u00e4likuolema",
+      "url": "https://open.spotify.com/track/1v4jBEOmyYluJSBk6WUELN"
     },
     {
       "album": {

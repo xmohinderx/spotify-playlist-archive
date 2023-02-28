@@ -4,7 +4,7 @@
 
 > 
 
-338 songs - 18 hr 38 min
+339 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Invencible](https://open.spotify.com/track/70iFZwMfjDJBlObBLWFywd) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:14 | 2023-01-13 | 2023-02-01 |
 | [Jeans](https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Jeans](https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru) | 3:05 | 2022-01-14 | 2022-07-26 |
 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 | 2022-08-12 | 2022-12-18 |
+| [KBRON](https://open.spotify.com/track/3714rn1eXexER0wPv5f7mC) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO), [Melou\-D](https://open.spotify.com/artist/4iBKQTSTjEIy3S4zVcCHhH) | [KBRON](https://open.spotify.com/album/1QC6kJDXlyBEPZM1pRuphw) | 3:31 | 2023-02-27 |  |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-02-02 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2022-01-14 |  |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2022-01-14 |  |
@@ -267,7 +268,7 @@
 | [Relación](https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:04 | 2022-07-08 |  |
 | [Relación](https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Relación](https://open.spotify.com/album/378KGomt21mlfxD786uF7c) | 3:04 | 2022-01-14 | 2022-07-29 |
 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 | 2022-01-14 | 2022-02-12 |
-| [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 | 2022-01-14 |  |
+| [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 | 2022-01-14 | 2023-02-28 |
 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 | 2022-02-28 | 2022-04-17 |
 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 | 2022-01-14 | 2022-07-29 |
 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 | 2023-01-13 | 2023-02-25 |

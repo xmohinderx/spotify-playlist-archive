@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-204 songs - 11 hr 47 min
+205 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,13 +89,13 @@
 | [I Still Belong to You](https://open.spotify.com/track/54KQjLzWVSWwWaQeYMytMU) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Belong to You](https://open.spotify.com/album/653b0i9WleCKEdAjsCuOkm) | 3:33 | 2022-05-30 | 2022-07-29 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 | 2022-06-24 | 2023-01-23 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3OujlPpq73NTAsy1JFFIRN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1k7LEZPI6qI1ZDYfXMgpDv) | 2:43 | 2022-05-30 | 2022-07-29 |
-| [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 | 2022-05-30 | 2023-02-27 |
+| [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 | 2022-05-30 |  |
 | [I'll Buy a House \- Acoustic](https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy a House \(Acoustic\)](https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF) | 3:06 | 2022-05-30 | 2022-10-18 |
 | [I'll Buy A House \- Acoustic](https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy A House \(Acoustic\)](https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO) | 3:06 | 2022-10-07 |  |
 | [I'll Follow You into the Dark](https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10) | [King Leer](https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah) | [I'll Follow You into the Dark](https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ) | 2:27 | 2022-05-30 | 2022-07-28 |
 | [I'm Doing Everything I Can](https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm Doing Everything I Can](https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd) | 3:00 | 2022-05-30 | 2022-07-29 |
 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 | 2022-06-24 | 2022-12-21 |
-| [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 |  |
+| [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 | 2023-02-28 |
 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 | 2023-01-06 |  |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-08-05 | 2022-12-03 |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-08-05 |  |
@@ -117,7 +117,7 @@
 | [Little Love](https://open.spotify.com/track/43LWPJSO1sg36MdqOZ0PcO) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 3:33 | 2022-06-24 |  |
 | [Little Love](https://open.spotify.com/track/4I6oc3FccCUbVMOI7hXJzR) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Little Love](https://open.spotify.com/album/5U1JnfMBjhibuXLfJq04g1) | 3:33 | 2022-05-30 | 2022-07-29 |
 | [Little Victories](https://open.spotify.com/track/5SbYDzbgqFwoskAcM73WLl) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [Little Victories](https://open.spotify.com/album/69JkJ1P45sQIbeDLuv9oXe) | 2:53 | 2022-05-30 | 2022-07-29 |
-| [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 | 2022-11-07 |  |
+| [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 | 2022-11-07 | 2023-02-28 |
 | [Luck Pusher](https://open.spotify.com/track/56IGNuGmEjWZDtih5N6i3y) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/2bW59wdPku3mlEZWg8xsip) | 2:43 | 2022-06-24 | 2022-10-13 |
 | [Malibu Nights](https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW) | 3:36 | 2022-06-24 |  |
 | [Malibu Nights](https://open.spotify.com/track/5MowXhrwxi1Imfo8WT2OiZ) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/4XR0dijl0N381YWVdw0xHW) | 3:36 | 2022-05-30 | 2022-07-29 |
@@ -165,6 +165,7 @@
 | [Should I Stay Or Should I Go](https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC) | [Ofelia](https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr) | [Should I Stay Or Should I Go](https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz) | 2:37 | 2022-06-24 | 2022-11-13 |
 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 | 2022-06-24 |  |
 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 | 2023-02-24 |  |
+| [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 | 2023-02-24 |  |
 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 | 2022-06-24 |  |
 | [Sorrow](https://open.spotify.com/track/33ry67NZycIR011igWIFD3) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P) | 3:12 | 2022-05-30 | 2022-07-29 |
 | [Spiral Thinking](https://open.spotify.com/track/2X2Lm8Cvu1bwKJhI01vGfw) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Spiral Thinking](https://open.spotify.com/album/7Ep2hsaXMZfxshejJBzRr6) | 3:33 | 2022-05-30 | 2022-07-29 |

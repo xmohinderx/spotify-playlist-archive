@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > you could have anybody EENY 👈 MINY ☝️ MOE 👉
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,246 likes - 628 songs - 1 day 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,306 likes - 628 songs - 1 day 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

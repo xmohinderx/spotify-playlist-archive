@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-251 songs - 14 hr 43 min
+252 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 | 2023-02-23 |  |
 | [Tilted](https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine \(Deluxe Edition\)](https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt) | 3:53 | 2023-02-23 |  |
 | [To Tomorrow](https://open.spotify.com/track/4GfPkTIFaiI8wmc0lgTDzi) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend of the Goldkimono](https://open.spotify.com/album/6665kTeQp9goEiA3wZAxm8) | 3:24 | 2023-02-23 |  |
+| [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 |  |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 |  |
 | [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2023-02-23 |  |
@@ -247,7 +248,7 @@
 | [We're All Going Home](https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [We're All Going Home](https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7) | 3:04 | 2023-02-23 |  |
 | [What A Day](https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn) | 3:46 | 2023-02-23 |  |
 | [What I Got](https://open.spotify.com/track/78nJ82Er1YBR1GfOwa11Mt) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [What I Got](https://open.spotify.com/album/4gsWBDBphJW4eJcFfQYjZd) | 3:08 | 2023-02-23 |  |
-| [When Summer Ends](https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk) | [Makelove](https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY) | [When Summer Ends](https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk) | 3:31 | 2023-02-23 |  |
+| [When Summer Ends](https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk) | [Makelove](https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY) | [When Summer Ends](https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk) | 3:31 | 2023-02-23 | 2023-02-28 |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2023-02-23 |  |
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-02-23 |  |
 | [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 |  |

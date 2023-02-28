@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Tamera
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,899 likes - 62 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,984 likes - 62 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover: Jay Park\(박재범\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover: Kim Min Seok\(김민석\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-390 songs - 1 day 1 hr 32 min
+391 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All is you](https://open.spotify.com/track/5nTJoIraxw2S0Bp5LEqGbk) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [All is you](https://open.spotify.com/album/10pOd9mtldRpC7tbHNz6WS) | 4:27 | 2022-04-01 | 2022-04-21 |
 | [Alone \(Feat\. GSoul\)](https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [look](https://open.spotify.com/album/0i1vQkPkubyuGSdSGH3zdV) | 4:14 | 2022-01-14 | 2022-07-17 |
 | [Always](https://open.spotify.com/track/20JCWEfbTqKvj8L60Cpes9) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Always](https://open.spotify.com/album/1itYz8cPxpt0k160P5ua1x) | 4:33 | 2022-03-24 | 2022-04-21 |
+| [Always with you](https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Always with you](https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu) | 4:22 | 2023-02-27 |  |
 | [Am I stupid, am I a fool](https://open.spotify.com/track/2amR54PA2fvyi6XkJ5eSNT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [I have Not Done My Best \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/5pI2LQaj3juUqAestrrSrM) | 4:04 | 2022-03-24 | 2022-04-20 |
 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2022-04-01 |  |
 | [An Old Love Story](https://open.spotify.com/track/3iYFNaPKm3FeG6M8lhpl0i) | [Kriesha Chu](https://open.spotify.com/artist/3zlxVfcuV4nPjcvTvlPWmZ) | [CS NUMBERS VOL.11](https://open.spotify.com/album/0UofOeMBObn4l7lAwU6dHf) | 3:49 | 2022-03-29 | 2022-04-21 |
@@ -161,7 +162,7 @@
 | [If You](https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [If You](https://open.spotify.com/album/2crxI7Z1EmYHQqgsX3qjl2) | 3:07 | 2022-04-01 | 2022-04-19 |
 | [If you were.](https://open.spotify.com/track/1z7iHdFB9B2RudJJsqoIb8) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [ONE MIND 3](https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG) | 4:24 | 2022-03-24 | 2022-04-16 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-20 |  |
-| [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 |  |
+| [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 | 2023-02-28 |
 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 | 2021-12-20 |  |
 | [Island](https://open.spotify.com/track/3owarI3zuA4HiGWZCVE817) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [CROSSROAD](https://open.spotify.com/album/1UQfHVOBlIFd5YJ1PaM6GG) | 4:29 | 2022-03-31 | 2022-04-24 |
 | [It Would Have Been The Same \(feat\. Chan\) \[From "Airman Morning Diaries \#5"\]](https://open.spotify.com/track/6hPM1g1PZmKZNDCKWcwA7G) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [It Would Have Been The Same \(feat\. Chan\) \[From "Airman Morning Diaries \#5"\]](https://open.spotify.com/album/4XzCh4KTWT72QmA2KAZw21) | 3:07 | 2021-12-27 | 2022-06-03 |

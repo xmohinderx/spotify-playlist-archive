@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with Chris Olsen's Flight Fuel Coffee as he takes over with these cozy, mellow tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,080,928 likes - 144 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,081,374 likes - 144 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 116 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 | 117 | [Burning Ground](https://open.spotify.com/track/0tI5KZkvFiYrm9B3E33ucH) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Burning Ground](https://open.spotify.com/album/7KvcXVO48I0hgMiywyKuVx) | 3:55 |
 | 118 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
-| 119 | [Sunscreen](https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Sunscreen](https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4) | 2:58 |
+| 119 | [Sunscreen](https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 2:58 |
 | 120 | [Heavy Crown](https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Trixie Mattel: Moving Parts \(The Acoustic Soundtrack\)](https://open.spotify.com/album/5Vcfkp2blCZRjJ7sjuVe1r) | 2:19 |
 | 121 | [Why Woman](https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 3:03 |
 | 122 | [I Am the Moon](https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y) | 3:18 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 143 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 |
 | 144 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
 
-Snapshot ID: `MTY3NjM1MDgwMCwwMDAwMDAwMGExN2EzNWY3ZDczYWJlMDM0NGQ4ZWI2YjEyZjZkNmYz`
+Snapshot ID: `MTY3NjM1MDgwMCwwMDAwMDAwMGFiZmJmMDE2MjdjZWRiNDhkZTg0MDI4Yjk5MjI1NDdj`

@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 29078,
+  "num_followers": 29113,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDZkMTgzMzIxMzUyN2Y0ODYxYzdkODA0MTY2NDI0N2U3",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDFjZDQ4ZDkzZjRmM2U4N2JiMzA2NmJhMjAzY2I5MGYz",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -223,42 +207,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 252013,
-      "name": "El Triste (with Pepe Aguilar)",
-      "url": "https://open.spotify.com/track/1OjT7kzrMsYFhzTKkzEyiT"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 143010,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/3GXUtMP7Q0Lv7UsL2Bpqh0"
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -283,6 +243,46 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 143010,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/3GXUtMP7Q0Lv7UsL2Bpqh0"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "El Triste (with Pepe Aguilar)",
+      "url": "https://open.spotify.com/track/1OjT7kzrMsYFhzTKkzEyiT"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
         "name": "El Comienzo del Final",
         "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 173816,
       "name": "El Comienzo del Final",
       "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "De Plaza En Plaza (Cumbia Sinf\u00f3nica/Deluxe)",
         "url": "https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M"
       },
@@ -527,22 +511,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 228989,
-      "name": "Ella Que\u0301 Te Dio",
-      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -559,6 +539,26 @@
       "duration_ms": 213923,
       "name": "Tu M\u00e9ndigo Recuerdo",
       "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Que\u0301 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Ando Que Me Lleva",
-      "url": "https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "15 \u00c9xitos Con Banda, Vol. 4",
         "url": "https://open.spotify.com/album/2ji1g39cwZ9RNtYKC0t4c4"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 181835,
       "name": "Qu\u00e9 Falta Me Hace Mi Padre",
       "url": "https://open.spotify.com/track/6jkq3KyVOBcep5HKRHTvOB"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ"
     },
     {
       "added_at": "2022-09-22 18:15:34",

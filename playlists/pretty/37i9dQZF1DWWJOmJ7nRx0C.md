@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Godsmack
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,402 likes - 151 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,641 likes - 151 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 17 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 |
 | 18 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 |
 | 19 | [Alien](https://open.spotify.com/track/4ka9ZXISzjnajUbwMvzJVw) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Alien](https://open.spotify.com/album/0sQ5k3aJQi5W24yKVhUFjz) | 4:09 |
-| 20 | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL), [William DuVall](https://open.spotify.com/artist/69j4GQ0OCPN6gU6okpe8aZ) | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK) | 3:41 |
+| 20 | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [William DuVall](https://open.spotify.com/artist/69j4GQ0OCPN6gU6okpe8aZ), [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK) | 3:41 |
 | 21 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 |
 | 22 | [Psycho In My Head](https://open.spotify.com/track/6VWocK4U2rcTQeVrfDlCMV) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head](https://open.spotify.com/album/4Zc1iqCZrZFjR8XGI9gecJ) | 3:17 |
 | 23 | [Welcome to the Chaos \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome to the Chaos](https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc) | 3:28 |

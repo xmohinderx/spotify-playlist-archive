@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: GONEISBACK\(고은이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-308 songs - 17 hr 30 min
+309 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2021-11-21 | 2022-08-23 |
 | [Pretend](https://open.spotify.com/track/183LBqwbF66GTjGMH7fiMP) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Pretend](https://open.spotify.com/album/51q2PZwdOvmfuQzQJvgbcE) | 3:35 | 2021-11-21 | 2022-06-25 |
 | [Princess Maker](https://open.spotify.com/track/1QaiX4Yi6W8d8QtUm8ft3P) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [SKY Castle, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09QG8kAFbxvwjCRuwF4X1q) | 3:29 | 2022-03-22 | 2022-04-26 |
+| [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-02-27 |  |
 | [Purple Breeze](https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.5\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/07u6A8DhvM1hTFTQy9qRIw) | 4:11 | 2022-01-19 | 2022-07-29 |
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-31 | 2022-10-13 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-21 |  |
@@ -273,7 +274,7 @@
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2021-11-21 | 2022-11-13 |
 | [U & ME \- Between you and me \(feat\. Woozys, Seohyun\)](https://open.spotify.com/track/7CP73ItjVwzcxsglLg4chS) | [Lee Huiwon](https://open.spotify.com/artist/6ljBqPNyt9OdGwpE131fUb), [Woozys](https://open.spotify.com/artist/5erC3leT81a1HPi1Qq1DVS), [Seohyun](https://open.spotify.com/artist/27fleokzKuIZuOy672JUVT) | [U & ME \- Between you and me \(feat\. Woozys, Seohyun\)](https://open.spotify.com/album/5Frc02M16SoklchfkSamAD) | 3:30 | 2021-11-21 | 2022-06-10 |
 | [UNNATURAL](https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:04 | 2022-05-31 | 2022-07-24 |
-| [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-20 |  |
+| [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-20 | 2023-02-28 |
 | [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-07 | 2022-07-15 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-12 | 2023-01-12 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-19 |  |

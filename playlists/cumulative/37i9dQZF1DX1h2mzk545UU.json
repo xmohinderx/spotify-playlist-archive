@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350760,
+      "name": "Amor de Madre",
+      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
+    },
+    {
+      "album": {
         "name": "Los Reyes de la Cumbia Playera (Versi\u00f3n 2015)",
         "url": "https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS"
       },
@@ -154,7 +172,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 201168,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 352480,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
@@ -596,6 +614,24 @@
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239823,
+      "name": "H\u00e9roe Favorito",
+      "url": "https://open.spotify.com/track/6BdAwMv1YorLfkBWlE493X"
     },
     {
       "album": {
@@ -816,6 +852,24 @@
       "duration_ms": 138979,
       "name": "Le doy perreo",
       "url": "https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl"
+    },
+    {
+      "album": {
+        "name": "Manos de Tijera",
+        "url": "https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230225,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
     },
     {
       "album": {
@@ -1290,7 +1344,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"

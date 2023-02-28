@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 
 > ¡Y suena y suena..\. MS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,980 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,248 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

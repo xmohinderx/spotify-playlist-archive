@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 46770,
+  "num_followers": 46937,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMGJkNzg4ZGNjYWYwZDE1ZjVkOWM2YThkMDU5OGZkNzky",
+  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMGJiZTRiYTc1YzdiMGQwMWUwYTliNDNhODllNzMzMGE0",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -179,6 +179,38 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "Angels Like You",
+      "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -227,22 +259,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -252,9 +268,29 @@
           "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 196453,
-      "name": "Angels Like You",
-      "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+      "duration_ms": 205733,
+      "name": "Plastic Hearts",
+      "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -291,22 +327,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Break Free",
-      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -339,42 +375,6 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Plastic Hearts",
-      "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -491,6 +507,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Glory Days (Expanded Edition)",
         "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
@@ -523,38 +555,6 @@
       "duration_ms": 231846,
       "name": "Dance To This (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 154786,
-      "name": "Wasabi",
-      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
+      "duration_ms": 172133,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -623,6 +623,22 @@
       "duration_ms": 203466,
       "name": "I Will Never Let You Down",
       "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 172133,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
+      "duration_ms": 202906,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -707,18 +723,34 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 202906,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
+      "duration_ms": 214133,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -735,22 +767,6 @@
       "duration_ms": 236600,
       "name": "Stars Are Blind",
       "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -807,22 +823,6 @@
       "duration_ms": 223794,
       "name": "disco tits",
       "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Christina Milian",
         "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 231213,
       "name": "AM To PM",
       "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Break the Rules",
-        "url": "https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203907,
-      "name": "Break the Rules",
-      "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Welcome to the Dollhouse",
         "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
       },
@@ -1339,22 +1323,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "Break the Rules",
+        "url": "https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 219520,
-      "name": "What I Need (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
+      "duration_ms": 203907,
+      "name": "Break the Rules",
+      "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1371,6 +1351,26 @@
       "duration_ms": 239853,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
-      },
-      "artists": [
-        {
-          "name": "Kate Winslet",
-          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
-        }
-      ],
-      "duration_ms": 243039,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Audacious",
         "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 192172,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
+      },
+      "artists": [
+        {
+          "name": "Kate Winslet",
+          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
+        }
+      ],
+      "duration_ms": 243039,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
     },
     {
       "added_at": "2022-12-28 17:02:11",

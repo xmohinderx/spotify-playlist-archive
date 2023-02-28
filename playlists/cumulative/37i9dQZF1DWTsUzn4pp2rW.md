@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-267 songs - 17 hr 17 min
+268 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [No Meanness](https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [No Meanness](https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj) | 3:58 | 2021-11-19 |  |
 | [Not for Me](https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not For Me](https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd) | 4:03 | 2021-11-19 | 2022-11-25 |
 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 | 2021-11-19 | 2022-11-25 |
+| [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 | 2023-02-23 |  |
 | [One Less Lonely Girl](https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa) | [Nikki Ocean](https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00) | [One Less Lonely Girl](https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf) | 3:56 | 2021-11-19 | 2022-10-08 |
 | [Outline](https://open.spotify.com/track/15lJRmiVd7aIJtozQJg5Ld) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/2Pv1n3XbbTonM300ulb4cZ) | 3:13 | 2021-11-19 | 2022-10-23 |
 | [Outline](https://open.spotify.com/track/6aekud8Ey1Wf7alKILoN1g) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/1q9ZkhXNWMFhb3MAojQ3dC) | 3:13 | 2022-10-13 | 2022-10-27 |
@@ -204,7 +205,7 @@
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2021-11-19 |  |
 | [She Used To Be Mine](https://open.spotify.com/track/3QjBj0FOOlDmIt9s3YZAwX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [She Used To Be Mine](https://open.spotify.com/album/0ck5yBjvct1p5w6FRXQo2Y) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [She Used To Be Mine](https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH) | 4:24 | 2022-07-14 | 2023-02-14 |
-| [She Used To Be Mine](https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8) | 4:24 | 2023-02-22 |  |
+| [She Used To Be Mine](https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8) | 4:24 | 2023-02-22 | 2023-02-28 |
 | [She's Awesome](https://open.spotify.com/track/52rIpC68rq8AgpAootOn7B) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [She's Awesome](https://open.spotify.com/album/6aPCC4FFb2kryUdUgAtjLN) | 4:40 | 2021-11-19 | 2022-11-25 |
 | [Sleeping Satellite](https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Francoise Sanders](https://open.spotify.com/artist/1gziOczQaDTj4pXbljZPX2) | [Sleeping Satellite](https://open.spotify.com/album/57aN9GJYwKxpSe0bJDTT2G) | 2:39 | 2021-11-19 | 2022-11-25 |
 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 | 2021-11-19 |  |

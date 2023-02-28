@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493,230 likes - 70 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,494,017 likes - 70 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 | 20 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
 | 21 | [Scream](https://open.spotify.com/track/46576CnmgT6xr0RaZNF2Kt) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 4:37 |
 | 22 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
-| 23 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/4qv7YSyt5UV8LvrXyE8sGn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:50 |
-| 24 | [Leave Me Alone \- 2012 Remaster](https://open.spotify.com/track/7zILPDxYcUt7AFslua0mc5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 4:39 |
-| 25 | [Stranger in Moscow](https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:43 |
-| 26 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 23 | [Leave Me Alone \- 2012 Remaster](https://open.spotify.com/track/7zILPDxYcUt7AFslua0mc5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 4:39 |
+| 24 | [Stranger in Moscow](https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:43 |
+| 25 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 26 | [Another Part of Me \- 2012 Remaster](https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:54 |
 | 27 | [Earth Song](https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 6:46 |
 | 28 | [Blame It on the Boogie](https://open.spotify.com/track/0ryUadrXsahO3mASlKUJlT) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:30 |
-| 29 | [Another Part of Me \- 2012 Remaster](https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:54 |
+| 29 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/4qv7YSyt5UV8LvrXyE8sGn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:50 |
 | 30 | [Shake Your Body \(Down to the Ground\) \- Single Edit](https://open.spotify.com/track/6lSVidZXCnOnYAWcgIqVDF) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:44 |
 | 31 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
 | 32 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/1diEQsD8PJC9hXB5Gpfgtn) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 | 69 | [Thriller \(Megamix\)](https://open.spotify.com/track/2I5o2Znqz37AibPdyg824v) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 40](https://open.spotify.com/album/57TzZhbqvYoUBzJSVKFVlG) | 9:13 |
 | 70 | [Michael Jackson x Mark Ronson: Diamonds are Invincible](https://open.spotify.com/track/7jRs0CvNctNBNH1roANQdY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Michael Jackson x Mark Ronson: Diamonds are Invincible](https://open.spotify.com/album/6ST7naJFCe9iBeOleU5Ccu) | 5:00 |
 
-Snapshot ID: `MTY3Njk4NDAzNSwwMDAwMDAwMDMwOGRiNWQzNWE0OThmNzYxODRlYmJkNTRhZWZhN2I4`
+Snapshot ID: `MTY3NzQ5NDQ4NywwMDAwMDAwMGY3OGZhNDI4NmZhOGQ5OWMwOTcwYjk3YWNmZDUzNGE1`

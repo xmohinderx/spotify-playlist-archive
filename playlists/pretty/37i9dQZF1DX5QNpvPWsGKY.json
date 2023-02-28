@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 77645,
+  "num_followers": 77735,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMDEzYjk3Mjk4OTc5Zjg3Yzg3YjI1YjNlNTE3ZjdkODA1",
+  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMDQzNzE3NWViOTgyYzYwZjJhNWI3ZDMzOGIwZjI3NmFj",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Tu Amor Secreto",
         "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
       },
@@ -203,22 +187,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -231,6 +199,38 @@
       "duration_ms": 213026,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -251,34 +251,34 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+        "name": "Por El Amor",
+        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
       },
       "artists": [
         {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
         }
       ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+      "duration_ms": 229653,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Por El Amor",
-        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Puras Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Puras Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
       "artists": [
         {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 269466,
       "name": "Enamorado De Un Fantasma",
       "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 197053,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/3wxXMfRVUGtFvghEafgBjH"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 197053,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/3wxXMfRVUGtFvghEafgBjH"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Lo Nuevo Y Lo Mejor",
         "url": "https://open.spotify.com/album/5zowtYibiMVyn3VjPUp3I5"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 224786,
       "name": "Sin Ti No S\u00e9 Vivir",
       "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Rel\u00e1mpago De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
-    },
-    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Recuerdos",
@@ -1511,6 +1495,22 @@
       "duration_ms": 185280,
       "name": "Tan Bella Y Tan Presumida",
       "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Rel\u00e1mpago De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "100% Bailables",
-        "url": "https://open.spotify.com/album/5SeIdVUfe7RvIpnK5jZXS2"
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
       },
       "artists": [
         {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
         }
       ],
-      "duration_ms": 147304,
-      "name": "La Abeja Miope",
-      "url": "https://open.spotify.com/track/5PHoBye30ufJ8xMcSDGEA0"
+      "duration_ms": 142640,
+      "name": "Ritmo Facil",
+      "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1771,34 +1771,18 @@
     {
       "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
+        "name": "100% Bailables",
+        "url": "https://open.spotify.com/album/5SeIdVUfe7RvIpnK5jZXS2"
       },
       "artists": [
         {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
         }
       ],
-      "duration_ms": 142640,
-      "name": "Ritmo Facil",
-      "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
+      "duration_ms": 147304,
+      "name": "La Abeja Miope",
+      "url": "https://open.spotify.com/track/5PHoBye30ufJ8xMcSDGEA0"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1819,6 +1803,22 @@
       "duration_ms": 250760,
       "name": "Capullo y Sorullo",
       "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2022-01-25 19:05:16",

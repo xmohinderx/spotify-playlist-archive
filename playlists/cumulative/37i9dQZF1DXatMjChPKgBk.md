@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-476 songs - 1 day 5 hr 28 min
+478 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-07-08 |  |
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2022-01-27 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2022-01-27 |  |
-| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-25 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-24 |  |
 | [Change the Whole Thing](https://open.spotify.com/track/41SYWf4AZzsVbPakCgdXJg) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing / Hey Blondie](https://open.spotify.com/album/1jt3dMRUuG64y9YgqRMm2m) | 4:28 | 2022-01-27 | 2022-07-29 |
 | [Change the Whole Thing](https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4) | 4:28 | 2022-10-28 | 2023-02-16 |
 | [Chocolate \- Acoustic Version](https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Sex EP](https://open.spotify.com/album/10CzC8El7gcizNUMFUjAyM) | 3:58 | 2022-01-27 | 2022-07-28 |
@@ -275,7 +275,7 @@
 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 | 2022-07-08 | 2022-09-12 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 | 2022-10-28 | 2022-11-13 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-09-23 |  |
-| [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-01-27 |  |
+| [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-01-27 | 2023-02-28 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-05-27 |  |
 | [Miss You](https://open.spotify.com/track/4x6WqZyGxsdqbWmJhaoPwE) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Miss You](https://open.spotify.com/album/0joGNhmxUTBvrldTNr8LCy) | 3:18 | 2022-01-27 | 2022-07-25 |
 | [Missing Peace](https://open.spotify.com/track/5fTJGZ6k0zokfh5KLfe0sm) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Missing Peace](https://open.spotify.com/album/6z7NkrydW0T66QEB2DXblG) | 3:58 | 2022-01-27 |  |
@@ -383,7 +383,7 @@
 | [Spoiled](https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:03 | 2022-01-27 |  |
 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 | 2022-05-02 |  |
 | [Stand Your Ground](https://open.spotify.com/track/5X3w2MfxgMTZkn2mTPQs0u) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 3:23 | 2022-05-11 |  |
-| [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2023-01-20 |  |
+| [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2023-01-20 | 2023-02-28 |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2022-01-27 | 2022-12-25 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-08-20 |
 | [Stay Awake with Me](https://open.spotify.com/track/3MkHuCfudrizswQMFcDPNS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me](https://open.spotify.com/album/5PQ3z1HsuSR3uDV3KkpVFG) | 3:25 | 2022-01-27 | 2022-07-28 |
@@ -393,6 +393,7 @@
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties](https://open.spotify.com/album/0HTwVQTBJLcpgvgtf78j55) | 2:12 | 2022-07-08 |  |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/4Eyid2OjeyXZ2fQ8eELXMi) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties… Stay The Way I Left You](https://open.spotify.com/album/0dhxCW84HD7542YTTuxSce) | 2:12 | 2022-01-27 | 2022-07-29 |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2022-01-27 |  |
+| [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2023-02-28 |  |
 | [Stickwitu](https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:27 | 2022-07-08 |  |
 | [Straight From The Heart](https://open.spotify.com/track/7uBxi4jHZqgWAjqLEl1KcF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/1hUiT5wFSraneBf4aNpbL3) | 3:31 | 2022-01-27 | 2022-07-29 |
 | [Straight From The Heart](https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 3:31 | 2022-07-08 |  |
@@ -412,6 +413,7 @@
 | [Take A Bow](https://open.spotify.com/track/3pa5zcTEXmRpdzFwOueOOQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [夏日嗨歌](https://open.spotify.com/album/5Wuq3XeKL2Atb2x4OL5Z0N) | 3:49 | 2022-10-28 | 2022-11-13 |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-23 |  |
 | [Take Me As I Am](https://open.spotify.com/track/5BqwCuzJ9ILElVAkbPE0e5) | [Rumer](https://open.spotify.com/artist/0Mk6GS1Xr5tqlQyPNkMZzx) | [Seasons Of My Soul](https://open.spotify.com/album/7sM4i2vAo7hUz010aByt6l) | 3:45 | 2022-01-27 | 2022-07-29 |
+| [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-02-27 |  |
 | [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 | 2022-01-27 | 2023-02-01 |
 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 | 2022-03-30 |  |
 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 | 2022-05-02 |  |

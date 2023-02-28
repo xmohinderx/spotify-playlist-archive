@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949 likes - 44 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 950 likes - 44 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 39 | [Dumb It Down](https://open.spotify.com/track/3UL7AvXv3J6EHKa4VJGg0e) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt) | 4:34 |
 | 40 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 |
 | 41 | [Nightmare Wrecker](https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 2:39 |
-| 42 | [Teenage Kickstarts](https://open.spotify.com/track/377CEyPCIbt9eIcJ5wzgGp) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt) | 2:04 |
-| 43 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
+| 42 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
+| 43 | [Teenage Kickstarts](https://open.spotify.com/track/377CEyPCIbt9eIcJ5wzgGp) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt) | 2:04 |
 | 44 | [Gebbie Street](https://open.spotify.com/track/2GuykC5STG35b3Z9qUnVQ4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt) | 3:47 |
 
-Snapshot ID: `Mjc5NTY4ODMsMDAwMDAwMDA3N2Y0ZDJjMmMwNDMwZjdkZmEzYjc4NzdiMGNkOTVhMQ==`
+Snapshot ID: `Mjc5NTg0NjAsMDAwMDAwMDAzNTE2YzFlZDUwMWIzMTJiNThmZDRkMmY4YjZkNGRlZQ==`

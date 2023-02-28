@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633723,
+  "num_followers": 633760,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI4MzI2MCwwMDAwMDAwMDQzYTQwMGZhNGVlNGY4MjcwOTIxNGRiNzIwZjcxM2Fk",
+  "snapshot_id": "MTY3NzI4MzI2MCwwMDAwMDAwMDI1ZjUwODQxODc1ZjY0NjA2MTBjN2FkM2Y5ZDlmNjY5",
   "tracks": [
     {
       "added_at": "2023-02-25 00:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Yalmi",
-        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
-      },
-      "artists": [
-        {
-          "name": "Merc La",
-          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Yalmi",
-      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "String Of Light",
         "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 169411,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Yalmi",
+        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+      },
+      "artists": [
+        {
+          "name": "Merc La",
+          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Yalmi",
+      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -443,38 +443,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
-      },
-      "artists": [
-        {
-          "name": "Osterous",
-          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
-        "name": "Rugare",
-        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
-      },
-      "artists": [
-        {
-          "name": "Tendai Marwan",
-          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
-        }
-      ],
-      "duration_ms": 188691,
-      "name": "Rugare",
-      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Everything Shall Pass",
         "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
       },
@@ -491,6 +459,22 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
+      },
+      "artists": [
+        {
+          "name": "Osterous",
+          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
         "name": "Into Gratitude",
         "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Rugare",
+        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Rugare",
+      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
         "name": "Sweven",
         "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 157200,
       "name": "You're Filled With Courage",
       "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Distant Voices",
-        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Distant Voices",
-      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Affinity",
         "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 172000,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
+      },
+      "artists": [
+        {
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "The Shortest Flight",
-        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 118600,
-      "name": "The Shortest Flight",
-      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 165333,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "The Shortest Flight",
+        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 118600,
+      "name": "The Shortest Flight",
+      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Would I Bother",
         "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Memory Canvas",
-        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
       "artists": [
         {
-          "name": "Kilometre Club",
-          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
         }
       ],
-      "duration_ms": 215418,
-      "name": "Becker's",
-      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Memory Canvas",
+        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "duration_ms": 215418,
+      "name": "Becker's",
+      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1503,6 +1503,22 @@
       "duration_ms": 242400,
       "name": "Purity 432hz",
       "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
+      },
+      "artists": [
+        {
+          "name": "Kolorascze",
+          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
+        }
+      ],
+      "duration_ms": 124212,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Aion",
-        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
-      },
-      "artists": [
-        {
-          "name": "Kolorascze",
-          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Aion",
-      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Caleufu",
         "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 127693,
       "name": "Ali",
       "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Morgong\u00e5va",
+        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Morgong\u00e5va",
+      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
-        "name": "Darashinai Beach",
-        "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
-      },
-      "artists": [
-        {
-          "name": "Kenichiban",
-          "url": "https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva"
-        }
-      ],
-      "duration_ms": 219090,
-      "name": "Darashinai Beach",
-      "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
     }
   ],
   "unique_name": "DayDreamer",

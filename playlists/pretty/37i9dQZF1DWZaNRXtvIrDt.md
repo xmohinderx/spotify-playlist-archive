@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Surusinghe
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,457 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,467 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

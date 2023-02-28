@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 6651,
+  "num_followers": 6659,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMGQzNzEyOTQ5N2JmZTI0OThlYTA2YTViMTAxOTVkNWJk",
+  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMGI0ZjYzMGEwMjc5NGQ0NWRkNDk4OWViMGZlYTM1MjBi",
   "tracks": [
     {
       "added_at": "2023-01-25 01:27:19",
@@ -119,6 +119,30 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -163,46 +187,22 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
         },
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 194111,
-      "name": "Daydream (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -231,42 +231,22 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
       "artists": [
         {
-          "name": "PARKHYUNJIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         },
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+      "duration_ms": 194111,
+      "name": "Daydream (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -311,42 +291,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "Re-Birth",
-      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
-        "name": "She Gonna Stop",
-        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
       },
@@ -371,8 +315,28 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
       "artists": [
         {
@@ -380,21 +344,29 @@
           "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 247718,
-      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
-      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 203615,
+      "name": "Re-Birth",
+      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -591,6 +563,34 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 247718,
+      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
+      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 192437,
-      "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -663,6 +643,42 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 192437,
+      "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 247287,
       "name": "FLOWER (Prod. by AVIN)",
       "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "Future Boy",
         "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Family Portrait (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -847,26 +867,6 @@
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Family Portrait (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     },
     {
       "added_at": "2023-01-25 01:27:19",

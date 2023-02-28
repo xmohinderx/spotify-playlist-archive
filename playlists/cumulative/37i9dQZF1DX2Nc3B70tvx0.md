@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Beabadoobee
 
-1,449 songs - 3 day 14 hr 43 min
+1,450 songs - 3 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [A Lucid Dream](https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd) | 3:53 | 2020-08-07 | 2021-03-06 |
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-02-10 | 2023-02-18 |
 | [A Piece Of Your Mind](https://open.spotify.com/track/5c8bM603hqoHJzJFxmUkZ1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 2:50 | 2021-08-04 | 2021-12-28 |
-| [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-02-10 |  |
+| [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-02-10 | 2023-02-28 |
 | [A Song About Fishing](https://open.spotify.com/track/2nCEjCTe2lo1mx8EDFE84Z) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/1AwxJPvM50yifnRc9wLUlM) | 3:25 | 2021-04-23 | 2021-10-08 |
 | [A Song for You](https://open.spotify.com/track/3lhjaN5VyhFOZ9BzwHFRgI) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Omoiyari](https://open.spotify.com/album/1oPXOnszADv8Xe3fzykSdC) | 3:51 | 2019-06-07 | 2019-09-13 |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-28 | 2022-04-20 |
@@ -576,6 +576,7 @@
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-07-19 | 2022-03-11 |
 | [How Can I Make It OK?](https://open.spotify.com/track/4esseJdxrcatxtl7Zk8Q5V) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb) | 4:47 | 2021-06-22 | 2022-04-05 |
 | [How Dare You Want More](https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [How Dare You Want More](https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv) | 4:00 | 2021-06-22 | 2022-01-29 |
+| [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-22 |  |
 | [How Long?](https://open.spotify.com/track/5jd6XPyXSY4jQVG3SlXP1b) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 3:32 | 2019-05-26\* | 2019-06-29 |
 | [Hungry Child \- Edit](https://open.spotify.com/track/2XC3ZrY1UPHPlwFv7vcBPt) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Hungry Child](https://open.spotify.com/album/6gx7dx6CDBi16TPA9nadsx) | 3:28 | 2019-05-26\* | 2019-06-29 |
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2020-09-04 | 2021-05-22 |

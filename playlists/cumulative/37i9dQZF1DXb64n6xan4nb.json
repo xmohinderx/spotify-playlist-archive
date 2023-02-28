@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
+      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
+    },
+    {
+      "album": {
         "name": "Like A Movie",
         "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
       },
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 277746,
       "name": "\uc5ec\uc790",
       "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"

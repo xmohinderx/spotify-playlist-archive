@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Odd Signature
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,081 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,129 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 15 | [Anmone 2](https://open.spotify.com/track/4bDg8Sj2q5Y8R5uJEZGkXm) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto II](https://open.spotify.com/album/2qL0SdDlqkQMyc8F2aP07w) | 5:05 |
 | 16 | [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 |
 | 17 | [Avash](https://open.spotify.com/track/3OBSXEoKdsC0lT6RZuozYY) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Avash](https://open.spotify.com/album/1jKCQ198KBaclhaXMQEXiq) | 4:14 |
-| 18 | [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 |
+| 18 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 |
 | 19 | [Confusion](https://open.spotify.com/track/6NUIyfilS2SAUK5yvWx1DG) | [Bangla Five](https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj) | [Confusion](https://open.spotify.com/album/2c2xtzOyPOkEoou45o1tYc) | 4:53 |
 | 20 | [Bishonno Shundor](https://open.spotify.com/track/4yg5KwOtT3UUjdlKR7zSnf) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Bishonno Shundor](https://open.spotify.com/album/10aPVBagHNw3J0nJK3IIZG) | 5:54 |
 | 21 | [Biday Shur](https://open.spotify.com/track/23Mz2CJBQBqfeen2wtqQCm) | [Greatest News of All Time](https://open.spotify.com/artist/0WE323uSiupYVvsNjH2BTS), [sadishahnewaz](https://open.spotify.com/artist/3F6p3o5g8lVjxlyo6NKqus) | [Biday Shur](https://open.spotify.com/album/08dDfGxp6qZzyAMTnHA18I) | 3:35 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 47 | [Obosh Onubhutir Deyal](https://open.spotify.com/track/15mPQDFh8mWD9zh32XXkTw) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 6:48 |
 | 48 | [Kodom](https://open.spotify.com/track/2Dsmn1xssJpbEM4LeRJbhI) | [Blue Jeans](https://open.spotify.com/artist/7LNEwdMBXgeD4BeyaPW7JA) | [Bondhu](https://open.spotify.com/album/0JM0r6T23O3dQOxxZsbhZh) | 4:07 |
 | 49 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 |
-| 50 | [Ami Bodle Jabo](https://open.spotify.com/track/5CoY9a0vqIaMLkCEZeA9de) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7699oOVPVjXj5FnYoDwfbg) | 5:20 |
+| 50 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 |
 | 51 | [Dusshopno](https://open.spotify.com/track/6T4yBITRdTX6OsedSy5bwy) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Dusshopno](https://open.spotify.com/album/0AXTTesB1lQbgc4LfiJWum) | 5:06 |
 | 52 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 |
 | 53 | [60's Love](https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 79 | [Na Pawar Golpo](https://open.spotify.com/track/1vz2SrkLov7vyaZEtZBJLK) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Na Pawar Golpo](https://open.spotify.com/album/6q6vxChMMbZYeEHhiNNsXg) | 5:01 |
 | 80 | [Ekhono](https://open.spotify.com/track/4ZoiikOfDXv4ks5rRqiK1Z) | [Jatrik](https://open.spotify.com/artist/6MMQ5xS4dg5ImURe4UFbWU) | [Ekhono](https://open.spotify.com/album/01DwqEvRJlH9iU5knnO2uB) | 4:54 |
 
-Snapshot ID: `MTY3NzA1OTYxNCwwMDAwMDAwMDRkMjBlOGUwM2IzMWY2N2E2ODhiNmUyZTM1NjU0MTc2`
+Snapshot ID: `MTY3NzA1OTYxNCwwMDAwMDAwMDQzN2YwMTczNjg1YmQ5NDIxODQ1ZDhiNzRlYjhjZWIx`

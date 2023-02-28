@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-166 songs - 9 hr 55 min
+167 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Give It Away](https://open.spotify.com/track/4wB40MIxACc6qRUcc3dnrL) | [Johnson Ferry Worship](https://open.spotify.com/artist/2LsVK5PKpKnRw6yj3UUTDz) | [By Design](https://open.spotify.com/album/0CaSykr6tlwKLvcqtPh7fB) | 3:57 | 2021-12-31 | 2022-06-28 |
 | [Good Friend](https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Good Friend](https://open.spotify.com/album/4IggY2CGPgR4IX6LHoFoT5) | 2:51 | 2021-12-31 | 2022-07-29 |
 | [Grateful \(Neon Feather Remix\)](https://open.spotify.com/track/04BZvpVvpJKPWXVfnWr6a3) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Grateful \(Neon Feather Remix\)](https://open.spotify.com/album/5dcQET2nIhMNJxVLrZ1CyX) | 2:22 | 2021-12-31 | 2022-07-19 |
-| [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 | 2021-12-31 |  |
+| [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 | 2021-12-31 | 2023-02-28 |
 | [Grip of Grace](https://open.spotify.com/track/1krkicizq4r7FIsqYiTjwo) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Grip of Grace](https://open.spotify.com/album/4ZtCH3TpeVc0MWIpEC1se0) | 5:07 | 2021-12-31 | 2022-07-20 |
 | [Hands High](https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Hands High](https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm) | 3:43 | 2021-12-31 |  |
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-12-31 |  |
@@ -163,6 +163,7 @@
 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 | 2021-12-31 |  |
 | [We Shine](https://open.spotify.com/track/13OeoujtdpmyfhQLpq2lo1) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH), [Kat Regester](https://open.spotify.com/artist/0ereLNWXua5ueIeLKZbZdP), [David Plumb](https://open.spotify.com/artist/5oe9h1KvHeFlAOXE3opknk) | [Vineyard Kids: We Shine](https://open.spotify.com/album/0JTgsgpMUswqCUbnagqxNN) | 3:05 | 2021-12-31 | 2022-07-29 |
 | [WE’RE GOING PUBLIC \(Acoustic\)](https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Quarantine Sessions](https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ) | 3:54 | 2021-12-31 | 2022-07-27 |
+| [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 | 2023-02-18 |  |
 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 | 2021-12-31 |  |
 | [Wild](https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Wild](https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd) | 3:54 | 2021-12-31 |  |
 | [Wind + Waves](https://open.spotify.com/track/2VhspIZudDKIFjevS5tcWk) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA) | [Wind + Waves](https://open.spotify.com/album/3cbqGBcbTVqrRXiSgaNbAq) | 4:08 | 2021-12-31 | 2022-07-29 |

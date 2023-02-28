@@ -105,6 +105,24 @@
     },
     {
       "album": {
+        "name": "Billi Billi (From \"Kisi Ka Bhai Kisi Ki Jaan\")",
+        "url": "https://open.spotify.com/album/309ezyqMiYfPE3grHxNiMN"
+      },
+      "artists": [
+        {
+          "name": "Sukhbir",
+          "url": "https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174033,
+      "name": "Billi Billi (From \"Kisi Ka Bhai Kisi Ki Jaan\")",
+      "url": "https://open.spotify.com/track/1dJLb1XsGBM3Sdgnt8Gie6"
+    },
+    {
+      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -170,7 +188,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 231421,
       "name": "Chedkhaniyan (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/6EKY8rpjaBxxB0WbXJhedU"

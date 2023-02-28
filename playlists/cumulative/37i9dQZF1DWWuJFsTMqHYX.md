@@ -4,7 +4,7 @@
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-80 songs - 6 hr 7 min
+81 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 | 2022-03-07 |  |
 | [Aratan N Azawad](https://open.spotify.com/track/6zScu9J9yQAFoT1rykntkJ) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [The Tapsit Years](https://open.spotify.com/album/56Bii6aeFnFkHbDugZlvUa) | 4:22 | 2022-03-07 | 2022-07-25 |
 | [Arghane Manine](https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Arghane Manine](https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP) | 5:00 | 2022-10-25 | 2023-02-02 |
+| [Arghane Manine](https://open.spotify.com/track/1lH8iTfrXyg2RFNbRT4sgO) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Kel Tinariwen](https://open.spotify.com/album/4flAylJfbXX7DVPH7oaS6d) | 5:00 | 2023-02-04 |  |
 | [Arrabi al Arabe](https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [El Aaiun Egdat](https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p) | 4:26 | 2022-03-07 |  |
 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 | 2022-03-07 |  |
 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 | 2022-03-07 |  |
@@ -85,7 +86,7 @@
 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 | 2022-03-07 |  |
 | [Toumast Tincha](https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw) | 4:20 | 2022-03-07 | 2022-07-29 |
 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 | 2022-03-07 |  |
-| [Zalina](https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX) | [Balkan Taksim](https://open.spotify.com/artist/70oqqBR2WFsDZP6JhLvYpm) | [Zalina](https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31) | 3:45 | 2022-03-07 |  |
+| [Zalina](https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX) | [Balkan Taksim](https://open.spotify.com/artist/70oqqBR2WFsDZP6JhLvYpm) | [Zalina](https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31) | 3:45 | 2022-03-07 | 2023-02-28 |
 | [Zerzura Theme II](https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 4:23 | 2022-03-07 |  |
 | [Zerzura Theme II](https://open.spotify.com/track/6g6BYeiRxuqOCyoDneP4bi) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/2uid256fli04FZGCKhQ7LE) | 4:23 | 2022-03-07 | 2022-07-29 |
 

@@ -4,7 +4,7 @@
 
 > Smooooth joints\. Cover: Jidenna 🌹
 
-799 songs - 1 day 23 hr 16 min
+800 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 | 2022-11-18 |  |
 | [Flowers](https://open.spotify.com/track/66d6LokRxraTsz9CZ9IfSj) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Truth EP.2](https://open.spotify.com/album/2PtMUxuv7tEhmSfkZRiCic) | 4:02 | 2020-10-23 | 2022-04-21 |
 | [Flowers](https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Flowers](https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa) | 3:13 | 2022-11-18 | 2022-12-03 |
+| [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-02-24 |  |
 | [Flowers \- A COLORS SHOW](https://open.spotify.com/track/5Oaj9RHokwxfV184bjReH9) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Flowers \- A COLORS SHOW](https://open.spotify.com/album/4hwZPcU2qtjyKiPeqfeY32) | 3:13 | 2022-09-22 | 2022-10-08 |
 | [Fly Away](https://open.spotify.com/track/2VJnZ0oDn1mEzjNJrOfo3t) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 2:45 | 2020-04-18 | 2020-05-01 |
 | [For André](https://open.spotify.com/track/06zGFsJg11na4OPtQTbyvG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [For André](https://open.spotify.com/album/45B4sMt3DT6X8RY5qvGhhU) | 3:05 | 2020-05-29 | 2020-06-29 |
@@ -307,7 +308,7 @@
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-18 | 2022-05-22 |
 | [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-08-20 | 2022-10-16 |
-| [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-11 |  |
+| [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-11 | 2023-02-28 |
 | [Grow \- A COLORS ENCORE](https://open.spotify.com/track/4NIIAwRjwayqGCk929daQh) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [Grow \- A COLORS ENCORE](https://open.spotify.com/album/0B2AOk5RVaUYGEgxwk8Z8k) | 3:27 | 2021-09-04 | 2022-04-21 |
 | [Guest](https://open.spotify.com/track/1C70OhbdPDbagZ5bCgMC4g) | [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Guest](https://open.spotify.com/album/7qX5w1HKnF8pXvBLWDwrIr) | 4:16 | 2020-06-29 | 2020-07-31 |
 | [Guilty Pleasures](https://open.spotify.com/track/09KeOvDkNfymrhNvnfTYAi) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/1IVwoyObWNl60Zk2NLQ7QK) | 4:18 | 2020-10-27 | 2021-05-26 |

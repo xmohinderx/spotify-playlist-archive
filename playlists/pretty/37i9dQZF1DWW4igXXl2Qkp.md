@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Superstar Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,609 likes - 57 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,658 likes - 57 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

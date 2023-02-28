@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-76 songs - 5 hr 3 min
+77 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 | 2020-05-12 |  |
 | [Sit Here And Love Me](https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 3:25 | 2020-05-12 |  |
 | [Sit Here And Love Me](https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Sit Here And Love Me](https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP) | 3:25 | 2020-05-12 | 2022-07-29 |
-| [Skin and Script](https://open.spotify.com/track/3oY35fxcKivIYskXGj8oYb) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 3:44 | 2020-05-12 |  |
+| [Skin and Script](https://open.spotify.com/track/3oY35fxcKivIYskXGj8oYb) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 3:44 | 2020-05-12 | 2023-02-28 |
+| [Skin and Script](https://open.spotify.com/track/5DxdA5gl5mtx2bpFEbGNdR) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 3:44 | 2022-12-29 |  |
 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 | 2020-05-12 |  |
 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 | 2020-05-12 | 2022-07-29 |
 | [Survivors \- Acoustic](https://open.spotify.com/track/6FLFt3K4Zsv1Uo0FcCVRF0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors](https://open.spotify.com/album/0sCSnj2teLMHjlHx33pTgM) | 4:29 | 2020-05-12 |  |

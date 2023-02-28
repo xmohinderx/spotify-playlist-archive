@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Nonante-Cinq La Suite (Deluxe)",
+        "url": "https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177653,
+      "name": "Le temps fera les choses - Alternative version",
+      "url": "https://open.spotify.com/track/4m6d9oMljnYhxgY46vTTs8"
+    },
+    {
+      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 234853,
       "name": "Vie varda",
       "url": "https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y"

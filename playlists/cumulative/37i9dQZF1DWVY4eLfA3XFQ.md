@@ -2,9 +2,9 @@
 
 ### [Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> Tech house technicians, featuring Bruno Furlan.
+> Tech house technicians, featuring Noizu & Westend
 
-909 songs - 2 day 6 hr 7 min
+910 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Give It to Me](https://open.spotify.com/track/3XXAkCPRpobjhmIgBltXVG) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Give It to Me](https://open.spotify.com/album/0TmMKbUwgUWNR8u0PqKQl4) | 3:01 | 2022-05-13 | 2022-07-16 |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2021-11-26 | 2022-04-02 |
 | [Glasgow's Jazz \- Derrick Carter Remix](https://open.spotify.com/track/1EjJxLLLN0f19k9scdmmZN) | [DJ Q](https://open.spotify.com/artist/1MrYB01nLTzUsGov6Srt3C), [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm) | [Elvis Never Meant Shit to me](https://open.spotify.com/album/6KIh5vfylDn73InRJIQMRY) | 7:49 | 2022-12-28 | 2023-01-06 |
-| [Goa](https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [Goa](https://open.spotify.com/album/4Y3cDaMSVNiZ2LJwNO0ANm) | 2:31 | 2023-02-17 |  |
+| [Goa](https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [Goa](https://open.spotify.com/album/4Y3cDaMSVNiZ2LJwNO0ANm) | 2:31 | 2023-02-17 | 2023-02-28 |
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-05 | 2023-02-11 |
 | [Goodies](https://open.spotify.com/track/68q05Ar0SJHEI1padmFRp9) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Goodies](https://open.spotify.com/album/1C1b1rHuDE9xVal5ybjaz2) | 2:55 | 2022-02-25 | 2022-04-23 |
 | [Gory Love](https://open.spotify.com/track/6M8iLzSQZ3DAe79X0hDlkL) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj) | [Gory Love](https://open.spotify.com/album/2alPuqga9DmG6ojNm26eXM) | 7:24 | 2022-12-28 | 2023-01-06 |
@@ -598,6 +598,7 @@
 | [Panamera](https://open.spotify.com/track/4AyLlInZOKim5wDqoW0f6L) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Panamera](https://open.spotify.com/album/43K4COEdYbvCRGlJkjW1nK) | 3:28 | 2023-01-06 | 2023-01-21 |
 | [Papapo](https://open.spotify.com/track/19kKBMycCxe3KQP8Ljaruz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Papapo](https://open.spotify.com/album/2dm5V14JgMy0tb8A5tGrn8) | 2:46 | 2023-01-20 |  |
 | [Papi](https://open.spotify.com/track/0ku6jfwJvvtXgoZcpubwy7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Papi](https://open.spotify.com/album/7FWsxMMsncsXOGM2inA8xY) | 2:53 | 2022-10-07 | 2023-02-26 |
+| [Papi](https://open.spotify.com/track/3DqIRoiGahyDGlUYuoY4l8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Papi](https://open.spotify.com/album/1TaBJrkB70ACIGmwBQfUEM) | 2:53 | 2023-01-06 |  |
 | [Paradise](https://open.spotify.com/track/3I3SHcoEiaoLSgfdryn3Om) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Paradise](https://open.spotify.com/album/4nCUEhrKxJnDtDz63uY93h) | 2:43 | 2022-08-19 | 2022-09-24 |
 | [Party](https://open.spotify.com/track/18u9d0vfvjmDt70wLQueJB) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7) | [Party](https://open.spotify.com/album/0ATOzDtTifokxsXQTT81yN) | 2:19 | 2022-04-01 | 2022-06-11 |
 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 | 2022-09-23 | 2022-12-10 |

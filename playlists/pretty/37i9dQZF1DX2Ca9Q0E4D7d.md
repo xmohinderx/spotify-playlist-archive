@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,837 likes - 63 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,009 likes - 63 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

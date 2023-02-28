@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3775,
+  "num_followers": 3779,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMGVjNzA0MjZiZTc3ODFlYjgxMGUzMjg4Y2U1ZDdiYzMx",
+  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMGYyN2JmMzdlNzYyYWZhMTM4YmQ5ZTI0NjBkY2FhM2Vj",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 231333,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -219,26 +219,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Groove Juice: The Norman Granz Recordings + More",
         "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
       },
@@ -255,22 +235,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Stacked Deck (Remastered)",
-        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
-      },
-      "artists": [
-        {
-          "name": "Amazing Rhythm Aces",
-          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
-        }
-      ],
-      "duration_ms": 273520,
-      "name": "The \"Ella B\" - Remastered",
-      "url": "https://open.spotify.com/track/0JSZG6AcdclLI8yeEEAe8n"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
         "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
@@ -283,6 +247,22 @@
       "duration_ms": 139000,
       "name": "Don't Mess With My Man",
       "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Stacked Deck (Remastered)",
+        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rhythm Aces",
+          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
+        }
+      ],
+      "duration_ms": 273520,
+      "name": "The \"Ella B\" - Remastered",
+      "url": "https://open.spotify.com/track/0JSZG6AcdclLI8yeEEAe8n"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -347,6 +327,26 @@
       "duration_ms": 289666,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
         "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+      "duration_ms": 210866,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -555,6 +539,22 @@
       "duration_ms": 258933,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Eisenhower Blues - Single Version",
-      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935)",
         "url": "https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 162664,
       "name": "Barbecue Blues",
       "url": "https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Eisenhower Blues - Single Version",
+      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -943,22 +943,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Porch Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+        "name": "Greatest Country Blues",
+        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
       "artists": [
         {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        },
-        {
-          "name": "Willie Buck",
-          "url": "https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 200186,
-      "name": "Honey Bee (feat. Willie Buck)",
-      "url": "https://open.spotify.com/track/2T857BosTppifCEGyKjkNz"
+      "duration_ms": 142933,
+      "name": "Robbie-Doby Boogie",
+      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1027,34 +1023,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Greatest Country Blues",
-        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
+        "name": "Porch Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "Robbie-Doby Boogie",
-      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        },
         {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+          "name": "Willie Buck",
+          "url": "https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB"
         }
       ],
-      "duration_ms": 149506,
-      "name": "Mama, What About Your Daughter - Single Version",
-      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
+      "duration_ms": 200186,
+      "name": "Honey Bee (feat. Willie Buck)",
+      "url": "https://open.spotify.com/track/2T857BosTppifCEGyKjkNz"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1087,6 +1071,22 @@
       "duration_ms": 137534,
       "name": "Crawfish",
       "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Mama, What About Your Daughter - Single Version",
+      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
     },
     {
       "added_at": "2022-12-02 14:28:08",

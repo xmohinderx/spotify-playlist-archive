@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Paul Kim\(폴킴\)\)\) \(당신의 감성에 발라드, 려요\)
 
-798 songs - 2 day 3 hr 58 min
+803 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Alone](https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [The Witch's Diner \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/6Wi68SCcA5SfVOrNHkMyDL) | 3:46 | 2021-12-23 | 2022-07-07 |
 | [Always By Your Side](https://open.spotify.com/track/6miOvQK1D76hopwIQqZr8y) | [Jung Se Young](https://open.spotify.com/artist/7mkeMDyzlRKT32H2hsAW6f) | [Bravo, My Life OST Part.6](https://open.spotify.com/album/5ZHtWTj9GoPviSKDpmNw4A) | 3:30 | 2022-05-11 | 2022-07-27 |
 | [Always on your side](https://open.spotify.com/track/3QGPAafQu3bRCVa7mqOchZ) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Always on your side](https://open.spotify.com/album/0nETRLU97ZOCWzSGoNqWkt) | 3:47 | 2022-03-24 | 2022-04-21 |
+| [Always with you](https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Always with you](https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu) | 4:22 | 2023-02-27 |  |
 | [Always With You](https://open.spotify.com/track/33P8OwNvoR8HduNAJkrAFs) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Jirisan \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5LHSj2l8CyQ5x3zRlIXUkF) | 3:26 | 2022-03-31 | 2022-06-07 |
 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 | 2022-07-07 | 2022-09-06 |
 | [And I Love You Only](https://open.spotify.com/track/7cGQyTGmrIi9oEc4zkUnEb) | [roku](https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl) | [And I Love You Only](https://open.spotify.com/album/42XGFru197WUSutLUC4f1t) | 2:41 | 2022-03-31 | 2022-04-20 |
@@ -63,6 +64,7 @@
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2022-01-27 | 2022-01-30 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-23 | 2022-06-30 |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 | 2022-07-03 |
+| [Back then we \(Vocal\. 이윤희\)](https://open.spotify.com/track/2X0z5Bmo3QcO8kiBzruyXS) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [Back then we](https://open.spotify.com/album/1EoNIpR1tiHPNIIyW2UOx4) | 3:32 | 2023-02-27 |  |
 | [Bad Love](https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Bad Love](https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX) | 4:07 | 2022-10-14 | 2023-01-21 |
 | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 | 2022-09-29 |  |
 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 | 2022-10-27 |  |
@@ -215,6 +217,7 @@
 | [Fixed On You](https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Fixed On You \(new.MAKE20 \#10\)](https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e) | 4:23 | 2022-01-03 | 2022-06-28 |
 | [FLAG](https://open.spotify.com/track/0LvrQEsWwKL1X30rHYiYUw) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Breaking Dawn](https://open.spotify.com/album/0WHepgrI931FocWbM11bJN) | 3:55 | 2022-01-03 | 2022-07-06 |
 | [Float Away](https://open.spotify.com/track/583g5sTbEhQgHAaEcfXE4u) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About Me](https://open.spotify.com/album/6UgjlN9VufdzNl2ojRMF8Y) | 4:00 | 2022-03-31 | 2022-04-18 |
+| [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-02-27 |  |
 | [Flower](https://open.spotify.com/track/5hWao5hIVrjko6DHstuHWR) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Still\-Flower](https://open.spotify.com/album/1ryU9atTaW8N4i4rJ1dSfx) | 3:19 | 2023-02-24 |  |
 | [Flower](https://open.spotify.com/track/0GVKkD74xcixRYYG3zv1NL) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/23CJ3PKYKeljAzr1glLmAh) | 4:12 | 2022-01-27 | 2022-05-04 |
 | [Flower Tea](https://open.spotify.com/track/7q5sOKB9wYXB72wh0Qpou1) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 4:19 | 2022-03-29 | 2022-04-13 |
@@ -327,6 +330,7 @@
 | [I've never loved you](https://open.spotify.com/track/6AaBhKdYEma1iTvjIeWxCX) | [The Bridge](https://open.spotify.com/artist/32X9J5qMQUohF6ROtz7CfS) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.24](https://open.spotify.com/album/0bUUJZ5y3X8ZGrNIhzM1vl) | 3:35 | 2023-02-24 |  |
 | [I.T.I.L.U](https://open.spotify.com/track/26mdRA51eua2K5gvFSWwcr) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 4:40 | 2022-03-31 | 2022-04-21 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2022-03-24 | 2022-04-21 |
+| [If It Were Me](https://open.spotify.com/track/3lLuRmJ4i4WLS11cWRIq8V) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [If It Were Me](https://open.spotify.com/album/6M3eQQpWF5jAdLIkKb0ah1) | 4:25 | 2023-02-27 |  |
 | [If Only](https://open.spotify.com/track/6qe2K0StcpJfLsSfzQlfuN) | [HAEBI](https://open.spotify.com/artist/6TXaZb7dXSpozoYwu2JG2q) | [If Only](https://open.spotify.com/album/4t5iuP9vxaF54MHOmbqLhB) | 3:16 | 2023-01-20 | 2023-02-25 |
 | [If We](https://open.spotify.com/track/0ENvpfEQxuRPAeppZ602oO) | [Jasin](https://open.spotify.com/artist/1BYFiDNQyKOMXX0EzGXr2B) | [If We](https://open.spotify.com/album/1YX0AJd3Ws9Ws1aGdobvHH) | 3:52 | 2022-07-07 | 2022-09-06 |
 | [If we can't see from tomorrow](https://open.spotify.com/track/2PfE8HKtpBJ1WGTmhuusBE) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [HYENA \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/3oMNELPJtj56mQDk1SHBqy) | 4:09 | 2022-03-24 | 2022-04-17 |
@@ -803,6 +807,7 @@
 | [지나오다](https://open.spotify.com/track/5ndgHth5hDc2dFPDC9Sq9N) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/2tInxH0GgKYLdoclP1YjiM) | 4:41 | 2022-03-29 | 2022-04-08 |
 | [첫 눈에 멜로디](https://open.spotify.com/track/4nf6sG5wQe9q41xN3EpbME) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Themselves \(Original Soundtrack\) Chapter\. 1](https://open.spotify.com/album/5PScVaBc0KtkXDzEVJ7xWU) | 5:04 | 2022-11-28 | 2023-01-21 |
 | [촌스러운 남자여서](https://open.spotify.com/track/6oW08YjI36VAgIFGW2ZSEz) | [김성결](https://open.spotify.com/artist/4kxIkzEEH40SMvYZXugNOU) | [RAINBOW STATION Episode.7](https://open.spotify.com/album/0VmvwjGurfHKYeMoGFWFQT) | 4:08 | 2023-02-14 |  |
+| [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 | 2023-02-27 |  |
 | [헤어졌죠](https://open.spotify.com/track/0z9aPBU8dFJrTU2ZDvHCrb) | [이준호](https://open.spotify.com/artist/5yMCgMShLOg0266cs8XGO6) | [헤어졌죠](https://open.spotify.com/album/5ymAmgbYSVYQXXo6Hm8KDs) | 4:26 | 2023-02-14 |  |
 | [홀로 핀 아이](https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,](https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr) | 4:09 | 2022-10-06 | 2023-01-11 |
 | [히말라야 \(feat\. 장명서\)](https://open.spotify.com/track/2FHpY8AcIkQZq9lHnKaMMx) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV), [Jang Myeongseo](https://open.spotify.com/artist/7I1SCP4IejyDD29rrRv4Qt) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:14 | 2022-08-12 | 2022-11-02 |

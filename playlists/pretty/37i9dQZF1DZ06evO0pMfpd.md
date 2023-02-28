@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,681 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,710 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 41 | [Que Güera](https://open.spotify.com/track/6UlhTa0PQQmZKy4KndGg2A) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie](https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy) | 3:20 |
 | 42 | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/track/5IEsq0MLLm7NE61IryGDxj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/album/0Ew74PwPRd1mIefKhLdibE) | 3:32 |
 | 43 | [Rabia Y Dolor](https://open.spotify.com/track/1K2Ohi9UBIbuMjBUcwNiu2) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:08 |
-| 44 | [Ramito De Violetas](https://open.spotify.com/track/5sau3wdX63rYl0nrDNY6Qb) | [Banda La Chacaloza De Jerez Zacatecas](https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Chacaloza Forever](https://open.spotify.com/album/3IuGQUoSuQIGbbrBaD3bpI) | 3:35 |
-| 45 | [Adiós y Buena Suerte \- En Vivo](https://open.spotify.com/track/4xQxN1A80B3CGFXVGOosGt) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Adiós y Buena Suerte \- En Vivo](https://open.spotify.com/album/0iHo2i1ZYSIAnFs5CdKOxz) | 3:44 |
+| 44 | [Adiós y Buena Suerte \- En Vivo](https://open.spotify.com/track/4xQxN1A80B3CGFXVGOosGt) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Adiós y Buena Suerte \- En Vivo](https://open.spotify.com/album/0iHo2i1ZYSIAnFs5CdKOxz) | 3:44 |
+| 45 | [Ramito De Violetas](https://open.spotify.com/track/5sau3wdX63rYl0nrDNY6Qb) | [Banda La Chacaloza De Jerez Zacatecas](https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Chacaloza Forever](https://open.spotify.com/album/3IuGQUoSuQIGbbrBaD3bpI) | 3:35 |
 | 46 | [Gozala Gozala](https://open.spotify.com/track/30Jv68pHNfzEuASRGwYQ6X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar de Caballito](https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm) | 2:58 |
 | 47 | [Sueño](https://open.spotify.com/track/5wvzzRY88HCuzbNfYJX4Dn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 4:37 |
 | 48 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 |
 | 49 | [Florecilla Del Campo](https://open.spotify.com/track/6IfR3khaeLoBiZZKYuBTL0) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:17 |
 
-Snapshot ID: `Mjc5NTY4ODMsMDAwMDAwMDBkZGEzMDQxZDg4YjlmMzcwODJiM2YyNzI2NjQ5YmNlYQ==`
+Snapshot ID: `Mjc5NTg0NjAsMDAwMDAwMDAyMjgwNGJjYmMwN2YyZTYzNzVhNmU0NmUyOTEyMGRlYg==`

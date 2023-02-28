@@ -346,7 +346,7 @@
           "url": "https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm"
         }
       ],
-      "date_added": "2023-02-03",
+      "date_added": "2023-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187832,
@@ -962,7 +962,7 @@
           "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
         }
       ],
-      "date_added": "2023-02-03",
+      "date_added": "2023-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227426,
@@ -1618,7 +1618,7 @@
           "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
         }
       ],
-      "date_added": "2023-02-03",
+      "date_added": "2023-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180960,
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 213362,
       "name": "I Was Told",
       "url": "https://open.spotify.com/track/2zaAzeUiTErdnNpnD6Cuz2"
@@ -2036,7 +2036,7 @@
           "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
         }
       ],
-      "date_added": "2023-02-05",
+      "date_added": "2023-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 275250,
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 284800,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
@@ -2900,7 +2900,7 @@
           "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
         }
       ],
-      "date_added": "2023-02-03",
+      "date_added": "2023-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 454282,
@@ -2924,6 +2924,24 @@
       "duration_ms": 220812,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
+    },
+    {
+      "album": {
+        "name": "Preliminary",
+        "url": "https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6"
+      },
+      "artists": [
+        {
+          "name": "Fanchon",
+          "url": "https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251982,
+      "name": "Preliminary",
+      "url": "https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv"
     },
     {
       "album": {
@@ -4114,6 +4132,24 @@
       "duration_ms": 188636,
       "name": "Water Snakes",
       "url": "https://open.spotify.com/track/3DxdqZOASBahkXBJdufzV7"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5QnWO1vcidL0hFflxcD9Fd"
+      },
+      "artists": [
+        {
+          "name": "SUN",
+          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235944,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
     },
     {
       "album": {

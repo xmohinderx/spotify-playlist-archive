@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Luck Ra + La T y la M + Rusherking
 
-345 songs - 17 hr 15 min
+346 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 | 2022-09-23 | 2023-02-04 |
 | [Cenizas](https://open.spotify.com/track/6kisXjjNkIRBkIjiNkPCgZ) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Cenizas](https://open.spotify.com/album/6ARt7kbTRpxiaV9dsGTmy7) | 1:53 | 2022-02-04 | 2022-07-06 |
 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 | 2021-12-23 | 2022-08-27 |
-| [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2021-12-23 |  |
+| [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2021-12-23 | 2023-02-28 |
 | [Chau al Chongo](https://open.spotify.com/track/601aUNwNuFfNqN4OtFaPi4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Chau al Chongo](https://open.spotify.com/album/6EzFRdWE4iB2JbhoJn0ann) | 2:18 | 2021-12-23 | 2022-07-20 |
 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 | 2022-07-22 | 2023-02-25 |
 | [Chica Brasileña](https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd) | 2:27 | 2021-12-23 | 2022-07-28 |
@@ -218,6 +218,7 @@
 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 | 2022-12-23 |  |
 | [Nunca Más](https://open.spotify.com/track/636uUKyY6Uq7PdsFO3FECC) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más](https://open.spotify.com/album/0coT0YcbnvrGrQp9JvplFj) | 2:09 | 2021-12-23 | 2022-07-29 |
 | [Olvidate \- Remix](https://open.spotify.com/track/6goJYemZPzg4ZuaQTpCiAZ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Olvidate \(Remix\)](https://open.spotify.com/album/2OC2QEzZ2zTciTsPCZ4yPN) | 2:14 | 2022-03-04 | 2022-07-20 |
+| [Otra Vez](https://open.spotify.com/track/7baVWluwAdow1WJgtbNChr) | [Miqueas Tabor](https://open.spotify.com/artist/2s0y3W9RWgnrlpcNJ40UP2) | [Otra Vez](https://open.spotify.com/album/5nfewzXfoREFMLTWmCpkxW) | 3:01 | 2023-02-27 |  |
 | [Otro Verano Traidor](https://open.spotify.com/track/3Qm2SeUwGUEe7vQXyR9DOc) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Otro Verano Traidor](https://open.spotify.com/album/1WM0sVC7N4hGX4NmgZer9g) | 2:20 | 2022-03-18 | 2022-04-20 |
 | [Pa Allá](https://open.spotify.com/track/49kzOBY90LeuCkZkkVMzIZ) | [Juan y Rafa](https://open.spotify.com/artist/1eVJpCyT8JStWU3sou78Q7) | [Pa Allá](https://open.spotify.com/album/1Yo9KStxKADY97sL1RKaFN) | 3:04 | 2021-12-23 | 2022-05-12 |
 | [Pareja del Año /Makinon](https://open.spotify.com/track/7AQ0VSiZb5AlyVo3qsjiNB) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Pareja del Año / Makinon](https://open.spotify.com/album/4zfrXkEZ1Eo5JsU35oftmX) | 4:04 | 2022-01-03 | 2022-07-26 |

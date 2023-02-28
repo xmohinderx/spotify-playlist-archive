@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the women of the world at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,296 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,274 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 4 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
 | 5 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 |
 | 6 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
-| 7 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
-| 8 | [ikaw at sila](https://open.spotify.com/track/4AfA4PrYOYuVRwqWG1YwIG) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [ikaw at sila](https://open.spotify.com/album/3MXBcwHOP72iogLVkgiGNG) | 4:09 |
+| 7 | [ikaw at sila](https://open.spotify.com/track/4AfA4PrYOYuVRwqWG1YwIG) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [ikaw at sila](https://open.spotify.com/album/3MXBcwHOP72iogLVkgiGNG) | 4:09 |
+| 8 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
 | 9 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 |
 | 10 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
 | 11 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 |
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 19 | [Trajikomedi](https://open.spotify.com/track/5KvQtUK14fbyFmZjeaBc1g) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Trajikomedi](https://open.spotify.com/album/1fOUfo9SzGYY2PIi1Ndzr6) | 2:53 |
 | 20 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
 | 21 | [Hạ Phỏm](https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 |
-| 22 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 |
-| 23 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
-| 24 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 |
-| 25 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
+| 22 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
+| 23 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 |
+| 24 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
+| 25 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 |
 | 26 | [BLOW!](https://open.spotify.com/track/4dUDX48wvKwio1oXFtmzA6) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [BLOW!](https://open.spotify.com/album/2xX8q9GzY7xM00hMSCiPkn) | 2:42 |
 | 27 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 |
 | 28 | [Néztek](https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Néztek](https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km) | 2:27 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 |
 | 34 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 35 | [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 |
-| 36 | [Mayday](https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Mayday](https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ) | 3:24 |
-| 37 | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/track/2trg8gUn9D8OJfbtnpXMdH) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt) | 3:03 |
+| 36 | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/track/2trg8gUn9D8OJfbtnpXMdH) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [הגיל דופק בדלת \(Prod\. By Triangle\)](https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt) | 3:03 |
+| 37 | [Mayday](https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Mayday](https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ) | 3:24 |
 | 38 | [Haramata](https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Haramata](https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W) | 3:12 |
 | 39 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 |
 | 40 | [Hey Mom Hey Dad](https://open.spotify.com/track/4WZxhWx3eLXPkNwjJx2VsP) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Hey Mom Hey Dad](https://open.spotify.com/album/4IfKTKRlwGJa5pCL2TF88D) | 2:53 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
 | 49 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 |
 | 50 | [Honey Bun](https://open.spotify.com/track/20f6NKhIFA61Sw4bjYKHu7) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Honey Bun](https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm) | 3:11 |
-| 51 | [背後的地球](https://open.spotify.com/track/2JH5jkvBMbjFiUVTesYWFP) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [背後的地球](https://open.spotify.com/album/6rX2rWrg3SPE5PJ3M8ZWGc) | 4:52 |
-| 52 | [مغرومة بمين](https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [مغرومة بمين](https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM) | 3:11 |
+| 51 | [مغرومة بمين](https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [مغرومة بمين](https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM) | 3:11 |
+| 52 | [背後的地球](https://open.spotify.com/track/2JH5jkvBMbjFiUVTesYWFP) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [背後的地球](https://open.spotify.com/album/6rX2rWrg3SPE5PJ3M8ZWGc) | 4:52 |
 | 53 | [Nothing](https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Nothing](https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ) | 3:16 |
 | 54 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
 | 55 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O quarto \(fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 72 | [Laal Ishq](https://open.spotify.com/track/538KG2KvN1nMhMdXAJa49N) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Laal Ishq](https://open.spotify.com/album/3DwG13lfiH3IL5DWgmyQuR) | 1:53 |
 | 73 | [la jaula](https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [la jaula](https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf) | 3:02 |
 
-Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMGNiOTU2ODc1ZWI5MTJhMTlkMjBmOGM3YTI1MzJiNTMy`
+Snapshot ID: `MTY3NjQ2MzE4OSwwMDAwMDAwMGIwN2M3YTk4MjEyNGUxZDY4NmQ4YjBlOTRlZGU3NDJi`

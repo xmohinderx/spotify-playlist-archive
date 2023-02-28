@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 195235,
+  "num_followers": 195247,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzMDIwNywwMDAwMDAwMDc2YzZkNzg3YWY5OWIwNWViNTEwMGNlNDQ4N2I1ZDA1",
+  "snapshot_id": "MTY3NzQ5MDA0NCwwMDAwMDAwMGNmNjEwMWUzYzZmOTVlOTJjZDJiNzI2ZmM2MTVmNWRj",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Svag",
+        "url": "https://open.spotify.com/album/3BYgqqXZjs2LxuduStCsaE"
+      },
+      "artists": [
+        {
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        }
+      ],
+      "duration_ms": 205957,
+      "name": "Svag",
+      "url": "https://open.spotify.com/track/5VdM4f7623wDXsDcd6izs6"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Som en s\u00e5ng",
         "url": "https://open.spotify.com/album/5FW9X0S4UqnM9QuSqITB11"
       },
@@ -615,30 +631,6 @@
       "duration_ms": 230413,
       "name": "Som en s\u00e5ng",
       "url": "https://open.spotify.com/track/0cVDXsKlmi4ANSpld0XTSq"
-    },
-    {
-      "added_at": "2023-02-24 08:51:24",
-      "album": {
-        "name": "LUFT F\u00d6R MIG",
-        "url": "https://open.spotify.com/album/7ecRWkPFYZZeSnyKZdbifH"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "Coola Kids",
-          "url": "https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq"
-        },
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
-        }
-      ],
-      "duration_ms": 148888,
-      "name": "LUFT F\u00d6R MIG",
-      "url": "https://open.spotify.com/track/2L6eCNSJ5dZ7o8Wx57bcSy"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -763,6 +755,30 @@
       "duration_ms": 236840,
       "name": "Bus Stop (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK"
+    },
+    {
+      "added_at": "2023-02-24 08:51:24",
+      "album": {
+        "name": "LUFT F\u00d6R MIG",
+        "url": "https://open.spotify.com/album/7ecRWkPFYZZeSnyKZdbifH"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Coola Kids",
+          "url": "https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "duration_ms": 148888,
+      "name": "LUFT F\u00d6R MIG",
+      "url": "https://open.spotify.com/track/2L6eCNSJ5dZ7o8Wx57bcSy"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 187557,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Svag",
-        "url": "https://open.spotify.com/album/3BYgqqXZjs2LxuduStCsaE"
-      },
-      "artists": [
-        {
-          "name": "LBSB",
-          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
-        }
-      ],
-      "duration_ms": 205957,
-      "name": "Svag",
-      "url": "https://open.spotify.com/track/5VdM4f7623wDXsDcd6izs6"
     },
     {
       "added_at": "2023-02-23 23:32:24",

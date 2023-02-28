@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Only the best Hip-hop, only non-stop hits. Cover: A$AP ROCKY",
+  "description": "Only the best Hip-hop, only non-stop hits. Cover: GloRilla",
   "name": "DOPE.",
   "tracks": [
     {
@@ -1444,6 +1444,28 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
     },
     {
       "album": {

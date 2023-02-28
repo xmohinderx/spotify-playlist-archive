@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Allison Russell
 
-687 songs - 1 day 12 hr 0 min
+688 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Friends](https://open.spotify.com/track/2WpMx09zVGGmKphjnuMwWH) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [Friends](https://open.spotify.com/album/24uHWGhZHkrKsgJSLYWETa) | 3:08 | 2022-11-09 | 2022-12-01 |
 | [FRIENDS WITH BENEFITS](https://open.spotify.com/track/61YQhIUW8I32js56e7v3Gh) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [FRIENDS WITH BENEFITS](https://open.spotify.com/album/5ZlZDT9NDhXldVFiis23am) | 2:25 | 2022-03-08 | 2022-04-07 |
 | [Fronteo](https://open.spotify.com/track/1ehox98B211or5FMIDQMaF) | [Aiona Santana](https://open.spotify.com/artist/66GmDoscCxEGpqdJdgLUOD) | [Fronteo](https://open.spotify.com/album/6Tnd47ca9H7Y7dto7CW1ZT) | 2:55 | 2022-04-06 | 2022-05-04 |
-| [Futures Bet](https://open.spotify.com/track/3yFjPsstCq0drlRdusBhgn) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Futures Bet](https://open.spotify.com/album/3defi3J2QNJ8eikcfjV7Gs) | 4:52 | 2023-02-01 |  |
+| [Futures Bet](https://open.spotify.com/track/2hAsxlsoZQDBZa7v8Ay5Xp) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 4:52 | 2023-02-01 |  |
+| [Futures Bet](https://open.spotify.com/track/3yFjPsstCq0drlRdusBhgn) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Futures Bet](https://open.spotify.com/album/3defi3J2QNJ8eikcfjV7Gs) | 4:52 | 2023-02-01 | 2023-02-28 |
 | [FWM](https://open.spotify.com/track/1AoUhIGRPBXcdJyg2x0A8D) | [BLK](https://open.spotify.com/artist/51HV0KFq7wIVIs1WIvvVi7) | [Girl Magic](https://open.spotify.com/album/2cX1sd0z0KKtPBXfR9aamx) | 2:45 | 2022-02-02 | 2022-03-09 |
 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 | 2022-08-03 | 2022-09-09 |
 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 | 2022-03-08 | 2022-04-07 |

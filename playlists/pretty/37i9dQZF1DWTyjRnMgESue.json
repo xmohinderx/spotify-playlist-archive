@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 45709,
+  "num_followers": 45780,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDBmNTM5YzMwYjFkNThlY2MyMjY3Y2UzM2VkYzZlOTJm",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDAxYjg2YjViYTBkZDVlM2Y2ZDVjZmEzOGIxMjM4NmJm",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "forever, now",
-        "url": "https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw"
-      },
-      "artists": [
-        {
-          "name": "Sam Nelson",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 288826,
-      "name": "forever, now",
-      "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 160533,
       "name": "How Do You Dress for the Rain?",
       "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "forever, now",
+        "url": "https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 288826,
+      "name": "forever, now",
+      "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "APART",
-        "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        },
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 180707,
-      "name": "Bed I Made",
-      "url": "https://open.spotify.com/track/1wdDPuoYhNk5Zr9XYgURww"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "A Good Love, Pt. 2",
         "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "APART",
+        "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 180707,
+      "name": "Bed I Made",
+      "url": "https://open.spotify.com/track/1wdDPuoYhNk5Zr9XYgURww"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 203966,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 154491,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 203966,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 196639,
       "name": "You",
       "url": "https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
     },
     {
       "added_at": "2023-02-24 05:00:00",

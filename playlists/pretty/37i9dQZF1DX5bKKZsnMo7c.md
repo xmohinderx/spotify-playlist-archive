@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,022 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,560 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 39 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 |
 | 40 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 |
 | 41 | [30/90](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 |
-| 42 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 |
+| 42 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 |
 | 43 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 |
 | 44 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 |
 | 45 | [Butch 4 Butch](https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/66kse7y7d7ycufUwpUr184) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 49 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
 | 50 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDdhYzE0MzgyNTY0NTJhOTdkYWZhMTJlOWVhZTRkMDM2`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDM1NmFhZmIxYjJkNjgwMTE2MjgzNWQyMjQ5NDU1YjY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,870 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,877 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 26 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
 | 27 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 |
 | 28 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 |
-| 29 | [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l) | 3:43 |
+| 29 | [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/5KNegRmSjP4ahtaWaecDHp) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/3E76niGgYjRLe7936MPAWo) | 3:43 |
 | 30 | [Nkwegomba](https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 3:01 |
 | 31 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 |
 | 32 | [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 |
 | 60 | [Machozi Machoni](https://open.spotify.com/track/7LmsBwJdArqh6HSpOwzpr9) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [Radio And Weasel](https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP) | [Speaking Vernacular](https://open.spotify.com/album/08LOeBsrzYZekjfFPoPgpp) | 4:01 |
 
-Snapshot ID: `MTY3NjU4MTE0MCwwMDAwMDAwMDNkOGNhMjEwOWE2ZDM4YTkxNDgyZWJkNDEwYzMzODZk`
+Snapshot ID: `MTY3NjU4MTE0MCwwMDAwMDAwMGU3NjYwODkyYTRmOGUwM2M2MzAxM2IwYWFmOWZmNWM3`

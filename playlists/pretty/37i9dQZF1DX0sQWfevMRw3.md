@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ingen kamera på iPhone 2!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,704 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,768 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FUCKED UP \- Hansell Remix](https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Hansell](https://open.spotify.com/artist/3Ee7c4D7yYLLub3zKe5j7J) | [FUCKED UP \(Hansell Remix\)](https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8) | 1:50 |
-| 2 | [KAN INTE GÅ](https://open.spotify.com/track/1zl6Uaza9IGqkoAv5XxCHj) | [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g), [BRÖDERNA](https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT), [Svardh](https://open.spotify.com/artist/5ej3VmUU1KXMHdBd78563w) | [KAN INTE GÅ](https://open.spotify.com/album/2VFtadO0PYYNyDZOffACgO) | 2:43 |
-| 3 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 |
+| 1 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 |
+| 2 | [FUCKED UP \- Hansell Remix](https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Hansell](https://open.spotify.com/artist/3Ee7c4D7yYLLub3zKe5j7J) | [FUCKED UP \(Hansell Remix\)](https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8) | 1:50 |
+| 3 | [KAN INTE GÅ](https://open.spotify.com/track/1zl6Uaza9IGqkoAv5XxCHj) | [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g), [BRÖDERNA](https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT), [Svardh](https://open.spotify.com/artist/5ej3VmUU1KXMHdBd78563w) | [KAN INTE GÅ](https://open.spotify.com/album/2VFtadO0PYYNyDZOffACgO) | 2:43 |
 | 4 | [DunkDunkDunk](https://open.spotify.com/track/0JxQNOhOGzo95AxYBvYDyE) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [DunkDunkDunk](https://open.spotify.com/album/6WtguNMxX8ONaqrr4yVJ8h) | 2:16 |
 | 5 | [LYCKLIGARE NU](https://open.spotify.com/track/0sbVVcl2SnbYNAsWDPs85K) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Yetixz](https://open.spotify.com/artist/3lDNCt7MLshhF6OaeWH1gI), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DAGGERZ](https://open.spotify.com/artist/5XcRp37VAoZLEVdzKLArah) | [LYCKLIGARE NU](https://open.spotify.com/album/4IhXUGAUr39xYmCCcRIM7E) | 2:36 |
 | 6 | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Fingrarna i halsen](https://open.spotify.com/track/4JWfHH5DlQ1qVKXmGyxOMY) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/7L3fBDH0doYXgV8UafoxgA) | 3:00 |
 | 100 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDA1YTg2NTU2MzI0Mzc0NjEzMzE3Y2UxMDBiMTJlNzc5`
+Snapshot ID: `MTY3NzQ5MjgwMiwwMDAwMDAwMGQyNzBlZjkwYzRlNWFkOGQ4NmVlOTkzYzdiM2M2NzFm`

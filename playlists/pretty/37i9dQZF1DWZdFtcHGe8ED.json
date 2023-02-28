@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 495397,
+  "num_followers": 495519,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzNTA5NywwMDAwMDAwMDNjZmI0ZDkyYjFlODA5M2RiNDBkMzA0ODUyZTAyMmRh",
+  "snapshot_id": "MTY3MTEzNTA5NywwMDAwMDAwMDRkNWQ0M2E5MTJlOWEzMjNmYjk2ODY4NzU3OWM5MmY3",
   "tracks": [
     {
       "added_at": "2022-12-15 20:11:37",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Raining Blood",
-      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "The Last Rager",
         "url": "https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU"
       },
@@ -167,22 +151,6 @@
       "duration_ms": 113040,
       "name": "Wave of Death",
       "url": "https://open.spotify.com/track/6egRwYsMJ8DVJQAKOjHWou"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -219,34 +187,50 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 432546,
-      "name": "The Four Horsemen (Remastered)",
-      "url": "https://open.spotify.com/track/4YPgTCGJWAlHQ5g6eWoM8r"
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+        "name": "Reign In Blood",
+        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+      "duration_ms": 254400,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -267,18 +251,18 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Refuse / Resist",
-      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
+      "duration_ms": 432546,
+      "name": "The Four Horsemen (Remastered)",
+      "url": "https://open.spotify.com/track/4YPgTCGJWAlHQ5g6eWoM8r"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -303,34 +287,18 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 291733,
-      "name": "War Ensemble",
-      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "You Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -351,6 +319,38 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "War Ensemble",
+      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "Fabulous Disaster",
         "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
       },
@@ -367,34 +367,18 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "...And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
+        "name": "The Formation of Damnation",
+        "url": "https://open.spotify.com/album/5jTrbs0ea9De2sg0xrYzMK"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 402143,
-      "name": "Blackened (Remastered)",
-      "url": "https://open.spotify.com/track/0M1pfDTZGWC7cBuEx3FwwT"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Show No Mercy",
-        "url": "https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3"
+      "duration_ms": 273226,
+      "name": "More Than Meets the Eye",
+      "url": "https://open.spotify.com/track/4pwKVmEsLZAIFW05f88ZT4"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -411,6 +395,22 @@
       "duration_ms": 270640,
       "name": "Ratamahatta",
       "url": "https://open.spotify.com/track/3Tg8JctqoeIwZ3Rue8BjaI"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "...And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 402143,
+      "name": "Blackened (Remastered)",
+      "url": "https://open.spotify.com/track/0M1pfDTZGWC7cBuEx3FwwT"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "The Formation of Damnation",
-        "url": "https://open.spotify.com/album/5jTrbs0ea9De2sg0xrYzMK"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 273226,
-      "name": "More Than Meets the Eye",
-      "url": "https://open.spotify.com/track/4pwKVmEsLZAIFW05f88ZT4"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -475,22 +459,6 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 246405,
-      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
-      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -511,22 +479,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Whiplash (Remastered)",
-      "url": "https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Chaos A.D.",
         "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
       },
@@ -543,18 +495,34 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Among The Living (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
+        "name": "Show No Mercy",
+        "url": "https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X"
       },
       "artists": [
         {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 300093,
-      "name": "Caught In A Mosh",
-      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
+      "duration_ms": 243360,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 246405,
+      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
+      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -575,6 +543,22 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Whiplash (Remastered)",
+      "url": "https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "Alice In Hell",
         "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 301053,
       "name": "Alison Hell",
       "url": "https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Among The Living (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Caught In A Mosh",
+      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "Re-Kill",
+        "url": "https://open.spotify.com/album/7hNLVrrT1IUaqM9ltDwGWl"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "King of the Kill - 2013 Version",
+      "url": "https://open.spotify.com/track/1gEV4KEZ7QNo7hO8ClhIGl"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "Totem",
         "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 275386,
       "name": "Elimination",
       "url": "https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Re-Kill",
-        "url": "https://open.spotify.com/album/7hNLVrrT1IUaqM9ltDwGWl"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "King of the Kill - 2013 Version",
-      "url": "https://open.spotify.com/track/1gEV4KEZ7QNo7hO8ClhIGl"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Untouchable Glory",
-        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "Ninja Untouchables/Untouchable Glory",
-      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Practice What You Preach",
         "url": "https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 297293,
       "name": "Practice What You Preach",
       "url": "https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Untouchable Glory",
+        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "Ninja Untouchables/Untouchable Glory",
+      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "Thrash Zone",
+        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
+      },
+      "artists": [
+        {
+          "name": "D.R.I.",
+          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Thrashard",
+      "url": "https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "Bonded by Blood",
         "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 224066,
       "name": "Bonded by Blood",
       "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Soul Sacrifice",
-      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -927,38 +927,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Thrash Zone",
-        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
-      },
-      "artists": [
-        {
-          "name": "D.R.I.",
-          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Thrashard",
-      "url": "https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "The New Order",
-        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Into the Pit",
-      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "T\u016b",
         "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
       },
@@ -975,6 +943,22 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 250723,
+      "name": "Soul Sacrifice",
+      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "Born Of The Bomb",
         "url": "https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 279373,
       "name": "Combat Mosh",
       "url": "https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Into the Pit",
+      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
+        "name": "No Absolution",
+        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "No Absolution",
+      "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
         "name": "Point Of No Return EP",
         "url": "https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y"
       },
@@ -1035,6 +1051,22 @@
       "duration_ms": 277333,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "Titans of Creation",
+        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Night of the Witch",
+      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1055,22 +1087,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "No Absolution",
-        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "No Absolution",
-      "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Cycle of Suffering",
         "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 308173,
       "name": "I Sever",
       "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
-        "name": "Titans of Creation",
-        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Night of the Witch",
-      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "666-Pack",
-        "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
-      },
-      "artists": [
-        {
-          "name": "Insanity Alert",
-          "url": "https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx"
-        }
-      ],
-      "duration_ms": 92612,
-      "name": "All Mosh / No Brain",
-      "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Outer Isolation",
         "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 321880,
       "name": "Tetrastructural Minds",
       "url": "https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "666-Pack",
+        "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
+      },
+      "artists": [
+        {
+          "name": "Insanity Alert",
+          "url": "https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx"
+        }
+      ],
+      "duration_ms": 92612,
+      "name": "All Mosh / No Brain",
+      "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "The Wings of War",
-        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 349386,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
-    },
-    {
-      "added_at": "2022-12-15 20:11:37",
-      "album": {
         "name": "Ahi K\u0101",
         "url": "https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 226971,
       "name": "Ahi K\u0101",
       "url": "https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr"
+    },
+    {
+      "added_at": "2022-12-15 20:11:37",
+      "album": {
+        "name": "The Wings of War",
+        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 349386,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
     },
     {
       "added_at": "2022-12-15 20:11:37",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2022-12-15 20:11:37",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+        "name": "Blood in the Water",
+        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
       },
       "artists": [
         {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
         }
       ],
-      "duration_ms": 272853,
-      "name": "Chalice of Blood",
-      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+      "duration_ms": 250986,
+      "name": "Reaggression",
+      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
     },
     {
       "added_at": "2022-12-15 20:11:37",

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Huh\)
 
-1,051 songs - 2 day 5 hr 40 min
+1,052 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-16 | 2023-02-10 |
 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-17 | 2022-03-18 |
 | [Magic City](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 | 2022-03-18 | 2022-04-15 |
+| [MAGIC!](https://open.spotify.com/track/7J7zXMRJjA8Xcz02EHLwxJ) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:59 | 2023-02-27 |  |
 | [MAIN CHARACTER](https://open.spotify.com/track/08WxwaUhle3yg04zCKe4UC) | [MUNGMUNG](https://open.spotify.com/artist/1WFXknBooWyCTpQuVhhCfd) | [MAIN CHARACTER](https://open.spotify.com/album/3Btnc4Coaok8BjWrqxFiit) | 2:56 | 2022-03-18 | 2022-04-01 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-04 | 2023-02-17 |
 | [Make a Mall](https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Make a Mall](https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2) | 3:02 | 2022-01-20 | 2022-01-28 |

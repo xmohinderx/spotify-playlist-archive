@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Here and Now (Audio Only Version)",
+        "url": "https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Bottoms Up",
+      "url": "https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM"
+    },
+    {
+      "album": {
         "name": "Greatest Hitz",
         "url": "https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 279800,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"
@@ -2919,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116453,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
+    },
+    {
+      "album": {
         "name": "Reckless Tongue",
         "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
       },
@@ -3704,7 +3740,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"

@@ -1,12 +1,12 @@
 {
   "description": "Extatische gevoelens met prachtige muziek",
-  "num_followers": 28553,
+  "num_followers": 28559,
   "original_name": "EXTASE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzMxNTQ5MywwMDAwMDAwMGZjYzJkMTkxMzRjYThiMmNiMDIwMTAwMWE3YmE2YjM2",
+  "snapshot_id": "MTY3NzMxNTQ5MywwMDAwMDAwMDk3Y2FmMWM0YWU2NGExYTE2NTFmMWU0OTcyNTYxMDhk",
   "tracks": [
     {
       "added_at": "2023-02-23 23:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
+        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
+        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 615939,
+      "name": "Ice V",
+      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
-        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
-        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 615939,
-      "name": "Ice V",
-      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 192648,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/76XZIVR8Q4EPiNnXU0z5px"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 218679,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/76pUPMbmu0ENmuAiaTPvIq"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 192648,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/76XZIVR8Q4EPiNnXU0z5px"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Big Love Blanket",
-        "url": "https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV"
-      },
-      "artists": [
-        {
-          "name": "Personal Trainer",
-          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "The Lazer",
-      "url": "https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Violet Drive",
         "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 327292,
       "name": "Pulse VI",
       "url": "https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Big Love Blanket",
+        "url": "https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV"
+      },
+      "artists": [
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "The Lazer",
+      "url": "https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "tnght",
-        "url": "https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 207454,
-      "name": "tnght",
-      "url": "https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200351,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "tnght",
+        "url": "https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 207454,
+      "name": "tnght",
+      "url": "https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "SEROTONIN",
-        "url": "https://open.spotify.com/album/6leBN3kkqUoHi9dgMOfMwo"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 95937,
-      "name": "SEROTONIN",
-      "url": "https://open.spotify.com/track/77qco7OEBQKvM6uQvCcTlZ"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "Linger On (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 255422,
       "name": "Linger On - Roosevelt Remix Edit",
       "url": "https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "SEROTONIN",
+        "url": "https://open.spotify.com/album/6leBN3kkqUoHi9dgMOfMwo"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 95937,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/77qco7OEBQKvM6uQvCcTlZ"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Leave Now",
-        "url": "https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "Leave Now",
-      "url": "https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL"
-    },
-    {
-      "added_at": "2023-02-23 23:01:00",
-      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/39KoavteTlQETyKudqlegD"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Boulevard",
-        "url": "https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG"
+        "name": "Leave Now",
+        "url": "https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ"
       },
       "artists": [
         {
-          "name": "TESSEL",
-          "url": "https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 185760,
-      "name": "Boulevard",
-      "url": "https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt"
+      "duration_ms": 227946,
+      "name": "Leave Now",
+      "url": "https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 185560,
       "name": "Earth Sick",
       "url": "https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE"
+    },
+    {
+      "added_at": "2023-02-23 23:01:00",
+      "album": {
+        "name": "Boulevard",
+        "url": "https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG"
+      },
+      "artists": [
+        {
+          "name": "TESSEL",
+          "url": "https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt"
     },
     {
       "added_at": "2023-02-23 23:01:00",

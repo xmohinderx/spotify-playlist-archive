@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,198 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,238 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 28 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 29 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
 | 30 | [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 |
-| 31 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 |
-| 32 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 |
+| 31 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 |
+| 32 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 |
 | 33 | [Pluie fine \- Polo & Pan Remix](https://open.spotify.com/track/33F1mJbbdTdmZuSI5zxoSw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Fille de ta région remixée](https://open.spotify.com/album/6mM9jFuElvjw45AfSHNf0c) | 3:58 |
 | 34 | [Larme à gauche](https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 2:56 |
 | 35 | [Zhudio54](https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [DREAMLAND \(DELUXE\)](https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO) | 3:48 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 65 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
 | 66 | [Composure](https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Composure](https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj) | 2:29 |
 | 67 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
-| 68 | [F\*ck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [F\*ck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
-| 69 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 68 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 69 | [F\*ck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [F\*ck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
 | 70 | [Sweat](https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Sweat](https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E) | 2:56 |
 | 71 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
 | 72 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 94 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 |
 | 95 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 96 | [Jardins Aquatics](https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a) | 5:58 |
-| 97 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
-| 98 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
+| 97 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
+| 98 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
 | 99 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 | 100 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGNjYTQ1YmNmZDJiN2FjZjUwNDVmNWNiMjc3NzRmZWQz`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGEzNjVkMjRkYjZiOTM1ZWFhODA0YWM5NDM4N2RkMTNm`

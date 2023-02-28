@@ -1,12 +1,12 @@
 {
   "description": "In your bag. Cover: Kxllswxtch",
-  "num_followers": 1447561,
+  "num_followers": 1447797,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5NTI4MSwwMDAwMDAwMDdiMDEwMDMxZjExNmFkNTJmNDBhOGVlZDFjZGE1NzEw",
+  "snapshot_id": "MTY3Njk5NTI4MSwwMDAwMDAwMDdkZTgxZmJmZjk2MmUyZDQzMjFkMmI5M2QyMDYyNzdk",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
     },
     {
-      "added_at": "2022-10-28 16:05:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Enough",
@@ -261,6 +245,22 @@
       "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
     },
     {
+      "added_at": "2022-10-28 16:05:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Dead and Cold",
@@ -293,38 +293,6 @@
       "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
-      },
-      "artists": [
-        {
-          "name": "Josh A",
-          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
-    },
-    {
-      "added_at": "2022-12-16 17:00:00",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Kids Are Growing Up (Part 1)",
@@ -339,6 +307,22 @@
       "duration_ms": 121369,
       "name": "Kids Are Growing Up (Part 1)",
       "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
+      },
+      "artists": [
+        {
+          "name": "Josh A",
+          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -425,10 +409,10 @@
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2022-12-16 17:00:00",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "I'm Gone",
         "url": "https://open.spotify.com/album/4Wb5bU9FkmZ84WkkL37rKA"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -707,6 +691,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "dream girl",
         "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "why am i crying",
-        "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
-      },
-      "artists": [
-        {
-          "name": "LRN Slime",
-          "url": "https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 204659,
-      "name": "Letter to Jarad",
-      "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "would you be my baby",
         "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 73421,
       "name": "would you be my baby",
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "why am i crying",
+        "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
+      },
+      "artists": [
+        {
+          "name": "LRN Slime",
+          "url": "https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 204659,
+      "name": "Letter to Jarad",
+      "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 119371,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 172307,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 119371,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187500,
       "name": "snowflake (feat. Jaden & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1167,22 +1167,6 @@
       "duration_ms": 163260,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Childhood Dreams",
-        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Rather Do",
-      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Childhood Dreams",
+        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Rather Do",
+      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Proud of Myself",
+        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
+      },
+      "artists": [
+        {
+          "name": "Lil Xxel",
+          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "Proud of Myself",
+      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Proud of Myself",
-        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
-      },
-      "artists": [
-        {
-          "name": "Lil Xxel",
-          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Proud of Myself",
-      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Outta Time",
         "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 125753,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Teddi Jones",
+          "url": "https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "BLUE MOON (feat. Teddi Jones)",
+      "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
     },
     {
       "added_at": "2022-10-28 16:05:00",
@@ -1443,26 +1463,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Ethereal",
-        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "Teddi Jones",
-          "url": "https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "BLUE MOON (feat. Teddi Jones)",
-      "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "LONEWOLF",
         "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 159149,
       "name": "I fucked up",
       "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Can't Leave",
-        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Can't Leave",
-      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 209583,
       "name": "Dying",
       "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Can't Leave",
+        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Can't Leave",
+      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Belly of the Beast",
-        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
-      },
-      "artists": [
-        {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "UDNTLUVME",
@@ -1583,6 +1567,22 @@
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Belly of the Beast",
+        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
+      },
+      "artists": [
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "V12 (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 177835,
-      "name": "V12 (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
       },
@@ -1713,6 +1693,42 @@
       "url": "https://open.spotify.com/track/6QcdYU79Qhas0j96FCByb4"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "V12 (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 177835,
+      "name": "V12 (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "I JUST FKN HATE YOU NOW",
+        "url": "https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 112692,
+      "name": "I JUST FKN HATE YOU NOW",
+      "url": "https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Seen It All Before",
@@ -1735,34 +1751,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "I JUST FKN HATE YOU NOW",
-        "url": "https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu"
+        "name": "She Likes My Tattoos",
+        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
       },
       "artists": [
         {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
         }
       ],
-      "duration_ms": 112692,
-      "name": "I JUST FKN HATE YOU NOW",
-      "url": "https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
-      },
-      "artists": [
-        {
-          "name": "Yung Pinch",
-          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
     }
   ],
   "unique_name": "tear drop",

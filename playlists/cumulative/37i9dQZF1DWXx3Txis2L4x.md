@@ -4,7 +4,7 @@
 
 > Keep your run going with these upbeat rock tracks.
 
-150 songs - 8 hr 45 min
+152 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 | 2021-12-09 |  |
 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 | 2022-06-02 |  |
 | [Asleep](https://open.spotify.com/track/0r4KRSkBIsOtyrKnFuMz9a) | [Parting Gift](https://open.spotify.com/artist/6Rm6Kxqg4WmFqDodsAf0Gi) | [Asleep](https://open.spotify.com/album/7LJXhLPcSbpZlEPZqP544k) | 3:40 | 2022-04-08 | 2022-04-19 |
-| [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2022-02-13 |  |
+| [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2022-02-13 | 2023-02-28 |
 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 | 2021-12-09 | 2022-07-29 |
 | [Beautiful Way](https://open.spotify.com/track/0W3g9YcnBlaQZzhLTpPEAM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz) | 3:45 | 2021-12-09 | 2022-12-01 |
 | [Beautiful Way](https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:45 | 2022-11-21 |  |
@@ -44,6 +44,7 @@
 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 | 2022-04-08 |  |
 | [Daydream](https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:26 | 2021-12-09 | 2022-07-28 |
 | [Disconnect](https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:29 | 2022-04-08 | 2022-04-21 |
+| [DON'T PLAY](https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:13 | 2023-02-27 |  |
 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 | 2022-04-08 | 2022-04-21 |
 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 | 2022-04-08 |  |
 | [Empty Walls](https://open.spotify.com/track/0eOMrFg8LnFA4q9GMzIyOt) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Empty Walls](https://open.spotify.com/album/51RltZiYvJLkGcDI60ahDx) | 3:50 | 2022-04-08 | 2022-04-21 |
@@ -65,6 +66,7 @@
 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 | 2022-04-08 | 2022-04-20 |
 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 | 2022-04-08 |  |
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2022-03-09 |  |
+| [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 | 2023-02-27 |  |
 | [Heart and Soul](https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Great Divide \(Deluxe Version\)](https://open.spotify.com/album/6XXVbBty3sMrakjzhql9Pz) | 3:37 | 2022-05-18 |  |
 | [Heart Mind Body & Soul](https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K) | [The New Regime](https://open.spotify.com/artist/4XYfaDL9We5ubqAvl3Adli) | [Heart Mind Body & Soul](https://open.spotify.com/album/0Nh26pPaQbBB8Yzf6jpNb4) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 | 2021-12-09 |  |
@@ -86,7 +88,7 @@
 | [Let Me Rust](https://open.spotify.com/track/2PWYI3OAJaRmfmWHsptBRo) | [Onslow](https://open.spotify.com/artist/0dvvez2L9FiN6XOpCb51A1) | [Let Me Rust](https://open.spotify.com/album/6BCLLOC7FCnH2FVHMZs3vP) | 3:21 | 2022-02-13 | 2022-06-10 |
 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 | 2022-06-02 |  |
 | [Little Sister](https://open.spotify.com/track/5wHNRDvNDTvAvNUllq5v7R) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze \(International Version\)](https://open.spotify.com/album/2Pf0cjNcEcNRXIlokd9Irp) | 2:54 | 2021-12-09 | 2022-07-29 |
-| [Live Outside](https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 3:40 | 2022-10-25 |  |
+| [Live Outside](https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 3:40 | 2022-10-25 | 2023-02-28 |
 | [Live Outside](https://open.spotify.com/track/4vBs5NhKXDLDTTwxAyY0IU) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/5DluHsIvF63TIRwOwm247N) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 | 2021-12-09 |  |
 | [Marchin' On](https://open.spotify.com/track/6Xz5BZFSSj2LOFWQnpaRgr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [SHINY AND OH SO BRIGHT, VOL\. 1 / LP: NO PAST\. NO FUTURE\. NO SUN.](https://open.spotify.com/album/6chLMlDdUlCHQ1t48qHmwA) | 2:39 | 2021-12-09 | 2022-07-29 |

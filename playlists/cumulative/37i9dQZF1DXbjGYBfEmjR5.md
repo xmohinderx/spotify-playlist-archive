@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-474 songs - 1 day 2 hr 56 min
+475 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 | 2021-12-08 | 2022-11-05 |
 | [Date Night Deluxe](https://open.spotify.com/track/0ZRM3FvLWMaIV4LR5aYYQE) | [Pan!c Pop](https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL) | [Date Night Deluxe](https://open.spotify.com/album/790QHZEtlQ1VzHcgNafPHt) | 4:27 | 2022-01-25 | 2022-07-29 |
 | [Date Sim](https://open.spotify.com/track/7nG8Sr3OyN5jq4DMToGcww) | [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0) | [Insert Coin To Continue](https://open.spotify.com/album/0KreOa7z27QEFEVwvirwLP) | 3:30 | 2022-06-08 | 2022-07-16 |
-| [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 | 2021-12-08 |  |
+| [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 | 2021-12-08 | 2023-02-28 |
 | [Delicate](https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Delicate](https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg) | 4:11 | 2021-12-08 | 2022-07-29 |
 | [Desolate](https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Desolate](https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF) | 4:41 | 2021-12-08 | 2022-07-29 |
 | [Diagonale](https://open.spotify.com/track/1TGMLE2aI80iNmyAqrX4Ss) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Diagonale](https://open.spotify.com/album/4JGh77u2sAIjoMFDqCjeLa) | 3:25 | 2021-12-08 | 2022-07-26 |
@@ -276,6 +276,7 @@
 | [Modus](https://open.spotify.com/track/3bPAEgGdK9FyXM1HVFb9ub) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Future Groove Product](https://open.spotify.com/album/10pbAphezzKrxAPk4G9OSf) | 4:52 | 2022-01-25 | 2022-04-16 |
 | [Mono](https://open.spotify.com/track/7rs3NuYZ7uQlEISOEKEu5x) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Mono](https://open.spotify.com/album/5kqOnB2l0sCByH4Makzsbn) | 3:07 | 2021-12-08 | 2022-07-26 |
 | [Mono \- Remix](https://open.spotify.com/track/557jUql0HOowUJNOeH2Dpv) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO), [MORLO](https://open.spotify.com/artist/29sJuUxrwcoScHDr2BMaDV) | [Mono \(Remix\)](https://open.spotify.com/album/20nZith2DuaQrq5XxBc40N) | 2:56 | 2022-01-25 | 2022-07-04 |
+| [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 | 2022-11-04 |  |
 | [Monstruo Japonés](https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2) | 4:10 | 2022-08-12 | 2023-01-02 |
 | [Moonside](https://open.spotify.com/track/6fWWJ80UqYqVY2y9Acy2uz) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Moonside](https://open.spotify.com/album/2EOR7Yb1vYdtFk4jl9ckir) | 2:54 | 2022-06-08 | 2022-07-27 |
 | [Morale](https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Morale](https://open.spotify.com/album/1azX1aHJrqVGWqikHgXsRY) | 3:18 | 2021-12-08 | 2022-07-29 |

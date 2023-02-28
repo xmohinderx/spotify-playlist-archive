@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 137280,
+  "num_followers": 137386,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDEzYTM5OGVhMTQ4N2RkZjc4MGNjM2Y1ZmQ4NmE2YWE3",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDYxZmFjN2RmMDI4OTUwYWIxNDg4MWYyMDMwNzU4MjMz",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -115,6 +115,30 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 295176,
+      "name": "Safaera",
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
@@ -151,30 +175,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Los Legendarios 001",
-        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
-      },
-      "artists": [
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Fiel",
-      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "SIN GOTEO",
         "url": "https://open.spotify.com/album/4TntxQrt5dfhnYhrrvPoUo"
       },
@@ -203,46 +203,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Los Legendarios 001",
+        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         },
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 295176,
-      "name": "Safaera",
-      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+      "duration_ms": 261665,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -267,26 +247,42 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Gargolas 3",
-        "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
       },
       "artists": [
         {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
           "name": "Nicky Jam",
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 170004,
-      "name": "Donde Estan las Gatas",
-      "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -323,22 +319,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+        "name": "Gargolas 3",
+        "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+      "duration_ms": 170004,
+      "name": "Donde Estan las Gatas",
+      "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
@@ -431,22 +415,6 @@
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -495,6 +463,38 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "GRACIAS X",
         "url": "https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x"
       },
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "PA' ROMPERLA",
-      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "UN PASO",
         "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
@@ -563,38 +543,6 @@
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -635,6 +583,38 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Sin Culpa (feat. DrefQuila)",
         "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
       },
@@ -651,22 +631,6 @@
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Keii",
-        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Keii",
-      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -691,18 +655,58 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+        "name": "Keii",
+        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Expl\u00edcito",
-      "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
+      "duration_ms": 210000,
+      "name": "Keii",
+      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "PA' ROMPERLA",
+      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Alocao (With Bad Gyal)",
+        "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "Alocao (With Bad Gyal)",
+      "url": "https://open.spotify.com/track/6RyuoOJXNzlVWpfC5xQyeI"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -751,46 +755,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 231745,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Alocao (With Bad Gyal)",
-        "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "Alocao (With Bad Gyal)",
-      "url": "https://open.spotify.com/track/6RyuoOJXNzlVWpfC5xQyeI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -831,6 +795,42 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 231745,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 146733,
       "name": "Christian Dior",
       "url": "https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Morado",
-        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Morado",
-      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 388800,
       "name": "La Mentira - Remix",
       "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Morado",
+        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Morado",
+      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Farandulera",
-        "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        }
-      ],
-      "duration_ms": 254689,
-      "name": "Farandulera",
-      "url": "https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "La Jeepeta",
         "url": "https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc"
       },
@@ -1299,22 +1275,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+        "name": "Farandulera",
+        "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
+      "duration_ms": 254689,
+      "name": "Farandulera",
+      "url": "https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1331,6 +1311,26 @@
       "duration_ms": 152731,
       "name": "Rata Tan Tan",
       "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Pantano",
-        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Pantano",
-      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Pantano",
+        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Dime a Ver",
-        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Dime a Ver",
-      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "No Est\u00e1 Interesada",
         "url": "https://open.spotify.com/album/5f3mPNzP502Zzi8trbfItq"
       },
@@ -1787,6 +1771,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
+        "url": "https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
+      "url": "https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Maripilili",
         "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
       },
@@ -1811,22 +1815,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
-        "url": "https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY"
+        "name": "Dime a Ver",
+        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 133331,
-      "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
-      "url": "https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX"
+      "duration_ms": 164078,
+      "name": "Dime a Ver",
+      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Mala Influencia",
-        "url": "https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 194579,
-      "name": "Mala Influencia",
-      "url": "https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Deseos",
         "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
       },
@@ -2019,18 +1999,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Los Favoritos 2",
-        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
+        "name": "Mala Influencia",
+        "url": "https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq"
+      "duration_ms": 194579,
+      "name": "Mala Influencia",
+      "url": "https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2051,6 +2035,22 @@
       "duration_ms": 182400,
       "name": "GOTIKA",
       "url": "https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Los Favoritos 2",
+        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Cerrando Cap\u00edtulo",
-        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 172054,
-      "name": "Coraz\u00f3n Ego\u00edsta",
-      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Royal Medellin",
         "url": "https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU"
       },
@@ -2179,6 +2159,26 @@
       "duration_ms": 198857,
       "name": "Royal Medellin",
       "url": "https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Cerrando Cap\u00edtulo",
+        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 172054,
+      "name": "Coraz\u00f3n Ego\u00edsta",
+      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
     }
   ],
   "unique_name": "Rimas y Perreo",

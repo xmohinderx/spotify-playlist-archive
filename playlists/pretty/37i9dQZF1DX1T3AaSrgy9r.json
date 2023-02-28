@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 85641,
+  "num_followers": 85722,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDVjY2RlMjIyY2EyOTFmZWVjMjE5MjRmODAxOTQ2MTdl",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGIyYmQzZWZhODZlMjE5NTA1N2FjNTBjMDU1NjhlOTAw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -155,18 +155,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 456480,
-      "name": "Born Slippy (Nuxx)",
-      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "A Little Less Conversation: Elvis vs JXL",
         "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 211506,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -399,18 +415,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Tracey Thorn",
+          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
         }
       ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+      "duration_ms": 471560,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -447,6 +467,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -479,26 +515,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Tracey Thorn",
-          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
-        }
-      ],
-      "duration_ms": 471560,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Amnesiac",
         "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 293773,
       "name": "I Might Be Wrong",
       "url": "https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Hell Is Round The Corner",
-      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Flat Beat",
-        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Flat Beat",
-      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "When It Falls",
         "url": "https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 416933,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Flat Beat",
+        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Flat Beat",
+      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "U.F.Off: The Best Of The Orb",
+        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Toxygene - 7\" Edit",
+      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "U.F.Off: The Best Of The Orb",
-        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Toxygene - 7\" Edit",
-      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "New Forms",
         "url": "https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 542933,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "We Have Explosive",
-      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+        }
+      ],
+      "duration_ms": 379160,
+      "name": "We Have Explosive",
+      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
+        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Beauty Never Fades (feat. Saffron)",
+      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Spin Spin Sugar",
         "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
       },
@@ -1363,22 +1383,6 @@
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
-        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        },
-        {
-          "name": "Saffron",
-          "url": "https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Beauty Never Fades (feat. Saffron)",
-      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

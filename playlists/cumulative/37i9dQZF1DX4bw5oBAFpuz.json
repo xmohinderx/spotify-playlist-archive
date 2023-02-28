@@ -4153,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "Liverpool Rain",
+        "url": "https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224972,
+      "name": "Took a Hit",
+      "url": "https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy"
+    },
+    {
+      "album": {
         "name": "Pieces (EP)",
         "url": "https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw"
       },
@@ -4478,7 +4496,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 211385,
       "name": "When Summer Ends",
       "url": "https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk"

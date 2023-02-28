@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 141576,
       "name": "Bota Tudo Nessa Porra",
       "url": "https://open.spotify.com/track/1LxyIcKnXGEGJulPYhTIVo"
@@ -5462,7 +5462,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 109280,
       "name": "Desce Talarica",
       "url": "https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R"
@@ -10428,6 +10428,24 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208065,
+      "name": "LEFT RIGHT",
+      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
     },
     {
       "album": {
@@ -17002,7 +17020,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 196085,
       "name": "Regret Me",
       "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
@@ -20986,6 +21004,10 @@
         {
           "name": "DJ Jeffdepl",
           "url": "https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k"
+        },
+        {
+          "name": "Murilo Cajaiba",
+          "url": "https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf"
         }
       ],
       "date_added": "2023-02-14",

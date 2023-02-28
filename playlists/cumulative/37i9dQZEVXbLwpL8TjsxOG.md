@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-539 songs - 1 day 8 hr 25 min
+540 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-06-04 | 2022-07-08 |
 | [2084](https://open.spotify.com/track/6pJT4f6S8GPQ7hWCDvygrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [2084](https://open.spotify.com/album/2j3mX8c4hex5NmMlL4x7g4) | 5:16 | 2021-03-27\* | 2021-10-03 |
 | [20GB](https://open.spotify.com/track/7rdj6TWqy9HOLS0suvco5R) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:57 | 2021-09-01 | 2021-09-02 |
-| [2nd Favourite 第二最愛](https://open.spotify.com/track/1Pt5syTlJvn3FOqAET84WF) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [2nd Favourite 第二最愛](https://open.spotify.com/album/3y88HyXt2fDHhs00Hr4cFD) | 3:10 | 2022-12-16 |  |
+| [2nd Favourite 第二最愛](https://open.spotify.com/track/1Pt5syTlJvn3FOqAET84WF) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [2nd Favourite 第二最愛](https://open.spotify.com/album/3y88HyXt2fDHhs00Hr4cFD) | 3:10 | 2022-12-16 | 2023-02-28 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2022-12-26 | 2022-12-28 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-06 | 2022-04-19 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-23 | 2023-01-03 |
@@ -353,6 +353,7 @@
 | [人類群星閃耀時](https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [人類群星閃耀時](https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o) | 5:46 | 2021-10-16 | 2022-07-31 |
 | [今生今世 \- 電影"金枝玉葉"歌曲](https://open.spotify.com/track/1mSrXFejuVyMxWgwWCYgtq) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [I am what I am](https://open.spotify.com/album/5AwQPb2mVsTaLGLMCMJgqI) | 1:42 | 2021-04-03 | 2022-04-04 |
 | [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 | 2022-05-01 |  |
+| [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 |  |
 | [你把我的](https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [你把我的](https://open.spotify.com/album/4a5X6NxbbpqbtbUnke0KxR) | 2:25 | 2022-07-07 | 2022-10-20 |
 | [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* |  |
 | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/track/5w3SN2UjZRuuvPLAisQuaC) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/album/6R3nshWX358S0cbKfS1fmz) | 3:44 | 2023-01-31 | 2023-02-05 |

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Stray Kids
 
-502 songs - 1 day 3 hr 44 min
+504 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Big Revolution](https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7) | [Big Revolution](https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68) | 3:37 | 2022-11-08 | 2022-11-21 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-28 | 2023-02-15 |
 | [Birthday Party](https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:18 | 2021-12-23 | 2022-03-30 |
-| [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2022-12-22 |  |
+| [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2022-12-22 | 2023-02-28 |
 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 | 2022-09-20 |  |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-04-01 |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-03-31 | 2022-06-29 |
@@ -153,6 +153,7 @@
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-02 | 2022-08-31 |
 | [FEARLESS \- Japanese ver.](https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS \(Japanese ver.\)](https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu) | 2:48 | 2022-12-16 |  |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 | 2022-07-16 |
+| [Feelin' Good \(feat\. Jiselle\)](https://open.spotify.com/track/5jmCwPd97v8ciEfPQMuoF9) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:55 | 2023-02-27 |  |
 | [Feelin' Like](https://open.spotify.com/track/1GdahB0MwZ6MnwU51zkVhF) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [IN:VITE U](https://open.spotify.com/album/2nym29RGoObwngdpzCCQ8Y) | 2:47 | 2022-01-24 | 2022-04-27 |
 | [Feelin' Like \- Japanese Version](https://open.spotify.com/track/5a4AFIpyhzLCom8IgDH6mU) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Feelin' Like \(Japanese Version\)](https://open.spotify.com/album/0JDdWjlJ1wgJPHsRfNw1e9) | 2:46 | 2022-08-19 | 2022-11-09 |
 | [Fiction](https://open.spotify.com/track/3JsTNnFiSBubzYQcAY5MIP) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Fiction](https://open.spotify.com/album/1mKLTIVvtUpS1WMjuEGc56) | 3:40 | 2022-03-08 | 2022-03-23 |
@@ -162,6 +163,7 @@
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-29 | 2022-12-16 |
 | [Fire To The Fuse](https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [Fire To The Fuse](https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL) | 3:44 | 2022-11-10 | 2023-02-01 |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-08-29 | 2022-11-02 |
+| [Floral Sense \- Solo Version](https://open.spotify.com/track/4m2nlBbU3cS1SIhxB0bPHd) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-02-27 |  |
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-23 | 2022-08-26 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 | 2022-11-16 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-22 | 2023-01-30 |
@@ -468,7 +470,7 @@
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-04-01 |
 | [West Swing \(feat\. E\-40\)](https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [West Swing \(feat\. E\-40\)](https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC) | 3:22 | 2022-08-25 | 2022-10-14 |
-| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-29 |  |
+| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-29 | 2023-02-28 |
 | [WHEN I MOVE \- Japanese Version](https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [WHEN I MOVE \(Japanese Version\)](https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd) | 2:58 | 2022-12-06 | 2023-01-18 |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 | 2022-11-25 |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |

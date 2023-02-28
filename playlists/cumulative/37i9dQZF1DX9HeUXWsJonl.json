@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The sweet sounds of Tunisia.",
-  "name": "Tunisia Sounds",
+  "description": "\u00c9coute en boucle les hits tunisiens du moment.",
+  "name": "Hit Tounsi",
   "tracks": [
     {
       "album": {
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 197538,
       "name": "Nsit",
       "url": "https://open.spotify.com/track/0hllEJMWmrUkJYhih8HFXU"
@@ -2276,6 +2276,24 @@
       "duration_ms": 188666,
       "name": "Wakti Yejri",
       "url": "https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr"
+    },
+    {
+      "album": {
+        "name": "Warda (\u0648\u0631\u062f\u0629)",
+        "url": "https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl"
+      },
+      "artists": [
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269151,
+      "name": "Warda - \u0648\u0631\u062f\u0629",
+      "url": "https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi"
     },
     {
       "album": {

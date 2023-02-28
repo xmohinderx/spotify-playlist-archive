@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4037013,
+  "num_followers": 4037537,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MTUyOCwwMDAwMDAwMDU1ZjE0MDU1M2I3NzViNDJhYTJiNDI0YzE2YmY3YmU4",
+  "snapshot_id": "MTY3NTM4MTUyOCwwMDAwMDAwMDkwMGQ3YWEwNTRhMTMyMTU4NzVhNThjYjMwMDdiZDdi",
   "tracks": [
     {
       "added_at": "2023-01-13 17:28:01",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "No Te Apartes de M\u00ed",
+      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "No Te Apartes de M\u00ed",
-      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -359,22 +359,6 @@
       "duration_ms": 214133,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -407,6 +391,22 @@
       "duration_ms": 201600,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -603,22 +619,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -719,46 +719,6 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "La Correcta",
-        "url": "https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 219198,
-      "name": "La Correcta",
-      "url": "https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "Ser\u00e1 Mejor Que Te Vayas",
-      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -779,6 +739,26 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "La Correcta",
+        "url": "https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 219198,
+      "name": "La Correcta",
+      "url": "https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 218232,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 299626,
+      "name": "Ser\u00e1 Mejor Que Te Vayas",
+      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Mis Canciones De La Web",
-        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Mi Razon De Ser",
-      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "Mis Canciones De La Web",
+        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Mi Razon De Ser",
+      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "FAVORITAS CON AMOR Vol. 2",
         "url": "https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 228013,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 186255,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "Sale el Sol",
         "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 186255,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 238628,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 238628,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "Tiburones",
+        "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 193975,
+      "name": "Tiburones",
+      "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "Rom\u00e1ntico Desliz",
         "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 327600,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Tiburones",
-        "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 193975,
-      "name": "Tiburones",
-      "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
         "name": "Montaner",
         "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 218320,
       "name": "Por Lo Que Reste de Vida",
       "url": "https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Eso Y M\u00e1s",
-        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 181280,
       "name": "Antes Que al M\u00edo",
       "url": "https://open.spotify.com/track/69VfaraLe5onolFj90bgyj"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1637,7 +1637,7 @@
       "url": "https://open.spotify.com/track/0OzlamwH7ExWvidVp2f9oK"
     },
     {
-      "added_at": "2023-02-27 00:31:26",
+      "added_at": "2023-02-28 00:32:00",
       "album": {
         "name": "No S\u00e9 Querer",
         "url": "https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO"
@@ -1703,38 +1703,18 @@
     {
       "added_at": "2023-01-13 17:28:01",
       "album": {
-        "name": "Amo",
-        "url": "https://open.spotify.com/album/4RU6LeSHI15XPpGykpSM65"
+        "name": "A Flor De Piel",
+        "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
       },
       "artists": [
         {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
         }
       ],
-      "duration_ms": 213213,
-      "name": "Amo",
-      "url": "https://open.spotify.com/track/4IDp1zu5LGwVzrp9j9WjHW"
-    },
-    {
-      "added_at": "2023-01-13 17:28:01",
-      "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        },
-        {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "No Puedo Dejarte de Amar (with Jes\u00fas Navarro)",
-      "url": "https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw"
+      "duration_ms": 229493,
+      "name": "Por El Amor De Una Mujer",
+      "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
     },
     {
       "added_at": "2023-01-13 17:28:01",
@@ -1751,6 +1731,22 @@
       "duration_ms": 210373,
       "name": "Nada Es Como T\u00fa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
+    },
+    {
+      "added_at": "2023-01-13 17:28:01",
+      "album": {
+        "name": "Amo",
+        "url": "https://open.spotify.com/album/4RU6LeSHI15XPpGykpSM65"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/4IDp1zu5LGwVzrp9j9WjHW"
     }
   ],
   "unique_name": "Baladas Rom\u00e1nticas",

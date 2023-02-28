@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Gorillaz \(pictured\), The Weeknd + Ariana Grande, Halsey and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,925 likes - 126 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,953 likes - 126 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

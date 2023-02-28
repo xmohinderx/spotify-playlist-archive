@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Crown Lands
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,541 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,540 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 72 | [Bounds](https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Bounds](https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9) | 3:27 |
 | 73 | [All I Have](https://open.spotify.com/track/1RWM1cbjpZkePBkFYgfI9P) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn), [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [All I Have](https://open.spotify.com/album/1qeuBrPJGk6XMqWoMQV98B) | 2:22 |
 | 74 | [Microwave Food](https://open.spotify.com/track/2ZdLL9ok9kpiE4t0R9sOqv) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Microwave Food](https://open.spotify.com/album/6DJcpUuwjIRMXrrRHLaBa7) | 2:08 |
-| 75 | [People Pleaser](https://open.spotify.com/track/3z9huDY5jtnauzogxSfEvH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [People Pleaser](https://open.spotify.com/album/5qr60lWY4OwoM8srEGfLsm) | 3:09 |
+| 75 | [People Pleaser](https://open.spotify.com/track/2HqPWkDY1v9t9LoqmXGoYP) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:09 |
 | 76 | [Abalone](https://open.spotify.com/track/4OGBU3agg96CA483Q280FP) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Abalone](https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT) | 2:06 |
 | 77 | [The End of a Gun](https://open.spotify.com/track/4RKEDtUTGhs7nQ03Rfivre) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [The End of a Gun](https://open.spotify.com/album/70rkaCnr4L6z93kzeVjYGI) | 2:56 |
 | 78 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 |
 | 100 | [Cold Turkey](https://open.spotify.com/track/4ZsIidihgiyDrMnNlaqeBT) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [More Is More](https://open.spotify.com/album/7dyUmRuDiu9hoOnGnUick7) | 3:00 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGJhZjQ0YWRjOTc5OWVlYzU3ODJlYjdhZDBmZGNiMGNk`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhkNGQxODQxYjk4NzQ4NzNkNjFmYWZiYjA4MGY0N2Q3`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,000 songs - 2 day 4 hr 21 min
+1,001 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Danmarks Dynamite](https://open.spotify.com/track/3vhHc9HYELbqr7aS5s0yNO) | [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX), [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [Danmarks Dynamite](https://open.spotify.com/album/72ffC16VTP6obdvTXHfnhV) | 2:53 | 2021-06-06 | 2021-07-11 |
 | [DANS \(BURHAN G X TOBIAS RAHIM X CARL KNAST\)](https://open.spotify.com/track/6mvSmSL2bPSbwb1L094sp4) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [DANS \(BURHAN G X TOBIAS RAHIM X CARL KNAST\)](https://open.spotify.com/album/2rQubaORj2wlU5gyE3Ul9o) | 2:48 | 2021-10-23 | 2021-10-31 |
 | [Danser](https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Danser](https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv) | 2:39 | 2022-04-23 | 2023-01-03 |
+| [Danser Kun For Dig](https://open.spotify.com/track/2FsJvP6UAPk4Hz2WgHaT4A) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Danser Kun For Dig](https://open.spotify.com/album/299ByLsreUOVfJJYUaivGD) | 2:28 | 2023-02-27 |  |
 | [Danser Med Diablo](https://open.spotify.com/track/3Y7DrSY1cnn7AyTakPIzsW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Danser Med Diablo](https://open.spotify.com/album/5X4FnXVZQ0JJjdCQU1s52Q) | 2:45 | 2021-08-22 | 2021-09-13 |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 |  |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -657,7 +658,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-22 |
 | [Mr\. Lummer \(feat\. Stewart Stardust\)](https://open.spotify.com/track/43gebe9VUqbC0hEu92HpzZ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Stewart Stardust](https://open.spotify.com/artist/4W37go9X8efhtDP1q9GCzK) | [Bedre Sent End Aldrig](https://open.spotify.com/album/5ltSOF7fD6ujjdKb3w9QsM) | 3:02 | 2023-02-24 |  |
 | [Mucki Bar](https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Mucki Bar](https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk) | 2:59 | 2022-02-12 | 2022-10-23 |
-| [Mucki Bar](https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:59 | 2022-10-22 |  |
+| [Mucki Bar](https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:59 | 2022-10-22 | 2023-02-28 |
 | [Mumler For Meget \(Artigeardit X Lamin\)](https://open.spotify.com/track/60OuNllvEgzkONpbhBd63M) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:11 | 2021-10-17 | 2021-11-02 |
 | [Mums](https://open.spotify.com/track/2UsR5UxsuKwJ2OovutZsjV) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Mums](https://open.spotify.com/album/6u6jhjQf7JGaC2C2TcwHR3) | 2:29 | 2021-04-11 | 2021-06-01 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-05 |

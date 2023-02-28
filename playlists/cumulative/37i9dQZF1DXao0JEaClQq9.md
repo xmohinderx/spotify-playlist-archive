@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Feist
 
-485 songs - 1 day 6 hr 12 min
+486 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Ask the Mountains](https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 7:53 | 2021-10-08 | 2022-04-19 |
 | [Atopos](https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Atopos](https://open.spotify.com/album/4gsVIuKRUMJCdNhHTx5GrI) | 4:46 | 2022-09-09 | 2022-10-03 |
 | [Babyyy](https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Really Hot](https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx) | 1:46 | 2021-06-03 |  |
-| [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-14 |  |
+| [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-14 | 2023-02-28 |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-17 |  |
 | [Beautiful](https://open.spotify.com/track/5KgHHyIkSf7NBYllVJfhJF) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Beautiful](https://open.spotify.com/album/4HdbjrrLN9BjHfmtZ1riof) | 3:31 | 2021-07-19 | 2022-07-20 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-09-30 | 2022-11-20 |
@@ -192,6 +192,7 @@
 | [Habitual Love](https://open.spotify.com/track/5JOnQCQ9OGn7hY23aCkdlL) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 3:18 | 2021-06-03 | 2022-07-29 |
 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 | 2021-06-03 | 2022-07-26 |
 | [Haptics](https://open.spotify.com/track/6gOoqDFoY7cekwNDGbIjJ9) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF), [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Haptics](https://open.spotify.com/album/6KC0z9SE9jU5lvhS14iIUe) | 3:12 | 2022-03-07 | 2022-07-22 |
+| [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 | 2023-02-28 |  |
 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 | 2022-06-24 |  |
 | [Heaven Fell \(Reprise\)](https://open.spotify.com/track/2pUarDBfmUqw328dcU5Ubq) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Heaven Fell](https://open.spotify.com/album/5b0BcHLVRtJ3xGPpV3AaYI) | 2:26 | 2021-06-03 | 2022-07-16 |
 | [Heaven On Earth](https://open.spotify.com/track/2f0ZEAdZQBCRR9NAI6eE2d) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:52 | 2021-10-08 | 2022-04-19 |

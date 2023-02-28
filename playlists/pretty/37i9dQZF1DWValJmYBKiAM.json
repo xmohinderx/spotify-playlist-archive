@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 85535,
+  "num_followers": 85703,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMDU2MCwwMDAwMDAwMGY1YjhlMmIxZTJlMWMxMGFhOTk1ZjdlODJiY2U1N2Q1",
+  "snapshot_id": "MTY3MjQyMDU2MCwwMDAwMDAwMDVkYTI3MTJkNjhiMDc3YTJhMmFhMDEwZTQ3YzhjNDE2",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Bacilos (Re-Issue)",
         "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 312400,
       "name": "Tabaco Y Chanel",
       "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199482,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
+        "name": "Lo mas lejos a tu lado",
+        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
       "artists": [
         {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 218973,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
+      "duration_ms": 254373,
+      "name": "Soldadito marinero",
+      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -575,22 +591,6 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Lo mas lejos a tu lado",
-        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Soldadito marinero",
-      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 235906,
       "name": "Desde cuando",
       "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Para Tu Amor",
-      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -707,18 +707,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+        "name": "Aqui O Sistema \u00c9 Bruto",
+        "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+          "name": "Chit\u00e3ozinho & Xoror\u00f3",
+          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
+        },
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
+      "duration_ms": 283706,
+      "name": "Sin\u00f4nimos",
+      "url": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -743,22 +747,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Aqui O Sistema \u00c9 Bruto",
-        "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
       "artists": [
         {
-          "name": "Chit\u00e3ozinho & Xoror\u00f3",
-          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
-        },
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
         }
       ],
-      "duration_ms": 283706,
-      "name": "Sin\u00f4nimos",
-      "url": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx"
+      "duration_ms": 213573,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Que Me Alcance la Vida",
+      "url": "https://open.spotify.com/track/0doPUFYZPjLAFNfqoZy7Jw"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Cruce de Caminos",
         "url": "https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 202853,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Que Me Alcance la Vida",
-      "url": "https://open.spotify.com/track/0doPUFYZPjLAFNfqoZy7Jw"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Duele (Crazy)",
-      "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Discotecagem Pop Variada",
         "url": "https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Duele (Crazy)",
+      "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
         "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
-      },
-      "artists": [
-        {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Ya Nada Queda",
-      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "El Sexto Sentido (Re+Loaded)",
         "url": "https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+      },
+      "artists": [
+        {
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Ya Nada Queda",
+      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        },
-        {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "No Puedo Dejarte de Amar (with Jes\u00fas Navarro)",
-      "url": "https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Thalia",
         "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
@@ -1519,18 +1499,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
       "artists": [
         {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        },
+        {
+          "name": "Jes\u00fas Navarro",
+          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
         }
       ],
-      "duration_ms": 266040,
-      "name": "Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
+      "duration_ms": 317106,
+      "name": "No Puedo Dejarte de Amar (with Jes\u00fas Navarro)",
+      "url": "https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 349520,
       "name": "Momento",
       "url": "https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Fui",
+      "url": "https://open.spotify.com/track/1LmncqvV0ozgnPSocwdcRd"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "M\u00e1s De Mi Alma",
         "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 261666,
       "name": "Tu Hombre Perfecto",
       "url": "https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 350760,
-      "name": "Amor de Madre",
-      "url": "https://open.spotify.com/track/7Ka96TnEA9S6aWG4pIS9RW"
     },
     {
       "added_at": "2022-12-30 17:16:00",

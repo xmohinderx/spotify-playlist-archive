@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Reneé Rapp
 
-1,537 songs - 3 day 6 hr 23 min
+1,539 songs - 3 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Besarnos de cero](https://open.spotify.com/track/20DSrtKmlJcC7kDruBl4Vr) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Besarnos de cero](https://open.spotify.com/album/0Bcyz6EwYgBaU8AXx2yJWb) | 2:28 | 2021-10-10 | 2021-10-11 |
 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 |  |
 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 | 2021-02-22 | 2021-03-23 |
-| [Better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 | 2023-01-27 |  |
+| [Better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 | 2023-01-27 | 2023-02-28 |
 | [better friends](https://open.spotify.com/track/3zV2AEuJETO2BlgZkCn7QK) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [better friends](https://open.spotify.com/album/7gM753DTe1BS5d5vxvODTQ) | 3:24 | 2019-05-26\* | 2019-06-15 |
 | [Better Off Alone](https://open.spotify.com/track/1Q1PCgoGxxvF2pVKAJlCgX) | [Ryan Pulford](https://open.spotify.com/artist/46E8qTNPKXItddNMeUgOqq) | [Better Off Alone](https://open.spotify.com/album/6LPK0cxNkUy0PgQu2ltlj6) | 3:12 | 2019-05-26\* | 2019-08-13 |
 | [Better People to Leave on Read](https://open.spotify.com/track/6Qzocyx8YIExWGSpoggwQ7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People to Leave on Read](https://open.spotify.com/album/5maJrI1vqMONcKCh3sHn8B) | 2:11 | 2022-01-28 | 2022-08-20 |
@@ -640,6 +640,7 @@
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-08-11 | 2021-11-10 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 |  |
 | [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 | 2022-10-27 |
+| [HOW DARE YOU](https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [HOW DARE YOU](https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih) | 3:02 | 2023-02-24 |  |
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2023-02-18 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2022-10-29 |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-10-08 |
@@ -931,7 +932,7 @@
 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 | 2019-09-27 | 2021-10-13 |
 | [Nectarines \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/5M3B1uoRcVUEQi8FnKxZ0V) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Nectarines \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/01LZ1hIDwP3qpSgtGiQEU4) | 3:22 | 2020-08-06 | 2021-08-28 |
 | [Need You Right Now \(feat\. Channel Tres\)](https://open.spotify.com/track/7k2cwdnyG69gTaPQoEWWqv) | [Dan D'Lion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Need You Right Now \(feat\. Channel Tres\)](https://open.spotify.com/album/6tnB9ffKPL1eoUUvRBwnIz) | 3:46 | 2021-02-13 | 2022-01-08 |
-| [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 |  |
+| [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 | 2023-02-28 |
 | [Never Let You Go](https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Never Let You Go](https://open.spotify.com/album/29aFzMPjs687GKSJCPLfNI) | 3:47 | 2019-09-27 | 2020-01-16 |
 | [Never Seen the Rain](https://open.spotify.com/track/2grAr8pWMuLWn8ZYEE9wDV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen the Rain](https://open.spotify.com/album/1BYByciKxjYwhRSrWlEjWu) | 3:20 | 2019-07-27 | 2021-03-16 |
 | [Never the Same](https://open.spotify.com/track/0nXqnXFlnJwjhXDTbZDuav) | [Where is Maps](https://open.spotify.com/artist/6jqQfGlwW8i3TGBX6SuwuN) | [Never the Same](https://open.spotify.com/album/1BhAfbrBL70wyXnJNIEAfL) | 3:27 | 2019-12-08 | 2021-01-21 |
@@ -1183,6 +1184,7 @@
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-09-10 | 2023-02-11 |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-05-27 | 2022-06-07 |
 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 | 2022-09-23 | 2022-10-09 |
+| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 |  |
 | [Should I Call U Baby](https://open.spotify.com/track/0Jv6znEgiRN0QpJXQ9aaWA) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Should I Call U Baby](https://open.spotify.com/album/0GslCQGbomtTLgqyjUug3C) | 3:59 | 2021-10-25 | 2022-01-29 |
 | [Show Me](https://open.spotify.com/track/10myPNOGfqlAmkKRc3L1d9) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Show Me](https://open.spotify.com/album/3H5theFZzPfDdbBVOEkxlG) | 3:15 | 2019-05-26\* | 2019-06-15 |
 | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/track/3re97KCFI7Lt6pRfxdC8KL) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/album/1L30zgJR7KKILbL3p3Z5wH) | 3:25 | 2019-05-26\* | 2019-06-15 |

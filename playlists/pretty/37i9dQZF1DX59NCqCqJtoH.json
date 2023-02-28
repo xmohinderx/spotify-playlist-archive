@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1119224,
+  "num_followers": 1119537,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTk2MSwwMDAwMDAwMGRhOTQ2ODNjZTA4YzMxMTNhMjY2Zjg1MTA5NDlhOTk1",
+  "snapshot_id": "MTY3NzI1OTk2MSwwMDAwMDAwMDYxZTM3MjQxOGM4Y2M1ZDJhZGU0MjcyZmIwYzI3YTdk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "IDK You Yet (Live on Piano)",
+        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "IDK You Yet (Live on Piano)",
-        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 214680,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 131586,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
     },
     {
+      "added_at": "2023-02-28 00:31:46",
+      "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "idtwcbf (friends)",
+      "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Rabbit Hearted.",
@@ -817,22 +833,6 @@
       "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "weak",
-        "url": "https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "weak",
-      "url": "https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Forever & Always",
@@ -847,6 +847,22 @@
       "duration_ms": 249704,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "weak",
+        "url": "https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "weak",
+      "url": "https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -965,6 +981,26 @@
       "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
     },
     {
+      "added_at": "2023-02-14 18:21:59",
+      "album": {
+        "name": "homies",
+        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 225068,
+      "name": "homies",
+      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
+    },
+    {
       "added_at": "2023-01-06 06:05:00",
       "album": {
         "name": "goodnight moon (demos)",
@@ -995,26 +1031,6 @@
       "duration_ms": 302000,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
-    },
-    {
-      "added_at": "2023-02-14 18:21:59",
-      "album": {
-        "name": "homies",
-        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "homies",
-      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 419093,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84"
-    },
-    {
-      "added_at": "2023-02-27 00:49:25",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "idtwcbf (friends)",
-      "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1219,54 +1219,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "I Can't Hate You",
         "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
       },
@@ -1287,6 +1239,54 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 261471,
       "name": "Die Alone",
       "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
-    },
-    {
-      "added_at": "2022-11-16 17:24:20",
-      "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
+    },
+    {
+      "added_at": "2022-11-16 17:24:20",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "essential",
-        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 162656,
-      "name": "essential",
-      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
-    },
-    {
       "added_at": "2023-01-06 06:05:00",
       "album": {
         "name": "Maya",
@@ -1563,6 +1547,22 @@
       "duration_ms": 207955,
       "name": "Maya",
       "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "essential",
+        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 162656,
+      "name": "essential",
+      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
     },
     {
       "added_at": "2022-11-11 05:00:00",

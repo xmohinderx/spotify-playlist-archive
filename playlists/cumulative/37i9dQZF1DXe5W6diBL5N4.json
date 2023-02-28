@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: MAMAMOO(\ub9c8\ub9c8\ubb34)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: YESUNG(\uc608\uc131)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 175626,
       "name": "007",
       "url": "https://open.spotify.com/track/62x3cSphWInRQUlBpMbg5p"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 199285,
       "name": "1, 2, 3",
       "url": "https://open.spotify.com/track/0aKUe9ryH62yN3I0zudNu3"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 209374,
       "name": "1000001",
       "url": "https://open.spotify.com/track/0FCRZJyD5FtXNVhufWa1p0"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 200723,
       "name": "2 Baddies - No Identity Remix",
       "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 249886,
       "name": "9th Wonder",
       "url": "https://open.spotify.com/track/6fRjht382AKK6aToUwVFCu"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 205969,
       "name": "A Song to Myself",
       "url": "https://open.spotify.com/track/0rqMMdeNsYDXhcDzGdEyLO"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 232480,
       "name": "Adore (with Choi moonseok)",
       "url": "https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 247973,
       "name": "After Love",
       "url": "https://open.spotify.com/track/34tpa7ePGVugKLVq9aFjnh"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 261146,
       "name": "Again, goodbye",
       "url": "https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 224293,
       "name": "Akita (Feat. hartts) (Prod. OBSN)",
       "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 170980,
       "name": "ALL DAY",
       "url": "https://open.spotify.com/track/1ChlNPjLWQlgS6H6m2VcFV"
@@ -3461,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "All I Ask",
+        "url": "https://open.spotify.com/album/311r2YhKQmaLG2oTwgmTU7"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "All I Ask",
+      "url": "https://open.spotify.com/track/6CNeeSXenQWmfos33qy00f"
+    },
+    {
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
       },
@@ -3476,6 +3494,24 @@
       "duration_ms": 168480,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
+    },
+    {
+      "album": {
+        "name": "Three Siblings Bravely OST Part.12 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5UJ3pmRmzr2JutdPNrHF3C"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227482,
+      "name": "All I need is you",
+      "url": "https://open.spotify.com/track/4gw8yp7dYXKgzIPXMpRDpv"
     },
     {
       "album": {
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 202173,
       "name": "Alright",
       "url": "https://open.spotify.com/track/53K47tc2zDxEwbgBv4pCsk"
@@ -3910,6 +3946,24 @@
       "duration_ms": 303000,
       "name": "Always With You",
       "url": "https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh"
+    },
+    {
+      "album": {
+        "name": "Always with you",
+        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Always with you",
+      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
     },
     {
       "album": {
@@ -4268,7 +4322,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 183586,
       "name": "Another you (Feat. DINDIN) (Prod. by DINDIN)",
       "url": "https://open.spotify.com/track/6h6hESy7Spah3RmSZDB7MQ"
@@ -4516,7 +4570,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 218420,
       "name": "Apgujeong",
       "url": "https://open.spotify.com/track/1J0eFPj2AIQT3XK0J0FSsY"
@@ -4552,7 +4606,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 199226,
       "name": "APHRODITE",
       "url": "https://open.spotify.com/track/1zmCkiE1LzJyTttHvyQ4fh"
@@ -4964,7 +5018,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 172361,
       "name": "At Night",
       "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
@@ -5152,7 +5206,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 221493,
       "name": "Ay-Yo",
       "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
@@ -5522,7 +5576,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 282680,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg"
@@ -5700,7 +5754,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 197687,
       "name": "Bad words",
       "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
@@ -6804,7 +6858,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192543,
       "name": "Before I Met You",
       "url": "https://open.spotify.com/track/05YWcAQiLkA88HTz5QHtY7"
@@ -7014,7 +7068,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 246360,
       "name": "Belated Love (Feat. Rosmile)",
       "url": "https://open.spotify.com/track/6PkltssR2ZGQPIZqkC9gID"
@@ -7724,7 +7778,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 201250,
       "name": "Binge-watch",
       "url": "https://open.spotify.com/track/6KtOFKDUOhpw4KjKr7iluK"
@@ -7814,7 +7868,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 189306,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/70ksrZAHcrMSXO7ukAEnA2"
@@ -8010,6 +8064,24 @@
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/3mvZil0Pb1KQBXEtUIf9zg"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219213,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/4eJyP6nKKIqJzdwHIBwUfs"
     },
     {
       "album": {
@@ -8987,6 +9059,28 @@
     },
     {
       "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/1PCcJS4r0vUXuKweBNgbdT"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "moodenuf",
+          "url": "https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Boy (Feat. moodenuf)",
+      "url": "https://open.spotify.com/track/3eMhD8cx21eDXT1sXT0siE"
+    },
+    {
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/6AXIWikkfG3CSo4dvFMkfQ"
       },
@@ -9154,7 +9248,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 230437,
       "name": "Break off",
       "url": "https://open.spotify.com/track/5XABVAE2w4ih5XssflsOct"
@@ -9237,6 +9331,28 @@
     },
     {
       "album": {
+        "name": "Breakup For You, Not Yet For Me",
+        "url": "https://open.spotify.com/album/1hAIHOlFKV2Nh5cv9eR2p5"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        },
+        {
+          "name": "SUNNYSIDEMJ",
+          "url": "https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Breakup For You, Not Yet For Me",
+      "url": "https://open.spotify.com/track/6hspeGlQWT5LJR1VAC24G0"
+    },
+    {
+      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -9291,6 +9407,24 @@
     },
     {
       "album": {
+        "name": "Breather",
+        "url": "https://open.spotify.com/album/0VUpMco8aa5zvP64jQenHn"
+      },
+      "artists": [
+        {
+          "name": "mikscod",
+          "url": "https://open.spotify.com/artist/5Zl3RcriH2AbtHNOT51prI"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239257,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/62SCskCzEvFFE2T1suXaEO"
+    },
+    {
+      "album": {
         "name": "breathless",
         "url": "https://open.spotify.com/album/2OXz7sUcFYo1gXY8qmV4yh"
       },
@@ -9306,6 +9440,24 @@
       "duration_ms": 245613,
       "name": "breathless",
       "url": "https://open.spotify.com/track/4WuudTuu7CIaKJFDfj3fdA"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/6iIJWxlgTpYezhQeISqph8"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "breeze",
+      "url": "https://open.spotify.com/track/4uYkrrH6GK2XnHtNWZwKjK"
     },
     {
       "album": {
@@ -9338,7 +9490,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 178750,
       "name": "Bridal Shower",
       "url": "https://open.spotify.com/track/58vEyCwicdshR6YcqwcXhr"
@@ -9462,7 +9614,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 190586,
       "name": "Broken (feat. J.O.Y & suru)",
       "url": "https://open.spotify.com/track/5fThpnau3cBJH7kk5iBnp7"
@@ -9502,7 +9654,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 342608,
       "name": "broken self",
       "url": "https://open.spotify.com/track/3Qbwqc0cf8MwO3R0vSTzeT"
@@ -9801,6 +9953,24 @@
     },
     {
       "album": {
+        "name": "Psychiatric Hospital",
+        "url": "https://open.spotify.com/album/1BfsaCCYtvYL4lByG3SRiH"
+      },
+      "artists": [
+        {
+          "name": "Third Stone",
+          "url": "https://open.spotify.com/artist/1kduP6BC6njpyCIDLuQyql"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383006,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/6ehVNv7kKd0vPXM2Zb49eJ"
+    },
+    {
+      "album": {
         "name": "BURN-OUT",
         "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
       },
@@ -9962,7 +10132,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 319626,
       "name": "But Beautiful (feat. Danny Koo)",
       "url": "https://open.spotify.com/track/2pyp9twimZSVYkbCpFsyaX"
@@ -10697,6 +10867,42 @@
     },
     {
       "album": {
+        "name": "Can i like you?",
+        "url": "https://open.spotify.com/album/5BUPPC9vtdHI9iwcO2CHqT"
+      },
+      "artists": [
+        {
+          "name": "Yeon Kyoo Seong",
+          "url": "https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Can i like you?",
+      "url": "https://open.spotify.com/track/1Coyj3xeRTaweghTg2l1Sw"
+    },
+    {
+      "album": {
+        "name": "Can I love you without worrying?",
+        "url": "https://open.spotify.com/album/3YDEMzvNx7eJVSktN4dOK3"
+      },
+      "artists": [
+        {
+          "name": "JeongEun Seo",
+          "url": "https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Can I love you without worrying?",
+      "url": "https://open.spotify.com/track/2Zv3G7RUcEqROV5U0c5xiJ"
+    },
+    {
+      "album": {
         "name": "Can I sleep next to you",
         "url": "https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z"
       },
@@ -10788,7 +10994,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 189230,
       "name": "can you? (feat. Quokka of DNEIRF)",
       "url": "https://open.spotify.com/track/5dKbeXS8iVNVsihyxoQ4le"
@@ -11202,7 +11408,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 224000,
       "name": "Catch (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ"
@@ -12060,7 +12266,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 221040,
       "name": "CHRISTIAN",
       "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
@@ -12538,7 +12744,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 253680,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
@@ -12578,7 +12784,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 231800,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/1jRNjm6T8idRoCDG1s2SHl"
@@ -12600,7 +12806,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 175000,
       "name": "Close to You (feat. sunwoojunga)",
       "url": "https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F"
@@ -12680,7 +12886,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 182853,
       "name": "Closer (feat. Kelsey Kuan)",
       "url": "https://open.spotify.com/track/6E8kQcPLCuWwgoEcXi088T"
@@ -13524,7 +13730,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 128695,
       "name": "company",
       "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
@@ -14129,6 +14335,32 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4aL2OtgiVdYoJTlnAJCKwv"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        },
+        {
+          "name": "Kevin Chung",
+          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Cozy (feat. Kevin Chung & Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/3IBf2tbDGvtXOB3Mxrvqm9"
+    },
+    {
+      "album": {
         "name": "5ight",
         "url": "https://open.spotify.com/album/1BgqthhErgauYzw4LQfRZ5"
       },
@@ -14360,7 +14592,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 203560,
       "name": "Crusader",
       "url": "https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp"
@@ -14454,7 +14686,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 216124,
       "name": "Cue Sign",
       "url": "https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf"
@@ -14508,7 +14740,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192440,
       "name": "Cut Off Love",
       "url": "https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w"
@@ -14702,7 +14934,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 172000,
       "name": "Daily Life (Feat. GRAM)",
       "url": "https://open.spotify.com/track/6wFTXiFfYEgaZuKjbBOD8a"
@@ -14790,7 +15022,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 212226,
       "name": "Damn Cold",
       "url": "https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49"
@@ -14870,7 +15102,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 176373,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/6sdBgJCHHExsLVolsfoVLP"
@@ -15317,6 +15549,28 @@
     },
     {
       "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3ylQDgzBaF3ZbDg1coD76O"
+      },
+      "artists": [
+        {
+          "name": "Park Je Up",
+          "url": "https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq"
+        },
+        {
+          "name": "U Sung Eun",
+          "url": "https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/6KVKrwAjfB6pi8fZcnuwJh"
+    },
+    {
+      "album": {
         "name": "Day End, Night",
         "url": "https://open.spotify.com/album/42uNNkSen0WhRV8Gg2nrHA"
       },
@@ -15350,7 +15604,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 334843,
       "name": "Day, There (Feat. Hyeon gayoung)",
       "url": "https://open.spotify.com/track/0XjU1rt5je6SKmEyfT207i"
@@ -15444,6 +15698,24 @@
       "duration_ms": 231973,
       "name": "Days In The Dark",
       "url": "https://open.spotify.com/track/0LCLI1GJ09IdctdSzpCKhL"
+    },
+    {
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/391A1lrJ2c1GuIk6noCiZv"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284575,
+      "name": "Dayspring",
+      "url": "https://open.spotify.com/track/2mZFOCs7cOP2uVYeEt2xIk"
     },
     {
       "album": {
@@ -15814,7 +16086,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 178733,
       "name": "Decide Not to Love",
       "url": "https://open.spotify.com/track/0DhKV2yUkXi5IrpmrPHil8"
@@ -15948,6 +16220,28 @@
       "duration_ms": 218621,
       "name": "Deeply",
       "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+    },
+    {
+      "album": {
+        "name": "Define",
+        "url": "https://open.spotify.com/album/1KegLucDIzMlXnA6PQVa5F"
+      },
+      "artists": [
+        {
+          "name": "SEOMINGYU",
+          "url": "https://open.spotify.com/artist/4tMzjDnmgRlaNOshrP7BzO"
+        },
+        {
+          "name": "Yoontaehee",
+          "url": "https://open.spotify.com/artist/1j4ZAG53Xht8NTOw3jicw2"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201056,
+      "name": "Define (feat. Yoontaehee)",
+      "url": "https://open.spotify.com/track/7IkEQr9zDb7PZKUxZuaVnc"
     },
     {
       "album": {
@@ -16147,6 +16441,28 @@
     },
     {
       "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/45VcI5CNQGLiBM56GSRJRx"
+      },
+      "artists": [
+        {
+          "name": "BAYLEE",
+          "url": "https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc"
+        },
+        {
+          "name": "Neal",
+          "url": "https://open.spotify.com/artist/6GCiiAQkLAFfrOqYeQa1vF"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146850,
+      "name": "Denial (With Neal)",
+      "url": "https://open.spotify.com/track/5OVLBzfTHAahOwvkRUTjqb"
+    },
+    {
+      "album": {
         "name": "Sh**ting Stars (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz"
       },
@@ -16194,7 +16510,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 233466,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5bgvwRZVL43TDS9K0OkxY5"
@@ -17445,6 +17761,24 @@
     },
     {
       "album": {
+        "name": "Agency (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0t5zI927y0bDAAvo4qViuv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/0dXbMO392lFfrAiubH9h7A"
+    },
+    {
+      "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
       },
@@ -18542,7 +18876,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 232597,
       "name": "Dreaming Of The Days",
       "url": "https://open.spotify.com/track/4SZ30MHn60K1Am5SJx8Fon"
@@ -18945,6 +19279,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/49QoZhjfkvwh2wFfdIJhhq"
+      },
+      "artists": [
+        {
+          "name": "Song Heejin",
+          "url": "https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/6fKlCbnZGyGNPKRFU2oY8y"
+    },
+    {
+      "album": {
         "name": "Drowning (feat. Jimmy Brown)",
         "url": "https://open.spotify.com/album/7sYiK5KiXAF4CQT7fr3M2O"
       },
@@ -19274,7 +19626,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 182000,
       "name": "EARLY (feat. DUT2)",
       "url": "https://open.spotify.com/track/4WZUZ7izRSUYhocujt9uDh"
@@ -19528,7 +19880,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 223000,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/1aYbbNLHNm6DZqlB7bFM4O"
@@ -19604,6 +19956,24 @@
       "duration_ms": 195293,
       "name": "Emoticon",
       "url": "https://open.spotify.com/track/6tgp7E2KXPd8P1GVe8tWWt"
+    },
+    {
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/7MdPYd9RU4UyYT3VZ4lONa"
+      },
+      "artists": [
+        {
+          "name": "yuenn",
+          "url": "https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/4PjBiX2gVFqWz4C6lETmI2"
     },
     {
       "album": {
@@ -19902,7 +20272,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 250573,
       "name": "Endless",
       "url": "https://open.spotify.com/track/6QOFGpT9vgKefzXomdBVTP"
@@ -21226,7 +21596,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 204346,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/6KlGgR6HTAob4tXJpBpkfA"
@@ -21244,7 +21614,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 202000,
       "name": "fall with me",
       "url": "https://open.spotify.com/track/7BmmSTzUgC5YsO67aOtrpd"
@@ -21342,7 +21712,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 219066,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/4gFc9UPtVFb3c1os2VoSxX"
@@ -21364,6 +21734,24 @@
       "duration_ms": 219066,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/4sZh7yPeOBNlfEI4qlfJe6"
+    },
+    {
+      "album": {
+        "name": "All the Liquors (Original Web Drama Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/4aLttIgUZY8oIu5D9NDQa1"
+      },
+      "artists": [
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/281f9Xcai3LC2cQxF4A4ux"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186005,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/71mRZYhaZMnC2GjAAJtvam"
     },
     {
       "album": {
@@ -22128,7 +22516,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 196421,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn"
@@ -22208,7 +22596,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 223276,
       "name": "fever (Feat. hartts)",
       "url": "https://open.spotify.com/track/5fuaSuptBaGhhoxzOZkLR5"
@@ -22262,7 +22650,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 195893,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/5LVZw9TMXlf88Z5XMSxMzQ"
@@ -22284,7 +22672,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
@@ -22320,7 +22708,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 177685,
       "name": "Fill Me Up",
       "url": "https://open.spotify.com/track/2x1Dcdn6dgzuLopYDPfIcd"
@@ -22573,6 +22961,28 @@
     },
     {
       "album": {
+        "name": "Neo Zasty Cool",
+        "url": "https://open.spotify.com/album/1ONFXsMrmBspD1edMDmJkk"
+      },
+      "artists": [
+        {
+          "name": "99' Nasty Kidz",
+          "url": "https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5"
+        },
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Fire Emoji",
+      "url": "https://open.spotify.com/track/71Kifvlmko4zgeyZaBPFJO"
+    },
+    {
+      "album": {
         "name": "Firefly (Ditto X Lee Mujin)",
         "url": "https://open.spotify.com/album/20jYEYm9y3dHGqlMJYg5Zt"
       },
@@ -22664,6 +23074,24 @@
       "duration_ms": 140585,
       "name": "First drive",
       "url": "https://open.spotify.com/track/1wPjOJPOGpoBDhHbDuDksz"
+    },
+    {
+      "album": {
+        "name": "Someone's playlist #13",
+        "url": "https://open.spotify.com/album/4EfVuwsC1N0uUD9C4hzs9M"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/3v2QrDowmSDBFHgsymZJdl"
     },
     {
       "album": {
@@ -22808,7 +23236,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 225000,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/16sV5liJ0O95OReVjKhGyh"
@@ -22983,6 +23411,28 @@
     },
     {
       "album": {
+        "name": "Floral Sense - The 1st Album (Special Version)",
+        "url": "https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Floral Sense",
+      "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
+    },
+    {
+      "album": {
         "name": "ALL DAY Project Pt.3 : FRI.6PM",
         "url": "https://open.spotify.com/album/2l1Oohmyh3ElYihOsP1pwg"
       },
@@ -23012,7 +23462,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 199152,
       "name": "Flower",
       "url": "https://open.spotify.com/track/5hWao5hIVrjko6DHstuHWR"
@@ -24636,7 +25086,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 241544,
       "name": "Friends to lovers",
       "url": "https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4"
@@ -24810,7 +25260,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 157741,
       "name": "Funny Day",
       "url": "https://open.spotify.com/track/26HFE5Q4CM1LWDRjFx3453"
@@ -24920,7 +25370,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 231103,
       "name": "G I A N T",
       "url": "https://open.spotify.com/track/5zHyMFJQUa667iBkfsdV6S"
@@ -25032,7 +25482,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192000,
       "name": "Gardener",
       "url": "https://open.spotify.com/track/0C78cochX5Mz7KJM9Hopxl"
@@ -25116,7 +25566,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 196799,
       "name": "gener1c",
       "url": "https://open.spotify.com/track/5CVLfUlAnywm8HebiHTazk"
@@ -25578,7 +26028,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 216000,
       "name": "Glad You Are Here",
       "url": "https://open.spotify.com/track/1ORdIan1D6FPfw5PpUC1fV"
@@ -25596,7 +26046,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 236413,
       "name": "Glass",
       "url": "https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu"
@@ -25676,7 +26126,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 205827,
       "name": "Glow (feat. Royal 44)",
       "url": "https://open.spotify.com/track/3eO9L6VaAiXmX1s59uD3b1"
@@ -26068,7 +26518,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192090,
       "name": "Gone (Feat. BIGONE)",
       "url": "https://open.spotify.com/track/1UBZEkDmpUnpJPLii3pZCX"
@@ -26220,7 +26670,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 250253,
       "name": "Good Bye, I Hope You Are Happy",
       "url": "https://open.spotify.com/track/1bhZa29MC8N3eBGtUSaKuy"
@@ -26336,7 +26786,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 176826,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/35CDs1dRAQHET3C3L8pC1s"
@@ -27420,7 +27870,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 143513,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/6xvMllXOU22aYJpHq1YOzZ"
@@ -27726,7 +28176,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 187413,
       "name": "Happy again",
       "url": "https://open.spotify.com/track/524UIZk5PQAMnJ44MvPE49"
@@ -28081,6 +28531,24 @@
     },
     {
       "album": {
+        "name": "Taxidriver2 OST Part.2",
+        "url": "https://open.spotify.com/album/51YSCADWKunGFVXVecxcDe"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204964,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/6GqPYNK49kzupFGRHXk2he"
+    },
+    {
+      "album": {
         "name": "HP",
         "url": "https://open.spotify.com/album/4vebiTkRzCqfWYW4uJyylE"
       },
@@ -28157,6 +28625,24 @@
     },
     {
       "album": {
+        "name": "Head in the clouds",
+        "url": "https://open.spotify.com/album/5caMoXULX2kC6tGAwWoQOc"
+      },
+      "artists": [
+        {
+          "name": "Asahi",
+          "url": "https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214813,
+      "name": "Head in the clouds",
+      "url": "https://open.spotify.com/track/0lfVvUEjZgVS1HnlB2VGLv"
+    },
+    {
+      "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },
@@ -28190,7 +28676,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 141818,
       "name": "HEART DODUMI 2 (feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF"
@@ -28230,7 +28716,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 234053,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/2d9uQGGLlhop1glQFrqrdZ"
@@ -28382,7 +28868,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 224546,
       "name": "Hello",
       "url": "https://open.spotify.com/track/17eyo8NHyXHpqDbgsGw2bO"
@@ -28418,7 +28904,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 258972,
       "name": "Hello It\u2032s Me",
       "url": "https://open.spotify.com/track/4lZPSra8rhlTkwJHwsIrBw"
@@ -28781,6 +29267,24 @@
     },
     {
       "album": {
+        "name": "'Truth or Lie' - 1st MINI ALBUM",
+        "url": "https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB"
+      },
+      "artists": [
+        {
+          "name": "Minhyun",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "Hidden Side",
+      "url": "https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh"
+    },
+    {
+      "album": {
         "name": "Attitude #2",
         "url": "https://open.spotify.com/album/7eWlhhMi3racryr85DjGwk"
       },
@@ -28948,7 +29452,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 181000,
       "name": "Highteen",
       "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
@@ -29756,7 +30260,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 189746,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
@@ -30228,6 +30732,24 @@
       "duration_ms": 178357,
       "name": "how do you feel",
       "url": "https://open.spotify.com/track/3gFfOzelquzffNuNf171wq"
+    },
+    {
+      "album": {
+        "name": "How Do You Speak Love",
+        "url": "https://open.spotify.com/album/0MbXhtNicnmxVgxa0eoKT9"
+      },
+      "artists": [
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "How Do You Speak Love",
+      "url": "https://open.spotify.com/track/2yJQk5Aq9aCCs4W9eF4U4L"
     },
     {
       "album": {
@@ -31146,7 +31668,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 226000,
       "name": "I Am",
       "url": "https://open.spotify.com/track/5TwQu95G47gk5ZT09CLvQF"
@@ -31710,7 +32232,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 196815,
       "name": "I DON'T KNOW! (feat.skyminhyuk)",
       "url": "https://open.spotify.com/track/51Z27V012HcZ4YchRE8NDl"
@@ -31822,7 +32344,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 209883,
       "name": "I fell in love",
       "url": "https://open.spotify.com/track/0RwR8PxosWbhF5BEh6QNZl"
@@ -32364,7 +32886,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 241264,
       "name": "I Love You (Feat. Silica Gel)",
       "url": "https://open.spotify.com/track/7vgDknBIqfTkM2OiQQ1gXz"
@@ -32672,7 +33194,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 216242,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3jthSHYaQFSh1sVNWozoxM"
@@ -32966,7 +33488,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 269384,
       "name": "I should say that painful love is love too",
       "url": "https://open.spotify.com/track/1qIk3k9VsUgytV11Y8Mv2j"
@@ -33656,7 +34178,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 271200,
       "name": "I'm a fool",
       "url": "https://open.spotify.com/track/0qItZ9vDSIFleEQmsO6tsE"
@@ -34108,7 +34630,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 215419,
       "name": "I've never loved you",
       "url": "https://open.spotify.com/track/6AaBhKdYEma1iTvjIeWxCX"
@@ -34610,7 +35132,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 234600,
       "name": "If you love",
       "url": "https://open.spotify.com/track/3TEr28Oaxcemx8a3VVP40b"
@@ -34900,7 +35422,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 231000,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/2URys8E6imQmRIfAlES1p4"
@@ -34994,7 +35516,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 244809,
       "name": "In other season",
       "url": "https://open.spotify.com/track/6Mwlui0zUBumPzXg0paLxN"
@@ -35160,7 +35682,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 160560,
       "name": "In The Novel (HypeerTime Remix)",
       "url": "https://open.spotify.com/track/4O56pY1g3bvJRfhjwVaiuS"
@@ -35182,6 +35704,28 @@
       "duration_ms": 196394,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/1vyPrGqBCve587nS5x142B"
+    },
+    {
+      "album": {
+        "name": "In this season when spring comes",
+        "url": "https://open.spotify.com/album/72EJyliG2KshSpZR1fejcv"
+      },
+      "artists": [
+        {
+          "name": "The Night Of Seokyo",
+          "url": "https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx"
+        },
+        {
+          "name": "\uc18c\ub9dd",
+          "url": "https://open.spotify.com/artist/6i6cy4DoGi0aKRAmFcJ51f"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232937,
+      "name": "In this season when spring comes (feat. \uc18c\ub9dd)",
+      "url": "https://open.spotify.com/track/0UmfIYK2E0CWLqcTg6jWuH"
     },
     {
       "album": {
@@ -35793,6 +36337,24 @@
     },
     {
       "album": {
+        "name": "Brain Cooperation OST Part.5 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0WcgGeZ8sp2efybZScLN4U"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236447,
+      "name": "It might be love",
+      "url": "https://open.spotify.com/track/6wmC8P9DhzlP4yKaqmXLrT"
+    },
+    {
+      "album": {
         "name": "It was really nice to be with you",
         "url": "https://open.spotify.com/album/7wtzQIg2f3gDYfBVRj3C4C"
       },
@@ -35808,7 +36370,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 209507,
       "name": "It was really nice to be with you (Feat. Yoo Ye jin)",
       "url": "https://open.spotify.com/track/4LZ7T5p9KHyagB4ahKb6Be"
@@ -36246,7 +36808,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 249002,
       "name": "I\u2032m Fine",
       "url": "https://open.spotify.com/track/5HHIWjALSDmfZJGG8Nw6aS"
@@ -36402,7 +36964,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 204356,
       "name": "JAR",
       "url": "https://open.spotify.com/track/3rQf3CWsa2CAeD5o5GIe04"
@@ -37346,7 +37908,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 230733,
       "name": "Killer",
       "url": "https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m"
@@ -37650,7 +38212,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 176907,
       "name": "Koalified",
       "url": "https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM"
@@ -37900,7 +38462,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 184146,
       "name": "LALALA Remix (Feat. Jay Park, Paul Blanco)",
       "url": "https://open.spotify.com/track/1Dd6lOJeKgJVeWSZQPtkVF"
@@ -38728,7 +39290,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 207214,
       "name": "Let's Love (feat. Han Dae Su)",
       "url": "https://open.spotify.com/track/0rPDDhG1uW8R1O72PHb6Gm"
@@ -38848,7 +39410,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 272200,
       "name": "Letter To The Sky",
       "url": "https://open.spotify.com/track/72dQcV33Ssp7lKU8b9bCHU"
@@ -39290,7 +39852,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 234893,
       "name": "Like a Miracle",
       "url": "https://open.spotify.com/track/0at4lQoyGwD6LfTVkjRQS4"
@@ -39838,7 +40400,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 238213,
       "name": "Live in My Heart",
       "url": "https://open.spotify.com/track/0HmetwHFQ3lU1dwNvYNPeh"
@@ -40452,7 +41014,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 269558,
       "name": "Lost the way",
       "url": "https://open.spotify.com/track/0RllBEqRglBipedHHDnFVA"
@@ -40761,6 +41323,24 @@
     },
     {
       "album": {
+        "name": "Crash Course in Romance OST Part 6",
+        "url": "https://open.spotify.com/album/1GcJvyHyA9y2sXitUzrqms"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217593,
+      "name": "LOVE CODE [1+1=1]",
+      "url": "https://open.spotify.com/track/6w2BA2MGJa8Z1ziSzWRzLQ"
+    },
+    {
+      "album": {
         "name": "Love Contact",
         "url": "https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX"
       },
@@ -40834,6 +41414,24 @@
       "duration_ms": 245470,
       "name": "Love Each Other",
       "url": "https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2"
+    },
+    {
+      "album": {
+        "name": "love ends",
+        "url": "https://open.spotify.com/album/5u9HYEIX9G5QMAiwNjHQ0w"
+      },
+      "artists": [
+        {
+          "name": "Ingyeong Choi",
+          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247177,
+      "name": "love ends",
+      "url": "https://open.spotify.com/track/74FPQJJ6ao6V8NCBKb1Yjl"
     },
     {
       "album": {
@@ -41018,7 +41616,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 223466,
       "name": "Love is over",
       "url": "https://open.spotify.com/track/2eJC2xIN25ZuitoeyUjvZq"
@@ -41336,7 +41934,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 185311,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
@@ -41614,7 +42212,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 237320,
       "name": "Love Things",
       "url": "https://open.spotify.com/track/0XIy3jZASGk60aT8i8Ri2g"
@@ -41632,7 +42230,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 200077,
       "name": "Love to Hate You",
       "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
@@ -41716,7 +42314,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 170754,
       "name": "Love You So Much (feat. ROSESIA)",
       "url": "https://open.spotify.com/track/2SfxagwhYkAECHt5tSwc0G"
@@ -42118,7 +42716,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 204213,
       "name": "Lovey Dovey",
       "url": "https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l"
@@ -42522,7 +43120,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 209720,
       "name": "Mage",
       "url": "https://open.spotify.com/track/5ksO9lrmJu2BiL2C1VvJfR"
@@ -43324,7 +43922,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 235893,
       "name": "Me and My Shadow",
       "url": "https://open.spotify.com/track/4IZzmVUTTWkT3ixiDKwb0V"
@@ -43788,7 +44386,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 154920,
       "name": "MEOS (THE REAL) - \ud765: \u8208",
       "url": "https://open.spotify.com/track/38UMVwxbkrn2rD9f06d4ws"
@@ -44004,7 +44602,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 258333,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/2nvUvknhQeEx1msHbtiigF"
@@ -44022,7 +44620,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 258333,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/7GL7HvIR0PdbvSFC6WjkbC"
@@ -44080,7 +44678,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 206470,
       "name": "Middle Child",
       "url": "https://open.spotify.com/track/2njLp90FciXnNfAieGKIZd"
@@ -44352,7 +44950,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 263360,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7JESDGry6nSUKKCiBzHfWP"
@@ -44762,7 +45360,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 193790,
       "name": "Missing You (feat. Dvwn)",
       "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
@@ -44802,7 +45400,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 219680,
       "name": "mistakes",
       "url": "https://open.spotify.com/track/3tf1nY333gNi6vHHJqCEPY"
@@ -45316,6 +45914,24 @@
       "duration_ms": 117426,
       "name": "MOOD IS LOVE",
       "url": "https://open.spotify.com/track/6XAYfFK47r6sN1xAK7IiW2"
+    },
+    {
+      "album": {
+        "name": "Mood V5",
+        "url": "https://open.spotify.com/album/5GjLlwC2y6DKt6YKCxfLGl"
+      },
+      "artists": [
+        {
+          "name": "APOKI",
+          "url": "https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152477,
+      "name": "Mood V5",
+      "url": "https://open.spotify.com/track/6lEGx2w7xnZyhxTLbFZHyt"
     },
     {
       "album": {
@@ -46371,6 +46987,24 @@
     },
     {
       "album": {
+        "name": "Lovely Misery",
+        "url": "https://open.spotify.com/album/0FgnmRfjSMDq95LEhUuOL4"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145962,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/52B6AWcWWos6YVSikMDbAS"
+    },
+    {
+      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/3KU6UOt5HjHJmtGuPnlWtb"
       },
@@ -46494,7 +47128,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 158213,
       "name": "My Feelings for You will Never Change",
       "url": "https://open.spotify.com/track/737PNNtwoyQyTK1BKYFnOK"
@@ -46590,6 +47224,24 @@
       "duration_ms": 258933,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/1mLVZA1GVUvXVXIvEM1CWv"
+    },
+    {
+      "album": {
+        "name": "Three Siblings Bravely OST Part.13 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7z39Aj0QURGZwGCUMrBDt4"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241092,
+      "name": "My heart for you",
+      "url": "https://open.spotify.com/track/6Tx9qHBuZpw6cEJVpePAni"
     },
     {
       "album": {
@@ -46694,7 +47346,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 195520,
       "name": "My Little (Prod. MADEWELL)",
       "url": "https://open.spotify.com/track/1lwt9vz8EEcxPfeCiqhgC1"
@@ -46766,7 +47418,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 261252,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3fLGciDBnydNdpgAfAr8Fj"
@@ -46958,6 +47610,24 @@
       "duration_ms": 262360,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6JX4Pt45ZBFwrWkHkb3ty0"
+    },
+    {
+      "album": {
+        "name": "My Own Private Hometown",
+        "url": "https://open.spotify.com/album/1FWJM1LCsCKVSCstMmuilU"
+      },
+      "artists": [
+        {
+          "name": "Doorlesshouse",
+          "url": "https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259303,
+      "name": "My Own Private Hometown",
+      "url": "https://open.spotify.com/track/37FYeSckqOn5dmQSxoq8vp"
     },
     {
       "album": {
@@ -47660,7 +48330,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 218000,
       "name": "Neup (from Decoy, Original Coupang Play Series Soundtrack, Pt. 2)",
       "url": "https://open.spotify.com/track/2wsGdBUOokpGbem64wFA5w"
@@ -47806,7 +48476,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 196000,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
@@ -47860,7 +48530,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 246306,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/2d2kkFHwxNes3gkScJAV6K"
@@ -48306,7 +48976,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
@@ -48394,7 +49064,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 172500,
       "name": "No (feat. Halsoon)",
       "url": "https://open.spotify.com/track/3TXWLlMSzMSJPlCB56l6wM"
@@ -48432,7 +49102,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 254310,
       "name": "No Bless (feat. Khundi Panda, Chillin Homie, OSUN, DAMINI, A-Chess)",
       "url": "https://open.spotify.com/track/74LG4dZZgJBeWHFtSmOsPy"
@@ -48930,7 +49600,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 197293,
       "name": "Non sweet song (Feat. nov)",
       "url": "https://open.spotify.com/track/1NpebdfxCXA3hZcsA0BQZI"
@@ -48974,7 +49644,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 160553,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX"
@@ -49362,7 +50032,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 212653,
       "name": "Now running to you",
       "url": "https://open.spotify.com/track/1BQFJgczKK7foTcPuMF95N"
@@ -49402,7 +50072,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 183428,
       "name": "Nowhere (feat. Mommy Son)",
       "url": "https://open.spotify.com/track/2wIm2GHUyC037S3Kj8QUTC"
@@ -49456,7 +50126,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 210853,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3QNMj9S5a6KdYniEsps7Z6"
@@ -49918,7 +50588,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 222377,
       "name": "OH!MANY",
       "url": "https://open.spotify.com/track/3UVnPYnsljNxnZMnKhyhRJ"
@@ -50092,6 +50762,24 @@
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "album": {
+        "name": "OMG, It's pointless",
+        "url": "https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN"
+      },
+      "artists": [
+        {
+          "name": "Ahn Heesu",
+          "url": "https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "OMG, It's pointless",
+      "url": "https://open.spotify.com/track/0PROctJxUWzqpBfuECVkvH"
     },
     {
       "album": {
@@ -50380,7 +51068,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 212840,
       "name": "On You (feat. 1ho & Mabinc)",
       "url": "https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc"
@@ -50790,7 +51478,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 218706,
       "name": "One Moment",
       "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
@@ -51030,7 +51718,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 205263,
       "name": "Only you",
       "url": "https://open.spotify.com/track/5P5SiijkNtOhUXRIPNmchq"
@@ -51620,7 +52308,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 232960,
       "name": "Our Spring (feat. Im Ga Young)",
       "url": "https://open.spotify.com/track/59d2K1gzt3M9PKdyCsI6sY"
@@ -51744,6 +52432,24 @@
       "duration_ms": 195626,
       "name": "Out of Town",
       "url": "https://open.spotify.com/track/37vCzhyx4YXtMckTpeTWIb"
+    },
+    {
+      "album": {
+        "name": "out there",
+        "url": "https://open.spotify.com/album/1Oz1ZwPfoPjka1Xix9LNSJ"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Unity",
+          "url": "https://open.spotify.com/artist/6KQFBP9FWrWZHzkR0WRkdO"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378897,
+      "name": "out there",
+      "url": "https://open.spotify.com/track/5UWhK7zqAiLKlFOxvkovxr"
     },
     {
       "album": {
@@ -52270,7 +52976,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 155346,
       "name": "PARKOUR",
       "url": "https://open.spotify.com/track/6yk6Un2eON2V9cXdOgVAN1"
@@ -52702,7 +53408,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 390106,
       "name": "Petal - full Ver.",
       "url": "https://open.spotify.com/track/3yS3FIXpdFxtsGYru3Ky6T"
@@ -52888,7 +53594,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 185213,
       "name": "PICK YOU UP (Feat. Ne:vv)",
       "url": "https://open.spotify.com/track/5tEwqGDHJzqeiGFsr0CI7k"
@@ -53149,6 +53855,28 @@
     },
     {
       "album": {
+        "name": "SELECT YOUR CHARACTER",
+        "url": "https://open.spotify.com/album/6HMJpSnr4jwLIZuADiPcMe"
+      },
+      "artists": [
+        {
+          "name": "Myeong E-Wol",
+          "url": "https://open.spotify.com/artist/68XBBqOxU6xLm3o20VEgfa"
+        },
+        {
+          "name": "doiiob",
+          "url": "https://open.spotify.com/artist/2vOfoxBDU9cSTRgmktD7Y7"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200845,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/6RssWofUr1OxOn0tmRUWCU"
+    },
+    {
+      "album": {
         "name": "Place Of Beginning",
         "url": "https://open.spotify.com/album/3696RmIDKnBW8TpVfclDJA"
       },
@@ -53291,6 +54019,24 @@
     },
     {
       "album": {
+        "name": "Come back to me",
+        "url": "https://open.spotify.com/album/59C22yjADvjTFLdsfGh1oq"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Please Come Back Again",
+      "url": "https://open.spotify.com/track/4WElWSnmzS5YH2pAdnfQfL"
+    },
+    {
+      "album": {
         "name": "Please Don't forget me (WEBTOON 'Discovery of Love' X GB9)",
         "url": "https://open.spotify.com/album/7dwb8T0wu67jtWG0C8XaKc"
       },
@@ -53320,7 +54066,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 197040,
       "name": "Please don`t happy without me",
       "url": "https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF"
@@ -53700,7 +54446,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 178293,
       "name": "Poppy (Korean Ver.)",
       "url": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
@@ -53904,7 +54650,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 235071,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/0KhP3h3Mp3WBCdtpOdqza5"
@@ -53958,7 +54704,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5r2gtzyrwHWQ9iIDJJPUCl"
@@ -54388,7 +55134,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 175826,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc"
@@ -54646,7 +55392,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 207750,
       "name": "QUANDO",
       "url": "https://open.spotify.com/track/5gKtt6uXYrtV9J0z7rBs9z"
@@ -55551,6 +56297,28 @@
     },
     {
       "album": {
+        "name": "REELSTORY (feat. Bamshin)",
+        "url": "https://open.spotify.com/album/7eFNXZPJjU959t0xfdGttb"
+      },
+      "artists": [
+        {
+          "name": "Jinoa",
+          "url": "https://open.spotify.com/artist/5B9a2sEypgeereR5g4ieXK"
+        },
+        {
+          "name": "Bamshin",
+          "url": "https://open.spotify.com/artist/1Oq45wYwnlr8VIJ4z6yPt2"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "REELSTORY (feat. Bamshin)",
+      "url": "https://open.spotify.com/track/1WREoi5nzbcEmooI2SglUj"
+    },
+    {
+      "album": {
         "name": "Room Vol.1",
         "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
       },
@@ -55722,7 +56490,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 280213,
       "name": "Remember",
       "url": "https://open.spotify.com/track/16AKiyjMzYjrPAngvXj4IM"
@@ -56430,7 +57198,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 159933,
       "name": "Rising",
       "url": "https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs"
@@ -56720,6 +57488,24 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+    },
+    {
+      "album": {
+        "name": "Romantic Cliche",
+        "url": "https://open.spotify.com/album/2u0O462zoFvMLWK2l0weW8"
+      },
+      "artists": [
+        {
+          "name": "Blueny",
+          "url": "https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238319,
+      "name": "Romantic Cliche",
+      "url": "https://open.spotify.com/track/60D503h2iuATwL9kHLk4vu"
     },
     {
       "album": {
@@ -57072,7 +57858,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 240000,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/7f9WHx8SnOOXcZfszXc1y8"
@@ -57930,7 +58716,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 274853,
       "name": "Say You Love Me, Please",
       "url": "https://open.spotify.com/track/2j4wvCivrFmYCJdCVXnAeI"
@@ -58310,7 +59096,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 248937,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0QIqWMmrupTnugEfgIYtpp"
@@ -58594,7 +59380,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 284612,
       "name": "Self-Portrait (feat. KIM JAE HWAN)",
       "url": "https://open.spotify.com/track/1UChGtr3KzNRIxkOqPhDWw"
@@ -58682,7 +59468,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 206769,
       "name": "Sensitive CAT",
       "url": "https://open.spotify.com/track/6RSO9csKnbGbIpOA5oRvqs"
@@ -58725,6 +59511,36 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "sAewoo",
+          "url": "https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Seoul City - Spotify Singles",
+      "url": "https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx"
+    },
+    {
+      "album": {
         "name": "SEOUL DRIFT",
         "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
       },
@@ -58740,6 +59556,24 @@
       "duration_ms": 199626,
       "name": "SEOUL DRIFT",
       "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
+    },
+    {
+      "album": {
+        "name": "Just Rap Shit",
+        "url": "https://open.spotify.com/album/0v69D3G4Xr61XG4cAlHhDB"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119917,
+      "name": "September Cicada",
+      "url": "https://open.spotify.com/track/4G5fcXBDlYNdJ2TnGBa6KA"
     },
     {
       "album": {
@@ -58982,7 +59816,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 235346,
       "name": "Shadow Love",
       "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
@@ -59138,7 +59972,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 281695,
       "name": "She left me (Feat. Lee Ji yong) (Piano Ver.)",
       "url": "https://open.spotify.com/track/3Grstt75CYODbUbA76Oje6"
@@ -59741,6 +60575,24 @@
     },
     {
       "album": {
+        "name": "Shy dance can not help us",
+        "url": "https://open.spotify.com/album/65m2RF11gKPPDEZLxqHrhv"
+      },
+      "artists": [
+        {
+          "name": "GWI GA RYEONG",
+          "url": "https://open.spotify.com/artist/55KHO1vZaGF9pJPjvrRpE3"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Shy dance can not help us",
+      "url": "https://open.spotify.com/track/1SSDl8AlNlZh72xo8ZoYPk"
+    },
+    {
+      "album": {
         "name": "SHYDAD",
         "url": "https://open.spotify.com/album/06Vm5eWlGEmienIAEsXtLm"
       },
@@ -59918,7 +60770,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 167500,
       "name": "Siren",
       "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
@@ -60404,7 +61256,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 190319,
       "name": "slowly (feat. floryy)",
       "url": "https://open.spotify.com/track/7g1ddjPuu6Hvp6hnVKCTIZ"
@@ -60440,7 +61292,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 139280,
       "name": "smallthing",
       "url": "https://open.spotify.com/track/0ABgWfH4ksW7hZ7EQWN8Fh"
@@ -60668,7 +61520,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 237000,
       "name": "snow light",
       "url": "https://open.spotify.com/track/0EyCQNMWu43sU6Iz6b1K9W"
@@ -60740,7 +61592,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 247560,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7IYV48LQQiUxHzydk0hZIM"
@@ -60758,7 +61610,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 250253,
       "name": "Snowy Stars",
       "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
@@ -61190,7 +62042,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 278186,
       "name": "Someday",
       "url": "https://open.spotify.com/track/2NDq5NUvCItdPkczFLguj3"
@@ -61252,7 +62104,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 217346,
       "name": "Something Big is Coming",
       "url": "https://open.spotify.com/track/310DizvgcR9IdCMUSZDE69"
@@ -61582,7 +62434,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 156000,
       "name": "Sorry (Feat. Blueday)",
       "url": "https://open.spotify.com/track/7IUHfxe87FkzDk1k42XTEf"
@@ -62198,7 +63050,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 265555,
       "name": "Spring will come after this winter",
       "url": "https://open.spotify.com/track/2YODsJYj7If4Ae68nAHfSk"
@@ -62510,7 +63362,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 206677,
       "name": "stardust",
       "url": "https://open.spotify.com/track/6M1LI5n407Hw1Z5L2muz0y"
@@ -62554,6 +63406,28 @@
       "duration_ms": 201066,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw"
+    },
+    {
+      "album": {
+        "name": "Starlight (feat. STI)",
+        "url": "https://open.spotify.com/album/6AAKeO3q1ljpFnkxLZrFi4"
+      },
+      "artists": [
+        {
+          "name": "LAUL",
+          "url": "https://open.spotify.com/artist/2jZpAzQnCAxCk12slBCbZI"
+        },
+        {
+          "name": "STi",
+          "url": "https://open.spotify.com/artist/38m6NaoBF8CowoI9HfswXC"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270946,
+      "name": "Starlight (feat. STI)",
+      "url": "https://open.spotify.com/track/4KHezCWIehteZU3CyJnvQj"
     },
     {
       "album": {
@@ -62734,7 +63608,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 134546,
       "name": "Stay",
       "url": "https://open.spotify.com/track/34qfVa3JpOQT5hZqd7Rjum"
@@ -62774,7 +63648,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
@@ -63122,7 +63996,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 219240,
       "name": "Still",
       "url": "https://open.spotify.com/track/7bvw9MygklDI1i5hYEPMF7"
@@ -63401,6 +64275,24 @@
     },
     {
       "album": {
+        "name": "Hitten Vol.1",
+        "url": "https://open.spotify.com/album/7wKey3jEkZC3hMdTF8Dshv"
+      },
+      "artists": [
+        {
+          "name": "Hitten",
+          "url": "https://open.spotify.com/artist/2oKA6qrgCD1QKEiBRkakKH"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175166,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/24b4KOWpq3MhFEL9AgSKQs"
+    },
+    {
+      "album": {
         "name": "BM 2nd digital Single 'STRANGERS'",
         "url": "https://open.spotify.com/album/4pZhqVCFee9zgfg58no913"
       },
@@ -63640,7 +64532,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 170131,
       "name": "SUBSCRIBE TO ESQUIRE",
       "url": "https://open.spotify.com/track/38uodvbFCQewhKohMLFMlB"
@@ -63712,7 +64604,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 203733,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/6kg7rgM6nojjo1YhKigzeR"
@@ -64796,7 +65688,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 195607,
       "name": "sweet and sour",
       "url": "https://open.spotify.com/track/1E917AxUjXHTzVg13Ijrd2"
@@ -64836,7 +65728,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 219690,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/52S5z54LOqFTKmrUVPMn5z"
@@ -64876,7 +65768,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192653,
       "name": "Sweet Juice",
       "url": "https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2"
@@ -65118,7 +66010,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 258012,
       "name": "T O R O N T O",
       "url": "https://open.spotify.com/track/6hNudb9DR4aMgRVmppOkMc"
@@ -65346,7 +66238,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 315050,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/18rWAmfIQr6X4g4UvlTGNk"
@@ -65581,6 +66473,24 @@
     },
     {
       "album": {
+        "name": "Taser",
+        "url": "https://open.spotify.com/album/47rhqtAyxowmpMi4dHThaY"
+      },
+      "artists": [
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139926,
+      "name": "Taser",
+      "url": "https://open.spotify.com/track/6W8I7DM3KI2jI0CLFOefbf"
+    },
+    {
+      "album": {
         "name": "Tasty x Tasty",
         "url": "https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF"
       },
@@ -65651,6 +66561,24 @@
     },
     {
       "album": {
+        "name": "Tear Drop",
+        "url": "https://open.spotify.com/album/2Go0DhLeCeNavaQyPVGF8g"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeji",
+          "url": "https://open.spotify.com/artist/6g4IlXK5mkP7LlOQPYW6Lr"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Tear Drop",
+      "url": "https://open.spotify.com/track/5veIrFPNpxmYqj0tHGXUJ3"
+    },
+    {
+      "album": {
         "name": "TEARS (WEBTOON 'Discovery of Love' X HWANG CHI YEUL)",
         "url": "https://open.spotify.com/album/5aXUCMv5HgCScCSUKhxVPT"
       },
@@ -65680,7 +66608,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 207360,
       "name": "Tears don't dry",
       "url": "https://open.spotify.com/track/4VxzzDsMni5RC8WhipOLtB"
@@ -65698,7 +66626,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 189773,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
@@ -66224,7 +67152,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 262222,
       "name": "That's All For Love",
       "url": "https://open.spotify.com/track/6j3BvfzSSUguRSaEQq6DHy"
@@ -66867,6 +67795,28 @@
     },
     {
       "album": {
+        "name": "The Flooded Bimmer",
+        "url": "https://open.spotify.com/album/3YNoIUcdRNR5CEg9ZCaG1U"
+      },
+      "artists": [
+        {
+          "name": "BadMax",
+          "url": "https://open.spotify.com/artist/7Ep0lhz0OVPz4d50s2oyBt"
+        },
+        {
+          "name": "Siggie Feb",
+          "url": "https://open.spotify.com/artist/13zYar4WDnhngACYzLsFQA"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168591,
+      "name": "The Flooded Bimmer",
+      "url": "https://open.spotify.com/track/4FdVBHvcjN5bnqSvqiqBxy"
+    },
+    {
+      "album": {
         "name": "\u00e6tas vol.2 : special arrangement",
         "url": "https://open.spotify.com/album/5d30x4mroBFWEY4s8k1K7e"
       },
@@ -67256,7 +68206,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 191957,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
@@ -67274,7 +68224,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 246213,
       "name": "The Moment Break up",
       "url": "https://open.spotify.com/track/54IdGS2nVjSTFVKjfKhdjx"
@@ -67372,7 +68322,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 230586,
       "name": "The night of parting",
       "url": "https://open.spotify.com/track/49JEX6ncNAyhRdwDLXCKWT"
@@ -67722,7 +68672,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 278823,
       "name": "The Secret",
       "url": "https://open.spotify.com/track/2dXYDjdMCwCIe03yexCqFD"
@@ -68076,7 +69026,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 258303,
       "name": "The way we were",
       "url": "https://open.spotify.com/track/1s2qz1ehVyS5EdCgt427hL"
@@ -68258,7 +69208,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 209013,
       "name": "They're Gonna Say We're Right (@leekangseung111)",
       "url": "https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0"
@@ -68284,6 +69234,28 @@
       "duration_ms": 196482,
       "name": "Thinkin About You (Feat. INO)",
       "url": "https://open.spotify.com/track/2tOHUm2VSBa5aMgo5pIYem"
+    },
+    {
+      "album": {
+        "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/1KkVzyato5BjO7UANHjWaa"
+      },
+      "artists": [
+        {
+          "name": "GUNHO",
+          "url": "https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb"
+        },
+        {
+          "name": "\ud64d\ub2e4\uc5f0",
+          "url": "https://open.spotify.com/artist/168b9dsRRHUDs8FyWEJeCW"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/6UISP9n4o8PnMuSKRdjRIW"
     },
     {
       "album": {
@@ -68338,7 +69310,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 223813,
       "name": "third farewell",
       "url": "https://open.spotify.com/track/6gxgcuTRE8V8Un6qJUuRp7"
@@ -68356,7 +69328,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 227426,
       "name": "Thirsty for Love",
       "url": "https://open.spotify.com/track/5QnpMpYEE2LSFegbHFbkYd"
@@ -68516,7 +69488,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 178703,
       "name": "This night (feat. Cha So Yeon, woojun & RYUKIE)",
       "url": "https://open.spotify.com/track/66pKu4yCxutgAadJjrHDIm"
@@ -68654,7 +69626,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 178506,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/23l2mR8hgNncbR98Sp9QU1"
@@ -68932,7 +69904,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 200426,
       "name": "time",
       "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
@@ -69516,7 +70488,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 191440,
       "name": "To you",
       "url": "https://open.spotify.com/track/3TdjigittVixuSzfTTZ8gv"
@@ -70067,6 +71039,24 @@
     },
     {
       "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170538,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi"
+    },
+    {
+      "album": {
         "name": "TOUCH",
         "url": "https://open.spotify.com/album/0oWu5pZekjFtOiMJverkSS"
       },
@@ -70158,7 +71148,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 202101,
       "name": "Town Tonite (Feat. zin)",
       "url": "https://open.spotify.com/track/1NImwiHoKUbFg64dPylRGz"
@@ -70202,7 +71192,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 177373,
       "name": "Traces Of Memory (feat. Milena)",
       "url": "https://open.spotify.com/track/03J8HvGINHfQWdKbeCttRP"
@@ -70682,7 +71672,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 173454,
       "name": "Trust Yourself",
       "url": "https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm"
@@ -71556,7 +72546,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 258653,
       "name": "Unstoppable (from Decoy, Original Coupang Play Series Soundtrack, Pt. 1)",
       "url": "https://open.spotify.com/track/1N0f9mvW4661UaM563pioc"
@@ -72654,7 +73644,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 198186,
       "name": "walk to the moon (feat. kim seungyoon)",
       "url": "https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT"
@@ -72828,7 +73818,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 255013,
       "name": "Wandering",
       "url": "https://open.spotify.com/track/2qDoBvu7ro7yTB2K6xGyZK"
@@ -73506,7 +74496,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
@@ -73982,7 +74972,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 207619,
       "name": "We've become strangers (feat. Paul Lim)",
       "url": "https://open.spotify.com/track/3tNgcMWtdkJ8vJEfravE5K"
@@ -74054,7 +75044,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 230830,
       "name": "Wedding song",
       "url": "https://open.spotify.com/track/4bO0jUMVOuTaCrchNYg1Ta"
@@ -74458,7 +75448,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 212571,
       "name": "what is love",
       "url": "https://open.spotify.com/track/5HukOZte1mcNcOgufptAOp"
@@ -74494,7 +75484,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 184667,
       "name": "what should I do (Art. seeso)",
       "url": "https://open.spotify.com/track/7JFMd8PchBkkuQv8o7rk7j"
@@ -74896,7 +75886,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 361000,
       "name": "When The Longing Knocks On The Door Of My Heart",
       "url": "https://open.spotify.com/track/1UlZcp7bAIKpD03mil3AwB"
@@ -75606,7 +76596,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 312013,
       "name": "Whitening",
       "url": "https://open.spotify.com/track/3vX1YWfvFuWwbN7nnmV4BN"
@@ -76178,7 +77168,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 237189,
       "name": "Will You Be My Boyfriend",
       "url": "https://open.spotify.com/track/29tqhtaSzamtdUKlnvtZvp"
@@ -76250,7 +77240,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 255624,
       "name": "Wind",
       "url": "https://open.spotify.com/track/7qQRxxM0IorZUpef14aBlO"
@@ -76780,7 +77770,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 296933,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/54wxCzZOH2Jo1qSdqHUkRH"
@@ -76802,6 +77792,28 @@
       "duration_ms": 172137,
       "name": "Without you",
       "url": "https://open.spotify.com/track/6Zv7LLDRxxo5ZgEsTEteH6"
+    },
+    {
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/3sEV060UxECpyp1Vtk35Ld"
+      },
+      "artists": [
+        {
+          "name": "\uce74\ud398\ubaa8\uce74",
+          "url": "https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0"
+        },
+        {
+          "name": "\uc624\ucc3d\ubbf8",
+          "url": "https://open.spotify.com/artist/28uMX21wblo5P8gkdOA7lr"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210830,
+      "name": "without you (feat. \uc624\ucc3d\ubbf8)",
+      "url": "https://open.spotify.com/track/1duVXWnfilaXdUxtI3Z6y7"
     },
     {
       "album": {
@@ -77210,7 +78222,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 264013,
       "name": "Wounded Heart",
       "url": "https://open.spotify.com/track/1XSb5DFDpPLOudodZ8zJ7G"
@@ -77540,7 +78552,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
@@ -78045,6 +79057,24 @@
     },
     {
       "album": {
+        "name": "You came into my heart",
+        "url": "https://open.spotify.com/album/7AiEvb3NxANeeKhzj5jPO3"
+      },
+      "artists": [
+        {
+          "name": "GilGu (GB9)",
+          "url": "https://open.spotify.com/artist/7wjE3HDtnDCAMhLS47Wvye"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "You came into my heart",
+      "url": "https://open.spotify.com/track/0TTPW6VuGVsySzEpeKcAZw"
+    },
+    {
+      "album": {
         "name": "Refresh project",
         "url": "https://open.spotify.com/album/1tsYt2uihOygFptQiPLx8D"
       },
@@ -78328,7 +79358,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 188888,
       "name": "You take me over, cause..",
       "url": "https://open.spotify.com/track/2n74yZ4nQoxaiLMuJUowpL"
@@ -78480,7 +79510,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 229723,
       "name": "You're Already Shining",
       "url": "https://open.spotify.com/track/4B1d3ZORudLelqZ2odPRdG"
@@ -78646,7 +79676,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 235778,
       "name": "Young age",
       "url": "https://open.spotify.com/track/1Wx4iXgCQGmFse7KHKRPsZ"
@@ -78780,7 +79810,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 168853,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/71DES833owRpiPW6LXEKyD"
@@ -78958,7 +79988,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 288586,
       "name": "Your Word",
       "url": "https://open.spotify.com/track/4Nfd8DComTbLZtpfEdxncz"
@@ -79940,7 +80970,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 219216,
       "name": "\ub098\uc758 \uaca8\uc6b8\uc740",
       "url": "https://open.spotify.com/track/6HleqwH89IQOUwy3b7hMVy"
@@ -79994,7 +81024,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 229426,
       "name": "\ub0b4 \ubc88\ud638\ub97c \uc9c0\uc6cc\uc918",
       "url": "https://open.spotify.com/track/6P7VJG6DGHqaLVxKm46mz3"
@@ -80136,7 +81166,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 182833,
       "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
@@ -80888,7 +81918,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 193125,
       "name": "\ubc34 The Banned",
       "url": "https://open.spotify.com/track/773egXyOzWeLTyz9eSbO4H"
@@ -81497,6 +82527,24 @@
     },
     {
       "album": {
+        "name": "\uc2f8\uad6c\ub824 \uc704\ub85c Talk is cheap",
+        "url": "https://open.spotify.com/album/22hdpwDHRSdibf4mKXVIpG"
+      },
+      "artists": [
+        {
+          "name": "Lee Yerin",
+          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177837,
+      "name": "\uc2f8\uad6c\ub824 \uc704\ub85c Talk is cheap",
+      "url": "https://open.spotify.com/track/1jQz9kGxieuArv8E1LuXfS"
+    },
+    {
+      "album": {
         "name": "\ub9db\uc788\ub294\ub140\uc11d\ub4e4 1\uc9d1",
         "url": "https://open.spotify.com/album/6hleavyTWCNbjgZjOMqblm"
       },
@@ -81787,6 +82835,24 @@
     },
     {
       "album": {
+        "name": "\uc5b4\ub978 Adult",
+        "url": "https://open.spotify.com/album/6c2TVrp6CcusehynExTe5o"
+      },
+      "artists": [
+        {
+          "name": "Cosmos Hippie",
+          "url": "https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "\uc5b4\ub978 Adult",
+      "url": "https://open.spotify.com/track/5Z8vypkUQP3QHUgYmxMDDm"
+    },
+    {
+      "album": {
         "name": "\uc5b4\ub9c8\uc5b4\ub9c8\ud574 New Dance 5",
         "url": "https://open.spotify.com/album/1pEwzKl042LqF22dd5mQyM"
       },
@@ -81914,7 +82980,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 199846,
       "name": "\uc624\ube60 \ub098 \ubbff\uc9c0?",
       "url": "https://open.spotify.com/track/2FzVCpPrpLoZwOZasB7sQU"
@@ -81957,6 +83023,28 @@
     },
     {
       "album": {
+        "name": "\uc6b0\ub9ac \uc62c\ud574\uac00 \uc9c0\ub098\uae30 \uc804\uc5d0",
+        "url": "https://open.spotify.com/album/7erzjSjWMDpIX2qhG2LoPK"
+      },
+      "artists": [
+        {
+          "name": "Suitz",
+          "url": "https://open.spotify.com/artist/0dah2wL4ufvB3kYRTJZi7F"
+        },
+        {
+          "name": "\uae40\uc720\uc9c4",
+          "url": "https://open.spotify.com/artist/5xrZWszF00ndRNoRB4Xbup"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187119,
+      "name": "\uc6b0\ub9ac \uc62c\ud574\uac00 \uc9c0\ub098\uae30 \uc804\uc5d0 (feat. \uae40\uc720\uc9c4)",
+      "url": "https://open.spotify.com/track/7CAocpARdhRg6Pk80MTg1e"
+    },
+    {
+      "album": {
         "name": "RAINBOW STATION Episode.2",
         "url": "https://open.spotify.com/album/1AHhb2bC6WqEZW9vMG3qK4"
       },
@@ -81986,7 +83074,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 189980,
       "name": "\uc6b0\ub9ac \ud55c\ubc88 \ub9cc\ub098\ubcfc\uae4c",
       "url": "https://open.spotify.com/track/1ljt74AIcMTbyvlwsGFS3a"
@@ -82164,7 +83252,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 179999,
       "name": "\uc774\ubcc4\ub178\ub798 (Feat.Hash Swan)",
       "url": "https://open.spotify.com/track/4aAHrwccFXUpTqg9jQnyL6"
@@ -82254,7 +83342,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 237488,
       "name": "\uc78a\uace0 \uc788\ub294 \uc911",
       "url": "https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy"
@@ -82338,7 +83426,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 231613,
       "name": "\uc798\ud574\ubcf4\uace0 \uc2f6\uc5b4\uc694",
       "url": "https://open.spotify.com/track/3qPXM4XdLCv6GNK7n8GoL6"
@@ -82486,7 +83574,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 332000,
       "name": "\ucc9c\ub144\uc9c0\uc560 Everlasting Love",
       "url": "https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI"
@@ -82580,7 +83668,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 154294,
       "name": "\ucf54\ud39c\ud558\uac90 (feat. \uac15\ubbfc\uc815)",
       "url": "https://open.spotify.com/track/3aE0QZfvrifZ76vQGCl0PK"

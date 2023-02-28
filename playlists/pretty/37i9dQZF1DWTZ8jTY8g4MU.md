@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان و منصور الوايلي
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,368 likes - 59 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,568 likes - 59 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

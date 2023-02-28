@@ -266,7 +266,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 427200,
       "name": "[Time] Place",
       "url": "https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 232775,
       "name": "And The Lake Was...",
       "url": "https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW"
@@ -11823,6 +11823,24 @@
     },
     {
       "album": {
+        "name": "Feed Me Weird Things (Remastered)",
+        "url": "https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381413,
+      "name": "Squarepusher Theme",
+      "url": "https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn"
+    },
+    {
+      "album": {
         "name": "Stairfoot Lane Bunker",
         "url": "https://open.spotify.com/album/6gSznbAWVTqqNXIJUmQtKo"
       },
@@ -14248,7 +14266,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"

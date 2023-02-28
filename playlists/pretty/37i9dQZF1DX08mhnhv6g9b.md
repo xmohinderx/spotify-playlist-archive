@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,411,677 likes - 232 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,413,635 likes - 232 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

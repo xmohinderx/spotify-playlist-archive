@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with ROSSY & Pauline Herr.
 
-435 songs - 1 day 1 hr 18 min
+436 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Badman](https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Badman](https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT) | 4:33 | 2022-06-03 |  |
 | [Bang Harder](https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Bang Harder](https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4) | 2:44 | 2022-04-15 | 2023-02-26 |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-23 | 2023-02-26 |
+| [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-24 |  |
 | [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 | 2022-08-12 |  |
 | [Bastille](https://open.spotify.com/track/48S8uCvM4Oii7SJiVrhYh6) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Bastille](https://open.spotify.com/album/2wQT8QMeqnfA3XTjbx0SH6) | 4:24 | 2022-02-18 | 2022-10-08 |
 | [BDASWY](https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 03](https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l) | 2:27 | 2023-01-13 |  |
@@ -360,7 +361,7 @@
 | [Spacetime \(feat\. NEVVE\)](https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Spacetime \(feat\. NEVVE\)](https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM) | 2:48 | 2021-12-17 | 2023-01-04 |
 | [Spark \(with Dia Frampton\)](https://open.spotify.com/track/6Xw4u2Jz9DIYUQ9KTCxoBU) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Spark \(with Dia Frampton\)](https://open.spotify.com/album/2p6VICkgTEe7FBar75DHT9) | 3:26 | 2021-12-17 | 2022-02-13 |
 | [Speak Easy \(feat\. Ghostlo\)](https://open.spotify.com/track/2PgkozCSprEYhonKeu3x9A) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv), [Ghostlo](https://open.spotify.com/artist/7a5UP5LmDJ0E3loj0B0XUW) | [Speak Easy \(feat\. Ghostlo\)](https://open.spotify.com/album/7x37ypGodz1NYLm7bassKl) | 3:44 | 2021-12-17 | 2022-02-26 |
-| [Spirit Showdown](https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Phocust](https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0) | [Spirit Showdown](https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs) | 3:21 | 2023-01-27 |  |
+| [Spirit Showdown](https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Phocust](https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0) | [Spirit Showdown](https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs) | 3:21 | 2023-01-27 | 2023-02-28 |
 | [SPLIT PERSONALITY](https://open.spotify.com/track/6yOjZ2PR2FHvzfjXSDU4YS) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [SPLIT // PERSONALITY PT\. 02](https://open.spotify.com/album/7FJcgF7wIWAmzFN2uRi484) | 4:39 | 2021-12-17 | 2022-02-19 |
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-05-13 |  |
 | [Stay](https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Stay](https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY) | 2:32 | 2022-07-29 |  |

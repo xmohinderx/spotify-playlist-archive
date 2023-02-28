@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,259 songs - 2 day 19 hr 51 min
+1,260 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,7 @@
 | [Late July](https://open.spotify.com/track/3i7mKjZKmslCFMxS1WM7DO) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:58 | 2022-05-22 | 2022-05-31 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 | 2022-06-28 |
 | [Leave Me Alone](https://open.spotify.com/track/7FZy8ewnhQ3gGlD9ZJ4Zqx) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [Leave Me Alone](https://open.spotify.com/album/7dc0qu3MvFhpSKXxVneBAU) | 3:10 | 2022-08-02 | 2022-08-18 |
-| [Leave Me Like This](https://open.spotify.com/track/6NRvZuFXn2ixp8YdzUvG5n) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:08 | 2023-02-19 |  |
+| [Leave Me Like This](https://open.spotify.com/track/6NRvZuFXn2ixp8YdzUvG5n) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:08 | 2023-02-19 | 2023-02-28 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-02-18 | 2023-02-20 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-29 | 2022-04-06 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-07-19 | 2022-07-22 |
@@ -949,6 +949,7 @@
 | [Shut It](https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Homesick](https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l) | 2:21 | 2023-01-08 | 2023-01-16 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-05-02 | 2022-12-05 |
 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 | 2022-12-23 | 2022-12-28 |
+| [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-02-27 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-02-15 | 2022-02-27 |
 | [Skeleton Sam](https://open.spotify.com/track/0zD8DcXmWQwWC5Bh78dXqY) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [This Is Halloween Volume 1](https://open.spotify.com/album/1c82jQOLgpcnqWluSNZH0l) | 2:54 | 2022-10-25 | 2022-11-07 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-03-01 | 2022-03-04 |

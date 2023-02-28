@@ -1,12 +1,12 @@
 {
   "description": "This is Channel Tres taking over Metropolis with some of my favorite songs to DJ and to listen to, hope you enjoy \ud83e\udea9",
-  "num_followers": 834872,
+  "num_followers": 835012,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDVmZDQ4OTI5NmZkYzE1ZWJjMjkxNjMzYWRkMDg0YTIw",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDUyZTFlZDhmNTYxOGUxZGY5ZDdkZTAxZDFiYWE5ZmJi",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 137739,
       "name": "EXCEPTIONAL",
       "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Little Bit (feat. Autoerotique) [Remix]",
         "url": "https://open.spotify.com/album/4r3b3h6Aes9LtPaR3WVH4P"
       },
@@ -961,38 +945,6 @@
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Soulonica",
-        "url": "https://open.spotify.com/album/2hMO585Rgwx9e2Y1oIFnQV"
-      },
-      "artists": [
-        {
-          "name": "Shaun Escoffery",
-          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
-        }
-      ],
-      "duration_ms": 482040,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/6y3ZGJ2zecaZHYsRJ7fg0I"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "405 - Metronomy x Biig Piig",
@@ -1011,6 +963,54 @@
       "duration_ms": 265505,
       "name": "405 - Metronomy x Biig Piig",
       "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Soulonica",
+        "url": "https://open.spotify.com/album/2hMO585Rgwx9e2Y1oIFnQV"
+      },
+      "artists": [
+        {
+          "name": "Shaun Escoffery",
+          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
+        }
+      ],
+      "duration_ms": 482040,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/6y3ZGJ2zecaZHYsRJ7fg0I"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "That Life",
         "url": "https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 215866,
       "name": "That Life",
       "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1099,6 +1099,22 @@
       "duration_ms": 136477,
       "name": "FORWARD",
       "url": "https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Small World",
+        "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Right on time",
+      "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Small World",
-        "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Right on time",
-      "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Call On Me (with Tove Lo)",
         "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Like The Old Days",
-        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 240041,
-      "name": "Like The Old Days",
-      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -1275,26 +1259,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nova / Moth",
-        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1311,6 +1275,42 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Like The Old Days",
+        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 240041,
+      "name": "Like The Old Days",
+      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Nova / Moth",
+        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "GMT (Jamie xx Remix)",
         "url": "https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2023-02-17 05:00:00",

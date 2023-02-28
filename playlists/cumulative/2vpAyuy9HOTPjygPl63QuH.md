@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-803 songs - 1 day 22 hr 25 min
+805 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,9 @@
 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 | 2022-11-11 | 2022-11-19 |
 | [Everybody Everybody](https://open.spotify.com/track/0jFA5OQVrpRfBt9hTKQxv7) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Everybody Everybody](https://open.spotify.com/album/7kLFiZyNmWIH5F3cswDX6M) | 2:41 | 2022-07-09 | 2022-07-16 |
 | [Everything](https://open.spotify.com/track/2j05Uy6yQ9bjE5AZVK5VCe) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0) | [Everything](https://open.spotify.com/album/2PEGe50ISufnP6UVzochdC) | 2:42 | 2022-09-23 | 2022-10-01 |
+| [Express Delivery](https://open.spotify.com/track/73P8gEhqdbd6IlwZGryH0M) | [SPATE](https://open.spotify.com/artist/3FKWuXMuMnljaASBbDMSF2), [SPOT](https://open.spotify.com/artist/4oUuI0KrlNvEffpsBNijBA), [Nate](https://open.spotify.com/artist/6AVXSp8896HnYbvjfbpU2g) | [Express Delivery](https://open.spotify.com/album/3gKQpIVHIrq6HeXWJsNCv5) | 2:58 | 2023-02-27 |  |
 | [Express Yourself \- Shermanology Remix \- Edit](https://open.spotify.com/track/2ZrhobXg4GXJYAkrKA6CN4) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Phebe Edwards](https://open.spotify.com/artist/5Phxu6UZtHHfEHNPDwyqpo), [Niara Scarlett](https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Express Yourself \(Shermanology Remix\)](https://open.spotify.com/album/138xngJOS9GyiJcbgfPM1w) | 3:28 | 2022-09-30 | 2022-10-08 |
+| [Ey Man](https://open.spotify.com/track/1NKtLoNDn3tjLK09jxZtmA) | [22 Weeks](https://open.spotify.com/artist/0BJ5zPFfbkXmWdzJ5b7A40), [Fabian Haneke](https://open.spotify.com/artist/7qJBONb8PZE3NfHbxJDzth) | [Ey Man](https://open.spotify.com/album/6vpuzz3D8VSK8OGkGVx6uI) | 3:56 | 2023-02-27 |  |
 | [Eyes Low](https://open.spotify.com/track/20rRGFyrPEScaox2kr8sih) | [Kai Shibata](https://open.spotify.com/artist/5MEit6BA8WPnqzCEVHrSIl) | [Eyes Low](https://open.spotify.com/album/7AxgQwZtj6wBsPpyYwosHo) | 2:56 | 2022-05-29 | 2022-06-04 |
 | [Faith](https://open.spotify.com/track/4dDbwr8GxD7gNYrbKfPe2r) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Justri](https://open.spotify.com/artist/5YmGBNnecIeG9pfzegLMEP) | [Faith](https://open.spotify.com/album/7fYASQOaHLLOrjkUavIlad) | 2:50 | 2023-02-17 | 2023-02-25 |
 | [Faith](https://open.spotify.com/track/57dugDhkdfcCCaNlXbrKz3) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Faith](https://open.spotify.com/album/2NClHY8Ch8vrBu0CrTDTfo) | 3:02 | 2022-10-07 | 2022-10-15 |

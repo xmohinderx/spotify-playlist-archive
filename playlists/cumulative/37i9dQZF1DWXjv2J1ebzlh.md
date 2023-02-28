@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,895 songs - 5 day 7 hr 32 min
+1,899 songs - 5 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Bakara](https://open.spotify.com/track/5Sl1RVQbD9PigheYMG7yAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle \(Deluxe\)](https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK) | 7:01 | 2022-07-27 |  |
 | [Bal](https://open.spotify.com/track/12q47DxU96xOrC7Io9D9tQ) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Bal](https://open.spotify.com/album/3MN57Hn6CaOFLB1LISKdaK) | 5:12 | 2022-10-28 | 2022-11-14 |
 | [Bal](https://open.spotify.com/track/6k5V1UHTZoaQ5ULkIEYACx) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Dost 2](https://open.spotify.com/album/4AqNq8liYqYhoOKBHbUsZu) | 5:12 | 2022-10-31 |  |
+| [Bala](https://open.spotify.com/track/2SLmi9sJHUODT4QNDcpCZF) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bala](https://open.spotify.com/album/5DIt7H7sEewJM3UyJi7CtN) | 3:16 | 2023-02-27 |  |
 | [Balada Borracha](https://open.spotify.com/track/027qnxITdioRnZKSuySpUF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Balada Borracha](https://open.spotify.com/album/1DLkwNRaZx6woFYw4DUYtG) | 4:03 | 2022-06-09 | 2022-07-29 |
 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 | 2022-07-27 |  |
 | [Balada Borracha](https://open.spotify.com/track/4NPgATaM6E5lmf9iCSfu2L) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Vuelve](https://open.spotify.com/album/5Etz4hHQKyjwMBNQ2A0G4i) | 4:03 | 2022-10-31 | 2022-11-13 |
@@ -1219,6 +1220,7 @@
 | [Mitote](https://open.spotify.com/track/4JHlp5SIDqhgEkzEN3AU4m) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [All My Relations](https://open.spotify.com/album/70Zipd63VKhmjY3yKDQi45) | 3:33 | 2022-06-09 | 2022-07-29 |
 | [Moja Bhari Moja](https://open.spotify.com/track/1cqupEafj7Gkh7m0o0Gcij) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 8:16 | 2022-07-27 |  |
 | [Moja Bhari Moja](https://open.spotify.com/track/2JUhoR5oH3OeaL5WWbNEtW) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/5SpuuingwHA4Dgp6lfxrla) | 8:16 | 2022-06-09 | 2022-07-29 |
+| [Mona Ki Ngi Xica](https://open.spotify.com/track/08fsjbOK2ruSfbBTcmEZHZ) | [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Angola 72/74](https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP) | 5:00 | 2023-02-27 |  |
 | [More Creation](https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv) | [Lennie Hibbert](https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 4:18 | 2022-07-12 |  |
 | [More Sekele Movement \(Papa Ni Mama\)](https://open.spotify.com/track/3z5OAhAIJ5ODAeBLcidYLn) | [Pasteur Lappe](https://open.spotify.com/artist/3RDxL9p4jBPGdoaKVcD2Ff) | [African Funk Experimentals \(1979 to 1981\)](https://open.spotify.com/album/4PEeoZc8Qar7mNvgL01Nnm) | 3:57 | 2022-06-09 |  |
 | [Morning Sun](https://open.spotify.com/track/0tdiM5whmw5rC7alWxMWsF) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU) | [Al Barry & Friends \(Deluxe Edition\)](https://open.spotify.com/album/4ZzyPKnU43t80iymdWn4aP) | 2:56 | 2022-07-12 | 2022-07-29 |
@@ -1537,6 +1539,7 @@
 | [Shantet Safar](https://open.spotify.com/track/5mQtC4kym362lmoIt9geTg) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:06 | 2022-10-31 |  |
 | [Shmasha](https://open.spotify.com/track/4o4vw4kVNdfgLz5rxjkN7f) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:05 | 2022-07-12 | 2022-11-21 |
 | [Shmasha](https://open.spotify.com/track/69YBOnJjFATkrDPUQmXTwA) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 6:05 | 2022-10-31 |  |
+| [Show Me The Way, My Brother \(Iph'Indlela\)](https://open.spotify.com/track/1xjlABbsrIRwA5FXOzQ5zZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:12 | 2023-02-27 |  |
 | [Si I Bon Di I Bon](https://open.spotify.com/track/677RRPqxlKaHiO3Rsb5xsX) | [Le Ry\-co Jazz](https://open.spotify.com/artist/1IRR3JBFXllNbzAkidW1Bo) | [Disques Debs International Vol\. 1](https://open.spotify.com/album/5L3oyGNbwwiL6lt54fhysW) | 5:05 | 2022-06-09 | 2022-07-29 |
 | [Si I Bon Di I Bon](https://open.spotify.com/track/6n6KQhXIBs4MkhI6JGwsmC) | [Le Ry\-co Jazz](https://open.spotify.com/artist/1IRR3JBFXllNbzAkidW1Bo) | [Disques Debs International Vol\. 1](https://open.spotify.com/album/6o719MUZj3nUFQb4s1JeRm) | 5:05 | 2022-07-27 |  |
 | [Si Me Quieres](https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:09 | 2022-06-09 |  |
@@ -1680,6 +1683,7 @@
 | [Tha Sou Kano Kapsonaki](https://open.spotify.com/track/2NUoyRMIm58LC5y88KXqhN) | [Litsa Diamanti](https://open.spotify.com/artist/4ZVlnsWbTKXoTcP2CbGHZ6) | [Ta Kalitera Mou Tragoudia](https://open.spotify.com/album/6ZvKwzmGw2MFFWw55iBXxu) | 3:15 | 2022-06-09 |  |
 | [The Book Keeper](https://open.spotify.com/track/24fAveZUoo5CVKcqUcFU29) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Melodies](https://open.spotify.com/album/321yVLOxEIaALmZVvVxYzD) | 5:49 | 2022-06-09 | 2022-07-29 |
 | [The Book Keeper](https://open.spotify.com/track/1tFI06y1zhOfvz216tT0WD) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Toby Laing](https://open.spotify.com/artist/1OV6iOLlgqF62UEo676aBq) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 5:49 | 2022-07-27 |  |
+| [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 | 2023-02-27 |  |
 | [The Coffee Cola Song](https://open.spotify.com/track/3GYBtgclotwzSnd3u21VY7) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music \(1975\-1982\)](https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY) | 5:06 | 2022-06-09 |  |
 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 | 2022-07-12 |  |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/1zXAVZMJEDYpWZhmxFyVtp) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Play Me Sweet and Nice](https://open.spotify.com/album/51ZZLJF4U5fys7ix7yK3yx) | 4:11 | 2022-06-09 |  |

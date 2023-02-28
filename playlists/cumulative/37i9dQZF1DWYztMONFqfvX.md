@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-91 songs - 6 hr 59 min
+92 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Sooiyan \(From "Guddu Rangeela"\)](https://open.spotify.com/track/47i1iMkhGrt4mKrRSKOzVC) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Arijit Singh \- Ultimate Love Songs](https://open.spotify.com/album/252YtNVYFu7GlS6DQ3HUZ1) | 4:01 | 2021-12-08 | 2022-07-29 |
 | [Tera Fitoor](https://open.spotify.com/track/1YMLgvsQdE27r30q0fsLeV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Genius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RtFFza4brQXoNSv19g1ps) | 5:10 | 2022-07-17 |  |
 | [Tera Fitoor \- From "Genius"](https://open.spotify.com/track/68nqVf3mY2aReIVN6xXavH) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tera Fitoor \(From "Genius"\)](https://open.spotify.com/album/4eF3oOh8jyVwUryRUsvODW) | 5:10 | 2021-12-08 | 2022-07-29 |
+| [Tera Hua \(From "Bad Boy"\)](https://open.spotify.com/track/0sGSvPQ8d2CXyMUWG8vFxT) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Tera Hua \(From "Bad Boy"\)](https://open.spotify.com/album/5NCJ7f8YdojKzfjJQbFgBs) | 4:40 | 2023-02-27 |  |
 | [Tera Hua \(From "Cash"\)](https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss), [Riya Duggal](https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET) | [Tera Hua \(From "Cash"\)](https://open.spotify.com/album/3JuAV5XPKsHyOPxftMSejw) | 4:13 | 2021-12-08 |  |
 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 | 2021-12-08 |  |
 | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 | 2022-08-04 |  |

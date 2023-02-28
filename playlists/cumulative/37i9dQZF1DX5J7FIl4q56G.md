@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Archetypes Collide
 
-2,780 songs - 7 day 20 hr 19 min
+2,781 songs - 7 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-21 | 2022-10-29 |
 | [Asphyxiate](https://open.spotify.com/track/6azRkWmDTQqfKb77Qw8vCD) | [Alive In Barcelona](https://open.spotify.com/artist/58aB1rniUmAbCsOM0UTfYi) | [Asphyxiate](https://open.spotify.com/album/0RHI7WtW2UwSU9fGRj1wyM) | 3:36 | 2022-09-23 | 2022-10-01 |
 | [Astral Embodiment](https://open.spotify.com/track/6ndKz52aK5bUZqCf6hZ0sR) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [The Apocryphal Spells, Vol\. I](https://open.spotify.com/album/6mtWmSYUIcpLheEnTgo5BF) | 5:28 | 2022-12-16 | 2023-01-06 |
+| [Astranumeral Octave Chants](https://open.spotify.com/track/3HKz5TGDBXEyLdhEKjjUC6) | [Ulthar](https://open.spotify.com/artist/6s1hQzoXYdEjYdJiHbu1iZ) | [Anthronomicon](https://open.spotify.com/album/1AEYdt4rdtqZPO2ORVWIr2) | 4:34 | 2023-02-27 |  |
 | [At Break of Dawn](https://open.spotify.com/track/2mAjvdRZ95wpe0Y39IA15G) | [Saint Deamon](https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG) | [At Break of Dawn](https://open.spotify.com/album/2ySpA4LVWe80820QGqrrrv) | 4:27 | 2023-02-03 | 2023-02-11 |
 | [At Midnight I'll Take Your Soul](https://open.spotify.com/track/003vTv5i0KuQG6HGwDMoci) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [At Midnight I'll Take Your Soul](https://open.spotify.com/album/2C4AjLmfQciRBChtZc5Zpq) | 2:54 | 2022-10-07 | 2022-10-15 |
 | [At the Heart of Wintervale](https://open.spotify.com/track/1zvenvGohyknHnI2qDyIiV) | [Twilight Force](https://open.spotify.com/artist/0tO6ALWmduAbneXoHmnl2T) | [At the Heart of Wintervale](https://open.spotify.com/album/2dzVI5sR1htGfqmVff6UcF) | 4:50 | 2023-01-20 | 2023-01-28 |

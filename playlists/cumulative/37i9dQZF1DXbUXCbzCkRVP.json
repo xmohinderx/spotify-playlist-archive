@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 191520,
       "name": "Blues For Bill",
       "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 344266,
       "name": "Long gone",
       "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
@@ -1510,6 +1510,32 @@
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "album": {
+        "name": "Stay High [Feat. Cory Henry]",
+        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193551,
+      "name": "Stay High [Feat. Cory Henry]",
+      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
     },
     {
       "album": {

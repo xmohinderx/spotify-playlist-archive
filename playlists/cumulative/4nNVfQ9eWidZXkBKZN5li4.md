@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-214 songs - 12 hr 59 min
+215 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Raataan Lambiyan \(From "Shershaah"\)](https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Raataan Lambiyan \(From "Shershaah"\)](https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj) | 3:50 | 2021-07-30 |  |
 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 | 2022-07-20 |  |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-08-07 |  |
+| [Ranjha \- Sid X Kiara Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm) | [Ranjha \(Sid X Kiara Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:57 | 2023-02-27 |  |
 | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 | 2022-09-26 |  |
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-02-05 | 2022-04-19 |
 | [Saawariya \(feat\. Arjun Bijlani\)](https://open.spotify.com/track/3W9EFWiTzexkdlCm2zHBqK) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Arjun Bijlani](https://open.spotify.com/artist/16AdgG9cB8v609ylemhGXz) | [Saawariya \(feat\. Arjun Bijlani\)](https://open.spotify.com/album/6XrfqO7ZEF3XRDNsPfij58) | 3:22 | 2021-10-08 | 2022-08-20 |

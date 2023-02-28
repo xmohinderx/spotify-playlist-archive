@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists que brillan e inspiran.<br/>Cover: Bruses
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,278 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,310 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
-| 2 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
+| 1 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
+| 2 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 3 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 |
 | 4 | [DPM \(De Pxta Madre\)](https://open.spotify.com/track/4wJXlFV0oh88ktxE54uqKE) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [El Amor Que Merecemos](https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l) | 3:01 |
 | 5 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 17 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
 | 18 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/585Vv1qgZ4Brp7J3ARLEIj) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 3:36 |
 | 19 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
-| 20 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
-| 21 | [REPROGRAMAR](https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL.3](https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY) | 2:34 |
-| 22 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
+| 20 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
+| 21 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
+| 22 | [REPROGRAMAR](https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL.3](https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY) | 2:34 |
 | 23 | [vivir en los dosmil](https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [vivir en los dosmil](https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak) | 2:22 |
 | 24 | [MFD](https://open.spotify.com/track/0jw9L7QvjqCavzMtquLKOS) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [MFD](https://open.spotify.com/album/4Bor5SNuJ51FlsqaNcXAkF) | 2:30 |
 | 25 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 38 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 | 39 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
 | 40 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
-| 41 | [salvatore](https://open.spotify.com/track/2j1rf8gz82mPSUFYtZL4VK) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [salvatore](https://open.spotify.com/album/7kVT3L8cRYduktHOINNYgm) | 2:53 |
-| 42 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
+| 41 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
+| 42 | [salvatore](https://open.spotify.com/track/2j1rf8gz82mPSUFYtZL4VK) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [salvatore](https://open.spotify.com/album/7kVT3L8cRYduktHOINNYgm) | 2:53 |
 | 43 | [Mojados](https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Del Cibao](https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG) | 3:15 |
 | 44 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
 | 45 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 63 | [Movimiento](https://open.spotify.com/track/5Jm2A5PpuVdWEgB7TIFJfV) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Movimiento](https://open.spotify.com/album/4G1VYN0w6Pk82XUyCS82dE) | 5:20 |
 | 64 | [Si Te Veo](https://open.spotify.com/track/5U76Sb5VwnXM6nTzrbrdxG) | [Stefano Marocco](https://open.spotify.com/artist/6T2Y9dnwLPTni627WUfLPp) | [Si Te Veo](https://open.spotify.com/album/2dgu0MYbE8tJXJCNTxxUW5) | 2:57 |
 | 65 | [Rico](https://open.spotify.com/track/5GlwKBk8AWxc7kgTqzmENH) | [LoMaasBello](https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK) | [Marica Negra](https://open.spotify.com/album/1a4Y3SfvpCcgwYyl7wcKtS) | 2:46 |
-| 66 | [Monarca](https://open.spotify.com/track/2sX8WnUz2m9h9sWcpFVDBm) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 4:44 |
-| 67 | [Sink Feel](https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113) | [Rubby](https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaro Malo](https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9) | 2:34 |
+| 66 | [Sink Feel](https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113) | [Rubby](https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaro Malo](https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9) | 2:34 |
+| 67 | [Monarca](https://open.spotify.com/track/2sX8WnUz2m9h9sWcpFVDBm) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 4:44 |
 | 68 | [En Tu Celly](https://open.spotify.com/track/0xDmH8yX5x3CHe35T2Wpln) | [Jonah Xiao](https://open.spotify.com/artist/5UNvujByAgIaKZRBP0GmrV) | [En Tu Celly](https://open.spotify.com/album/1Y6hXVzHU8cSDPjv1SFn26) | 2:48 |
 | 69 | [Demasiado Bueno](https://open.spotify.com/track/63xWPyj9hdO0nupTCjvusY) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Claro](https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU) | 2:46 |
 | 70 | [Someone Else](https://open.spotify.com/track/7qJ2WlwfwlhNnnncyz17Xv) | [Solomon Ray](https://open.spotify.com/artist/6bSsC4nmXp8XTMbTO4CnkV) | [Someone Else \(Maxi Single\)](https://open.spotify.com/album/6dOFvYCshx1YW9mQSi1g8l) | 3:20 |
 
-Snapshot ID: `MTY3NTM4NDkyNiwwMDAwMDAwMGM2YTdkM2E5OTdjMWFhMTFlNjk4OWQzZjA1OWVmNzVm`
+Snapshot ID: `MTY3NTM4NDkyNiwwMDAwMDAwMDZlNTk2N2QzNDA2NjliOTdhZmMyYjE1Yzc3NmQ4ZjYx`

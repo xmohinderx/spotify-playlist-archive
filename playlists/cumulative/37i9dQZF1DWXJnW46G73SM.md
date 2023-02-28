@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مصطفى حجاج
 
-353 songs - 20 hr 39 min
+354 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2022-09-24 |
 | [Independent](https://open.spotify.com/track/23LjDDuaiLm6pU4CiS2WY8) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB), [Alaa Ayoub](https://open.spotify.com/artist/1VlKswfMq3gkY5dqMPqOtH) | [Independent](https://open.spotify.com/album/2RZG30VaDtoJeCUPdMImG0) | 4:11 | 2022-11-09 | 2023-01-25 |
 | [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-21 | 2022-12-24 |
-| [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-01-19 |  |
+| [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-01-19 | 2023-02-28 |
 | [Jebal](https://open.spotify.com/track/7EPvVoROZX4d1dafqunSEN) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM), [Yousra El Gendy](https://open.spotify.com/artist/4NHY6xrFxJwxDxYNl9WZLv) | [Jebal](https://open.spotify.com/album/5M9HfVPfdPqRYJl22Sc39y) | 2:53 | 2022-10-27 | 2023-01-20 |
 | [Jolie Fille](https://open.spotify.com/track/3LDbivszrJ6rOeynqXQdys) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Jolie Fille](https://open.spotify.com/album/5gwQg0oBldCfp3upDzzYzo) | 3:14 | 2022-06-02 | 2022-08-26 |
 | [Kalam Kobar](https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh) | [Mostafa Gad](https://open.spotify.com/artist/5ASLdjUfY4styIRJ5smXmB) | [Kalam Kobar](https://open.spotify.com/album/2z2gS7oXlrbVcnffgffTFU) | 2:32 | 2022-05-18 | 2022-08-21 |
@@ -345,6 +345,7 @@
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
 | [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 | 2023-02-02 |  |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 | 2022-12-02 |
+| [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-02-27 |  |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-01 |  |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-02-17 |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |

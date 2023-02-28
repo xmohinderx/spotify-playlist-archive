@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Odd Signature
 
-161 songs - 13 hr 27 min
+163 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Amar Shurjo](https://open.spotify.com/track/5ZfsbR7btiWtDoQfGhpyiC) | [Shayan](https://open.spotify.com/artist/2aNKHDOr5ESFtFvrLMARPP) | [Amar Shurjo](https://open.spotify.com/album/5NBnpyrP8V3MZHTABxsEaj) | 4:53 | 2022-06-16 | 2022-07-16 |
 | [Amay Kadao](https://open.spotify.com/track/5oIn4icAlq5mAy1fuK91tM) | [Ariyan Chowdhury](https://open.spotify.com/artist/5FSxHgK27xpXm0IzRQ5DxL) | [Amay Kadao](https://open.spotify.com/album/4e4VZyzdXcpg6IJbDfRm0q) | 5:05 | 2023-01-20 | 2023-02-18 |
 | [Ami Akash Pathabo](https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:03 | 2022-06-16 |  |
-| [Ami Bodle Jabo](https://open.spotify.com/track/5CoY9a0vqIaMLkCEZeA9de) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7699oOVPVjXj5FnYoDwfbg) | 5:20 | 2023-02-17 |  |
+| [Ami Bodle Jabo](https://open.spotify.com/track/5CoY9a0vqIaMLkCEZeA9de) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7699oOVPVjXj5FnYoDwfbg) | 5:20 | 2023-02-17 | 2023-02-28 |
+| [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 | 2023-02-17 |  |
 | [Ami Jai Hariye](https://open.spotify.com/track/5BdvUQme9AJ6A40Q8eNhsO) | [The Trap](https://open.spotify.com/artist/0y8uYaLotbpQi2MJW79mck) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:45 | 2022-06-16 | 2022-08-30 |
 | [Ami Jani](https://open.spotify.com/track/7lfBr1RFBpfA9yDRGWceBs) | [Hridoy Khan](https://open.spotify.com/artist/4L8j8SN9LKAcKYq8oy4f5j) | [Ami Jani](https://open.spotify.com/album/0kxT6PQAmjW75S9bcO3tK1) | 4:27 | 2022-06-16 | 2023-01-21 |
 | [Anath](https://open.spotify.com/track/0DCWyFL9SxBjSfLMhj8471) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Anath](https://open.spotify.com/album/42V5qp9Z9SSpws2sZftzw5) | 5:19 | 2022-06-16 | 2023-02-18 |
@@ -149,7 +150,8 @@
 | [Sara Dao](https://open.spotify.com/track/3RAkhXpMoOHnjTD1ArtbH5) | [Srf Khan Shuvro](https://open.spotify.com/artist/3BfD90LHcVDe9UFHIV8Zru) | [Sara Dao](https://open.spotify.com/album/4W33xQm1otNMFG1o3dJ1of) | 4:17 | 2022-11-30 | 2023-02-18 |
 | [Shaada Kaalo \- Duet](https://open.spotify.com/track/7vpct6bZGjlaEOfoj2i2s2) | [Upol](https://open.spotify.com/artist/5a64bWvgCyw1UErGhgGpQi), [Maher](https://open.spotify.com/artist/2rSCSZO0sjo7yLYKKNHcAr) | [Deep Nevar Age](https://open.spotify.com/album/4rVYJbmLaUSnoz8CnZUhyq) | 5:00 | 2023-02-17 |  |
 | [Shada Golap](https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Shada Golap](https://open.spotify.com/album/6uZ4fMxLBklu5QyQRYmq9G) | 4:38 | 2022-06-16 |  |
-| [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 | 2023-02-17 |  |
+| [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 | 2023-02-17 |  |
+| [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 | 2023-02-17 | 2023-02-28 |
 | [Shoinik](https://open.spotify.com/track/0bFIj6j8BGoGr4F7lMxpbz) | [Hallucination](https://open.spotify.com/artist/19KFB4cmXVPZKalVqcmYwc) | [Krittrim Prithibi Deluxe Edition](https://open.spotify.com/album/5M6AUAozRRgCbtISw3gRCI) | 4:28 | 2022-09-23 | 2022-12-01 |
 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 | 2022-06-16 |  |
 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 | 2022-07-15 |  |

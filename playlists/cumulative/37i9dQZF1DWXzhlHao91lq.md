@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-181 songs - 10 hr 15 min
+182 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cool](https://open.spotify.com/track/1vboAuHPEG5hSExtrnftNF) | [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Cool](https://open.spotify.com/album/6WGBgPGbkx6i3opPWVSnoM) | 2:37 | 2022-05-30 | 2022-07-29 |
 | [Dear Winter](https://open.spotify.com/track/4Dd0v2LBhMpqOwhmeU4yBJ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 2:48 | 2022-08-08 | 2023-01-05 |
 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 | 2022-07-11 | 2022-07-26 |
-| [different...](https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [different...](https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws) | 3:00 | 2023-01-30 |  |
+| [different...](https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [different...](https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws) | 3:00 | 2023-01-30 | 2023-02-28 |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-05-30 | 2022-07-29 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-07-25 | 2022-09-03 |
 | [Don't Know What I Want](https://open.spotify.com/track/1VWrSNe54l1uH1rqIVW274) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Don't Know What I Want](https://open.spotify.com/album/6YsEwFwufhh38wDpmLRzfz) | 2:25 | 2022-09-05 | 2022-09-20 |
@@ -49,13 +49,14 @@
 | [Down by the Water](https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:58 | 2022-07-25 |  |
 | [Dreams](https://open.spotify.com/track/6ktuv95da650Ghn7crrZhg) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Dreams](https://open.spotify.com/album/5aP1PNb01SVRJNcaoOuItH) | 4:28 | 2022-05-30 | 2022-07-10 |
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-08-08 |  |
+| [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 | 2023-02-27 |  |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2022-05-30 | 2022-08-09 |
 | [Falling](https://open.spotify.com/track/2yFFlbkXCwleC7hwqmME3W) | [The Freed](https://open.spotify.com/artist/0IEadG1HNClLAizmQJ94yD) | [Falling](https://open.spotify.com/album/3KjabsyJLHQqQ1WhgITIQV) | 3:41 | 2022-05-30 | 2022-07-29 |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-07-25 |  |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2022-08-08 |  |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-25 | 2022-08-09 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-25 |  |
-| [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-08-08 |  |
+| [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-08-08 | 2023-02-28 |
 | [Friends](https://open.spotify.com/track/2x1xhwGKm41AUMd4ziuq70) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Friends](https://open.spotify.com/album/01iEjRypuKMgwDVw2jKxAz) | 2:11 | 2022-10-17 | 2022-10-25 |
 | [God Only Knows](https://open.spotify.com/track/2I2gBMNuQAbuqcEvdmoZlF) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Dreams](https://open.spotify.com/album/5aP1PNb01SVRJNcaoOuItH) | 2:18 | 2022-06-13 | 2022-06-20 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2022-07-25 |  |
@@ -74,7 +75,7 @@
 | [High Hopes](https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [High Hopes](https://open.spotify.com/album/2lx32jA6XqlM6wXn6fWyCm) | 3:36 | 2022-05-30 | 2022-07-29 |
 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 | 2022-05-30 |  |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/55oeEYEp81nHKvkdJjwXW2) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/album/7L1nVNAEtlPi49xZHrDuBW) | 2:57 | 2022-05-30 | 2022-07-28 |
-| [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-08-08 | 2023-02-27 |
+| [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-08-08 |  |
 | [Hurricane](https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hurricane](https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue) | 3:21 | 2022-08-08 | 2022-11-13 |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-05-30 | 2022-07-29 |
 | [I Ain't Perfect](https://open.spotify.com/track/7lD4bwbBCqukPke3Xt1Ncs) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:22 | 2022-07-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 26161,
+  "num_followers": 26186,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDg5YWI4MDYxNjk3MGNhNmY4MWIzZGFmNWNiMjZiOWYy",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGY3YjI4YzI4NmZiNGU0ZDNmMjU1MDBkYmU2NTQ2MzY3",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -351,6 +351,26 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Esculpido a Machado",
+      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Lembro",
         "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
       },
@@ -403,46 +423,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Esculpido a Machado",
-      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 155942,
-      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Aonde Eu Sou Cria",
         "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 154909,
       "name": "Aonde Eu Sou Cria",
       "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 155942,
+      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -507,30 +507,6 @@
       "duration_ms": 238247,
       "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
       "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -631,8 +607,8 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Rock Danger Worldwide/Chile",
-        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
       "artists": [
         {
@@ -640,29 +616,17 @@
           "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         }
       ],
-      "duration_ms": 194816,
-      "name": "99 N\u00e3o \u00c9 100",
-      "url": "https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP"
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -727,34 +691,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Armamento do Ir\u00e3",
-        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "D r o p e",
-          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Olympio",
-          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
-        }
-      ],
-      "duration_ms": 259754,
-      "name": "Armamento do Ir\u00e3",
-      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -791,6 +727,26 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
@@ -811,26 +767,6 @@
       "duration_ms": 198051,
       "name": "Clone",
       "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -907,6 +843,70 @@
       "duration_ms": 91682,
       "name": "Puxa o Gatilho Primeiro",
       "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Rock Danger Worldwide/Chile",
+        "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 194816,
+      "name": "99 N\u00e3o \u00c9 100",
+      "url": "https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Armamento do Ir\u00e3",
+        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Olympio",
+          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
+        }
+      ],
+      "duration_ms": 259754,
+      "name": "Armamento do Ir\u00e3",
+      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2023-02-10 03:01:00",

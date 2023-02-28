@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with Chris Olsen's Flight Fuel Coffee as he takes over with these cozy, mellow tunes
 
-264 songs - 15 hr 47 min
+265 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Square One](https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Square One](https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8) | 3:06 | 2021-03-06 |  |
 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 | 2023-01-05 |  |
 | [Sudden Love \(Acoustic\)](https://open.spotify.com/track/4j1qgmRVqhFANilbZ70bft) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:02 | 2019-09-29\* | 2022-06-07 |
-| [Sunscreen](https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Sunscreen](https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4) | 2:58 | 2019-09-29\* |  |
+| [Sunscreen](https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 2:58 | 2023-02-14 |  |
+| [Sunscreen](https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Sunscreen](https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4) | 2:58 | 2019-09-29\* | 2023-02-28 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-12-14 |  |
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2021-07-17 |  |
 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 | 2019-09-29\* |  |

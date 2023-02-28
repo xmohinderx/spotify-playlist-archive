@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: GALE
 
-320 songs - 16 hr 19 min
+321 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Me Conoces](https://open.spotify.com/track/3VZTeLP44cx4TIsMxVpi6W) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM) | [Me Conoces](https://open.spotify.com/album/5EjIchI75FHmoarIwPiaGM) | 2:51 | 2022-03-21 | 2022-07-09 |
 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 | 2022-10-28 | 2023-02-25 |
 | [Me Gusta](https://open.spotify.com/track/4wpsSCIc7zyjdyUt6wfSqc) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Me Gusta](https://open.spotify.com/album/0Fxm7FHLwu4RNHWFjidEkt) | 2:33 | 2022-10-07 | 2022-12-17 |
+| [Me He Pillao x Ti](https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Me He Pillao x Ti](https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG) | 3:22 | 2023-02-24 |  |
 | [Me Quedo Solo](https://open.spotify.com/track/3RKef2LOov4395yfrDGrwA) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Me Quedo Solo](https://open.spotify.com/album/0dprH4u5zVmRMi7yMnuaeq) | 3:35 | 2022-06-17 | 2022-07-26 |
 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 | 2022-12-23 | 2023-01-16 |
 | [Medio Crazy Remix](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 | 2022-09-09 | 2022-10-29 |
@@ -230,7 +231,7 @@
 | [Papelito](https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 2:59 | 2022-10-28 | 2022-12-10 |
 | [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-23 | 2022-11-02 |
 | [Paracaidas](https://open.spotify.com/track/2eNOhkws1JQe3ihihnZUP0) | [Omar Koonze](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [Paracaidas](https://open.spotify.com/album/4S7eZjHadhLkjm5Rg34CeZ) | 3:39 | 2022-03-21 | 2022-05-07 |
-| [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 | 2023-01-20 |  |
+| [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 | 2023-01-20 | 2023-02-28 |
 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 | 2022-08-08 | 2022-10-29 |
 | [Pecado Original](https://open.spotify.com/track/35gG1L1D4q3Vj4SqdpBqoP) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [Pecado Original](https://open.spotify.com/album/5yfY90qBzhRs4Dul2hlj81) | 3:31 | 2022-04-14 | 2022-05-09 |
 | [Perdón](https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Perdón](https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu) | 2:46 | 2023-02-24 |  |

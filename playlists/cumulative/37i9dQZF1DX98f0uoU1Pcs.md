@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-402 songs - 21 hr 31 min
+403 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [In the Stone](https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Mirror II](https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw) | 4:07 | 2022-01-07 |  |
 | [insomniac](https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/2nlqINGMZtFXZQeI8fQovI) | 3:04 | 2023-01-27 |  |
 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 | 2023-02-17 |
+| [Irreversible Damage](https://open.spotify.com/track/4MGMHnYXV1sWJLXpkw7n4z) | [Algiers](https://open.spotify.com/artist/58WFmcqNmejE2IpVIna43o), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Shook](https://open.spotify.com/album/7KTAkz6cGXjFqpxUZIG8WH) | 4:42 | 2023-02-27 |  |
 | [It Might Get Dark](https://open.spotify.com/track/7JTcb32OsQAYibVKnOZ2q2) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [It Might Get Dark](https://open.spotify.com/album/3W8PCtSpEBUw4VCpvlAYbh) | 3:36 | 2021-10-07 | 2022-02-22 |
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn) | 4:46 | 2023-02-13 |  |
 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 | 2022-01-07 | 2022-11-22 |

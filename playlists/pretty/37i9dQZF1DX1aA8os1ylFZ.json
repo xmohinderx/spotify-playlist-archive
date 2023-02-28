@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 227572,
+  "num_followers": 227610,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDFhM2U5MGVhZDNkZjA1YjhhYjM0M2VhNmQ5Y2M0NzNh",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDAyODhiZGIxYWZmNmJlMTQ1MjlmNTFmOTBlMmVmZjcy",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -275,22 +291,6 @@
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -343,6 +343,22 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -427,38 +443,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Beautiful Love (Free Fire)",
-        "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 207837,
-      "name": "Beautiful Love - Free Fire",
-      "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "What I Didn't Tell You",
         "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Nothing Even Matters",
+        "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Nothing Even Matters",
+      "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Do You Mind",
         "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Nothing Even Matters",
-        "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Nothing Even Matters",
-      "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "listen up (Radio Edit)",
         "url": "https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 108949,
       "name": "listen up - Radio Edit",
       "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Beautiful Love (Free Fire)",
+        "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 207837,
+      "name": "Beautiful Love - Free Fire",
+      "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "rubberband",
-        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 147713,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
         "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "rubberband",
+        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 147713,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 163700,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Vibez",
         "url": "https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 163127,
       "name": "Vibez",
       "url": "https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Take It Slow",
-      "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 195078,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 201869,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Petty",
-        "url": "https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 195078,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
+      },
+      "artists": [
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Decide",
-        "url": "https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Decide",
-      "url": "https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Bubble",
-        "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
-      },
-      "artists": [
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Message From My Ex / 3 Words (Message To My Ex)",
-        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 186083,
-      "name": "3 Words (Message To My Ex)",
-      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
+      "duration_ms": 158181,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 161677,
       "name": "On Lock",
       "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Message From My Ex / 3 Words (Message To My Ex)",
+        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "3 Words (Message To My Ex)",
+      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Whatever Simon Says",
-        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Whatever Simon Says",
-      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 156297,
       "name": "If Pretty Was A Person",
       "url": "https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Whatever Simon Says",
+        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Whatever Simon Says",
+      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
     },
     {
       "added_at": "2023-02-23 23:00:00",

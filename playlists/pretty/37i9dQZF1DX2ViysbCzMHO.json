@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 114803,
+  "num_followers": 114979,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGM4MWQwZDAwMTUyYjc0MjliMDg2ZDBkN2Q2NmMzMGU1",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGM4NjM2NTQ3ZTgyMTkxYjljYWI1NTkzMTA5NGE5MDIy",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Hell Of A Way To Go (Acoustic)",
         "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
@@ -435,22 +415,6 @@
       "duration_ms": 173126,
       "name": "Hell Of A Way To Go - Acoustic",
       "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -471,6 +435,42 @@
       "duration_ms": 195309,
       "name": "Love Like I Drink",
       "url": "https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Long Live Cowgirls (Me and a Fiddle)",
-        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 180997,
-      "name": "Long Live Cowgirls - Me and a Fiddle",
-      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 242005,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 242005,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 205663,
       "name": "Truth About You - Piano Version",
       "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Long Live Cowgirls (Me and a Fiddle)",
+        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 180997,
+      "name": "Long Live Cowgirls - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Be The Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 182027,
-      "name": "Be The Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Be The Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 182027,
+      "name": "Be The Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "duration_ms": 204004,
+      "name": "Better Off Gone (Acoustic Sessions)",
+      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
-      },
-      "artists": [
-        {
-          "name": "Logan Mize",
-          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Better Off Gone (Acoustic Sessions)",
-      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "She Had Me At Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Weekends Look A Little Acoustic These Days",
         "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "She Had Me At Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Austin (Acoustic)",
-        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 226179,
-      "name": "Austin - Acoustic",
-      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Austin (Acoustic)",
+        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 226179,
+      "name": "Austin - Acoustic",
+      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 188026,
       "name": "Just About Over You - Acoustic Version",
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "I Wanna Remember (feat. Carrie Underwood) [Acoustic]",
-        "url": "https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 206334,
-      "name": "I Wanna Remember (feat. Carrie Underwood) - Acoustic",
-      "url": "https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "I Wanna Remember (feat. Carrie Underwood) [Acoustic]",
+        "url": "https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 206334,
+      "name": "I Wanna Remember (feat. Carrie Underwood) - Acoustic",
+      "url": "https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Sunrise Tells The Story (Acoustic)",
         "url": "https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 205280,
       "name": "Sunrise Tells The Story - Acoustic",
       "url": "https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "What If I Never Get Over You (Piano Version)",
+        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 204639,
+      "name": "What If I Never Get Over You - Piano Version",
+      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 260000,
       "name": "Waves (Live)",
       "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "What If I Never Get Over You (Piano Version)",
-        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 204639,
-      "name": "What If I Never Get Over You - Piano Version",
-      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     }
   ],
   "unique_name": "Nashville Stripped",

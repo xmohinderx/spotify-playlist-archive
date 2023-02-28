@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1310,
+  "num_followers": 1311,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDliMTg3MzhhYmIxYzVjODU1ZGQxZTZkYjI2YTBkZDY2",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDVlMTI2ODNjMWQ1NzkzYjc5MWFlZWUyYjA0ZWI0OWNm",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Juguemos a cantar con Barney",
+        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "duration_ms": 34342,
+      "name": "Limpieza",
+      "url": "https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 154395,
       "name": "Baile del marinero",
       "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Juguemos a cantar con Barney",
-        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
-      },
-      "artists": [
-        {
-          "name": "Barney",
-          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
-        }
-      ],
-      "duration_ms": 34342,
-      "name": "Limpieza",
-      "url": "https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Let The Sun Shine",
-        "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
-      },
-      "artists": [
-        {
-          "name": "We Kids Rock",
-          "url": "https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT"
-        }
-      ],
-      "duration_ms": 109373,
-      "name": "Clean Up Your Toys",
-      "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Canciones Infantiles, Vol. 2",
         "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 92127,
       "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
       "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Let The Sun Shine",
+        "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
+      },
+      "artists": [
+        {
+          "name": "We Kids Rock",
+          "url": "https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT"
+        }
+      ],
+      "duration_ms": 109373,
+      "name": "Clean Up Your Toys",
+      "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -339,6 +339,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 92170,
+      "name": "Brush Brush Brush",
+      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 162400,
       "name": "Todos a Moverse",
       "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Fantastic Voyages",
-        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 92170,
-      "name": "Brush Brush Brush",
-      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -435,6 +435,26 @@
       "duration_ms": 66613,
       "name": "The Potty Dance Song",
       "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -511,22 +531,34 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -559,38 +591,6 @@
       "duration_ms": 101040,
       "name": "Aguita Y Jabon",
       "url": "https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -731,6 +731,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
+        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 91874,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "CD8: Lleg\u00f3 Panam",
         "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 150906,
       "name": "A Comer Que la Mesa Est\u00e1 Servida",
       "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
-        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
     },
     {
       "added_at": "2020-04-22 19:35:42",

@@ -4155,6 +4155,32 @@
     },
     {
       "album": {
+        "name": "Express Delivery",
+        "url": "https://open.spotify.com/album/3gKQpIVHIrq6HeXWJsNCv5"
+      },
+      "artists": [
+        {
+          "name": "SPATE",
+          "url": "https://open.spotify.com/artist/3FKWuXMuMnljaASBbDMSF2"
+        },
+        {
+          "name": "SPOT",
+          "url": "https://open.spotify.com/artist/4oUuI0KrlNvEffpsBNijBA"
+        },
+        {
+          "name": "Nate",
+          "url": "https://open.spotify.com/artist/6AVXSp8896HnYbvjfbpU2g"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178208,
+      "name": "Express Delivery",
+      "url": "https://open.spotify.com/track/73P8gEhqdbd6IlwZGryH0M"
+    },
+    {
+      "album": {
         "name": "Express Yourself (Shermanology Remix)",
         "url": "https://open.spotify.com/album/138xngJOS9GyiJcbgfPM1w"
       },
@@ -4182,6 +4208,28 @@
       "duration_ms": 208346,
       "name": "Express Yourself - Shermanology Remix - Edit",
       "url": "https://open.spotify.com/track/2ZrhobXg4GXJYAkrKA6CN4"
+    },
+    {
+      "album": {
+        "name": "Ey Man",
+        "url": "https://open.spotify.com/album/6vpuzz3D8VSK8OGkGVx6uI"
+      },
+      "artists": [
+        {
+          "name": "22 Weeks",
+          "url": "https://open.spotify.com/artist/0BJ5zPFfbkXmWdzJ5b7A40"
+        },
+        {
+          "name": "Fabian Haneke",
+          "url": "https://open.spotify.com/artist/7qJBONb8PZE3NfHbxJDzth"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236692,
+      "name": "Ey Man",
+      "url": "https://open.spotify.com/track/1NKtLoNDn3tjLK09jxZtmA"
     },
     {
       "album": {

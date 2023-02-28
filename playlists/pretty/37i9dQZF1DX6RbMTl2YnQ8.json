@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 150076,
+  "num_followers": 150322,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNzExNSwwMDAwMDAwMGJmYjAzYjI0NGRmMWNkN2Q1YjBiY2M4MWJkNGMxZjI3",
+  "snapshot_id": "MTY1NzEzNzExNSwwMDAwMDAwMDIzMGFkMmQyY2VhNjhiYjNjYzI3NDUzNjJjZmE3MTA5",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Finisterra",
-        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
-        }
-      ],
-      "duration_ms": 296751,
-      "name": "Fiesta Pagana",
-      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Finisterra",
+        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Fiesta Pagana",
+      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
+        "name": "La Vida Gacha",
+        "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
+      },
+      "artists": [
+        {
+          "name": "Caos",
+          "url": "https://open.spotify.com/artist/7aTwbcPoqJOzeEh96WHxrp"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "La Planta",
+      "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 192760,
       "name": "Eres para M\u00ed (with Anita Tijoux)",
       "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
-        "name": "La Vida Gacha",
-        "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
-      },
-      "artists": [
-        {
-          "name": "Caos",
-          "url": "https://open.spotify.com/artist/7aTwbcPoqJOzeEh96WHxrp"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "La Planta",
-      "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -335,38 +335,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 236472,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -379,6 +347,22 @@
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 236472,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -443,6 +427,22 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2022-07-06 19:51:55",

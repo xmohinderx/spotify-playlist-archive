@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 214986,
       "name": "Glimpse of a Time",
       "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
@@ -3072,6 +3072,24 @@
       "duration_ms": 231106,
       "name": "Vinyl and a Heartache",
       "url": "https://open.spotify.com/track/4Cvj1Q6S7FktJwwkJLaS9V"
+    },
+    {
+      "album": {
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 261582,
+  "num_followers": 261573,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGE0OWRiZTJjMjRjYzk2Mzc3YWJjNDRhYWI4ODgwMDRj",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDRkZmUxZmNhMWUxOThlNDU1MjRkNjg0Mjk1NGE2NmJi",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Canary Islands",
         "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Young Chasers (Deluxe)",
         "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Nobody's Home",
-        "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
+        "name": "Loverini (feat. L'Imp\u00e9ratrice)",
+        "url": "https://open.spotify.com/album/2MvJBLxIIPuOMXzxI0bjXB"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 233960,
-      "name": "NW3",
-      "url": "https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov"
+      "duration_ms": 202546,
+      "name": "Loverini (feat. L'Imp\u00e9ratrice)",
+      "url": "https://open.spotify.com/track/6bBN2bbxAnCXWTwXaOkF0X"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Loverini (feat. L'Imp\u00e9ratrice)",
-        "url": "https://open.spotify.com/album/2MvJBLxIIPuOMXzxI0bjXB"
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 202546,
-      "name": "Loverini (feat. L'Imp\u00e9ratrice)",
-      "url": "https://open.spotify.com/track/6bBN2bbxAnCXWTwXaOkF0X"
+      "duration_ms": 233960,
+      "name": "NW3",
+      "url": "https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Boys Cry",
-        "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
-      },
-      "artists": [
-        {
-          "name": "Oscar Scheller",
-          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
-        }
-      ],
-      "duration_ms": 212252,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/530kyqiGiyVWIArbjrGwKj"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Boys Cry",
+        "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        }
+      ],
+      "duration_ms": 212252,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/530kyqiGiyVWIArbjrGwKj"
     },
     {
       "added_at": "2022-08-25 23:00:00",

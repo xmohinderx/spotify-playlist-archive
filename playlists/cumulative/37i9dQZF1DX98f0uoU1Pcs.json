@@ -3479,6 +3479,28 @@
     },
     {
       "album": {
+        "name": "Shook",
+        "url": "https://open.spotify.com/album/7KTAkz6cGXjFqpxUZIG8WH"
+      },
+      "artists": [
+        {
+          "name": "Algiers",
+          "url": "https://open.spotify.com/artist/58WFmcqNmejE2IpVIna43o"
+        },
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282813,
+      "name": "Irreversible Damage",
+      "url": "https://open.spotify.com/track/4MGMHnYXV1sWJLXpkw7n4z"
+    },
+    {
+      "album": {
         "name": "It Might Get Dark",
         "url": "https://open.spotify.com/album/3W8PCtSpEBUw4VCpvlAYbh"
       },

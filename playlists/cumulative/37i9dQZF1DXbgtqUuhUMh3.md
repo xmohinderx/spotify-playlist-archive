@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-402 songs - 23 hr 35 min
+403 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [El Sa3a Tes3a](https://open.spotify.com/track/0vRNQJC5feiuVq99FruVL6) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/6C84DA6uO6CmULWHzZlUxO) | 3:25 | 2022-10-27 | 2023-02-24 |
 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-07 | 2022-10-14 |
 | [El Tabour \- Arabic adaptation of Bambino](https://open.spotify.com/track/0URyUHND8op34XymZ2mP5y) | [Lara Scandar](https://open.spotify.com/artist/3eh2JDunlzmEpvdUzaxDji) | [El Tabour \(Arabic adaptation of Bambino\)](https://open.spotify.com/album/5LeC664WD7waXmySxsmUua) | 3:24 | 2021-12-23 | 2022-02-26 |
+| [El Tofah w El Farawla](https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Tofah w El Farawla](https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g) | 3:56 | 2023-02-23 |  |
 | [Elain Tebki](https://open.spotify.com/track/0sd7Nw1PMval64C1YZjj4q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Elain Tebki](https://open.spotify.com/album/5Y5e4ZbvgGgnPmTTfZzjUH) | 3:56 | 2021-12-23 | 2022-02-25 |
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-25 |  |
 | [Elbet CDhat](https://open.spotify.com/track/020A1vGLssPEhWUhSnDPS7) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Elbet CDhat](https://open.spotify.com/album/4dtDTpiF5qAVRSpwaOu126) | 3:17 | 2021-12-23 | 2022-03-01 |
@@ -139,7 +140,7 @@
 | [Hala Taraa](https://open.spotify.com/track/6GX6qOGlZEXmUYkGyoTkMb) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Hala Taraa](https://open.spotify.com/album/7q1RxHFLDWNJ6hpUKbkie4) | 3:31 | 2021-12-23 | 2022-02-28 |
 | [Hanyallo](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Hanyallo](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 | 2023-01-10 |  |
 | [Harzaneh](https://open.spotify.com/track/3w62kuwirrkLwiwKvNqvwk) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Harzaneh](https://open.spotify.com/album/41oUkibRsn7EQ84wIAfpYB) | 2:52 | 2021-12-23 | 2022-03-02 |
-| [Hawwa](https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo) | [Yara Korkomaz](https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU) | [Hawwa](https://open.spotify.com/album/4Uk227gcmdkstmQMVVDHxl) | 2:09 | 2022-11-10 |  |
+| [Hawwa](https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo) | [Yara Korkomaz](https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU) | [Hawwa](https://open.spotify.com/album/4Uk227gcmdkstmQMVVDHxl) | 2:09 | 2022-11-10 | 2023-02-28 |
 | [Heliocentric](https://open.spotify.com/track/1tFslnzbhAJck0C28stKBR) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Dream 23](https://open.spotify.com/album/45zDr1B6qUmDcsH3clyp2O) | 2:56 | 2021-12-23 | 2022-02-28 |
 | [Helo Moodak](https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt) | [Bsmalla](https://open.spotify.com/artist/15GZ42GmfWZOctYdJf6UYY) | [Helo Moodak](https://open.spotify.com/album/3aZtYcXeg46YuOUFSmBT0h) | 3:17 | 2022-06-08 | 2023-02-02 |
 | [Helw Dah](https://open.spotify.com/track/1prDjlgIQI1V5ZJjEwipFx) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Helw Dah](https://open.spotify.com/album/3dxxw8jACcV0ZYpa4TnLLP) | 3:01 | 2023-02-03 |  |

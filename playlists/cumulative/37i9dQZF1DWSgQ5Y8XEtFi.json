@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181355,
+      "name": "Dead Shot (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
+    },
+    {
+      "album": {
         "name": "bag or die",
         "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
       },
@@ -1386,7 +1408,7 @@
           "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "date_added": "2023-02-20",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 124768,
@@ -1708,7 +1730,7 @@
           "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166981,
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 142707,
       "name": "If Self-Destruction Was an Olympic Event, I\u2019d Be Tonya Harding",
       "url": "https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty"
@@ -3208,7 +3230,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 192715,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
@@ -3248,7 +3270,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 144729,
       "name": "Shittin' Me",
       "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
@@ -4154,7 +4176,7 @@
           "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 138299,

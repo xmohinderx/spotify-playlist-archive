@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-76 songs - 4 hr 18 min
+77 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |
 | [Its Crazy](https://open.spotify.com/track/3rtEI69SClTiIvelgbQ1b8) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [Its Crazy](https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh) | 2:28 | 2022-06-06 | 2022-06-25 |
 | [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 | 2023-01-21 |
-| [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l) | 3:43 | 2022-06-06 |  |
+| [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/5KNegRmSjP4ahtaWaecDHp) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/3E76niGgYjRLe7936MPAWo) | 3:43 | 2022-06-06 |  |
+| [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l) | 3:43 | 2022-06-06 | 2023-02-28 |
 | [Kiisa](https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Chuny Adech](https://open.spotify.com/album/2kLX8zNWi2URRm7Mvxw2ib) | 3:24 | 2022-06-06 | 2022-11-11 |
 | [Kukaliba](https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:53 | 2022-06-06 |  |
 | [Kwaata Wano](https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O) | [Sylver](https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU) | [Kwaata Wano](https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI) | 3:48 | 2022-08-05 |  |

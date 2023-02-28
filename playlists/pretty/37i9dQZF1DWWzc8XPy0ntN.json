@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121869,
+  "num_followers": 121880,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNjE5OSwwMDAwMDAwMGEzNjVmNmI5Y2M3N2VhNDRkZWJmM2UyNDVkNWY4Yjc3",
+  "snapshot_id": "MTY3NjMxNjE5OSwwMDAwMDAwMGY1NThiNmNjOTY5Y2Q1NGIwMTE2ODNjNWIwM2RkNDkx",
   "tracks": [
     {
       "added_at": "2022-12-21 17:17:38",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6wdkhuxxLOebJK8scPd9LX"
     },
     {
-      "added_at": "2023-02-27 01:10:57",
+      "added_at": "2023-02-28 01:09:30",
       "album": {
         "name": "Invierno (Remix)",
         "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
@@ -121,6 +121,38 @@
       "url": "https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF"
     },
     {
+      "added_at": "2022-12-21 17:17:38",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "el cielo no es de nadie",
+        "url": "https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 221953,
+      "name": "el cielo no es de nadie - Edit",
+      "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
+    },
+    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Estaci\u00f3n Esperanza",
@@ -143,22 +175,6 @@
     {
       "added_at": "2022-12-21 17:17:38",
       "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 149869,
-      "name": "10",
-      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
-    },
-    {
-      "added_at": "2022-12-21 17:17:38",
-      "album": {
         "name": "NEW BREED",
         "url": "https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 95321,
       "name": "BADTRIP",
       "url": "https://open.spotify.com/track/59qoO6Zv3pKUIVaYZCeG7U"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "el cielo no es de nadie",
-        "url": "https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 221953,
-      "name": "el cielo no es de nadie - Edit",
-      "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 226058,
-      "name": "Sin control",
-      "url": "https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Atl\u00e1ntida",
         "url": "https://open.spotify.com/album/5WHYmcgeLzkJVlnyAYA3pj"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia - Edit",
-      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+      "duration_ms": 226058,
+      "name": "Sin control",
+      "url": "https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -351,6 +335,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia - Edit",
+      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Feel Like Honey",
-        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
-      },
-      "artists": [
-        {
-          "name": "Future Feelings",
-          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
-        }
-      ],
-      "duration_ms": 236130,
-      "name": "Feel Like Honey - Radio Edit",
-      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Individuality Riddim",
         "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 398629,
       "name": "Individuality Riddim",
       "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Feel Like Honey",
+        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
+      },
+      "artists": [
+        {
+          "name": "Future Feelings",
+          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
+        }
+      ],
+      "duration_ms": 236130,
+      "name": "Feel Like Honey - Radio Edit",
+      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Maelstrom",
         "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 342017,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Tierra del Fuego",
-        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
-      },
-      "artists": [
-        {
-          "name": "Tayhana",
-          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
-        }
-      ],
-      "duration_ms": 234468,
-      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
-      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Tierra del Fuego",
+        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
+      },
+      "artists": [
+        {
+          "name": "Tayhana",
+          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
+        }
+      ],
+      "duration_ms": 234468,
+      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
+      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Pieles",
         "url": "https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu"
       },
@@ -831,6 +831,38 @@
       "duration_ms": 500869,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
+      },
+      "artists": [
+        {
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
+        }
+      ],
+      "duration_ms": 271878,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 298448,
+      "name": "Limon Pelado",
+      "url": "https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -859,38 +891,6 @@
       "duration_ms": 238492,
       "name": "Platano Macho",
       "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 298448,
-      "name": "Limon Pelado",
-      "url": "https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271878,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
     },
     {
       "added_at": "2022-08-18 23:29:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,847 likes - 145 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,959 likes - 145 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

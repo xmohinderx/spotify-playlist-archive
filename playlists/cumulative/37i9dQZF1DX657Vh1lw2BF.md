@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف: ياسر عبدالوهاب و زيد الحبيب
 
-92 songs - 5 hr 44 min
+94 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Rayeh](https://open.spotify.com/track/06yutas17kLIMQHo3pD8Ry) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj), [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Rayeh](https://open.spotify.com/album/5Sa1IOEHtL5eVSmc0VERAD) | 5:38 | 2022-05-06 | 2022-06-17 |
 | [Rouh](https://open.spotify.com/track/3zkSuVZWajbNjFPYmHbTTI) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Rouh](https://open.spotify.com/album/2Z6b6tQoKNxhgWuCP97DIK) | 4:43 | 2022-05-25 |  |
 | [Sa7i Rwhak](https://open.spotify.com/track/36eDAXZ1bWK6sHQRiB5U4f) | [Nabel Al Adeeb](https://open.spotify.com/artist/6ZCY8bwcZU2v4Ti9pAgLOi) | [Sa7i Rwhak](https://open.spotify.com/album/0g6cpvNnBT5pqMRa0hw87B) | 5:38 | 2022-05-06 | 2022-12-03 |
+| [Screenshot](https://open.spotify.com/track/7p5KOUo1Z3p4523IXuC8od) | [Hussam Al Majed](https://open.spotify.com/artist/1vR9BAtUE91PkAXpO8UOi0), [Sajjad Al Kaabi](https://open.spotify.com/artist/0dCw2zbfudQRX8T1LhJDov) | [Screenshot](https://open.spotify.com/album/4kfU56vhxuRSVNvc9NiS7Q) | 2:49 | 2023-02-27 |  |
 | [Shaf Rohha](https://open.spotify.com/track/2OAqzCBCLO0o77MvN3rqV5) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [Shaf Rohha](https://open.spotify.com/album/1bR9CBVAdpcjYP1JsW2oLB) | 3:26 | 2022-05-06 | 2022-07-26 |
 | [Shftk](https://open.spotify.com/track/344n9BZhttkQXHYPQiqscc) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Shftk](https://open.spotify.com/album/2OKBBHxc16UgYpMp7dJniH) | 2:47 | 2022-05-06 | 2022-05-26 |
 | [Shkad Helw](https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Shkad Helw](https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB) | 3:28 | 2022-05-06 | 2022-10-26 |
@@ -89,6 +90,7 @@
 | [Waiak](https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT) | [Waiak](https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y) | 4:37 | 2022-05-25 |  |
 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 | 2022-05-06 | 2022-10-31 |
 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 | 2022-12-02 |  |
+| [Ya Ent](https://open.spotify.com/track/7KjwVP7HQbHCt42ml1NjWP) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ya Ent](https://open.spotify.com/album/6vZNmpt7CUyheZUN0UT8Jt) | 4:20 | 2023-02-27 |  |
 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 | 2022-05-06 |  |
 | [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 | 2022-07-19 |  |
 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 | 2022-08-26 | 2023-02-09 |

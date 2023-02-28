@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,816 likes - 182 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,076 likes - 182 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

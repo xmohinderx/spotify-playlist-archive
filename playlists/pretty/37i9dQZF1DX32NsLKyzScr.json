@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2322207,
+  "num_followers": 2323054,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDQ2NTQ0NGNiZGM4N2Q5MGFjMTBiNDg0NjFiYmRjMzhm",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGZjOWM0YmVhM2YyNDI0OTBkOGU3ZGViN2IzMGRjOGIx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 188709,
       "name": "Believe (feat. Goodboys)",
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "I Go Dancing (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 162545,
+      "name": "I Go Dancing (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "I Go Dancing (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 162545,
-      "name": "I Go Dancing (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
       },
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "My Feelings For You (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 224515,
-      "name": "My Feelings For You - Mark Knight Remix",
-      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "REACT (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 201145,
       "name": "REACT (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Anti-Hero (ILLENIUM Remix)",
-        "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Anti-Hero - ILLENIUM Remix",
-      "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
       },
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Anti-Hero (ILLENIUM Remix)",
+        "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Anti-Hero - ILLENIUM Remix",
+      "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -1635,6 +1635,26 @@
       "duration_ms": 242750,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Rise (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 162540,
+      "name": "Rise (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1659,26 +1679,6 @@
       "duration_ms": 204598,
       "name": "Ininna Tora",
       "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Rise (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 162540,
-      "name": "Rise (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1715,6 +1715,30 @@
       "duration_ms": 156328,
       "name": "No Time",
       "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "With My Friends",
+        "url": "https://open.spotify.com/album/1ogQ6f8hVuVHcNOYCX2zw4"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 146706,
+      "name": "With My Friends",
+      "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1763,30 +1787,6 @@
       "duration_ms": 170322,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "With My Friends",
-        "url": "https://open.spotify.com/album/1ogQ6f8hVuVHcNOYCX2zw4"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 146706,
-      "name": "With My Friends",
-      "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Deep Sea (with R3HAB)",
+        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Deep Sea (with R3HAB)",
+      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "My Feelings For You (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
       },
@@ -1875,26 +1895,6 @@
       "duration_ms": 205714,
       "name": "My Feelings For You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Deep Sea (with R3HAB)",
-        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Deep Sea (with R3HAB)",
-      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1963,6 +1963,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Turn On The Lights again.. (feat. Future) [Remixes]",
+        "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 253433,
+      "name": "Turn On The Lights again.. (feat. Future) - Anyma Remix",
+      "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -1983,6 +2011,42 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Journey (Take Me Where You Wanna)",
+        "url": "https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Journey (Take Me Where You Wanna)",
+      "url": "https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "I Knew It Was You",
+        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 175928,
+      "name": "I Knew It Was You",
+      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Won't Forget You (Remixes)",
         "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
       },
@@ -1999,50 +2063,6 @@
       "duration_ms": 184888,
       "name": "Won't Forget You (Felix Jaehn Remix Edit)",
       "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "When I Talk",
-        "url": "https://open.spotify.com/album/6bREBgVcyfqjAAXjB5qtET"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "When I Talk",
-      "url": "https://open.spotify.com/track/0u0oY2WuHC8B22p5nF8qsU"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Journey (Take Me Where You Wanna)",
-        "url": "https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Journey (Take Me Where You Wanna)",
-      "url": "https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2079,22 +2099,30 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I Knew It Was You",
-        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+        "name": "When I Talk",
+        "url": "https://open.spotify.com/album/6bREBgVcyfqjAAXjB5qtET"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
         }
       ],
-      "duration_ms": 175928,
-      "name": "I Knew It Was You",
-      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+      "duration_ms": 207957,
+      "name": "When I Talk",
+      "url": "https://open.spotify.com/track/0u0oY2WuHC8B22p5nF8qsU"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2115,26 +2143,6 @@
       "duration_ms": 187384,
       "name": "Forever (feat. Elley Duh\u00e9)",
       "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        }
-      ],
-      "duration_ms": 159406,
-      "name": "Killing Me Softly",
-      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
     }
   ],
   "unique_name": "Power Hour",

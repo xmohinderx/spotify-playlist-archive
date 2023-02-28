@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-149 songs - 13 hr 57 min
+150 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Resposta](https://open.spotify.com/track/5QiHzqXsMhaDNuBGgSjtSO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 6:38 | 2022-09-09 |  |
 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2022-09-09 |  |
 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 | 2022-09-09 |  |
-| [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 | 2022-12-09 |  |
+| [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 | 2022-12-09 | 2023-02-28 |
 | [Algo Novo \(feat\. Lukas Agustinho\) \- Ao Vivo](https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(feat\. Lukas Agustinho\) \[Ao Vivo\]](https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh) | 6:48 | 2022-09-09 |  |
 | [Anseio Ardente \- Ao Vivo](https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Anseio Ardente \(Ao Vivo\)](https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi) | 6:44 | 2023-02-11 | 2023-02-18 |
 | [Aquieta Minh'alma](https://open.spotify.com/track/2pfh4FmcvPTqBYApHaV6p3) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Eu Me Atrevi a Te Chamar de Abba](https://open.spotify.com/album/2QgaEgtRuW1EZ3zk7J4oNd) | 7:05 | 2022-09-09 |  |
@@ -157,5 +157,6 @@
 | [Yeshua](https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.1\)](https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY) | 8:42 | 2023-02-03 |  |
 | [Yeshua](https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [MOVER](https://open.spotify.com/artist/0wNTBKHmaWnXfxiPbdvi2m) | [Momentos](https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX) | 8:42 | 2022-09-09 | 2023-02-04 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2022-09-09 |  |
+| [Único \- Ao Vivo](https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Único \(Ao Vivo\)](https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT) | 7:36 | 2023-02-17 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

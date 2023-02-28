@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 181109,
+  "num_followers": 181156,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDg1ZTc1ZmFiMGFlZDY2MWQyOTRkNTE2ZjU3YjllYzE5",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDY5OWM5NjNkMDliOTFkODAyYjAwNjc2ZDY4NmUxNDNl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Transcendental Blues",
+        "url": "https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Transcendental Blues",
-        "url": "https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k"
+        "name": "Terms of My Surrender",
+        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
         }
       ],
-      "duration_ms": 185000,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN"
+      "duration_ms": 252093,
+      "name": "Long Time Comin'",
+      "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -447,38 +463,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "The Muse",
-      "url": "https://open.spotify.com/track/2eEj2cIxdU4wm47z7UBMIC"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Terms of My Surrender",
-        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Long Time Comin'",
-      "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Mercy Now",
         "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "The Muse",
+      "url": "https://open.spotify.com/track/2eEj2cIxdU4wm47z7UBMIC"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 240813,
       "name": "Those Memories of You - 2015 Remaster",
       "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Raising Sand",
+        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Killing the Blues",
+      "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 180760,
       "name": "Out Among the Stars",
       "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Raising Sand",
-        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Killing the Blues",
-      "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Raising Sand",
+        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Gone Gone Gone (Done Moved On)",
+      "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Raising Sand",
-        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Gone Gone Gone (Done Moved On)",
-      "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Crossroads - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "West",
         "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 318293,
       "name": "Are You Alright?",
       "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 329880,
-      "name": "California (Cast Iron Soul) - Cabin Mix",
-      "url": "https://open.spotify.com/track/2uzX5gPLKBe29EZQ8qZrfm"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The River & The Thread",
         "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 198200,
       "name": "A Feather's Not A Bird",
       "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 329880,
+      "name": "California (Cast Iron Soul) - Cabin Mix",
+      "url": "https://open.spotify.com/track/2uzX5gPLKBe29EZQ8qZrfm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 338126,
       "name": "Mother, Son and Holy Ghost",
       "url": "https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Triage",
-        "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241540,
-      "name": "Something Has To Change",
-      "url": "https://open.spotify.com/track/6Pfkj4mOwjQ1FwsCEzpvFh"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
         "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 347769,
       "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
       "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Triage",
+        "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241540,
+      "name": "Something Has To Change",
+      "url": "https://open.spotify.com/track/6Pfkj4mOwjQ1FwsCEzpvFh"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Hell Bent On A Heartache",
+      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 161013,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Hell Bent On A Heartache",
-      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Most Messed Up",
-        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 352546,
-      "name": "Longer Than You've Been Alive",
-      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 186152,
       "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Most Messed Up",
+        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 352546,
+      "name": "Longer Than You've Been Alive",
+      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Brushy Mountain Conjugal Trailer",
+      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 214949,
       "name": "The Midnight Special",
       "url": "https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Brushy Mountain Conjugal Trailer",
-      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1879,22 +1879,6 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "God's Problem Child",
-        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "A Woman's Love",
-      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1951,6 +1935,22 @@
       "duration_ms": 236186,
       "name": "Jerusalem",
       "url": "https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "God's Problem Child",
+        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "A Woman's Love",
+      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2023,6 +2023,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Django and Jimmie",
+        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Django and Jimmie",
+      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Love Calling",
         "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
       },
@@ -2051,26 +2071,6 @@
       "duration_ms": 216906,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Django and Jimmie",
-        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Django and Jimmie",
-      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -2159,6 +2143,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -2175,22 +2175,6 @@
       "duration_ms": 175783,
       "name": "Rock Island Line",
       "url": "https://open.spotify.com/track/4ngwge7Of6xRIdmqMHZoxb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2287,6 +2271,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -2371,6 +2371,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
+        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Stitch of the World",
         "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
       },
@@ -2399,26 +2419,6 @@
       "duration_ms": 262746,
       "name": "The Birds Of St. Marks",
       "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
-        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
     },
     {
       "added_at": "2023-02-24 05:00:00",

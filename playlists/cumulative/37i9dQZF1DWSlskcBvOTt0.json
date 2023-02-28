@@ -4961,6 +4961,24 @@
     },
     {
       "album": {
+        "name": "Talisman",
+        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
+      },
+      "artists": [
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225482,
+      "name": "Olele",
+      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
+    },
+    {
+      "album": {
         "name": "On Me (Mal\u00f3ne Remix)",
         "url": "https://open.spotify.com/album/6y6P7dKg5zEQgScPD1w4I9"
       },
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 224516,
       "name": "Trife",
       "url": "https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v"

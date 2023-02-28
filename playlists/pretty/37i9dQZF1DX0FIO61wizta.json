@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 64704,
+  "num_followers": 64743,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGNkYTY2NWM5ZDhmZjMzMTAxNWQ2ZGE5Yjc4NzNlNmE5",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDY2ZTQzMjc3ZTA2MzM0NWU3Yzc2ZjQxZDI4ODY3ZjBm",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -855,6 +855,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: A\u00efda, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Rigoletto",
         "url": "https://open.spotify.com/album/36GWY5pcnu2ubklWR8vlSV"
       },
@@ -883,8 +907,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+        "name": "Verdi: Otello",
+        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
       },
       "artists": [
         {
@@ -892,17 +916,21 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+          "name": "Raffaella Angeletti",
+          "url": "https://open.spotify.com/artist/0QuMmmMgv129CeGwF8RbtQ"
         },
         {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+          "name": "Oviedo Filarmon\u00eda",
+          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
+        },
+        {
+          "name": "Friedrich Haider",
+          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Verdi: A\u00efda, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
+      "duration_ms": 285773,
+      "name": "Otello, Act IV: Act IV: Ave Maria (Desdemona)",
+      "url": "https://open.spotify.com/track/50FdtcNVzEUz9Y6jdhwKGA"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -935,34 +963,6 @@
       "duration_ms": 822706,
       "name": "Hymn of the Nations (Inno delle nazione)",
       "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Otello",
-        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Raffaella Angeletti",
-          "url": "https://open.spotify.com/artist/0QuMmmMgv129CeGwF8RbtQ"
-        },
-        {
-          "name": "Oviedo Filarmon\u00eda",
-          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
-        },
-        {
-          "name": "Friedrich Haider",
-          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Otello, Act IV: Act IV: Ave Maria (Desdemona)",
-      "url": "https://open.spotify.com/track/50FdtcNVzEUz9Y6jdhwKGA"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1143,6 +1143,42 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "4 Sacred Pieces (Quattro pezzi sacri): Ave Maria",
+      "url": "https://open.spotify.com/track/1dctD6ZTdSnx2bWPYm3MgT"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Overtures, Vol. 1",
         "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
@@ -1191,42 +1227,6 @@
       "duration_ms": 241026,
       "name": "Falstaff / Act I: L'Onore! Ladri!",
       "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "4 Sacred Pieces (Quattro pezzi sacri): Ave Maria",
-      "url": "https://open.spotify.com/track/1dctD6ZTdSnx2bWPYm3MgT"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1571,6 +1571,42 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 801000,
+      "name": "4 Sacred Pieces (Quattro pezzi sacri): Stabat Mater",
+      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/4K5lWjsxpWXDc4hJxKq99W"
       },
@@ -1635,42 +1671,6 @@
       "duration_ms": 238360,
       "name": "Falstaff: Act III: Una, due, tre ....",
       "url": "https://open.spotify.com/track/1PhZ022GY8F9y8UaR5t9qK"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
-        }
-      ],
-      "duration_ms": 801000,
-      "name": "4 Sacred Pieces (Quattro pezzi sacri): Stabat Mater",
-      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1835,30 +1835,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi : Rigoletto",
-        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of Welsh National Opera",
-          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
-      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
       },
@@ -1883,6 +1859,30 @@
       "duration_ms": 282506,
       "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
       "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi : Rigoletto",
+        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of Welsh National Opera",
+          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
+      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
     },
     {
       "added_at": "2022-06-27 14:42:44",

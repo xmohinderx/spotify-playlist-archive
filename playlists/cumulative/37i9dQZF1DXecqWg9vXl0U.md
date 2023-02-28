@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Foudeqush.
 
-224 songs - 12 hr 18 min
+225 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 | 2022-07-19 |  |
 | [In the Abstract](https://open.spotify.com/track/5v2yWi4mmtY8GZn1M6hUke) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [In the Abstract](https://open.spotify.com/album/4YlLsK2iXvjuc8pNzGsDAw) | 3:28 | 2022-03-25 | 2022-07-23 |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
-| [Invierno](https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Invierno](https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK) | 2:43 | 2022-12-09 |  |
+| [Invierno](https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Invierno](https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK) | 2:43 | 2022-12-09 | 2023-02-28 |
 | [Invierno](https://open.spotify.com/track/7DhCa1BLOVHTYwfZfL1TnQ) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Invierno](https://open.spotify.com/album/4l0iug24BEXMXEy4xci7VR) | 4:16 | 2022-03-25 | 2022-04-23 |
 | [Invisible](https://open.spotify.com/track/66F9zo1pdOLL9gOqfIbHas) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Invisible](https://open.spotify.com/album/3dstM2Jz0agjIjoAnLERf8) | 2:24 | 2022-10-31 |  |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-03-25 | 2022-06-25 |
@@ -157,6 +157,7 @@
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-03-25 | 2022-06-25 |
 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 | 2022-03-25 |  |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2022-03-25 | 2022-04-19 |
+| [Oniros \(Bacalar\)](https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Oniros \(Bacalar\)](https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e) | 4:06 | 2023-02-24 |  |
 | [Origami](https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Origami](https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD) | 3:01 | 2023-02-24 |  |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-24 | 2022-08-20 |
 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-03-25 | 2022-07-05 |

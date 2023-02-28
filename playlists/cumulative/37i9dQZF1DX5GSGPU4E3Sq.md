@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-277 songs - 15 hr 43 min
+278 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-06-29 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-06-29 |  |
 | [Dusty Dreams](https://open.spotify.com/track/6b4RgLPHXlHhFmQPQAGvHR) | [Gloomscape](https://open.spotify.com/artist/1MjyCytp4mykFQFzY4Eaxr) | [Impulse](https://open.spotify.com/album/1Xw82vyc5q3JSm74fJGexh) | 3:06 | 2022-07-19 | 2022-07-29 |
-| [Earth Shapes: Nature](https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG) | [Sverre Knut Johansen](https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S) | [Earth Shapes](https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg) | 4:11 | 2022-06-29 | 2023-02-26 |
+| [Earth Shapes: Nature](https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG) | [Sverre Knut Johansen](https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S) | [Earth Shapes](https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg) | 4:11 | 2022-06-29 |  |
 | [Epilogue](https://open.spotify.com/track/3YEoriryySI6V3qvGaWMhi) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/35tY6f0RQolHGEoipgL7Sl) | 3:07 | 2022-06-29 | 2022-07-29 |
 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-01-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-06-29 |  |
@@ -104,7 +104,7 @@
 | [Flow](https://open.spotify.com/track/0w4EJf5MuynrRUMiMHzCIz) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/6TLIpKF6SGGG9mngKiNUAj) | 2:13 | 2022-06-29 | 2022-07-29 |
 | [Flow](https://open.spotify.com/track/3WbrNlrGx3Bs6HbsmVJ4MI) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q) | 2:13 | 2022-07-19 | 2022-07-30 |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
-| [For All Eternity](https://open.spotify.com/track/1WwnmxDezAigrQlteH8xDT) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [For All Eternity](https://open.spotify.com/album/4SpmkLsv6p8JG8Gwub4quJ) | 2:58 | 2022-06-29 |  |
+| [For All Eternity](https://open.spotify.com/track/1WwnmxDezAigrQlteH8xDT) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [For All Eternity](https://open.spotify.com/album/4SpmkLsv6p8JG8Gwub4quJ) | 2:58 | 2022-06-29 | 2023-02-28 |
 | [Forest Hymn](https://open.spotify.com/track/1mdSp7m71uz8wi3o4y9HIu) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Moments in Golden Light](https://open.spotify.com/album/3GRbvsjOmWtfdngQBTf4a1) | 6:18 | 2022-06-29 |  |
 | [Four](https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 7:00 | 2022-07-19 |  |
 | [Four](https://open.spotify.com/track/3zsGvF4l4A9myZSG4vw0km) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/0MHdsQOvdHqHyTQPNqnyoP) | 7:00 | 2022-07-19 | 2022-07-29 |
@@ -141,7 +141,7 @@
 | [Joy](https://open.spotify.com/track/4uZAkcN4TU1TYyNK1hCOHO) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/3pW85ZtP8lSFoo2Tmcgpb0) | 5:00 | 2022-07-19 | 2022-07-24 |
 | [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2022-07-19 | 2022-10-13 |
 | [Kaolin](https://open.spotify.com/track/2wlu4KMCvR202beZHns8Mb) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6CR7aqDABp8BtTiuMKvaJB) | 3:14 | 2022-07-19 | 2022-07-29 |
-| [Kaolin](https://open.spotify.com/track/7CPRnvO2o4BJmGDVxh46VN) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6fvXg0ETAANzFd06M5KnzI) | 3:14 | 2022-07-19 |  |
+| [Kaolin](https://open.spotify.com/track/7CPRnvO2o4BJmGDVxh46VN) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6fvXg0ETAANzFd06M5KnzI) | 3:14 | 2022-07-19 | 2023-02-28 |
 | [Kellisti](https://open.spotify.com/track/4BSvtsVtimM5upqvQ5MYR9) | [LO18](https://open.spotify.com/artist/701amBt5qJYnTqG611GkJQ) | [Maa](https://open.spotify.com/album/353xsSqmLzlb0C52VUOMzF) | 3:46 | 2022-06-29 | 2022-07-26 |
 | [Kiruna](https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA) | [Tomoko Kuzami](https://open.spotify.com/artist/2Z82q88sLUXeG0CoGxF9If) | [Kiruna](https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk) | 2:50 | 2022-06-29 |  |
 | [Lakeside View](https://open.spotify.com/track/4QBJvsefzOa8mZHUB1SDyo) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Lakeside View](https://open.spotify.com/album/61APp6PMdds2CbV7LpGKPK) | 2:50 | 2022-07-19 |  |
@@ -242,6 +242,7 @@
 | [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 | 2022-10-04 |
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
+| [Stillsamhet](https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:27 | 2023-02-25 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
 | [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2022-11-13 |
 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 | 2022-07-19 |  |

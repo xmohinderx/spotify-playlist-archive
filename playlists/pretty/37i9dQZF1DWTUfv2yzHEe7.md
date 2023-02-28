@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Filmy beats to keep you dancing all night\. Cover \- RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,053 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,146 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

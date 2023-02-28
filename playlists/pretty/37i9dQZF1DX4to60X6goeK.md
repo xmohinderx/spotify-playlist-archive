@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,037 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,047 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 36 | [Ultralight](https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc) | 3:43 |
 | 37 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 |
 | 38 | [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 |
-| 39 | [Do It Like Me](https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Do It Like Me](https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR) | 3:24 |
-| 40 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
+| 39 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
+| 40 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
 | 41 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
-| 42 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 |
-| 43 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
+| 42 | [Do It Like Me](https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Do It Like Me](https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR) | 3:24 |
+| 43 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 |
 | 44 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
 | 45 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 |
 | 46 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
 | 55 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 |
 
-Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGNjZjg0NzJmMDczNjFkNDFhYzY2MzgxYWE2MDQyMjY4`
+Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGM5ZDVlNWUxNzIwMjNmOGM2NmQ3NjNiM2JkYjZhYTc0`

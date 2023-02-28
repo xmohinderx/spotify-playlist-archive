@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 175254,
+  "num_followers": 175511,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMGFkYmE1YTE5NWNlZWU3MjliNTcwNGEzN2RhYjg4MDYz",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDRiNDU3YjFlYTM0NjRlYTlkNzQ2OThkMGQ0NTMyOTZk",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -83,18 +83,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+        "name": "Air I Breathe",
+        "url": "https://open.spotify.com/album/5ucDyNcrTA8NI7khHMnCx2"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "Isabelle Brown",
+          "url": "https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e"
         }
       ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+      "duration_ms": 161899,
+      "name": "Air I Breathe",
+      "url": "https://open.spotify.com/track/780mts4OTKBKYZwhF5eFL8"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -115,22 +119,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Air I Breathe",
-        "url": "https://open.spotify.com/album/5ucDyNcrTA8NI7khHMnCx2"
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "Isabelle Brown",
-          "url": "https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 161899,
-      "name": "Air I Breathe",
-      "url": "https://open.spotify.com/track/780mts4OTKBKYZwhF5eFL8"
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -191,26 +191,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Prodigal",
-        "url": "https://open.spotify.com/album/2kBPEOfYZcxBVl636hk9Lk"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        },
-        {
-          "name": "Benji",
-          "url": "https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Prodigal",
-      "url": "https://open.spotify.com/track/6LjwbDC3LHoYmxbOhGQHnh"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "This Is How I Thank The Lord",
         "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
       },
@@ -243,22 +223,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/5A77Lh2xcL71y5pLXeBZGC"
       },
@@ -275,18 +239,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC"
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -311,22 +275,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "I Rely",
-        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "I Rely",
-      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -343,6 +291,38 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "I Rely",
+        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "I Rely",
+      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -383,6 +363,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Prodigal",
+        "url": "https://open.spotify.com/album/2kBPEOfYZcxBVl636hk9Lk"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Prodigal",
+      "url": "https://open.spotify.com/track/6LjwbDC3LHoYmxbOhGQHnh"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Ultimate Self",
         "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
       },
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 223639,
+      "name": "Hands - Radio Version",
+      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
       },
@@ -411,6 +427,26 @@
       "duration_ms": 270750,
       "name": "Holy Essence",
       "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -447,42 +483,6 @@
       "duration_ms": 211203,
       "name": "Positive",
       "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "CALL",
-        "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        },
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CALL",
-      "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 223639,
-      "name": "Hands - Radio Version",
-      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Hard Times (feat. Mali Music)",
+        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Hard Times (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Vans X Adidas",
         "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
       },
@@ -631,42 +651,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Hard Times (feat. Mali Music)",
-        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Hard Times (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -691,6 +687,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 166000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -771,38 +787,6 @@
       "duration_ms": 207438,
       "name": "All My Praise",
       "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -851,18 +835,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
       "artists": [
         {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -879,6 +863,22 @@
       "duration_ms": 227719,
       "name": "Home Called Heaven",
       "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
       "artists": [
         {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 168236,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1015,6 +1011,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 168236,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Pull My Heart Away",
         "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 150638,
       "name": "Pull My Heart Away",
       "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Amidst",
-        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Erica Bostick",
-          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Amidst",
+        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Praise His Holy Name (Steppers Remix)",
-        "url": "https://open.spotify.com/album/7uZOD4qSnjVHDwv8Od0aZP"
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
       "artists": [
         {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+          "name": "Glochi",
+          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
         },
         {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Praise His Holy Name - Steppers Remix",
-      "url": "https://open.spotify.com/track/2COIYESSMOjSNbm0X0nQK6"
+      "duration_ms": 184000,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
+        "name": "Praise His Holy Name (Steppers Remix)",
+        "url": "https://open.spotify.com/album/7uZOD4qSnjVHDwv8Od0aZP"
       },
       "artists": [
         {
-          "name": "Glochi",
-          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
         },
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
+      "duration_ms": 225882,
+      "name": "Praise His Holy Name - Steppers Remix",
+      "url": "https://open.spotify.com/track/2COIYESSMOjSNbm0X0nQK6"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/1Xqk8mkHHeF6UPpqQpjA83"
-      },
-      "artists": [
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
-        }
-      ],
-      "duration_ms": 194139,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0BXUW4wib9sg9SH20Nwdam"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "pillow soft",
         "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 143439,
       "name": "pillow soft",
       "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/1Xqk8mkHHeF6UPpqQpjA83"
+      },
+      "artists": [
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        }
+      ],
+      "duration_ms": 194139,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0BXUW4wib9sg9SH20Nwdam"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 176062,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Go to Waste",
-        "url": "https://open.spotify.com/album/7fymgd0rZf4nZrZNPESyHW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Go to Waste",
-      "url": "https://open.spotify.com/track/61iVVjI1gLKNYVBOQpuA9L"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Divine Time",
         "url": "https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 152327,
       "name": "Divine Time",
       "url": "https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Go to Waste",
+        "url": "https://open.spotify.com/album/7fymgd0rZf4nZrZNPESyHW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Go to Waste",
+      "url": "https://open.spotify.com/track/61iVVjI1gLKNYVBOQpuA9L"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "What Would I Gain?",
-        "url": "https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD"
+        "name": "New Wine Flow",
+        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 234000,
-      "name": "What Would I Gain?",
-      "url": "https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p"
+      "duration_ms": 209164,
+      "name": "New Wine Flow",
+      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
     }
   ],
   "unique_name": "Rhythm & Praise",

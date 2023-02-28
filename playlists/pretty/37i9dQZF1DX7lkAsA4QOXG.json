@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 81374,
+  "num_followers": 81599,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDQ1YjUzOTRiZTdlZTg2M2I5MWZmZGNlNTk1MmI5N2Zh",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGVmYmNlMzgzODliYzc4ZDNmYzNiNTYzNzgxY2Q3ODhi",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 261506,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/0Z9yS8hMAZ3cNeavV0KKpv"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -407,18 +407,34 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 232866,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+      "duration_ms": 299040,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -443,38 +459,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 299040,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 250093,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -563,18 +579,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
         }
       ],
-      "duration_ms": 160280,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
+      "duration_ms": 262173,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -615,22 +631,6 @@
       "duration_ms": 267279,
       "name": "Blackbird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Exit Music",
+      "url": "https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
       },
@@ -763,38 +779,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Exit Music",
-      "url": "https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "The Sexy EP",
-        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "The Many Facets of George Shearing",
         "url": "https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 296000,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "The Sexy EP",
+        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -851,6 +851,38 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
+        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 266862,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Magnetism, Vol. 1",
         "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
       },
@@ -879,38 +911,6 @@
       "duration_ms": 189830,
       "name": "Just a Girl",
       "url": "https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 266862,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
-        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Your Mother Should Know",
-      "url": "https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -967,6 +967,38 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "duration_ms": 280535,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 243906,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -991,34 +1023,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
+        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
+        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
       "artists": [
         {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 243906,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 280535,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
+      "duration_ms": 254573,
+      "name": "I Am The Walrus",
+      "url": "https://open.spotify.com/track/7rs2rtBcpCH1PEUhapS3rE"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 303807,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "I Am The Walrus",
-        "url": "https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 254573,
-      "name": "I Am The Walrus",
-      "url": "https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1091,22 +1091,6 @@
       "duration_ms": 214080,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3pMwgThbs4lcXs9h4EAIJg"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "House of the Rising Sun",
-        "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        }
-      ],
-      "duration_ms": 225806,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 238186,
       "name": "Here, There And Everywhere",
       "url": "https://open.spotify.com/track/1NZx2bnfrpbL0EutycF8el"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        }
+      ],
+      "duration_ms": 225806,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1443,18 +1439,18 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
       },
       "artists": [
         {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
         }
       ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 356026,
       "name": "She's Leaving Home",
       "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Oliver Nelson Plays Michelle",
+        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
-      },
-      "artists": [
-        {
-          "name": "Shelly Berg Trio",
-          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "She's Always A Woman",
-      "url": "https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 432915,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "My Working Class Hero",
+        "url": "https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf"
+      },
+      "artists": [
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 282235,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf"
     }
   ],
   "unique_name": "Jazz Covers",

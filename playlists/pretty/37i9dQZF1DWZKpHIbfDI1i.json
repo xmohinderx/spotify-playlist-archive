@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Carlos Rivera en portada.",
-  "num_followers": 516527,
+  "num_followers": 517098,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMGM5NzFkMDJhNjFlNjJiMGZjZDIzYzM5ZmZiMzRmYjlk",
+  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMGY1MDQ0NDM1OWY3MGNiNDcwNWFlMjI3YTlkOTE5M2Vl",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
       "artists": [
         {
@@ -440,13 +440,13 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -523,6 +543,26 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
@@ -539,46 +579,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "La Bolsa Gucci",
         "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1011,6 +1011,22 @@
       "duration_ms": 231053,
       "name": "El lugar correcto",
       "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
-      },
-      "artists": [
-        {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Cambiaste",
         "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 192053,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -1303,18 +1319,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Amantes - Su Majestad La Eternidad",
-        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+        "name": "Pedazo De Tonto",
+        "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 232066,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
+      "duration_ms": 160153,
+      "name": "Pedazo De Tonto",
+      "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1379,26 +1399,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Pedazo De Tonto",
-        "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "Pedazo De Tonto",
-      "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
     }
   ],
   "unique_name": "Top M\u00e9xico",

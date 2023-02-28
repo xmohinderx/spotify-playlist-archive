@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 32126,
+  "num_followers": 32211,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNTg2MiwwMDAwMDAwMDg0MGNkNDY5NjFlMGEyNGEyMGJmNmQyODkyYTE4ZThl",
+  "snapshot_id": "MTY3NjYzNTg2MiwwMDAwMDAwMDkwMWJkODU2YWU2NmU5OTIzMDdhOWFiYWM1NDFkNDIw",
   "tracks": [
     {
       "added_at": "2023-02-17 12:11:02",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 252735,
-      "name": "Inspirit",
-      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "ahead",
         "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 124500,
       "name": "ahead",
       "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 252735,
+      "name": "Inspirit",
+      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 272960,
-      "name": "Labyrinthine",
-      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "My People Have Deep Roots",
         "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "Labyrinthine",
+      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 276305,
-      "name": "Tendril",
-      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "Untethering",
         "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 418349,
       "name": "Untethering",
       "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "duration_ms": 276305,
+      "name": "Tendril",
+      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Leave No Path Untaken",
-        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
-      },
-      "artists": [
-        {
-          "name": "Seven24",
-          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
-        },
-        {
-          "name": "Soty",
-          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "I Lost You When the Rain Sang a Song - Original Mix",
-      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Leave No Path Untaken",
+        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+      },
+      "artists": [
+        {
+          "name": "Seven24",
+          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+        },
+        {
+          "name": "Soty",
+          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "I Lost You When the Rain Sang a Song - Original Mix",
+      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Solari",
-        "url": "https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu"
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
       },
       "artists": [
         {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
         }
       ],
-      "duration_ms": 165050,
-      "name": "Solari",
-      "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+        "name": "Solari",
+        "url": "https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu"
       },
       "artists": [
         {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
         }
       ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
+      "duration_ms": 165050,
+      "name": "Solari",
+      "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -703,6 +703,22 @@
       "duration_ms": 183871,
       "name": "Dr\u00f8mmefanger (Extended)",
       "url": "https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "A Conversation With My Innocence",
+      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -739,42 +755,6 @@
       "duration_ms": 255656,
       "name": "600 Years of Rest",
       "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "A Conversation With My Innocence",
-      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "Spirit of the Forest",
-        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "Spirit of the Forest",
-      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -867,6 +847,26 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Spirit of the Forest",
+        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "Spirit of the Forest",
+      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        },
-        {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Aonian",
-          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "A Model Of Reality - Aonian Remix",
-      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
         "name": "Spring Snow",
         "url": "https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 284988,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1d3wIYlKXUUylvCkIkbzXW"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Aonian",
+          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "A Model Of Reality - Aonian Remix",
+      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
+      },
+      "artists": [
+        {
+          "name": "Halgrath",
+          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
+        }
+      ],
+      "duration_ms": 338834,
+      "name": "Horoathea Mass of Aegorath",
+      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
         "name": "Sudany",
         "url": "https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 260199,
       "name": "Sudany",
       "url": "https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
-      },
-      "artists": [
-        {
-          "name": "Halgrath",
-          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
-        }
-      ],
-      "duration_ms": 338834,
-      "name": "Horoathea Mass of Aegorath",
-      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
+        "name": "Aquarius/Pisces",
+        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
         "name": "Hush Now Baby",
         "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
-        "name": "Aquarius/Pisces",
-        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+      "duration_ms": 1001299,
+      "name": "After its own death: Side A",
+      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1511,22 +1527,6 @@
       "duration_ms": 341000,
       "name": "Across The Ocean, But Not Yet",
       "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 1001299,
-      "name": "After its own death: Side A",
-      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
         "name": "All Things Devour (Botany Remix)",
         "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 326426,
       "name": "All Things Devour - Botany Remix",
       "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2023-02-17 12:11:02",
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/17VZ1IVAxBYtoWCvQSKrch"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        },
+        {
+          "name": "Paraorchestra",
+          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
+        }
+      ],
+      "duration_ms": 347796,
+      "name": "The Unfolding",
+      "url": "https://open.spotify.com/track/7BKOFg8gQm0pMMPrKyrvd2"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
         "name": "chamomile",
         "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
@@ -1727,22 +1747,6 @@
       "duration_ms": 242000,
       "name": "chamomile",
       "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
-      },
-      "artists": [
-        {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1763,6 +1767,22 @@
       "duration_ms": 161029,
       "name": "Yodeling Slits",
       "url": "https://open.spotify.com/track/6wvDPoypPjxxEgvgUUNxWc"
+    },
+    {
+      "added_at": "2023-02-17 12:11:02",
+      "album": {
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
+      },
+      "artists": [
+        {
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
     },
     {
       "added_at": "2023-02-17 12:11:02",
@@ -1815,22 +1835,6 @@
       "duration_ms": 114000,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30"
-    },
-    {
-      "added_at": "2023-02-17 12:11:02",
-      "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 119556,
-      "name": "does it have to be beautiful",
-      "url": "https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U"
     },
     {
       "added_at": "2023-02-17 12:11:02",

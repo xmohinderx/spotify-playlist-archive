@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,098,293 likes - 198 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,098,269 likes - 198 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 14 | [Rock Me Amadeus \- The Gold Mix](https://open.spotify.com/track/1oCjUrtxUKNITywo5iztdt) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus EP](https://open.spotify.com/album/6XpXzJTOP95a7GGgeOxY5m) | 3:47 |
 | 15 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 |
 | 16 | [Tarzan Boy](https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Tarzan Boy: The World Of Baltimora](https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj) | 3:50 |
-| 17 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
+| 17 | [Dream a Little Dream of Me](https://open.spotify.com/track/6eGK8HAVyKYUaTZgGnuku1) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:05 |
 | 18 | [Rock and Roll, Hoochie Koo \- Single Version](https://open.spotify.com/track/4s063dTrg9T3nSvgddqBHX) | [Rick Derringer](https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 2:53 |
 | 19 | [Fire and Rain](https://open.spotify.com/track/4a08JFMdOAeLMFz9ov82E4) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:22 |
 | 20 | [Spellbound](https://open.spotify.com/track/193bm1RUDDOF0cnLJHJ93V) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:15 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 197 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 198 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MTY1NjkzOTYwMCwwMDAwMDAwMDZkMDE4YzA5ZTMwNDYwMGNhNTk0NmUyNWVjZWM1YTVm`
+Snapshot ID: `MTY3NzUzNzkxOSwwMDAwMDAwMGEwNzMzMTQ2MWZkOGZiNDRiNjQ2Mjk5YTEzMmY5NGFh`

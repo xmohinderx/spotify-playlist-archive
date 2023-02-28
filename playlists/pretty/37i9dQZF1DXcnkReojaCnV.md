@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > Joanne Shaw Taylor is taking over to share tracks of her new album, alongside current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,059 likes - 44 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,065 likes - 44 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: WLSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,232 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,283 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 50 | [When You Lose Someone \(Acoustic\)](https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone \(Acoustic\)](https://open.spotify.com/album/3eNCYLraD0G0mIHSeD5f6I) | 3:11 |
 | 51 | [All That I Need](https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [All That I Need](https://open.spotify.com/album/6Bi5mLTgH9zeVRmYb4AmCo) | 3:42 |
 | 52 | [omw](https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0) | 2:51 |
-| 53 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 |
+| 53 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 |
 | 54 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 |
 | 55 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 |
 | 56 | [Better Than Any Drug](https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Better Than Any Drug](https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 |
 | 100 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDk3ZGMyMmVmY2U2ZWE3YmM2NzFmNzkxMDVkOGY3ZmQ5`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGJjODExMzcyNTFjYWZlZjI4NThmZTBhOTAwZjk4MTQ0`

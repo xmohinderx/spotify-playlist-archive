@@ -1,12 +1,12 @@
 {
   "description": "yeah it was love then it was just married",
-  "num_followers": 64119,
+  "num_followers": 64337,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3NDUwMCwwMDAwMDAwMGQxMDEyMjg2NzZmMDFhMjVjNTk4NDI3ZTVmMGEwYmUy",
+  "snapshot_id": "MTY3NjQ3NDUwMCwwMDAwMDAwMDRkMjdhZWM0MWQ5MjQ5ZTk1YTVhMjRmYWM0MWVkYTQ1",
   "tracks": [
     {
       "added_at": "2023-02-15 00:01:57",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-02-15 00:01:57",
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
-    },
-    {
-      "added_at": "2023-02-15 00:01:57",
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 234515,
       "name": "White Horse (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
+    },
+    {
+      "added_at": "2023-02-15 00:01:57",
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
     },
     {
       "added_at": "2023-02-15 00:01:57",

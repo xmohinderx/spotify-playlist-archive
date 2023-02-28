@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 121 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 121 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,12 +122,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 112 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
 | 113 | [Natural Disaster](https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt) | [newfamiliar](https://open.spotify.com/artist/4Atzuue891wvRGEPkBcVt9) | [Textures](https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I) | 3:14 |
 | 114 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 |
-| 115 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
-| 116 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
+| 115 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
+| 116 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
 | 117 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 |
 | 118 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 |
 | 119 | [I'm Coming Around](https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [52 \| ATL x BNA](https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH) | 3:39 |
 | 120 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 121 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjc5NTc2MTUsMDAwMDAwMDA4MDA1MTViNWFlZGE2YTI5NzJmMGVlNTVmOWFiOThiNg==`
+Snapshot ID: `Mjc5NTkwNTUsMDAwMDAwMDBmMzRkMDhjOGZhMjBkNTFmZGUzZjU2ZmE1MTc2ZDU5Nw==`

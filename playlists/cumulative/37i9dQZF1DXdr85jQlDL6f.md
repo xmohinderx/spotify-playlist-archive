@@ -4,12 +4,12 @@
 
 > just turn on some rainy weather at will, with this backdrop of dripping drizzle.
 
-88 songs - 4 hr 8 min
+90 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always Raining](https://open.spotify.com/track/1q2KP0U1lQ7MzCTNwC1zpb) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 |  |
-| [Amber Leaves \(Rain\)](https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 2:59 | 2022-12-16 |  |
+| [Amber Leaves \(Rain\)](https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 2:59 | 2022-12-16 | 2023-02-28 |
 | [Bajo el paraguas](https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE) | [Weather Modifier](https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN) | [Bajo el paraguas](https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ) | 2:03 | 2022-11-21 |  |
 | [Beautiful Rain \- 3.15 kHz](https://open.spotify.com/track/780Nf8Vlcagyf1SAzMrJE5) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:21 | 2022-11-21 |  |
 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 | 2022-11-21 |  |
@@ -76,11 +76,13 @@
 | [School Rain](https://open.spotify.com/track/6yAYt0yK49AJl9Q5k39Bqq) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:25 | 2022-11-21 | 2023-02-14 |
 | [Sereno](https://open.spotify.com/track/53aCvoBjK4vZDakZ5JyB6e) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Sereno](https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM) | 2:46 | 2022-11-21 |  |
 | [Sitting on the Porch During a Thunderstorm](https://open.spotify.com/track/3eauTrySTM6lllpECM7akg) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:48 | 2022-11-21 |  |
+| [Soaked \- Seamless](https://open.spotify.com/track/3fEaiB5iqb7gGndpBYQVHR) | [Rain Cloudz](https://open.spotify.com/artist/1cHrN4K4eGFc5weOXZ3rm9) | [Take Cover](https://open.spotify.com/album/6C3pFXdL20J4F0CVtcLlNz) | 2:44 | 2023-02-28 |  |
 | [Soft Rain](https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:50 | 2022-11-21 |  |
 | [Sonidos suaves de lluvia](https://open.spotify.com/track/2oBH4QpyBSf8ZGBqNRB9rr) | [Mighty Nature X](https://open.spotify.com/artist/2WjBhauzTBxo4K0DzDfWUL) | [Sonidos suaves de lluvia](https://open.spotify.com/album/0fwnwGqpazvV5yC6fwlavG) | 2:10 | 2022-11-21 |  |
 | [Soothing Rainstorm](https://open.spotify.com/track/4yGdvX8sK6y8OMEQZZi9c7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-11-21 |  |
 | [Soul Rain](https://open.spotify.com/track/2I8ER4xVjBXn7FKQangYGJ) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:23 | 2022-11-21 | 2023-02-17 |
-| [Spirit Of The Rainforest](https://open.spotify.com/track/5q5VEwBjy5gIeUO5fHhlMC) | [Hinterländer](https://open.spotify.com/artist/1kiNWn13ukEYMfUAdmYL8z) | [Spirit Of Rain](https://open.spotify.com/album/54RLZfNtc05c5eWVsKocfL) | 3:54 | 2022-11-21 |  |
+| [Spirit Of The Rainforest](https://open.spotify.com/track/5q5VEwBjy5gIeUO5fHhlMC) | [Hinterländer](https://open.spotify.com/artist/1kiNWn13ukEYMfUAdmYL8z) | [Spirit Of Rain](https://open.spotify.com/album/54RLZfNtc05c5eWVsKocfL) | 3:54 | 2022-11-21 | 2023-02-28 |
+| [Steady Patio Rain](https://open.spotify.com/track/6hr8pt7UtXklaydth3rDYV) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Steady Patio Rain](https://open.spotify.com/album/3abPz7so536Rf43C8cYajB) | 2:46 | 2023-02-28 |  |
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2022-11-21 |  |
 | [Storm Coming In](https://open.spotify.com/track/27RkRIouugY1RDkriUIhgq) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |

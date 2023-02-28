@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? Cover: SF9 \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-415 songs - 23 hr 32 min
+416 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-01-13 |  |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2022-04-12 | 2022-04-18 |
 | [hey](https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [off the wall](https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d) | 2:54 | 2022-12-15 | 2023-01-06 |
+| [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-02-27 |  |
 | [Highway to Heaven](https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:20 | 2022-01-14 | 2022-04-15 |
 | [HIT](https://open.spotify.com/track/0xHgclG2TeqIzB8N3Wb5rP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HIT](https://open.spotify.com/album/36HsGgJsOHL4cHqR4J2GEU) | 3:23 | 2022-01-27 | 2022-06-24 |
 | [Hold](https://open.spotify.com/track/2XD5I0ZeUVwM4LFSEKmKst) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Hold](https://open.spotify.com/album/6rh15TQEKLTUVGzjeSHWbB) | 2:56 | 2022-01-03 | 2022-07-03 |
@@ -192,7 +193,7 @@
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
-| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 |  |
+| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2023-02-28 |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2022-01-17 | 2022-06-15 |

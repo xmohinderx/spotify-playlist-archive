@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Huh!\(허성현\)
 
-220 songs - 11 hr 58 min
+222 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Can I sleep next to you](https://open.spotify.com/track/36V5tCKEHlJHOATtUal5Xa) | [Faver](https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag) | [Can I sleep next to you](https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z) | 3:36 | 2022-03-18 | 2022-05-27 |
 | [Can’t Be Happy](https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN) | [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [Reality Check](https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA) | 2:46 | 2022-04-20 | 2022-07-05 |
 | [Check List](https://open.spotify.com/track/3x3Kfb27IPepdonwh3ujkj) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Check List](https://open.spotify.com/album/0HbmFQrwbPkRUGPseq9Qtb) | 3:21 | 2022-07-04 | 2023-02-01 |
+| [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 | 2023-02-27 |  |
 | [CLASSY](https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LIVES ACROSS](https://open.spotify.com/album/13wsV6lqeOiPzIRwCv7Ugw) | 2:48 | 2022-05-26 | 2023-02-01 |
 | [Close to Me](https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Close to Me](https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt) | 3:17 | 2021-12-30 | 2023-01-12 |
 | [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 | 2023-02-15 |  |
@@ -172,6 +173,7 @@
 | [Scared](https://open.spotify.com/track/4qQ3e0YD83kblcnb8R0sIw) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : BREAK OUT](https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey) | 3:08 | 2021-12-30 | 2022-01-07 |
 | [SCOPE](https://open.spotify.com/track/0rW7TtrTAgdtfaM7sczx9v) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [BLUE FOREST](https://open.spotify.com/album/5MPE753IOEibAK2IXQXQ8B) | 2:53 | 2022-11-30 | 2023-01-12 |
 | [SCOPE](https://open.spotify.com/track/3KzRYnZIg7rNeEhLUL6lge) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [BLUE FOREST](https://open.spotify.com/album/1FgL8YCVD9CMJMcLL5R4Cs) | 2:53 | 2022-02-10 | 2022-05-06 |
+| [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-02-27 |  |
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-05 | 2023-02-16 |
 | [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 | 2023-02-15 |  |
 | [She is](https://open.spotify.com/track/27fzxgx6nK8NI4CylNEBBw) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l) | [She is](https://open.spotify.com/album/1o06vrnnHvOREmYI49q8MY) | 2:48 | 2022-05-11 | 2022-09-06 |

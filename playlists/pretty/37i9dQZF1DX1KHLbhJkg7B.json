@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 84196,
+  "num_followers": 84238,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDNjNzUzMGJkNjM3MTQwZjk3N2JjODA3NWMwOTA3NzY5",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDhiM2UyOWJkZjYxYjJlZDZmOGJlZDE2MzgxNTNlMjM1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
-      },
-      "artists": [
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
         }
       ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -783,22 +783,6 @@
       "duration_ms": 225000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 192236,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Little More Tequila",
+        "url": "https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Loud and Heavy",
         "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 201076,
       "name": "Loud and Heavy",
       "url": "https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Little More Tequila",
-        "url": "https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Into the Mystic",
-      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Into the Mystic",
+      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
     },
     {
       "added_at": "2023-02-24 05:00:00",

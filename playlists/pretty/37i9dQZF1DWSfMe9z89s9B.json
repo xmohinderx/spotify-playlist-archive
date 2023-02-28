@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Kali Uchis",
-  "num_followers": 1339480,
+  "num_followers": 1339910,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNzc0OSwwMDAwMDAwMDcwMTA1ODliY2U5NmM2OTk1NTJmZDUzMzE2Y2IyNzFl",
+  "snapshot_id": "MTY3NzIxNzc0OSwwMDAwMDAwMGZjZGY0OWUxZDE3NTA4Y2I2Yzc5OTA4MTI5NDg5OTUw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:23:50",
@@ -141,20 +141,20 @@
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
-      "added_at": "2023-02-17 19:52:38",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -293,20 +293,20 @@
       "url": "https://open.spotify.com/track/37xUx7Bb8geiSpFwUK1x1Y"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-17 19:52:38",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -341,6 +341,26 @@
       "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Gemini Rights",
@@ -371,26 +391,6 @@
       "duration_ms": 116129,
       "name": "Mad Riches",
       "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
       "added_at": "2022-12-10 19:36:26",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "honda civic '98",
-      "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "AZEB - EP",
@@ -659,6 +643,22 @@
       "duration_ms": 165186,
       "name": "Rider",
       "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/7vgBcj3mlMEm7mmockI4IA"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 128444,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2yY8uvStXUNPxmwlI2KWdQ"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -681,20 +681,20 @@
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         }
       ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
+      "duration_ms": 187723,
+      "name": "honda civic '98",
+      "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/7vgBcj3mlMEm7mmockI4IA"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 128444,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2yY8uvStXUNPxmwlI2KWdQ"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Luv 4 Rent",
@@ -751,6 +735,22 @@
       "duration_ms": 171676,
       "name": "Lee & Lovie (with reggie)",
       "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Raven",
@@ -895,6 +879,22 @@
       "duration_ms": 216178,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ"
     },
     {
-      "added_at": "2022-07-24 02:54:27",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
-      },
-      "artists": [
-        {
-          "name": "Kelz",
-          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
-        }
-      ],
-      "duration_ms": 99454,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
-    },
-    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Figures",
@@ -965,20 +949,20 @@
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2022-07-24 02:54:27",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
         }
       ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+      "duration_ms": 99454,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Hate",
@@ -1235,6 +1219,22 @@
       "duration_ms": 243071,
       "name": "Hate",
       "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1273,30 +1273,6 @@
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "transit",
-        "url": "https://open.spotify.com/album/6wxaaIR88j1XA4tFcTPTDt"
-      },
-      "artists": [
-        {
-          "name": "always centered at night",
-          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 310455,
-      "name": "transit",
-      "url": "https://open.spotify.com/track/4jooqGSJoluFI6TttmEhLq"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "exodus the north star",
@@ -1327,6 +1303,30 @@
       "duration_ms": 184615,
       "name": "Seltzer",
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "transit",
+        "url": "https://open.spotify.com/album/6wxaaIR88j1XA4tFcTPTDt"
+      },
+      "artists": [
+        {
+          "name": "always centered at night",
+          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 310455,
+      "name": "transit",
+      "url": "https://open.spotify.com/track/4jooqGSJoluFI6TttmEhLq"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Good 2 Me",
-        "url": "https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb"
-      },
-      "artists": [
-        {
-          "name": "Kelz",
-          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
-        }
-      ],
-      "duration_ms": 156595,
-      "name": "Good 2 Me",
-      "url": "https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "gold fronts (feat. Lil Wayne)",
@@ -1535,6 +1519,22 @@
       "duration_ms": 235978,
       "name": "gold fronts (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Good 2 Me",
+        "url": "https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb"
+      },
+      "artists": [
+        {
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 156595,
+      "name": "Good 2 Me",
+      "url": "https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv"
     },
     {
       "added_at": "2022-12-16 05:17:19",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-07-15 04:02:46",
       "album": {
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 144584,
+      "name": "Brewster",
+      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
+    },
+    {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 222857,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Dog Daze",
-        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 144584,
-      "name": "Brewster",
-      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
     },
     {
       "added_at": "2022-10-14 04:01:00",

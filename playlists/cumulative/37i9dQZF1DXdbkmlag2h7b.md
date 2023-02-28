@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-151 songs - 8 hr 2 min
+152 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Closer](https://open.spotify.com/track/3A2qFGe7UPTd7G6KbNZjCw) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:11 | 2021-12-09 | 2022-07-29 |
 | [Closer \- Stripped](https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:03 | 2021-12-09 | 2022-05-20 |
 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 | 2021-12-09 | 2022-11-14 |
-| [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2021-12-09 |  |
+| [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2021-12-09 | 2023-02-28 |
 | [Dedication](https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Dedication](https://open.spotify.com/album/67JarFlTD4R1wIvwAV9ZUD) | 3:24 | 2021-12-09 | 2022-09-17 |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2021-12-09 |  |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2021-12-09 |  |
@@ -90,6 +90,7 @@
 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 | 2021-12-09 |  |
 | [Mindcrafters](https://open.spotify.com/track/2Z52IJPhFot0N5l61lfSXt) | [Blu Tortle](https://open.spotify.com/artist/031BRepXAp6dkFtycUUs5X) | [Mindcrafters](https://open.spotify.com/album/4FvdLZNZlMMECgYv5f7pWb) | 4:08 | 2021-12-09 | 2022-09-11 |
 | [Minism](https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/5lZVMWi7YF0XBeRqDlRojo) | 3:47 | 2021-12-09 |  |
+| [Morgongåva](https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:46 | 2023-02-25 |  |
 | [my child is getting closer to the moonlight](https://open.spotify.com/track/19GWhHevcqTXC9O5cYLWO3) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [my child is getting closer to the moonlight](https://open.spotify.com/album/2k5oK66ZqBRenPbuIwTydd) | 3:33 | 2022-03-25 | 2022-04-26 |
 | [My Halo Orbit](https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [My Halo Orbit](https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA) | 3:19 | 2022-05-26 |  |
 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 | 2021-12-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 42597,
+  "num_followers": 42715,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3Nzk2OSwwMDAwMDAwMDkzYjNmNzdlZTY0OGZiNjM1M2YyOGEyNDViZjBjNDQy",
+  "snapshot_id": "MTY3NjQ3Nzk2OSwwMDAwMDAwMDg5OTZmNjMwZWY5ZWRmOWQwNjg2ZTgxZjg5Mjk4MGQ4",
   "tracks": [
     {
       "added_at": "2022-11-21 17:15:29",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-21 17:15:29",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
-    },
-    {
-      "added_at": "2022-11-21 17:15:29",
-      "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
@@ -183,22 +167,6 @@
       "duration_ms": 204600,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2022-11-21 17:15:29",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-01-08 11:27:00",
@@ -235,6 +203,22 @@
     {
       "added_at": "2022-11-21 17:15:29",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2022-11-21 17:15:29",
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+    },
+    {
+      "added_at": "2022-11-21 17:15:29",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-01-08 11:27:00",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
-      "added_at": "2022-11-21 17:21:20",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
-    },
-    {
       "added_at": "2023-01-08 11:27:00",
       "album": {
         "name": "MUDBOY",
@@ -359,6 +343,38 @@
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
+    },
+    {
+      "added_at": "2022-11-21 17:15:29",
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 127546,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
+    },
+    {
+      "added_at": "2022-11-21 17:21:20",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2022-11-21 17:15:29",
@@ -379,22 +395,6 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2022-11-21 17:15:29",
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 127546,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
     },
     {
       "added_at": "2023-01-08 11:27:00",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
-      "added_at": "2023-01-08 11:27:00",
-      "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "King Kunta",
-      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
-    },
-    {
       "added_at": "2022-11-21 17:15:29",
       "album": {
         "name": "Dreams and Nightmares (Deluxe Edition)",
@@ -519,6 +503,22 @@
       "duration_ms": 284386,
       "name": "I Don't Fuck With You",
       "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
+    },
+    {
+      "added_at": "2023-01-08 11:27:00",
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "King Kunta",
+      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
     },
     {
       "added_at": "2023-01-08 11:27:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-01-08 11:27:00",
       "album": {
+        "name": "DIVE IN! (SPED UP! / SLOWED REVERB!)",
+        "url": "https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "DIVE IN!",
+      "url": "https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq"
+    },
+    {
+      "added_at": "2023-01-08 11:27:00",
+      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -623,42 +639,6 @@
       "duration_ms": 197133,
       "name": "R.I.C.O. (feat. Drake)",
       "url": "https://open.spotify.com/track/0Y0TOsE1q11qgbi7c5WZsG"
-    },
-    {
-      "added_at": "2023-01-08 11:27:00",
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
-      "added_at": "2023-01-08 11:27:00",
-      "album": {
-        "name": "DIVE IN! (SPED UP! / SLOWED REVERB!)",
-        "url": "https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "DIVE IN!",
-      "url": "https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq"
     },
     {
       "added_at": "2022-11-21 17:15:29",
@@ -743,6 +723,26 @@
       "duration_ms": 170637,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+    },
+    {
+      "added_at": "2023-01-08 11:27:00",
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 213132,
+      "name": "Roll in Peace (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
     },
     {
       "added_at": "2023-01-08 11:27:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h"
     },
     {
-      "added_at": "2023-01-08 11:27:00",
-      "album": {
-        "name": "CoCo",
-        "url": "https://open.spotify.com/album/0sFq10gbnEw519SPeozbaY"
-      },
-      "artists": [
-        {
-          "name": "O.T. Genasis",
-          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "CoCo",
-      "url": "https://open.spotify.com/track/2JI71GHwq2LN8mtq3iCLYo"
-    },
-    {
       "added_at": "2022-11-21 17:15:29",
       "album": {
         "name": "Pump It Up",
@@ -879,6 +863,22 @@
       "duration_ms": 150635,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
+    },
+    {
+      "added_at": "2023-01-08 11:27:00",
+      "album": {
+        "name": "CoCo",
+        "url": "https://open.spotify.com/album/0sFq10gbnEw519SPeozbaY"
+      },
+      "artists": [
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "CoCo",
+      "url": "https://open.spotify.com/track/2JI71GHwq2LN8mtq3iCLYo"
     },
     {
       "added_at": "2022-11-21 17:15:29",

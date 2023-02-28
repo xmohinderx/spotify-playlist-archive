@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: KAROL G, Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,134 likes - 110 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,146 likes - 110 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

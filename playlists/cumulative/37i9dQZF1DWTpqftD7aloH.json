@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 364878,
       "name": "Alfa e \u00d4mega",
       "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
@@ -2956,6 +2956,28 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "album": {
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTpqftD7aloH"

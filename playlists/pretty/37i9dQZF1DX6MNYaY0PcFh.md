@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,305 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,358 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 23 | [This Time of Morning \- Mikey B Remix](https://open.spotify.com/track/2ZHeK3mdGj6IirKolEQ50z) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [This Time of Morning \(Mikey B Remix\) \(feat\. Local\)](https://open.spotify.com/album/4XYjOIWcFXIPmvCBpNASXD) | 3:40 |
 | 24 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 25 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
-| 26 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 |
-| 27 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 |
+| 26 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 |
+| 27 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 |
 | 28 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
 | 29 | [More To Give](https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [More To Give](https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5) | 2:32 |
 | 30 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 52 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
 | 53 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 54 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 |
-| 55 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
-| 56 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
+| 55 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
+| 56 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
 | 57 | [As If We Never](https://open.spotify.com/track/5XzvN8QNtHijSPUbQTvras) | [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z) | [Told You So](https://open.spotify.com/album/5NTJwopfpmr7KguSWBIscX) | 3:56 |
 | 58 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
 | 59 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
 | 60 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 
-Snapshot ID: `MTY3NDU2OTg5MCwwMDAwMDAwMGZiOWQzNjUwMmI3ZGNmOGRmMzA5MmE3ZjkxZjQ4N2Nh`
+Snapshot ID: `MTY3NDU2OTg5MCwwMDAwMDAwMGMyMTk4ZjdhOGQ4NjY3ZWRlYzk1OWU5ZDMxNjg0YWUw`

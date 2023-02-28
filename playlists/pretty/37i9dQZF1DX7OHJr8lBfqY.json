@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 271,
+  "num_followers": 124,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3MzQ3MCwwMDAwMDAwMDM1MTBmOTUzOTYyOGQzN2U5Yjc0OTA4NTAzNDhiOGRl",
+  "snapshot_id": "MTY3NzI3MzQ3MCwwMDAwMDAwMDZiZjk1MDc4MDkwMzE0OTBiYzM3YjU3MGU4ZWU5NzM2",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -127,6 +127,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
       },
@@ -179,6 +199,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -219,42 +255,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -655,22 +671,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -707,6 +707,26 @@
       "duration_ms": 242373,
       "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -779,6 +799,42 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6lPRVKGP5WnFGI46c4LVik"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0gcOnIUKIG6JF56iFUfE0p"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Loco (Remix)",
         "url": "https://open.spotify.com/album/17UNdqbdbTyTz6JdO0T0Gb"
       },
@@ -803,62 +859,6 @@
       "duration_ms": 248499,
       "name": "Loco - Remix",
       "url": "https://open.spotify.com/track/6nGM44ZP7vSo0istUW2MOq"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6lPRVKGP5WnFGI46c4LVik"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147493,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0gcOnIUKIG6JF56iFUfE0p"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Libertad 548",
-        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Cantare",
-      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1267,26 +1247,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "C\u00e1ntalo",
-        "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
+        "name": "Libertad 548",
+        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 218996,
-      "name": "C\u00e1ntalo",
-      "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
+      "duration_ms": 184653,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1303,22 +1279,6 @@
       "duration_ms": 241346,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1343,6 +1303,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 227906,
       "name": "Loma de Cayenas",
       "url": "https://open.spotify.com/track/2gT8OWcAgPg0yawg1qw4Nv"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "C\u00e1ntalo",
+        "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 218996,
+      "name": "C\u00e1ntalo",
+      "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1419,6 +1419,26 @@
       "duration_ms": 213000,
       "name": "Pa'lante y Pa'tras - Remix",
       "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Boogaloo Supreme",
+        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 208152,
+      "name": "Boogaloo Supreme",
+      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1499,26 +1519,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Boogaloo Supreme",
-        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 208152,
-      "name": "Boogaloo Supreme",
-      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "\u00bfC\u00f3mo Te Atreves? (Con Cheyo Carrillo, Geru Y Su Legi\u00f3n 7)",
         "url": "https://open.spotify.com/album/7kDxTF2jhA1TIvp6ugSR91"
       },
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Arrebata",
         "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
       },
@@ -1603,22 +1623,6 @@
       "duration_ms": 175174,
       "name": "Arrebata",
       "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "25/7",
-        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 298306,
-      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
-      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Brindemos por Ellas",
-        "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Ronny Mercedes",
-          "url": "https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Brindemos por Ellas",
-      "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Cumbiana",
         "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 250497,
       "name": "Canci\u00f3n para Rub\u00e9n",
       "url": "https://open.spotify.com/track/7dTyStawUmXzQmyUCVFl4p"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Brindemos por Ellas",
+        "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Ronny Mercedes",
+          "url": "https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Brindemos por Ellas",
+      "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
     },
     {
       "added_at": "2022-08-31 07:37:37",

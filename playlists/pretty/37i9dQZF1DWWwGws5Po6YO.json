@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 27407,
+  "num_followers": 27426,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGY0MTcwNWNjMmExMDc4M2I3MjZiODQ2ZWRiNTQxMWIw",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDQ0NzNlNTZjNjY3ZjViZjU3ZThkMDhkMzkzOGE0ZGRi",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
@@ -259,38 +275,6 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
         "name": "The Expanding Universe",
         "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 390720,
       "name": "The Unquestioned Answer",
       "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Fantas Morbida",
-      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -423,18 +403,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+      "duration_ms": 187863,
+      "name": "Fantas Morbida",
+      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -487,6 +471,22 @@
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 285866,
-      "name": "Being Her Shadow",
-      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Being Her Shadow",
+      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
       "artists": [
         {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -727,6 +727,22 @@
       "duration_ms": 406706,
       "name": "Zhao Hua",
       "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -763,38 +779,6 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2022-12-20 17:52:39",

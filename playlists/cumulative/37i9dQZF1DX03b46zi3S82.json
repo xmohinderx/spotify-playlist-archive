@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "But A Whisper",
+        "url": "https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r"
+      },
+      "artists": [
+        {
+          "name": "Vaughn Harrison",
+          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147623,
+      "name": "But A Whisper",
+      "url": "https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw"
+    },
+    {
+      "album": {
         "name": "carried by the wind",
         "url": "https://open.spotify.com/album/2qLH8MhzGLGvSFs5QX2nzF"
       },

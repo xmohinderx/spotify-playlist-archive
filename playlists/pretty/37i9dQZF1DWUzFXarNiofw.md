@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Musiq Soulchild
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,962 likes - 139 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,302 likes - 139 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 2813,
+  "num_followers": 2830,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDBkNTM3NGYzNGU5ZWZlNjc1MzQ3MzgyM2ExYWU0YmM5",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGRmMjY4NmVkYWVmMmRhZDhlMDE2ZmM1ODM4MzE0MGFh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Said Sum",
-      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Raydiation",
         "url": "https://open.spotify.com/album/6N5YwyGWm8gWuBCecfnEps"
       },
@@ -383,42 +367,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 218332,
-      "name": "Pussy Talk",
-      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+      "duration_ms": 155168,
+      "name": "Said Sum",
+      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -443,6 +403,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Survival Of The Fittest",
         "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 272346,
       "name": "Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",
       "url": "https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -495,22 +495,6 @@
       "duration_ms": 227560,
       "name": "Damage",
       "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -607,6 +591,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Beat Box",
         "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
       },
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Dum and Dummer 2",
         "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
       },
@@ -743,42 +763,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Muwop (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "The Plugs I Met 2",
-        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "When Tony Met Sosa",
-      "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
+      "duration_ms": 149066,
+      "name": "Broke Up In Miami",
+      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -803,54 +799,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+        "name": "The Plugs I Met 2",
+        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 149066,
-      "name": "Broke Up In Miami",
-      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Twerksum",
-        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Twerksum",
-      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
+      "duration_ms": 141176,
+      "name": "When Tony Met Sosa",
+      "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -895,6 +859,42 @@
       "duration_ms": 281172,
       "name": "Hittin' (Remix)",
       "url": "https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Twerksum",
+        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Twerksum",
+      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
     },
     {
       "added_at": "2022-10-01 16:09:56",

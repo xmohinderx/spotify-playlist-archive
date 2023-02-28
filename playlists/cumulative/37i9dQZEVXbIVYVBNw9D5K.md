@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-604 songs - 1 day 6 hr 35 min
+605 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [CEHENNEM](https://open.spotify.com/track/2ipcDCBzdfj8KCcga2h39C) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:28 | 2022-09-10 | 2022-09-15 |
 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 | 2022-12-04 | 2022-12-22 |
 | [Cindy](https://open.spotify.com/track/40UN1GTSOsEtp7nAZYKrYq) | [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Cindy](https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e) | 1:59 | 2021-09-25 | 2021-09-26 |
-| [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 |  |
+| [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 | 2023-02-28 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-12 | 2023-01-29 |
 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 | 2023-01-15 |  |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
@@ -576,6 +576,7 @@
 | [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 | 2022-12-28 |
 | [yarım kalır](https://open.spotify.com/track/3prFQhGuWBWLGHsQstEdkb) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [yarım kalır](https://open.spotify.com/album/4OIaZMEuRYxipHPOZiLOMe) | 2:28 | 2022-04-09 | 2022-09-06 |
 | [Yarınlar Var](https://open.spotify.com/track/5tstMACoZsyMePtRxlIXsR) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Sanrılar](https://open.spotify.com/album/3GfORRNxyhQnepv1rtRLGK) | 3:15 | 2021-03-29 | 2021-03-30 |
+| [Yaz Gülü](https://open.spotify.com/track/31ojCWkTy18pp7GLEcglZ4) | [Servet Tunç](https://open.spotify.com/artist/1N1n9Cq3dvHP4mtXPr0lf0), [Can Toğrulca](https://open.spotify.com/artist/5fkC9fCfKP0E0GJwwK3jGU) | [Yaz Gülü](https://open.spotify.com/album/5Khb5cvNjRsv61D2RUQ6uv) | 3:53 | 2023-02-27 |  |
 | [Yaz Gülü](https://open.spotify.com/track/6775h2mEBbRRXUAYG9P3bs) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Yaz Gülü](https://open.spotify.com/album/1KmiEGyK23qs9evr7KgRSJ) | 3:10 | 2021-05-30 | 2021-08-18 |
 | [Yazık](https://open.spotify.com/track/7zrezWXOFZQt6c85kBrxW3) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Yazık](https://open.spotify.com/album/3oeUiunQS0PUoC905GoL0w) | 3:00 | 2021-03-27\* | 2021-04-22 |
 | [Yağmurlar](https://open.spotify.com/track/3aX0N8IdY9rECrbuuR4FMp) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Yağmurlar](https://open.spotify.com/album/4x6kGMwS5zASgxOptPj7yP) | 3:57 | 2021-03-27\* | 2021-03-29 |

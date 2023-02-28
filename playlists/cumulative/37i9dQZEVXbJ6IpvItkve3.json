@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7225,6 +7225,24 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d5\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/34QC2WFPIqwoaoUcsCflix"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187770,
+      "name": "\u05d1\u05d5\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/6m6oaAugKIwqZpLhqtOXMX"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d9\u05e8\u05d6",
         "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
       },
@@ -7676,7 +7694,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 152000,
       "name": "\u05d3\u05d5\u05d1\u05e9\u05e0\u05d9\u05d9\u05d4",
       "url": "https://open.spotify.com/track/67PF7VLcYEKKF82ziNf9Ur"
@@ -8294,7 +8312,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 212661,
       "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d7\u05dc\u05d5\u05df",
       "url": "https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG"
@@ -8600,7 +8618,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 176440,
       "name": "\u05d9'\u05d0 2",
       "url": "https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu"
@@ -10576,7 +10594,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 244939,
       "name": "\u05e1\u05d4\u05e8\u05d4",
       "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
@@ -10634,7 +10652,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 142061,
       "name": "\u05e1\u05d5\u05e4\u05e8\u05e1\u05d8\u05d0\u05e8\u05d9\u05ea",
       "url": "https://open.spotify.com/track/2IqNTJPqS8hbB4PUSDtxTF"
@@ -11434,7 +11452,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 163355,
       "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
       "url": "https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0"
@@ -11706,7 +11724,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 190835,
       "name": "\u05e9\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4D5BAc9GN5Q8r5LVO7mxBI"

@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 225395,
+  "num_followers": 225403,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMGJhYWMzZjA1NmI1Yzg5MzU3MmI0Zjg1YjU2M2JjYjdm",
+  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMDJjZjY5M2RjNGE0NTRiZGRlZGVlOTJlZTAxNmIwYTJj",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3JVJaqZ6qZajZaMi66za1b"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3JVJaqZ6qZajZaMi66za1b"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
@@ -683,22 +663,6 @@
       "duration_ms": 194291,
       "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -719,34 +683,18 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
       },
       "artists": [
         {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -767,6 +715,58 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2023-01-25 16:05:09",

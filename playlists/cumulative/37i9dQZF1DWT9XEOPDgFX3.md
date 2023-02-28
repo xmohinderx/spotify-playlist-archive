@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Indigo De Souza
 
-303 songs - 19 hr 15 min
+304 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 |  |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-04-14 |  |
 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 | 2022-01-21 | 2022-11-13 |
-| [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 | 2022-04-29 |  |
+| [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 | 2022-04-29 | 2023-02-28 |
 | [Pareidolia](https://open.spotify.com/track/7auhQqfbDNtYmOoLwPhGju) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Pareidolia](https://open.spotify.com/album/5lMw5oHGZQQWJVYTbn4el4) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [Party's Over](https://open.spotify.com/track/3cUktIJJfxfXFt5RvaHsty) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:23 | 2022-04-29 | 2022-09-11 |
@@ -246,6 +246,7 @@
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-10-14 |  |
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 |  |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2022-04-13 | 2022-11-13 |
+| [squirrel song](https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [squirrel song](https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn) | 1:48 | 2023-02-24 |  |
 | [stained glass](https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [stained glass](https://open.spotify.com/album/7LW5Bo8L7FlRHCNhMmTcGX) | 4:12 | 2022-10-14 | 2022-12-11 |
 | [stained glass](https://open.spotify.com/track/68zzdY0R3TIjFJm1nEQO1f) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [grow your hair long if you’re wanting to see something that you can change](https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ) | 4:12 | 2022-12-09 | 2023-02-11 |
 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2022-04-29 | 2022-11-20 |

@@ -4,13 +4,13 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-261 songs - 20 hr 29 min
+262 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ouls in The City Part 2](https://open.spotify.com/track/6Jw1gjVB8ssw4CYxo8lSHQ) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [$ouls in The City Part 2](https://open.spotify.com/album/6e3DDY0ZX6wmHr3B7u07Uo) | 2:57 | 2021-07-23 | 2022-07-26 |
 | [3 Weeks](https://open.spotify.com/track/5m8gBIyQpw2IFwY344JLJ6) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [3 Weeks](https://open.spotify.com/album/58YDGoR6fmERL8oDzB1LNS) | 3:17 | 2022-05-27 | 2022-07-28 |
-| [A Message From The Inner City](https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [The 2nd Crusade](https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF) | 8:51 | 2020-10-09 |  |
+| [A Message From The Inner City](https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [The 2nd Crusade](https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF) | 8:51 | 2020-10-09 | 2023-02-28 |
 | [A Walk Down 7th st.](https://open.spotify.com/track/5vlBePKYHkVWzZoYUBIG0O) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [A Walk Down 7th st.](https://open.spotify.com/album/3jktLVoCxm8FimmfApOJ6Y) | 3:05 | 2021-09-03 | 2022-07-28 |
 | [Afrodesia](https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Afrodesia](https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9) | 9:23 | 2020-10-09 | 2022-10-03 |
 | [Alchemy](https://open.spotify.com/track/3wVUiPGvtz01ThUNS97wMj) | [Lincoln Adler](https://open.spotify.com/artist/6QLoQBVmeZqyQKZthtH7Bp), [Erik Jekabson](https://open.spotify.com/artist/0ExhNDqQ9umcnyqNrVrVuU), [Mike Blankenship](https://open.spotify.com/artist/1vlnaSOePqL3jZ6EwPx1ea), [Scott Thompson](https://open.spotify.com/artist/0ixKryxEKyAEnJn2BMb2BF), [Aaron Green](https://open.spotify.com/artist/2WfH7tTvXBGotkGBBoW1Fm) | [Tabula Rasa](https://open.spotify.com/album/7nQdFhv9nB5zZX33K8Xz9R) | 4:04 | 2021-01-29 | 2022-04-20 |
@@ -248,6 +248,7 @@
 | [Touchy \- Tiny Room Sessions](https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Ronald Bruner, Jr.](https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW), [MonoNeon](https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B) | [Touchy \(Tiny Room Sessions\)](https://open.spotify.com/album/4MZZzMJJNzsSm1Vmb1jRRS) | 4:10 | 2022-03-11 |  |
 | [Treason](https://open.spotify.com/track/6P93USHBkvsZNww6QXHa7m) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63), [Eric Benny Bloom](https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao) | [Double Dippin'](https://open.spotify.com/album/2AXj42QL6m8ASp1kvY27ti) | 4:26 | 2021-07-23 | 2022-05-24 |
 | [Turnip's Big Move](https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [A Town Called Earth](https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny) | 4:23 | 2022-09-16 | 2022-12-01 |
+| [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-02-24 |  |
 | [Under The Radar](https://open.spotify.com/track/6Q21dXNtqc0rbBzW49S6eH) | [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk), [The Peterson Brothers](https://open.spotify.com/artist/4FRlJ8CPdj301G5XaVhxSX) | [Under the Radar](https://open.spotify.com/album/1ZL5SoYCOIhqtaNtb1MGUK) | 5:04 | 2021-03-05 | 2022-04-20 |
 | [Universal Insanity](https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Universal Insanity](https://open.spotify.com/album/1OMIi4qsKlROBKp2sZEdFy) | 6:46 | 2021-10-01 | 2022-07-29 |
 | [V Neck Sweater](https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [What Happened To Television?](https://open.spotify.com/album/6y4pGQRe2Nipa05NbGwsCq) | 2:35 | 2020-10-09 | 2022-07-04 |

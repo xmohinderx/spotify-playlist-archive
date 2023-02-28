@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2663,
+  "num_followers": 2666,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDU2YzdhNGU1ZmQ5MzM5Y2ZiYzdmZjUzNDgzODA5ZWQ5",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDY2YzllOGZmMjBjNmQyYzVjMGY2MjgwNGJkYmU3ZjIx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -287,6 +287,30 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Magalenha (feat. Sergio Mendes)",
+        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Magalenha (feat. Sergio Mendes)",
+      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W"
       },
@@ -383,30 +407,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Magalenha (feat. Sergio Mendes)",
-        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Magalenha (feat. Sergio Mendes)",
-      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Los Tamales",
         "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
       },
@@ -467,6 +467,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 437556,
       "name": "Tribesmen - Original Mix",
       "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -705,30 +705,6 @@
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
     },
     {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Umoja",
@@ -781,6 +757,30 @@
       "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
     },
     {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Safari",
@@ -795,6 +795,26 @@
       "duration_ms": 186240,
       "name": "Safari",
       "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Villanueva",
+          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Calle ft. Villanueva",
+      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -827,46 +847,6 @@
       "duration_ms": 168960,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Villanueva",
-          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Calle ft. Villanueva",
-      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Cuban Riddim",
-        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Cuban Riddim",
-      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "added_at": "2021-11-05 06:05:00",
@@ -927,6 +907,26 @@
       "duration_ms": 355680,
       "name": "Felicidad - Colombian Mix",
       "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Cuban Riddim",
+        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Cuban Riddim",
+      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "added_at": "2021-10-08 15:53:55",

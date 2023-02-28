@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Leony",
-  "num_followers": 23526,
+  "num_followers": 23536,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMDZhMTVhNDhiMDQyYjE1Y2NmMzA1YTZiNjQ0MDk5MGFj",
+  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMGMyZTAzOTMzYTMyZjY2NzQyMmJmMWZiN2RkODAxZmRm",
   "tracks": [
     {
       "added_at": "2023-01-31 23:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Klippe",
-        "url": "https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl"
-      },
-      "artists": [
-        {
-          "name": "LINA",
-          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
-        }
-      ],
-      "duration_ms": 158354,
-      "name": "Klippe",
-      "url": "https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "Strassenlichter",
         "url": "https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 126480,
       "name": "Strassenlichter",
       "url": "https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Klippe",
+        "url": "https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        }
+      ],
+      "duration_ms": 158354,
+      "name": "Klippe",
+      "url": "https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Blaues Kleid",
-        "url": "https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 167750,
-      "name": "Blaues Kleid",
-      "url": "https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "DIRTY SOUTH",
         "url": "https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 186961,
       "name": "KOMM MIT MIR",
       "url": "https://open.spotify.com/track/3a4elNaJUIOcRGlo7fs3ru"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Blaues Kleid",
+        "url": "https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Blaues Kleid",
+      "url": "https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "The More I Bite",
-        "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
-      },
-      "artists": [
-        {
-          "name": "Cheriimoya",
-          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "The More I Bite",
-      "url": "https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "unser outro",
         "url": "https://open.spotify.com/album/4b57lz0ovywOxXdwO1Yzsd"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197875,
       "name": "unser outro",
       "url": "https://open.spotify.com/track/02gROagmZFL4Bq6wZcMNcu"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "The More I Bite",
+        "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "The More I Bite",
+      "url": "https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Power of Today",
-        "url": "https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI"
-      },
-      "artists": [
-        {
-          "name": "Alinka",
-          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
-        }
-      ],
-      "duration_ms": 379965,
-      "name": "Power of Today",
-      "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/5IT3PmuTYMzz35OOgiO4J2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 254535,
       "name": "This One's for You",
       "url": "https://open.spotify.com/track/4jGwo6XYSxgBZ7UkrhlLvE"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Power of Today",
+        "url": "https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "duration_ms": 379965,
+      "name": "Power of Today",
+      "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
     },
     {
       "added_at": "2023-01-31 23:00:00",

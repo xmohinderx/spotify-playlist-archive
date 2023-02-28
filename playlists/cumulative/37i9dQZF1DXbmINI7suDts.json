@@ -558,7 +558,7 @@
     {
       "album": {
         "name": "So Wok",
-        "url": "https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l"
+        "url": "https://open.spotify.com/album/3E76niGgYjRLe7936MPAWo"
       },
       "artists": [
         {
@@ -573,6 +573,28 @@
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223703,
+      "name": "Kiiba (feat. Smarty)",
+      "url": "https://open.spotify.com/track/5KNegRmSjP4ahtaWaecDHp"
+    },
+    {
+      "album": {
+        "name": "So Wok",
+        "url": "https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l"
+      },
+      "artists": [
+        {
+          "name": "Alif Naaba",
+          "url": "https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh"
+        },
+        {
+          "name": "Smarty",
+          "url": "https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
       "duration_ms": 223703,
       "name": "Kiiba (feat. Smarty)",
       "url": "https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW"

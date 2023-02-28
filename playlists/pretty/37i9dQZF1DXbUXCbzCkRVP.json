@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 28069,
+  "num_followers": 28114,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTY3MCwwMDAwMDAwMDhhMWI1YjYxOWFlZThlMzNhZDM2NzBhN2EwYzljNjcy",
+  "snapshot_id": "MTY3NzI1OTY3MCwwMDAwMDAwMDg5NWU5ODIwOThiYjNhMjg2NWFkYjdmYTg0YTNjYWMw",
   "tracks": [
     {
       "added_at": "2023-01-27 16:32:59",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Tribal Dance",
-      "url": "https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Tribal Dance",
+      "url": "https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -483,30 +483,6 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        },
-        {
-          "name": "Steve Stills",
-          "url": "https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -539,18 +515,26 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        },
+        {
+          "name": "Steve Stills",
+          "url": "https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY"
         }
       ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "For Collectors Only (The Wham Of That Memphis Man)",
-        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Wham!",
-      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -599,6 +583,22 @@
       "duration_ms": 166436,
       "name": "Don't Be Late",
       "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "For Collectors Only (The Wham Of That Memphis Man)",
+        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Wham!",
+      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -851,22 +835,6 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "Put It",
-        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
-      },
-      "artists": [
-        {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
-        }
-      ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 185786,
       "name": "Side Tracked",
       "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Hot and Heavy",
-      "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
         "name": "Country, Blues & More",
         "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
+      "duration_ms": 116173,
+      "name": "Hot and Heavy",
+      "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -999,6 +983,22 @@
       "duration_ms": 240259,
       "name": "Sunfall Blues",
       "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "The Grind",
-        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
-      },
-      "artists": [
-        {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
-        }
-      ],
-      "duration_ms": 76339,
-      "name": "The Grind",
-      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
         "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 393666,
       "name": "Little Johnny Lee",
       "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
+      },
+      "artists": [
+        {
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+        }
+      ],
+      "duration_ms": 76339,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
       },
       "artists": [
         {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
         }
       ],
-      "duration_ms": 188293,
-      "name": "The Screwdriver",
-      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
+      "duration_ms": 509106,
+      "name": "Blues For Otis Rush",
+      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -1257,6 +1257,46 @@
       "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
     },
     {
+      "added_at": "2023-02-28 01:39:16",
+      "album": {
+        "name": "Stay High [Feat. Cory Henry]",
+        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 193551,
+      "name": "Stay High [Feat. Cory Henry]",
+      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
+    },
+    {
+      "added_at": "2023-01-27 16:32:59",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "The Screwdriver",
+      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
+    },
+    {
       "added_at": "2023-01-27 16:32:59",
       "album": {
         "name": "Ain't That Lovin' You Baby",
@@ -1271,22 +1311,6 @@
       "duration_ms": 153973,
       "name": "Boogie in the Dark",
       "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 509106,
-      "name": "Blues For Otis Rush",
-      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
     },
     {
       "added_at": "2023-01-27 16:32:59",
@@ -1327,34 +1351,22 @@
     {
       "added_at": "2023-01-27 16:32:59",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+        "name": "Spread The Love",
+        "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-01-27 16:32:59",
-      "album": {
-        "name": "Mellow Blues",
-        "url": "https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq"
-      },
-      "artists": [
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
         {
-          "name": "Sonny Thompson",
-          "url": "https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR"
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
         }
       ],
-      "duration_ms": 344266,
-      "name": "Long gone",
-      "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
+      "duration_ms": 191520,
+      "name": "Blues For Bill",
+      "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
     }
   ],
   "unique_name": "Instrumental Blues",

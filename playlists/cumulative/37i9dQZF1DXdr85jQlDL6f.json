@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 179000,
       "name": "Amber Leaves (Rain)",
       "url": "https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d"
@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Take Cover",
+        "url": "https://open.spotify.com/album/6C3pFXdL20J4F0CVtcLlNz"
+      },
+      "artists": [
+        {
+          "name": "Rain Cloudz",
+          "url": "https://open.spotify.com/artist/1cHrN4K4eGFc5weOXZ3rm9"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Soaked - Seamless",
+      "url": "https://open.spotify.com/track/3fEaiB5iqb7gGndpBYQVHR"
+    },
+    {
+      "album": {
         "name": "Gentle Drops",
         "url": "https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7"
       },
@@ -1312,10 +1330,28 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-28",
       "duration_ms": 234000,
       "name": "Spirit Of The Rainforest",
       "url": "https://open.spotify.com/track/5q5VEwBjy5gIeUO5fHhlMC"
+    },
+    {
+      "album": {
+        "name": "Steady Patio Rain",
+        "url": "https://open.spotify.com/album/3abPz7so536Rf43C8cYajB"
+      },
+      "artists": [
+        {
+          "name": "The Nature Songs",
+          "url": "https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166499,
+      "name": "Steady Patio Rain",
+      "url": "https://open.spotify.com/track/6hr8pt7UtXklaydth3rDYV"
     },
     {
       "album": {

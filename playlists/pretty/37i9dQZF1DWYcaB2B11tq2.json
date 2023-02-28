@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 341205,
+  "num_followers": 341505,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDQ5ODFmMzQ0ZjQwYmY4Y2Y0ZTNjYWU5NjNmMzIzNGRi",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDdkNjc4ODdkODhiOTdiZWZhNGYyYjVkMTg4ZmUxZDQ1",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -79,6 +79,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293398,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -91,6 +107,22 @@
       "duration_ms": 211600,
       "name": "Trust in You",
       "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 302471,
+      "name": "Creere",
+      "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -111,34 +143,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+        "name": "Sin Miedo a Nada",
+        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 293398,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 302471,
-      "name": "Creere",
-      "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
+      "duration_ms": 243066,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -199,22 +215,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Sin Miedo a Nada",
-        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Generacion Radical",
         "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 406184,
       "name": "La Tierra Canta",
       "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Es Por Tu Gracia",
-      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -311,6 +295,22 @@
       "duration_ms": 274050,
       "name": "No Estoy Solo",
       "url": "https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Es Por Tu Gracia",
+      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -523,6 +523,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Regreso a Ti",
         "url": "https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA"
       },
@@ -571,46 +591,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Dios de Lo Extraordinario",
-        "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        },
-        {
-          "name": "Inlight",
-          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
-        }
-      ],
-      "duration_ms": 244163,
-      "name": "El Dios de Lo Extraordinario",
-      "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/4pSlr6iAlgXnDu3pBkxVZH"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 294800,
       "name": "Give Me Faith",
       "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Dios de Lo Extraordinario",
+        "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        },
+        {
+          "name": "Inlight",
+          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
+        }
+      ],
+      "duration_ms": 244163,
+      "name": "El Dios de Lo Extraordinario",
+      "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -783,6 +783,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Fierce (Studio Version)",
+        "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Fierce - Studio Version",
+      "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
       },
@@ -819,42 +839,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Fierce (Studio Version)",
-        "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Fierce - Studio Version",
-      "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Incontrolable Amor",
-        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 333120,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 189035,
       "name": "No Hay Distancia",
       "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Incontrolable Amor",
+        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 333120,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Ha Vencido, Ha Triunfado",
-        "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
+        "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
+        "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
       },
       "artists": [
         {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 361253,
-      "name": "Digno Es El Se\u00f1or",
-      "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
+      "duration_ms": 321003,
+      "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
+      "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
-        "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
+        "name": "Ha Vencido, Ha Triunfado",
+        "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
       },
       "artists": [
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
         }
       ],
-      "duration_ms": 321003,
-      "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
-      "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
+      "duration_ms": 361253,
+      "name": "Digno Es El Se\u00f1or",
+      "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
     },
     {
       "added_at": "2021-05-21 19:19:27",

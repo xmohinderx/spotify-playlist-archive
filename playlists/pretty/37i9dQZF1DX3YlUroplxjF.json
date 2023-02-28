@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 446680,
+  "num_followers": 446752,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGVmODFhNGFiYmQyZmUwMjk5OWViNWNkMTNkODc2NGRh",
+  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGVhNTMzYjFmYzFiMWIyYTFlOWU4MWIwNGIxMTk3YmQy",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:25",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Circle The Drain",
-      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 210685,
       "name": "Like A Villain",
       "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Divided",
         "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Carry the Weight / From the First Note",
-        "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
       },
       "artists": [
         {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Carry the Weight",
-      "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+        "name": "Carry the Weight / From the First Note",
+        "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
         }
       ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+      "duration_ms": 229266,
+      "name": "Carry the Weight",
+      "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
-      "added_at": "2023-02-27 00:48:40",
+      "added_at": "2023-02-28 01:05:44",
       "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Finding God Before God Finds Me (Deluxe)",
         "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 261398,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -607,38 +607,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
-      },
-      "artists": [
-        {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 225117,
-      "name": "Instability",
-      "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -651,6 +619,22 @@
       "duration_ms": 236050,
       "name": "Lyrics Lie",
       "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+      },
+      "artists": [
+        {
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -669,7 +653,7 @@
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
     },
     {
-      "added_at": "2023-02-27 00:48:40",
+      "added_at": "2023-02-28 01:05:44",
       "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
@@ -683,6 +667,22 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 225117,
+      "name": "Instability",
+      "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
     },
     {
-      "added_at": "2023-02-27 00:48:40",
+      "added_at": "2023-02-28 01:05:44",
       "album": {
         "name": "Evil Finds Light",
         "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
@@ -847,22 +847,6 @@
       "duration_ms": 127933,
       "name": "Evil Finds Light",
       "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Ghost Like You",
         "url": "https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
         }
       ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "wonderful life (feat. Dani Filth)",
         "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
     },
     {
-      "added_at": "2023-02-27 00:48:40",
+      "added_at": "2023-02-28 01:05:44",
       "album": {
         "name": "Attainable",
         "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 192504,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Devastation",
         "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 174733,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 192504,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
     },
     {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+    },
+    {
       "added_at": "2023-01-19 23:53:27",
       "album": {
         "name": "Dark Blue",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 201600,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
-    },
-    {
-      "added_at": "2023-01-27 16:27:25",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1475,6 +1459,22 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2023-01-27 16:27:25",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
       "artists": [
         {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 219900,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     }
   ],
   "unique_name": "Crash Course",

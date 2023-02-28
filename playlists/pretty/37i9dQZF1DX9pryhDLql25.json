@@ -1,12 +1,12 @@
 {
   "description": "Gather your friends for the cherished ritual that is brunch. If not for the pomo irony, then for the endless hibiscus lavender mimosas.",
-  "num_followers": 195474,
+  "num_followers": 195476,
   "original_name": "Boozy Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2Njk2OCwwMDAwMDAwMDk4MmNmODM0MDQ5ZTkyY2IxMmMwN2YxNTc2NTExNDNl",
+  "snapshot_id": "MTY3Mjc2Njk2OCwwMDAwMDAwMGU3YTBkN2ZjODNjZmQ2NzIxZThmOTA4Y2UwMThkMWQz",
   "tracks": [
     {
       "added_at": "2019-06-07 14:12:51",
@@ -139,6 +139,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 239881,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -335,22 +335,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -511,6 +511,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Bar, Guitar and a Honky Tonk Crowd",
+      "url": "https://open.spotify.com/track/1pWteqawoaGuNc1UzScstI"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 194386,
       "name": "Hell on Heels",
       "url": "https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Bar, Guitar and a Honky Tonk Crowd",
-      "url": "https://open.spotify.com/track/1pWteqawoaGuNc1UzScstI"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -691,22 +691,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
         "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 126920,
       "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
       "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -807,22 +807,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 229800,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -963,22 +963,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 211794,
-      "name": "The Rains",
-      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 313867,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 211794,
+      "name": "The Rains",
+      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "All Or Nothin'",
-        "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 176551,
       "name": "Summertime Mama",
       "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "All Or Nothin'",
+        "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
     },
     {
       "added_at": "2019-06-07 14:12:51",

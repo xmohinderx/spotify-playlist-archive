@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-432 songs - 17 hr 2 min
+433 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [STARFALL](https://open.spotify.com/track/2eLIhfMm9cO2zM0TGcBmNp) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [STARFALL](https://open.spotify.com/album/3zRAqkaL83AmwN3U6YgDKi) | 1:43 | 2023-02-24 |  |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2022-09-02 |  |
 | [Still to Kill](https://open.spotify.com/track/6AVUgWjGcPvqfJI0Vb8PbY) | [Feerix](https://open.spotify.com/artist/3pCsoptVyteSgucFwAXpUM) | [Still to Kill](https://open.spotify.com/album/4dtjyA37BygvgyzQyHPfz6) | 2:04 | 2022-08-26 | 2022-12-17 |
-| [Stressed Out](https://open.spotify.com/track/4VUxfs0iuo9AN9vRDKfTjl) | [SCXLETTE](https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE) | [Stressed Out](https://open.spotify.com/album/4cgo0AESe1YYhpQ4K6L9SV) | 1:43 | 2023-02-24 |  |
+| [Stressed Out](https://open.spotify.com/track/4VUxfs0iuo9AN9vRDKfTjl) | [SCXLETTE](https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE) | [Stressed Out](https://open.spotify.com/album/4cgo0AESe1YYhpQ4K6L9SV) | 1:43 | 2023-02-24 | 2023-02-28 |
+| [Stressed Out](https://open.spotify.com/track/4xtgEsu86GVlUmWj8bgn90) | [SCXLETTE](https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE) | [Stressed Out](https://open.spotify.com/album/2Zak6JFp9yPWb38nrXxGm0) | 1:43 | 2023-02-24 |  |
 | [SUICIDE YEAR](https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/0tMQ0WClc4aez32B3BiqxJ) | 1:31 | 2021-05-12 | 2022-07-29 |
 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 | 2021-05-12 |  |
 | [Sunrise](https://open.spotify.com/track/3Q4YLj0tEgQQ9s85H8chlz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Sunrise](https://open.spotify.com/album/75KQsxv0WW35kQ3ihDxMdz) | 2:32 | 2021-10-01 | 2022-04-05 |

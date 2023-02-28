@@ -1,12 +1,12 @@
 {
   "description": "Indie dance and alternative hip-hop for a mellow time. ",
-  "num_followers": 483895,
+  "num_followers": 484093,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE1NjczMCwwMDAwMDAwMGI2MDQ5NWZkZDIzNDIyZDU5MWViODc2NWViMjhhYTMw",
+  "snapshot_id": "MTY3NDE1NjczMCwwMDAwMDAwMDhkYWQ3NDYyNmI1MGQ0MTE5YjI0NGY0Yjc0YWM0NmJj",
   "tracks": [
     {
       "added_at": "2023-01-19 19:32:10",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "I Wanna Help Your Mind",
-        "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "I Wanna Help Your Mind",
-      "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
+        "name": "I Wanna Help Your Mind",
+        "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 171937,
+      "name": "I Wanna Help Your Mind",
+      "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "TM",
-        "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "NEW SHOES",
-      "url": "https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 193934,
       "name": "Early",
       "url": "https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
+        "name": "TM",
+        "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "NEW SHOES",
+      "url": "https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
+        "name": "Only Child",
+        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 239324,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
-        "name": "Only Child",
-        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 239324,
-      "name": "Only Child",
-      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
+        "name": "Tommy Gun",
+        "url": "https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 183907,
+      "name": "Movie Screen",
+      "url": "https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
         "name": "Garden Party",
         "url": "https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "Tommy Gun",
-        "url": "https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 183907,
-      "name": "Movie Screen",
-      "url": "https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
         "name": "Kompany",
         "url": "https://open.spotify.com/album/3SDrc8jMsUM1Mpfl4QefpB"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Spark It Up",
-      "url": "https://open.spotify.com/track/6A6GrIjiW5C90mlG9Vj9PN"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
         "name": "Sweet Time",
         "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
       },
@@ -1451,22 +1435,34 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+        "name": "Love Me Like",
+        "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
         }
       ],
-      "duration_ms": 162222,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+      "duration_ms": 190000,
+      "name": "If You Won't",
+      "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Spark It Up",
+      "url": "https://open.spotify.com/track/6A6GrIjiW5C90mlG9Vj9PN"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -1491,22 +1487,6 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "Love Me Like",
-        "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "If You Won't",
-      "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
-    },
-    {
-      "added_at": "2023-01-19 19:32:10",
-      "album": {
         "name": "Booyah",
         "url": "https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 120000,
       "name": "Don't Trust Me",
       "url": "https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n"
+    },
+    {
+      "added_at": "2023-01-19 19:32:10",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "peppermint",
-        "url": "https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC"
+        "name": "FYO",
+        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
       },
       "artists": [
         {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 132915,
-      "name": "peppermint",
-      "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
+      "duration_ms": 164963,
+      "name": "FYO",
+      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
     },
     {
       "added_at": "2023-01-19 19:32:10",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-01-19 19:32:10",
       "album": {
-        "name": "FYO",
-        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+        "name": "peppermint",
+        "url": "https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
         }
       ],
-      "duration_ms": 164963,
-      "name": "FYO",
-      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+      "duration_ms": 132915,
+      "name": "peppermint",
+      "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
     }
   ],
   "unique_name": "Park Hangs",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,299 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,333 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 30 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 |
 | 31 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
 | 32 | [Stronger Now In Broken Places \(Band Version\)](https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:42 |
-| 33 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 |
+| 33 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Loyal Kind \(Live\)](https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk) | 6:34 |
 | 34 | [Questions And Answers](https://open.spotify.com/track/2eOsgM5TJlW68D6W8OGnp9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 4:09 |
-| 35 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
-| 36 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Loyal Kind \(Live\)](https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk) | 6:34 |
+| 35 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 |
+| 36 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
 | 37 | [Cold](https://open.spotify.com/track/77UCjH91weMHQBTqeHV6Gs) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Country Communion 2](https://open.spotify.com/album/6F5WxD9Ld5ZgVA9JDQ4RAM) | 6:55 |
 | 38 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 |
 | 39 | [Hanging On A Loser](https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 49 | [Deep In The Blues Again](https://open.spotify.com/track/2gOPFc3j1e8AOCw8ieDj5R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:45 |
 | 50 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 |
 
-Snapshot ID: `Mjc5NTY4ODMsMDAwMDAwMDBkZDZkZjMzZWYzMzg5ZTM4NDdhNTlhM2FiNjExNGNiMQ==`
+Snapshot ID: `Mjc5NTg0NjAsMDAwMDAwMDBiOGYxZjRhMDY2MWUyNjE2ODdkZmFjMTIyOGYxMjFjYQ==`

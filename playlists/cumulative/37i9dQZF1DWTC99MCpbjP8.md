@@ -4,13 +4,14 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-436 songs - 19 hr 5 min
+439 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-04-22 | 2022-07-28 |
 | [7Am\. Mattina](https://open.spotify.com/track/4XCllplNqVdOZQXn28Xe83) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [7Am\. Mattina \(Dreaming of Chopin\)](https://open.spotify.com/album/1Hxzv6PAmHIa1Inn9mWVhM) | 3:58 | 2022-09-15 |  |
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2022-04-22 | 2023-02-01 |
+| [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 | 2023-02-27 |  |
 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 | 2022-04-22 | 2022-07-28 |
 | [A Letter Home](https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [A Letter Home](https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV) | 2:19 | 2022-04-22 | 2022-07-28 |
 | [A Little Journey](https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [A Little Journey](https://open.spotify.com/album/5hZI8dZFuOUmWn4Jlbb3Tb) | 2:00 | 2022-04-22 |  |
@@ -291,6 +292,7 @@
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-04-22 |  |
 | [Purity \(Single\)](https://open.spotify.com/track/2BBaNuc6B84qcMe0Mg9teB) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Purity \(Single\)](https://open.spotify.com/album/3vfqfzS0R2fz02BlGOrfdq) | 1:53 | 2022-04-22 |  |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2022-04-22 | 2022-09-16 |
+| [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-02-27 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-04-22 |  |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-04-22 |  |
 | [Radiant](https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Radiant](https://open.spotify.com/album/7eOhUnQ92WaJvaPo0khuLw) | 1:59 | 2022-04-22 |  |
@@ -329,7 +331,7 @@
 | [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-04-22 |  |
 | [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 | 2022-04-22 |  |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-22 |  |
-| [Slipping Through My Fingers](https://open.spotify.com/track/2OkAHVd8rZLFcIYYqmqKGR) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Slipping Through My Fingers](https://open.spotify.com/album/08Jyf59VQRCGXub4ktyp29) | 2:41 | 2023-01-31 |  |
+| [Slipping Through My Fingers](https://open.spotify.com/track/2OkAHVd8rZLFcIYYqmqKGR) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Slipping Through My Fingers](https://open.spotify.com/album/08Jyf59VQRCGXub4ktyp29) | 2:41 | 2023-01-31 | 2023-02-28 |
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-04-22 | 2023-01-27 |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-04-22 |  |
 | [Snowfall in a Forest](https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snowfall in a Forest](https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ) | 2:28 | 2022-04-22 |  |
@@ -357,7 +359,7 @@
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2022-04-22 |  |
 | [Sud](https://open.spotify.com/track/2AzcwB71umzu8W0jYlCiRA) | [Jean\-Marc Olivier](https://open.spotify.com/artist/3qQRBy9BJGG4rKpAUfoPf7) | [Sud](https://open.spotify.com/album/3172OuS64yoxlBAd9op8lW) | 2:07 | 2022-04-22 |  |
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-04-22 |  |
-| [Sunday](https://open.spotify.com/track/3oXYUXj8gWvceVd6XTiklm) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Sunday](https://open.spotify.com/album/1atMk0Dwk4qQZGU9R81KAb) | 2:29 | 2023-01-31 |  |
+| [Sunday](https://open.spotify.com/track/3oXYUXj8gWvceVd6XTiklm) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Sunday](https://open.spotify.com/album/1atMk0Dwk4qQZGU9R81KAb) | 2:29 | 2023-01-31 | 2023-02-28 |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-04-22 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2022-04-22 | 2023-02-01 |
 | [Sunset](https://open.spotify.com/track/2DJQoV3oQqlWAwWUK3f5Xk) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Sunset](https://open.spotify.com/album/4p9U3xJQgLvujcLd6SXeBo) | 4:11 | 2022-04-22 |  |
@@ -387,6 +389,7 @@
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-04-22 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-04-22 |  |
 | [Thinking Back](https://open.spotify.com/track/2EnuM63zw10S0dKTbvDmhk) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:03 | 2022-04-22 |  |
+| [Three Stories It Must Tell](https://open.spotify.com/track/6v7RGlk2l85VOzePfWmF8r) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Three Stories It Must Tell](https://open.spotify.com/album/1U6dHxjR6eccCUtEfDAwhk) | 2:21 | 2023-02-27 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-04-22 |  |
 | [Time Flies](https://open.spotify.com/track/3OuSwVoqxlaKO3MfcigSNp) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Time Flies](https://open.spotify.com/album/4ZIeIq1iDLLKfOIZ0yswpf) | 3:13 | 2022-04-22 |  |
 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 | 2022-04-22 | 2023-01-27 |

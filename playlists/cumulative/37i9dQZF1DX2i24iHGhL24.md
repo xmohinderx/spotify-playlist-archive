@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-384 songs - 22 hr 3 min
+385 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-12-17 |  |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 |  |
 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 | 2021-12-17 |  |
-| [Ordinary World](https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Ordinary World](https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi) | 3:20 | 2022-12-16 |  |
+| [Ordinary World](https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:20 | 2023-02-24 |  |
+| [Ordinary World](https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Ordinary World](https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi) | 3:20 | 2022-12-16 | 2023-02-28 |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-03-25 | 2022-04-16 |
 | [positions](https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [positions](https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT) | 2:25 | 2021-12-17 | 2022-12-30 |
 | [Positions](https://open.spotify.com/track/4KqLPikOQ5FrIXAvUUVwhJ) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Positions](https://open.spotify.com/album/2dCyDymSOx4CVYj9x2tcg4) | 2:50 | 2021-12-17 | 2022-05-02 |

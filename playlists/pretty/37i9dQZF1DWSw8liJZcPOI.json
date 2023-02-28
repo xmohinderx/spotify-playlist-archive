@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 430668,
+  "num_followers": 430946,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNjQwMCwwMDAwMDAwMDE4OWNhMDU4NGY4MzlmZjExMzc0ZTQyMzE1YjAyNzAw",
+  "snapshot_id": "MTY3NjYwNjQwMCwwMDAwMDAwMGNjMzM2OTBiYWE1NzM0ZjNiYjY2NDY0NzdiM2NiZTQw",
   "tracks": [
     {
       "added_at": "2023-02-17 04:00:00",
@@ -47,6 +47,30 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "fable",
+        "url": "https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "fable",
+      "url": "https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
       },
@@ -75,30 +99,6 @@
       "duration_ms": 117585,
       "name": "Cloud Memory",
       "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
-        "name": "fable",
-        "url": "https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        },
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "fable",
-      "url": "https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "LYR",
-        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
-      },
-      "artists": [
-        {
-          "name": "Aeden Azora",
-          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LYR",
-      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Balcony Hotel (From 'Miss')",
         "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 168398,
       "name": "Balcony Hotel - From 'Miss'",
       "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "LYR",
+        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+      },
+      "artists": [
+        {
+          "name": "Aeden Azora",
+          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LYR",
+      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Stars Light Up The Water",
-        "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 136625,
-      "name": "Stars Light Up The Water",
-      "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Humming Bird Rework",
         "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 201774,
       "name": "Humming Bird Rework",
       "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Stars Light Up The Water",
+        "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 136625,
+      "name": "Stars Light Up The Water",
+      "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Like Glass",
-        "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
-      },
-      "artists": [
-        {
-          "name": "VOISART",
-          "url": "https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE"
-        }
-      ],
-      "duration_ms": 150792,
-      "name": "Like Glass",
-      "url": "https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "The Open",
         "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "lodges",
-        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+        "name": "Like Glass",
+        "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "VOISART",
+          "url": "https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE"
         }
       ],
-      "duration_ms": 231921,
-      "name": "lodges",
-      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
+      "duration_ms": 150792,
+      "name": "Like Glass",
+      "url": "https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 201013,
       "name": "Triptych III for Piano",
       "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "lodges",
+        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 231921,
+      "name": "lodges",
+      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 218333,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1039,24 +1055,8 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
         }
       ],
-      "duration_ms": 238046,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Parliament Of Owls",
-        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 149751,
-      "name": "Parliament Of Owls",
-      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -1179,8 +1163,24 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+        "name": "Parliament Of Owls",
+        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 149751,
+      "name": "Parliament Of Owls",
+      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
         }
       ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+      "duration_ms": 238046,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 229606,
+      "name": "Solitude I",
+      "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "From All Who Came Before",
-      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "The Swimmer",
         "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
@@ -1391,34 +1391,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "CRISALIDE",
-        "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
       },
       "artists": [
         {
-          "name": "Puppi",
-          "url": "https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc"
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
         }
       ],
-      "duration_ms": 261000,
-      "name": "CRISALIDE 6",
-      "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
-        "name": "\u00c9closion",
-        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "\u00c9closion",
-      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
+      "duration_ms": 183653,
+      "name": "From All Who Came Before",
+      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 289210,
       "name": "hundred00",
       "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "CRISALIDE",
+        "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
+      },
+      "artists": [
+        {
+          "name": "Puppi",
+          "url": "https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "CRISALIDE 6",
+      "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
     }
   ],
   "unique_name": "Not Quite Classical",

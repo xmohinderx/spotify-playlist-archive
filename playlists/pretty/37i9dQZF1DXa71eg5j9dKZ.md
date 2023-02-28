@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,273 likes - 126 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,311 likes - 126 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

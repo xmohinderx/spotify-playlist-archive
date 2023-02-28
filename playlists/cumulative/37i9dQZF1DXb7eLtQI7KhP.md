@@ -4,13 +4,14 @@
 
 > Soft and soothing piano music for meditation.
 
-122 songs - 5 hr 39 min
+124 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 | 2022-04-28 |  |
 | [A Presence Perceived](https://open.spotify.com/track/0aZLqhomRmObUrtBIDUZB2) | [Cymbiose](https://open.spotify.com/artist/3W2JsxMWmZVxu93e1QkxDG) | [A Presence Perceived](https://open.spotify.com/album/5UaY4yyQmiEGqtBJ5PwEHI) | 3:48 | 2022-04-28 |  |
 | [A Question Indeed](https://open.spotify.com/track/6roX5zvwYCydSgoGl4zOZD) | [Gustav Potter](https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6) | [A Question Indeed](https://open.spotify.com/album/4HH5BDzwxCWEzKSOPejFyE) | 2:07 | 2022-07-27 |  |
+| [A Woman's Face](https://open.spotify.com/track/6IE0kjcdYzlkEci7ZPz4Oj) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [A Woman's Face](https://open.spotify.com/album/1q7noc74LWWgNOuec0VCwY) | 3:18 | 2023-02-27 |  |
 | [Ad meliora](https://open.spotify.com/track/3eH1JsXzR1sPVBKaQyL5ZY) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Ad meliora](https://open.spotify.com/album/3emuKVt1QulrnDlZ9FjrBh) | 2:38 | 2022-04-28 |  |
 | [Aeonian](https://open.spotify.com/track/6W956G55zpV7Idm6Uvt0LW) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Aeonian](https://open.spotify.com/album/19iJeznhklXPGWcT2qG89Q) | 2:24 | 2022-07-27 |  |
 | [Ancora Imparo](https://open.spotify.com/track/26aqXYGrQiEeHpskk4HFSa) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Ancora Imparo](https://open.spotify.com/album/1Sz2hmT0inGdGvGrteyHz3) | 2:58 | 2022-04-28 |  |
@@ -29,6 +30,7 @@
 | [Calm Wind](https://open.spotify.com/track/0IAtKLWzPxXxlNFGKwenHS) | [YavorivSky](https://open.spotify.com/artist/2hmG0xFZcrGLW43s1OEygB) | [Calm Wind](https://open.spotify.com/album/6yYteMFcKuSbd7JVhcEzFf) | 3:07 | 2022-11-14 |  |
 | [Calme](https://open.spotify.com/track/0qv14ONcny4clF80mHowWQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Calme](https://open.spotify.com/album/1fX0KM5NIBaXTrmhYnuU6H) | 2:35 | 2022-04-28 |  |
 | [Capturing Wind](https://open.spotify.com/track/4RlCmuxG0KterqlcPwFlbH) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Capturing Wind](https://open.spotify.com/album/2VE7avTmGmlz4RAn4n3Jte) | 2:49 | 2022-04-28 |  |
+| [Ciel Émerveillé](https://open.spotify.com/track/0kZT7fviP2mtbOQ9dd43sd) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Ciel Émerveillé](https://open.spotify.com/album/6V32voIY6xE3NxZ3YxN0c3) | 2:25 | 2023-02-27 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2022-04-28 |  |
 | [Cradled](https://open.spotify.com/track/1qd4Sh0mSSWbB0CCYp7dfj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:53 | 2022-04-28 |  |
 | [Daylight](https://open.spotify.com/track/1HwD9MgE9Uqv7YSHgZ5PBE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Daylight](https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28) | 3:35 | 2022-04-28 |  |

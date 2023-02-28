@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 67731,
+  "num_followers": 67832,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMGUzMDgxOTVkYTA5YTA4ZDcwNjNiZjdmZWM1NDU5MTZl",
+  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMGVjY2NhYmYxYzk4NmQyYzg2M2VlYjYzYjlmYjM1Nzgz",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "so sad so sexy",
-        "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "sex money feelings die",
-      "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "Boys Will Be Bugs",
-      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -187,6 +155,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "so sad so sexy",
+        "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "sex money feelings die",
+      "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 329049,
+      "name": "Boys Will Be Bugs",
+      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "4EVER",
         "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "we just need some time together",
         "url": "https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 235225,
       "name": "affection",
       "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 222044,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 142500,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 222044,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 225955,
-      "name": "Sincerity Is Scary",
-      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Spring EP",
-        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 202626,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ"
+      "duration_ms": 225955,
+      "name": "Sincerity Is Scary",
+      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -695,6 +679,22 @@
       "duration_ms": 242341,
       "name": "Charcoal Baby",
       "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Spring EP",
+        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Damaged Vol. 2",
         "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lover Boy",
-        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
       "artists": [
         {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
         }
       ],
-      "duration_ms": 236727,
-      "name": "Lover Boy",
-      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
+      "duration_ms": 197946,
+      "name": "Feeling Lonely",
+      "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -995,22 +1011,6 @@
       "duration_ms": 236746,
       "name": "Greek God",
       "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Feeling Lonely",
-      "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Tranquility Base Hotel & Casino",
-        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 312346,
-      "name": "Four Out Of Five",
-      "url": "https://open.spotify.com/track/3nhzPKCm2yqGmgEhdAg19u"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 184599,
       "name": "Heavy, California",
       "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 312346,
+      "name": "Four Out Of Five",
+      "url": "https://open.spotify.com/track/3nhzPKCm2yqGmgEhdAg19u"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lenses",
-        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
-      },
-      "artists": [
-        {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
-        }
-      ],
-      "duration_ms": 191935,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+        "name": "Lenses",
+        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
         }
       ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
+      "duration_ms": 191935,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1311,6 +1295,22 @@
       "duration_ms": 194400,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Francis Trouble",
         "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Better (SG Lewis x Clairo)",
         "url": "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 193761,
       "name": "Better",
       "url": "https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Heat Wave",
-      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
     },
     {
       "added_at": "2022-03-08 15:07:06",

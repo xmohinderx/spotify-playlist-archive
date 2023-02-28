@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Zeina
 
-236 songs - 13 hr 31 min
+237 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 | 2022-03-07 | 2022-12-08 |
 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 | 2022-12-07 |  |
 | [I Guess](https://open.spotify.com/track/1Q8UhAL4Ebspx05qAFGyTn) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [I Guess](https://open.spotify.com/album/1KCGlttwZbhgs9WfNoHitL) | 2:38 | 2022-12-12 |  |
+| [I Miss You So](https://open.spotify.com/track/2A9K8umLwHLCo1RKDdEkHG) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [I Miss You So](https://open.spotify.com/album/1xxM6IffyyGSq959QBgleA) | 3:34 | 2023-02-27 |  |
 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 | 2022-05-27 | 2022-12-08 |
 | [In My Head](https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [In My Head](https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6) | 2:35 | 2022-11-19 | 2022-12-08 |
 | [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 | 2021-12-16 | 2022-10-09 |

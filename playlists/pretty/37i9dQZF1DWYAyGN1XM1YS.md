@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,517 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,601 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Money](https://open.spotify.com/track/6OnsOlASiHq1voOtTL1FRu) | [Embrace](https://open.spotify.com/artist/5Lzz2tZ2hKO8PDslKBQgZL) | [Embrace](https://open.spotify.com/album/0t4i21CD8Z0p8iQnojCvxX) | 2:37 |
 | 50 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 |
 
-Snapshot ID: `MTY3NDc0NjU0NSwwMDAwMDAwMDU3NzUyMGRlNTA0YmU2MGRiMGYwY2I1YTYwYThlYmE4`
+Snapshot ID: `MTY3NDc0NjU0NSwwMDAwMDAwMDE5MjhhNzVkNDY5MjA0NzUwY2VhMWEzNzQ3ODc1Yjhm`

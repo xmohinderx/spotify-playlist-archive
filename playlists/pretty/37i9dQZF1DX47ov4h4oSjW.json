@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104345,
+  "num_followers": 104332,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDc5NzE5YWZjZjE4ZTJmYTk4NjI2ZDM2Y2E2NTY3YjU5",
+  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDUxODZjYmI1MDg1ZGVkYmJiNGU2ZDZjMDA1YTVmOTBk",
   "tracks": [
     {
       "added_at": "2023-01-26 21:00:00",
@@ -211,6 +211,26 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Hungarian Dances / Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 85706,
+      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
+      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Adesso",
         "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 354988,
       "name": "20:17",
       "url": "https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Hungarian Dances / Waltzes, Op. 39",
-        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 85706,
-      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
-      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
-      },
-      "artists": [
-        {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Solipsism",
         "url": "https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 345800,
       "name": "Midwayer",
       "url": "https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Un Lent Mouvement",
-        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
-      },
-      "artists": [
-        {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
-        }
-      ],
-      "duration_ms": 161624,
-      "name": "Un Lent Mouvement",
-      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 150250,
       "name": "Mystique",
       "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Un Lent Mouvement",
+        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 161624,
+      "name": "Un Lent Mouvement",
+      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
       },
       "artists": [
         {
-          "name": "Anton Lebedev",
-          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 112583,
       "name": "Light through a Willow's Leaves",
       "url": "https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+      },
+      "artists": [
+        {
+          "name": "Anton Lebedev",
+          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Paragon",
+      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Tuesday Rain",
-        "url": "https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF"
-      },
-      "artists": [
-        {
-          "name": "Tjeerd Oosterhuis",
-          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
-        }
-      ],
-      "duration_ms": 108849,
-      "name": "Tuesday Rain",
-      "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Branches \u00e9toil\u00e9es",
         "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 166795,
       "name": "Branches \u00e9toil\u00e9es",
       "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Tuesday Rain",
+        "url": "https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "duration_ms": 108849,
+      "name": "Tuesday Rain",
+      "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "A Letter Home",
-        "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "A Letter Home",
-      "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 197500,
       "name": "Always",
       "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "A Letter Home",
+        "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Letter Home",
+      "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "For\u00eat Profonde",
-        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
-      },
-      "artists": [
-        {
-          "name": "Ricard Paul",
-          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
-        }
-      ],
-      "duration_ms": 187382,
-      "name": "For\u00eat Profonde",
-      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1327,22 +1311,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+        "name": "For\u00eat Profonde",
+        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+          "name": "Ricard Paul",
+          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
         }
       ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+      "duration_ms": 187382,
+      "name": "For\u00eat Profonde",
+      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1359,6 +1339,26 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
-      },
-      "artists": [
-        {
-          "name": "Mary Steinbrecher",
-          "url": "https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Center of Gravity",
         "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Merveilleuse",
-        "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
       },
       "artists": [
         {
-          "name": "Valeria Henkel",
-          "url": "https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN"
+          "name": "Mary Steinbrecher",
+          "url": "https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa"
         }
       ],
-      "duration_ms": 121063,
-      "name": "Merveilleuse",
-      "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
+      "duration_ms": 147874,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 289280,
       "name": "Beyond This Moment",
       "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Merveilleuse",
+        "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
+      },
+      "artists": [
+        {
+          "name": "Valeria Henkel",
+          "url": "https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN"
+        }
+      ],
+      "duration_ms": 121063,
+      "name": "Merveilleuse",
+      "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Synchronicity",
-        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Synchronicity",
-      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Amalfi Moon",
         "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 151693,
       "name": "Amalfi Moon",
       "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Synchronicity",
+        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Synchronicity",
+      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
     },
     {
       "added_at": "2023-01-26 21:00:00",

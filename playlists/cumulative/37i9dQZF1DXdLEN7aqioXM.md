@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-390 songs - 1 day 3 hr 55 min
+391 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Dreams](https://open.spotify.com/track/2jbtkmkMgu0QzuaWi1boGI) | [Peaking Lights](https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc) | [E S C A P E](https://open.spotify.com/album/0MWNTj4Vy7FpJdDaFq3yl2) | 5:28 | 2022-04-01 | 2022-04-09 |
 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 | 2021-10-15 | 2023-01-26 |
 | [Drift](https://open.spotify.com/track/5HL2seL3g380ByRrIGjXC2) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Dark Nation](https://open.spotify.com/album/48SMSCylwABIUqES42tNRO) | 5:07 | 2023-01-13 |  |
-| [Drive](https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C) | [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Drive](https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC) | 2:49 | 2022-11-04 |  |
+| [Drive](https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C) | [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Drive](https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC) | 2:49 | 2022-11-04 | 2023-02-28 |
 | [Drive\-by Stalking](https://open.spotify.com/track/6ME1VoSzgeICC3LERDfq0d) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/06rUenebSdb4u81wj4tK8H) | 5:20 | 2022-02-04 | 2022-07-29 |
 | [Drive\-by Stalking](https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9) | 5:20 | 2022-07-22 |  |
 | [Droid Rage](https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC) | 1:51 | 2021-10-15 |  |
@@ -223,7 +223,7 @@
 | [Metrocenter 84](https://open.spotify.com/track/3rxnmxTEqApa2ad9TWWDBx) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Metrocenter 84](https://open.spotify.com/album/27FPwOv08GRvTHdzHFqfio) | 2:50 | 2021-10-15 |  |
 | [Metropolis](https://open.spotify.com/track/3QpsEiBYQ73kYPg4ebk2jF) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Metropolis](https://open.spotify.com/album/7MYK4IZ1EpixqqYX6swCda) | 3:50 | 2022-07-29 | 2022-10-01 |
 | [Metropolis](https://open.spotify.com/track/7fX0UqkOmLh0YNlp5rq8h6) | [Massive Z](https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv), [Kid Macdonald](https://open.spotify.com/artist/6AzOwdBPW8P4PCUiCBaOP5), [NOVARAY](https://open.spotify.com/artist/3QA4RfY6zF7CPYleEwL6NK) | [Metropolis](https://open.spotify.com/album/2oiMBlKh5HoJED3egOSAO2) | 4:50 | 2022-04-01 |  |
-| [Midnight Run](https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi) | [Sebastian Gampl](https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy) | [City Hunter](https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7) | 4:45 | 2022-04-01 |  |
+| [Midnight Run](https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi) | [Sebastian Gampl](https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy) | [City Hunter](https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7) | 4:45 | 2022-04-01 | 2023-02-28 |
 | [Midnight Sun](https://open.spotify.com/track/7gXY6hi9SOoYDkLQwgVSs1) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [Lost At Midnight](https://open.spotify.com/album/2ipEAI9zGgsbf0CSkYBVS6) | 3:55 | 2022-04-01 | 2022-10-15 |
 | [Million Ways \(Gerd Janson Remix\)](https://open.spotify.com/track/4o6gyMI1lCRCVv7Pm67iKd) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Sad Cities \(The Remixes\)](https://open.spotify.com/album/5CkvOzrSaV33y1qSXmywUz) | 6:22 | 2022-04-01 | 2022-04-16 |
 | [Modern Fears \- Pilotpriest Come True Version](https://open.spotify.com/track/2OzZve272q1HaQPaGqoth4) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [Modern Fears \(Pilotpriest Come True Version\)](https://open.spotify.com/album/2sCAkn3RnGP50m66FERBxS) | 4:02 | 2022-04-01 | 2022-06-10 |
@@ -255,7 +255,7 @@
 | [Obie](https://open.spotify.com/track/5ZsXVVpUxrxUMt5KUp7Izm) | [The Blizzard](https://open.spotify.com/artist/40lHcSYwAqhkmBPoViitWP) | [Obie](https://open.spotify.com/album/3e2wU9LHYtL1gCkqmTxcRa) | 3:43 | 2022-04-01 | 2022-04-21 |
 | [Ocean Drive Miami 84](https://open.spotify.com/track/7AKXgPdoFdEsC4U11CXcrr) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Stil vor Talent 300, Pt\. 3](https://open.spotify.com/album/53RFlPKPzERwJflaaK2YSX) | 7:00 | 2022-04-08 | 2022-04-16 |
 | [Ocean Parkway](https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Then Again](https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3) | 3:13 | 2021-10-15 | 2022-08-03 |
-| [October](https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [October](https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz) | 4:38 | 2022-05-06 | 2023-02-24 |
+| [October](https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [October](https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz) | 4:38 | 2022-05-06 |  |
 | [Odyssey](https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [2020 AD](https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa) | 3:42 | 2021-10-15 |  |
 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 | 2021-10-15 |  |
 | [Olympus](https://open.spotify.com/track/1b9aCUB4EhpcW5BesCkJsU) | [3FORCE](https://open.spotify.com/artist/0FHXyAFKLg02mIUpNApPgo) | [Olympus](https://open.spotify.com/album/1wZyUeNGvnHImaJzY2FUG4) | 4:36 | 2022-02-04 | 2022-07-28 |
@@ -292,6 +292,7 @@
 | [Redux](https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL) | [nerø](https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H) | [Redux](https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c) | 2:24 | 2022-12-23 | 2023-01-21 |
 | [Refusal Of The Return](https://open.spotify.com/track/27nEodVw1shr7qeyXMcsJ6) | [Russian Linesman](https://open.spotify.com/artist/3sIH8lHWLGHJMenpRCSmMv) | [Monomyth V \- The Return](https://open.spotify.com/album/01ZwLUFpfgiP6PuuGb4BGA) | 7:32 | 2021-10-15 | 2022-11-13 |
 | [Regatta \- Original Mix](https://open.spotify.com/track/2VS9Np3bgVlXEaTQrSusof) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Anjunadeep 03](https://open.spotify.com/album/4Qi3v9fRbBBAfsaWKXMvrn) | 6:06 | 2022-04-01 | 2022-04-19 |
+| [Release](https://open.spotify.com/track/2qtOmbVDhvCPyqbGrnuLo6) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Release](https://open.spotify.com/album/6kbEcZuw1MdH2lnTUXwsuC) | 3:40 | 2023-01-13 |  |
 | [Release](https://open.spotify.com/track/3XVJx3ZIHAhSsjapF263Ql) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Release](https://open.spotify.com/album/1PhJNrjqTDMcHPp7VBsla3) | 3:40 | 2022-05-06 | 2023-02-23 |
 | [Remember When](https://open.spotify.com/track/55rIKGbcna1oD0v3BdIo4B) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [This is Now](https://open.spotify.com/album/41KnTJpTeX2kyJp5qTzVDt) | 6:06 | 2022-04-01 | 2023-01-14 |
 | [Remoteness](https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Remoteness](https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF) | 5:44 | 2022-04-01 | 2022-07-29 |

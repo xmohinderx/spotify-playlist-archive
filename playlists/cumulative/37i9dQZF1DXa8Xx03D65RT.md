@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-548 songs - 23 hr 25 min
+549 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-05-27 | 2022-08-10 |
 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 | 2022-08-09 |  |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-05-27 | 2022-07-21 |
-| [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-05-27 |  |
+| [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-05-27 | 2023-02-28 |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-09-24 |
 | [Dreaming Of You](https://open.spotify.com/track/64OSHlDi8TeihNzUMvc2Kv) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Dreaming Of You](https://open.spotify.com/album/4bYgaFEFfbcm0HjREyj7wY) | 2:53 | 2022-05-27 | 2023-02-23 |
 | [Drifting Sand](https://open.spotify.com/track/2ElVZ4JztgEiG6vfb0ZdB2) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Drifting Sand](https://open.spotify.com/album/1HAAeEBz6Y80NLYiroxewn) | 2:20 | 2022-05-27 | 2023-02-13 |
@@ -194,6 +194,7 @@
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-05-27 |  |
 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 | 2022-05-27 | 2022-07-21 |
+| [Hondura](https://open.spotify.com/track/4s8Y11Sn3fP1aC0b2USbU4) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Hondura](https://open.spotify.com/album/2kDUeicWC39j0LfEjJNjvC) | 2:23 | 2023-02-28 |  |
 | [Hope](https://open.spotify.com/track/30bZOzN1pRTpZzHiyHqozh) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Hope](https://open.spotify.com/album/4MWh9fYmqrW83MjbXg5YSc) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2022-05-27 |  |
 | [Horizon](https://open.spotify.com/track/7Dlxj1vwhHVd6PeTWV50Gf) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Horizon](https://open.spotify.com/album/5BiNmrCJrBo2Tpd4PcAJqR) | 2:30 | 2023-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,153 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,170 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 34 | [All That I Ask](https://open.spotify.com/track/37kFjQMS2T30LtzvXJQwCn) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Count Your Blessings](https://open.spotify.com/album/2JwmbjnSytgU0V7iiDCxAx) | 4:38 |
 | 35 | [Sit Here And Love Me](https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 3:25 |
 | 36 | [Moments Passed](https://open.spotify.com/track/2iE8Ymbdcm9AEniaxSFcbL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:31 |
-| 37 | [Skin and Script](https://open.spotify.com/track/3oY35fxcKivIYskXGj8oYb) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 3:44 |
+| 37 | [Skin and Script](https://open.spotify.com/track/5DxdA5gl5mtx2bpFEbGNdR) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 3:44 |
 | 38 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 |
 | 39 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 |
 | 40 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 49 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 50 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 |
 
-Snapshot ID: `MTY3MjI3MjkzNCwwMDAwMDAwMDBhMzAwYzAyNThmODkyODY5ODZjNTJiNmVmOTBiMWY0`
+Snapshot ID: `MTY3MjI3MjkzNCwwMDAwMDAwMGJiMjUwMjE0ZThhZWVmNTBmNmYzZmVkZDBjYjU0MDZk`

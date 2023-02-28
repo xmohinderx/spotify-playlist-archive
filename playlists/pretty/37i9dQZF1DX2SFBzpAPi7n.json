@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 200799,
+  "num_followers": 200906,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDMyMiwwMDAwMDAwMDM3MTZkYjE5MTdlNmQ1NjJlOTY2N2M4Y2NjYTJhMzNh",
+  "snapshot_id": "MTY3NzIzNDMyMiwwMDAwMDAwMDk0ODA0ODE3YTcxM2RiZmVjODhkZDU1YzljYmQ5M2E0",
   "tracks": [
     {
       "added_at": "2023-02-24 10:25:22",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -247,22 +231,6 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "\uc2dc\uc791",
-      "url": "https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
         "name": "HEAL",
         "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
@@ -275,6 +243,38 @@
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "\uc2dc\uc791",
+      "url": "https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -407,22 +391,6 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "NAN CHUN \ub09c\ucd98",
-        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "NAN CHUN \ub09c\ucd98",
-      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
@@ -439,18 +407,34 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
+        "name": "NAN CHUN \ub09c\ucd98",
+        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "NAN CHUN \ub09c\ucd98",
+      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -471,18 +455,18 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -567,34 +551,18 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -631,6 +599,38 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199600,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 222021,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
-        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
-    },
-    {
-      "added_at": "2023-02-24 10:25:22",
-      "album": {
         "name": "Crash Course in Romance OST Part 1",
         "url": "https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 212796,
       "name": "Gypsophila",
       "url": "https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5"
+    },
+    {
+      "added_at": "2023-02-24 10:25:22",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
+        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
     },
     {
       "added_at": "2023-02-24 10:25:22",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-02-24 10:25:22",
       "album": {
-        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
+        "name": "22",
+        "url": "https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw"
       },
       "artists": [
         {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
+      "duration_ms": 228320,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

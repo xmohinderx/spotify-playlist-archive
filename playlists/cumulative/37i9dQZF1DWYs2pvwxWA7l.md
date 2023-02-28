@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW\-iSertWWgiVA"> Kuami Eugene</a>  and  <a href="https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY\-We8Rhe89DSFpam0KA"> Rotimi</a>
 
-278 songs - 14 hr 33 min
+279 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,12 +251,13 @@
 | [Something sweet](https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 2:31 | 2021-10-28 | 2022-12-02 |
 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 | 2022-02-17 | 2022-02-20 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 |  |
+| [Sponono \(feat\. Baby S.O.N & 031 Choppa\)](https://open.spotify.com/track/2zdvRlkcacMBIf78Yf7IvP) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Baby S.O.N](https://open.spotify.com/artist/2VaU2Xam8mNfJ2VuDWrI2B) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:13 | 2023-02-23 |  |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-05-12 | 2023-02-17 |
 | [Stayelo](https://open.spotify.com/track/6zoxyLUVHnpdED14Chbaz9) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Island Water](https://open.spotify.com/album/7wq5MyCcMLbq1xbYwh411f) | 2:46 | 2022-01-28 | 2022-05-29 |
 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 | 2021-10-28 | 2022-11-13 |
 | [Strawberry \(feat\. Iguocho\)](https://open.spotify.com/track/1JKEo4vRUlvTDILxjQ7RSE) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Magasco](https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD), [Iguocho](https://open.spotify.com/artist/7DrFOyOldSkiBk24TE2kcH) | [Love In Transition](https://open.spotify.com/album/3S4UFf9eRCSiUn5EnNb1u3) | 2:54 | 2022-12-08 | 2023-02-04 |
 | [Summer Love](https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Summer Love](https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8) | 2:59 | 2022-06-02 | 2022-06-27 |
-| [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2021-09-27 |  |
+| [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2021-09-27 | 2023-02-28 |
 | [Sundress](https://open.spotify.com/track/5TMZ2IjHlZgKth7v2wp9YK) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Sunset Stories: A Mixtape](https://open.spotify.com/album/2onOtERxl33g3YfbhGJ4ci) | 3:31 | 2022-09-29 | 2022-10-14 |
 | [Sweetah](https://open.spotify.com/track/5UaMqWZYeTwPnAPMmGWrDg) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Sweetah](https://open.spotify.com/album/45US1zurGmfatH0ewaKNuD) | 3:16 | 2021-11-15 | 2022-04-15 |
 | [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 | 2022-02-17 | 2022-11-13 |

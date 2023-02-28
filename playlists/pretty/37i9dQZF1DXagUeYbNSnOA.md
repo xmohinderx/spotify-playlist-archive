@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Mimi Rose\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,005 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,004 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,28 +19,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 9 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 |
 | 10 | [Confortas Pero Dañas](https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Confortas Pero Dañas](https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip) | 4:09 |
 | 11 | [ALAS](https://open.spotify.com/track/46dFTrR7IGgWoTbcwjatjC) | [Lucy Calcines](https://open.spotify.com/artist/63QmOmCaD0DlWT7uPtnrqW) | [Alas](https://open.spotify.com/album/0q2c31QhtrSny4iG6sYL0W) | 2:59 |
-| 12 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
-| 13 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
+| 12 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
+| 13 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
 | 14 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
 | 15 | [ALMAS GEMELAS](https://open.spotify.com/track/4W3dNusxXdEOpnpn02yBXa) | [KVBRERA](https://open.spotify.com/artist/1I6mFZkFyRZXA1LjhIJDM1) | [ALMAS GEMELAS](https://open.spotify.com/album/62UsG1PPSdzuDvEOnY9dBr) | 2:38 |
 | 16 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
 | 17 | [Eres](https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb) | [Drea](https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL) | [Eres](https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l) | 2:49 |
 | 18 | [Quererte Igual](https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Quererte Igual](https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe) | 2:50 |
 | 19 | [soñar contigo](https://open.spotify.com/track/1OKV4QvY9t4uQFG4hFtG4e) | [Azel](https://open.spotify.com/artist/7jJ3YJxEOavjy2lvcHyPPa), [Divase](https://open.spotify.com/artist/4vjRyqRrNl49xRnCyvkgdq) | [soñar contigo](https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x) | 2:55 |
-| 20 | [El Proceso](https://open.spotify.com/track/0XuoNwg645L5YBl2NvhbGw) | [Joel el negrito](https://open.spotify.com/artist/5gK51UR8WyIQPkHKRT41cR) | [El Proceso](https://open.spotify.com/album/0AUZP4CxPWnMBZQoCewqFf) | 4:02 |
-| 21 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
+| 20 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
+| 21 | [El Proceso](https://open.spotify.com/track/0XuoNwg645L5YBl2NvhbGw) | [Joel el negrito](https://open.spotify.com/artist/5gK51UR8WyIQPkHKRT41cR) | [El Proceso](https://open.spotify.com/album/0AUZP4CxPWnMBZQoCewqFf) | 4:02 |
 | 22 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 23 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
-| 24 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
-| 25 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 24 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 25 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
 | 26 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
 | 27 | [De un Solo Aliento](https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [De un Solo Aliento](https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI) | 3:36 |
-| 28 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
+| 28 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 |
 | 29 | [Majalca](https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V) | [Charlie Gahu](https://open.spotify.com/artist/3islmKtuqjWUCx2Et7xBCs) | [Majalca](https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O) | 2:58 |
 | 30 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
-| 31 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 |
-| 32 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
-| 33 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 31 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
+| 32 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 33 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
 | 34 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 |
 | 35 | [Que tal si](https://open.spotify.com/track/6NB6MFsGPrOxPGVqKk2R4I) | [Elio](https://open.spotify.com/artist/1HPJQk3RATpRhuHPzRxx7V), [Zeron](https://open.spotify.com/artist/3mHIRxQ7MhV8yBR2tk5xSn) | [Que tal si](https://open.spotify.com/album/269AjbumPxai7Bv8sa0ADT) | 3:03 |
 | 36 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [C\-408](https://open.spotify.com/track/7CeShaWbO4GyGt5Ykl0yuT) | [Aurel Luna](https://open.spotify.com/artist/0FOr9PBT5SuqNPS2C3mLgk) | [C\-408](https://open.spotify.com/album/78c1wvr9ZYQrt3BNY1qZU9) | 3:54 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NzE4Njg1MSwwMDAwMDAwMGViYTFiODQ5ZjkxYjA2ZWVhMzE2YWViZmU5MmQ2NGM1`
+Snapshot ID: `MTY3NzE4Njg1MSwwMDAwMDAwMGRjMjI2NTNkZjRlNTIxOTUyMjVjMTYxZTA4MDNjODYx`
